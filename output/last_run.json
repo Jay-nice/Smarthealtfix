@@ -1,20 +1,23 @@
 {
-  "png": "output/reel_20260730_200018.png",
-  "mp4": "output/reel_20260730_200018.mp4",
-  "cover": "output/cover_20260730_200018.png",
+  "png": "output/reel_20260730_210915.png",
+  "mp4": "output/reel_20260730_210915.mp4",
+  "cover": "output/cover_20260730_210915.png",
   "content": {
-    "title": "6 SILENT {{DEFICIENCY}} SIGNS YOUR BODY IS SENDING",
+    "title": "QUICK HOME {{FIXES}} FOR EVERYDAY AILMENTS",
     "facts": [
-      "**Vitamin B12** – Tingling in hands/feet, weakness, memory problems, and low mood.",
-      "**Iron** – Constant fatigue, pale skin, brittle nails, and shortness of breath.",
-      "**Vitamin D** – Bone pain, muscle weakness, frequent illness, and low mood in winter.",
-      "**Magnesium** – Muscle cramps, twitching, poor sleep, and irritability.",
-      "**Zinc** – Slow wound healing, hair loss, frequent colds, and loss of taste or smell.",
-      "**Vitamin C** – Bleeding gums, easy bruising, slow healing, and constant tiredness.",
-      "**Potassium** – Muscle weakness, cramps, irregular heartbeat, and fatigue."
+      "Hiccups – Swallow a **teaspoon of sugar** to interrupt the nerve spasm.",
+      "Sore Throat – Gargle with **warm salt water** to reduce swelling and discomfort.",
+      "Bad Breath – Chew on **fresh parsley** to neutralize odor-causing compounds.",
+      "Minor Burns – Run the area under **cool water** for several minutes to ease pain.",
+      "Mosquito Bites – Rub a **banana peel** on the bite to reduce itching.",
+      "Stuffy Nose – Inhale steam from a bowl of **hot water** to loosen congestion.",
+      "Upset Stomach – Sip **ginger tea** to help calm nausea.",
+      "Headache – Press a **cold compress** on your forehead and temples to ease tension.",
+      "Hiccup Alternative – Hold your breath and count to **ten** to reset your diaphragm.",
+      "Dry, Cracked Lips – Dab a bit of **honey** on them for natural moisture and healing."
     ],
     "claims": []
   },
-  "shape": "symptom_list",
-  "caption": "6 SILENT DEFICIENCY SIGNS YOUR BODY IS SENDING\n\n#healthyeating #wellness #healthtips"
+  "shape": "boxed_hacks",
+  "caption": "QUICK HOME FIXES FOR EVERYDAY AILMENTS\n\n#healthyeating #wellness #healthtips"
 }
