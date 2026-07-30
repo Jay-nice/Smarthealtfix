@@ -1,4 +1,4 @@
-"""
+﻿"""
 Content generator — schrijft de tekst voor een reel in een van jouw 8
 sjabloon-vormen, en stuurt elke feitelijke claim door de factchecker voordat
 het als "klaar om te posten" wordt gemarkeerd.
@@ -15,13 +15,8 @@ import requests
 from nutrition_reference import verify_claim, KNOWN_SHAKY_CLAIMS
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
-ANTHROPIC_MODEL = "claude-sonnet-5"  # actueel model, pas aan naar wens (bijv. claude-haiku-4-5-20251001 voor goedkoper)
+ANTHROPIC_MODEL = "claude-sonnet-5"
 
-# ---------------------------------------------------------------------------
-# De 8 sjabloon-vormen die uit jouw voorbeelden komen. Elke vorm heeft een
-# instructie die aan het model wordt gegeven, plus of er "harde" claims in
-# zitten die tegen USDA-data te checken zijn.
-# ---------------------------------------------------------------------------
 TEMPLATE_SHAPES = {
     "numbered_explainer": {
         "description": "Genummerde tips: bold intro-fragment + uitleg wat het effect is.",
@@ -107,37 +102,48 @@ Vul "claims" alleen als de vorm harde voeding-vs-voeding vergelijkingen bevat
 """
 
 
-def call_claude(system_prompt, user_prompt):
+def call_claude(system_prompt, user_prompt, max_retries=2):
     if not ANTHROPIC_API_KEY:
         raise RuntimeError(
             "Geen ANTHROPIC_API_KEY gevonden. Zet je eigen key: "
             "export ANTHROPIC_API_KEY=sk-ant-..."
         )
-    resp = requests.post(
-        "https://api.anthropic.com/v1/messages",
-        headers={
-            "x-api-key": ANTHROPIC_API_KEY,
-            "anthropic-version": "2023-06-01",
-            "content-type": "application/json",
-        },
-        json={
-            "model": ANTHROPIC_MODEL,
-            "max_tokens": 1500,
-            "system": system_prompt,
-            "messages": [{"role": "user", "content": user_prompt}],
-        },
-        timeout=60,
-    )
-    resp.raise_for_status()
-    data = resp.json()
-    text = "".join(b["text"] for b in data["content"] if b["type"] == "text")
-    text = text.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
-    return json.loads(text)
+
+    last_error = None
+    for attempt in range(1, max_retries + 2):
+        resp = requests.post(
+            "https://api.anthropic.com/v1/messages",
+            headers={
+                "x-api-key": ANTHROPIC_API_KEY,
+                "anthropic-version": "2023-06-01",
+                "content-type": "application/json",
+            },
+            json={
+                "model": ANTHROPIC_MODEL,
+                "max_tokens": 4000,
+                "system": system_prompt,
+                "messages": [{"role": "user", "content": user_prompt}],
+            },
+            timeout=60,
+        )
+        resp.raise_for_status()
+        data = resp.json()
+        text = "".join(b["text"] for b in data["content"] if b["type"] == "text")
+        text = text.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+
+        try:
+            return json.loads(text)
+        except json.JSONDecodeError as e:
+            last_error = e
+            print(f"[!] Antwoord was geen geldige JSON (poging {attempt}/{max_retries + 1}): {e}. "
+                  f"Probeer opnieuw...")
+            continue
+
+    raise RuntimeError(f"Kon na {max_retries + 1} pogingen geen geldige JSON van het "
+                        f"model krijgen. Laatste fout: {last_error}")
 
 
 def fact_check_content(content, shape_key):
-    """Checkt alle 'claims' uit de content tegen USDA-data (of de lokale cache).
-    Retourneert (is_approved, report)."""
     shape = TEMPLATE_SHAPES[shape_key]
     if not shape["has_nutrient_claims"] or not content.get("claims"):
         return True, {"checked": 0, "issues": []}
@@ -145,7 +151,6 @@ def fact_check_content(content, shape_key):
     issues = []
     for claim in content["claims"]:
         key = f"{claim['food_a']}_more_{claim['nutrient_key']}_than_{claim['food_b']}"
-        # 1) bekende wankele claims altijd blokkeren, ongeacht wat het model zegt
         shaky_match = next((v for k, v in KNOWN_SHAKY_CLAIMS.items()
                              if claim['food_a'].replace(" ", "_") in k
                              and claim['food_b'].replace(" ", "_") in k), None)
@@ -153,7 +158,6 @@ def fact_check_content(content, shape_key):
             issues.append({"claim": claim, "verdict": "known_shaky", "note": shaky_match})
             continue
 
-        # 2) tegen (lokale of live) referentie-data checken
         result = verify_claim(claim["food_a"], claim["food_b"], claim["nutrient_key"],
                                use_live_api=False)
         if result["verdict"] != "confirmed":
@@ -177,7 +181,6 @@ def generate_and_check(shape_key, topic_hint, audience="algemeen"):
 
 
 if __name__ == "__main__":
-    # Mock-run zonder API-key: laat zien hoe de factcheck-stap een fout getal afvangt.
     fake_content_good = {
         "title": "SURPRISING {{FOOD}} FACTS",
         "facts": ["A **red bell pepper** has nearly three times more **vitamin C** than **an orange**."],
