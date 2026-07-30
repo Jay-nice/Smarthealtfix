@@ -1,19 +1,14 @@
-name: Dagelijkse reel
+﻿name: Dagelijkse reel
 
 on:
   schedule:
-    # Tijden in UTC! Ingesteld op 12:00, 17:00, 22:00 Nederlandse ZOMERtijd (UTC+2).
-    # Let op: dit is een vaste UTC-tijd die NIET automatisch meeschuift met de
-    # klok. Zodra het in Nederland weer wintertijd wordt (UTC+1, eind oktober),
-    # schuiven deze momenten in werkelijkheid 1 uur op (dus dan 13:00/18:00/23:00
-    # lokale tijd) — pas dan de cron-regels hieronder met -1 uur aan indien gewenst.
     - cron: "0 10 * * *"
     - cron: "0 15 * * *"
     - cron: "0 20 * * *"
-  workflow_dispatch: {}   # handmatig te starten via de "Actions"-tab, handig om te testen
+  workflow_dispatch: {}
 
 permissions:
-  contents: write   # nodig om de gegenereerde bestanden terug te committen
+  contents: write
 
 jobs:
   maak-en-post-reel:
