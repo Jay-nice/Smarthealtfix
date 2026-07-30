@@ -335,8 +335,10 @@ def image_to_reel_video(image_path, video_path, duration_seconds=REEL_DURATION_S
 
 
 if __name__ == "__main__":
-    png_path = render_slide(CONFIG, "/home/claude/output_slide.png")
+    import os as _os
+    _os.makedirs("output", exist_ok=True)
+    png_path = render_slide(CONFIG, "output/test_slide.png")
     print(f"Afbeelding klaar: {png_path}")
-    mp4_path, track = image_to_reel_video(png_path, "/home/claude/output_reel.mp4")
+    mp4_path, track = image_to_reel_video(png_path, "output/test_reel.mp4")
     print(f"Reel-video klaar: {mp4_path}")
     print(f"Gebruikte muziektrack: {track}")
