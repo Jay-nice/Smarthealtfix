@@ -11,8 +11,11 @@ account, dit is los, betaald per gebruik).
 import os
 import json
 import requests
+from dotenv import load_dotenv
 
 from nutrition_reference import verify_claim, KNOWN_SHAKY_CLAIMS
+
+load_dotenv()
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
 ANTHROPIC_MODEL = "claude-sonnet-5"
