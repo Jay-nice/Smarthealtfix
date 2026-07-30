@@ -1,23 +1,20 @@
 {
-  "png": "output/reel_20260730_185847.png",
-  "mp4": "output/reel_20260730_185847.mp4",
-  "cover": "output/cover_20260730_185847.png",
+  "png": "output/reel_20260730_191009.png",
+  "mp4": "output/reel_20260730_191009.mp4",
+  "cover": "output/cover_20260730_191009.png",
   "content": {
-    "title": "HEALTHY COOKING {{MISTAKES}}",
+    "title": "THESE FOODS ARE GOOD FOR YOUR {{ORGANS}}",
     "facts": [
-      "**Olive oil** – Using extra virgin olive oil for high-heat frying isn't automatically bad, but heating it past its smoke point breaks down beneficial compounds; save the best oil for finishing dishes instead.",
-      "**Boiling vegetables** – Boiling broccoli and other veggies leaches water-soluble vitamins like vitamin C into the water; steaming preserves far more nutrients.",
-      "**Rinsing quinoa** – Skipping the rinse doesn't just affect taste; it leaves behind saponins that cause a bitter, soapy flavor, not a health risk.",
-      "**Overcooking garlic** – Browning garlic too quickly turns it bitter and destroys the compound allicin, which needs a few minutes of rest after chopping to form properly.",
-      "**Low-fat salad dressing** – Using fat-free dressing on salads actually reduces absorption of fat-soluble vitamins like **vitamin A, D, E, and K** found in the vegetables.",
-      "**Peeling produce** – Peeling apples, cucumbers, and potatoes removes a significant portion of the **fiber** and antioxidants concentrated in the skin.",
-      "**Marinating time** – Marinating meat for just a few minutes does little; flavors and tenderizing effects need at least 30 minutes to properly penetrate.",
-      "**Salting pasta water** – Adding salt after boiling doesn't season the pasta itself; salt needs to be in the water before cooking to be absorbed.",
-      "**Microwaving vegetables** – Contrary to popular belief, microwaving with minimal water often preserves more nutrients than boiling, not fewer.",
-      "**Cold-pressed juice** – Believing fresh juice retains all fiber is a myth; juicing removes most of the insoluble fiber found in whole fruits and vegetables."
+      "**WALNUTS** are good for **BRAIN** function thanks to their high content of omega-3 ALA, which supports cell membrane health.",
+      "**CARROTS** are good for **EYES** because they're rich in beta-carotene, which the body converts into vitamin A.",
+      "**SALMON** is good for **HEART** health due to its omega-3 fatty acids, which support healthy blood vessels.",
+      "**LEAFY GREENS** are good for **BONES** since they provide vitamin K and calcium, both essential for bone density.",
+      "**OATS** are good for **GUT** health thanks to their soluble fiber, which feeds beneficial gut bacteria.",
+      "**BEETS** are good for **LIVER** function as they contain betaine, which supports the body's detox pathways.",
+      "**GARLIC** is good for **IMMUNE** system strength due to its sulfur compounds like allicin."
     ],
     "claims": []
   },
-  "shape": "myth_bust",
-  "caption": "HEALTHY COOKING MISTAKES\n\n#healthyeating #wellness #healthtips"
+  "shape": "allcaps_benefit",
+  "caption": "THESE FOODS ARE GOOD FOR YOUR ORGANS\n\n#healthyeating #wellness #healthtips"
 }
