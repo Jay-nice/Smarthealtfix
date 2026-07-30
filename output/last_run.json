@@ -1,23 +1,20 @@
 {
-  "png": "output/reel_20260730_210915.png",
-  "mp4": "output/reel_20260730_210915.mp4",
-  "cover": "output/cover_20260730_210915.png",
+  "png": "output/reel_20260730_220705.png",
+  "mp4": "output/reel_20260730_220705.mp4",
+  "cover": "output/cover_20260730_220705.png",
   "content": {
-    "title": "QUICK HOME {{FIXES}} FOR EVERYDAY AILMENTS",
+    "title": "SILENT SIGNS OF A {{DEFICIENCY}}",
     "facts": [
-      "Hiccups – Swallow a **teaspoon of sugar** to interrupt the nerve spasm.",
-      "Sore Throat – Gargle with **warm salt water** to reduce swelling and discomfort.",
-      "Bad Breath – Chew on **fresh parsley** to neutralize odor-causing compounds.",
-      "Minor Burns – Run the area under **cool water** for several minutes to ease pain.",
-      "Mosquito Bites – Rub a **banana peel** on the bite to reduce itching.",
-      "Stuffy Nose – Inhale steam from a bowl of **hot water** to loosen congestion.",
-      "Upset Stomach – Sip **ginger tea** to help calm nausea.",
-      "Headache – Press a **cold compress** on your forehead and temples to ease tension.",
-      "Hiccup Alternative – Hold your breath and count to **ten** to reset your diaphragm.",
-      "Dry, Cracked Lips – Dab a bit of **honey** on them for natural moisture and healing."
+      "**Vitamin B12** – Tingling in hands/feet, fatigue, memory problems, and low mood.",
+      "**Iron** – Pale skin, constant tiredness, shortness of breath, and brittle nails.",
+      "**Vitamin D** – Bone pain, muscle weakness, frequent illness, and low mood in winter months.",
+      "**Magnesium** – Muscle cramps, twitching, sleep issues, and irritability.",
+      "**Zinc** – Slow wound healing, hair loss, frequent colds, and reduced sense of taste.",
+      "**Potassium** – Muscle weakness, fatigue, heart palpitations, and constipation.",
+      "**Vitamin C** – Bleeding gums, easy bruising, slow healing, and joint pain."
     ],
     "claims": []
   },
-  "shape": "boxed_hacks",
-  "caption": "QUICK HOME FIXES FOR EVERYDAY AILMENTS\n\n#healthyeating #wellness #healthtips"
+  "shape": "symptom_list",
+  "caption": "SILENT SIGNS OF A DEFICIENCY\n\n#healthyeating #wellness #healthtips"
 }
