@@ -43,6 +43,11 @@ def pick_todays_topic(audience="algemeen"):
 def run_once(handle="@smarthealthfix", display_name="Smart Health Fix",
              footer_cta="Save & Share let's get healthier together!",
              skip_upload=False):
+    # Deze mappen staan bewust in .gitignore (horen niet in de repo te staan),
+    # dus in een verse checkout (zoals GitHub Actions) bestaan ze nog niet.
+    os.makedirs("output", exist_ok=True)
+    os.makedirs("review_queue", exist_ok=True)
+
     (shape_key, topic_hint), audience = pick_todays_topic()
     print(f"[1/5] Genereren: vorm='{shape_key}', onderwerp='{topic_hint}'")
 
