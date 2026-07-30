@@ -1,0 +1,58 @@
+name: Dagelijkse reel
+
+on:
+  schedule:
+    # 3x per dag (tijden in UTC!). Voorbeeld: 08:00, 13:00, 19:00 Nederlandse tijd
+    # zomertijd (UTC+2) -> 06:00, 11:00, 17:00 UTC. Pas aan naar wens.
+    - cron: "0 6 * * *"
+    - cron: "0 11 * * *"
+    - cron: "0 17 * * *"
+  workflow_dispatch: {}   # handmatig te starten via de "Actions"-tab, handig om te testen
+
+permissions:
+  contents: write   # nodig om de gegenereerde bestanden terug te committen
+
+jobs:
+  maak-en-post-reel:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository ophalen
+        uses: actions/checkout@v4
+
+      - name: Python installeren
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: ffmpeg installeren
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Dependencies installeren
+        run: pip install -r requirements.txt
+
+      - name: Reel genereren (tekst -> factcheck -> afbeelding -> video -> cover)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FDC_API_KEY: ${{ secrets.FDC_API_KEY }}
+        run: python3 run_pipeline.py --skip-upload
+        # --skip-upload: eerst alleen genereren, dan pushen we de bestanden,
+        # en pas daarna (in een aparte stap) publiceren we naar Instagram.
+        # Zo staat het bestand al op Pages voordat Instagram ernaar vraagt.
+
+      - name: Gegenereerde bestanden committen en pushen
+        run: |
+          git config user.name "reel-bot"
+          git config user.email "reel-bot@users.noreply.github.com"
+          git add output/
+          git diff --staged --quiet || git commit -m "Nieuwe reel: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
+
+      - name: Wachten tot GitHub Pages de nieuwe bestanden live heeft
+        run: sleep 120   # 2 minuten, ruim voldoende voor een Pages-redeploy
+
+      - name: Publiceren naar Instagram
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL }}
+        run: python3 publish_latest.py
