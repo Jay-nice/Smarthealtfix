@@ -1,4 +1,4 @@
-﻿"""
+"""
 Content generator — schrijft de tekst voor een reel in een van jouw 8
 sjabloon-vormen, en stuurt elke feitelijke claim door de factchecker voordat
 het als "klaar om te posten" wordt gemarkeerd.
@@ -167,9 +167,16 @@ def fact_check_content(content, shape_key):
     return is_approved, {"checked": len(content["claims"]), "issues": issues}
 
 
-def generate_and_check(shape_key, topic_hint, audience="algemeen"):
+def generate_and_check(shape_key, topic_hint, audience="algemeen", recent_titles=None):
     system_prompt = build_system_prompt(shape_key, audience)
     user_prompt = f"Onderwerp/invalshoek: {topic_hint}\n\nSchrijf nu de content volgens het schema."
+    if recent_titles:
+        titles_list = "\n".join(f"- {t}" for t in recent_titles)
+        user_prompt += (
+            f"\n\nBelangrijk: deze titels/invalshoeken zijn recent al gebruikt, "
+            f"kies een merkbaar andere invalshoek (niet gewoon een synoniem van "
+            f"hetzelfde idee):\n{titles_list}"
+        )
     content = call_claude(system_prompt, user_prompt)
     approved, report = fact_check_content(content, shape_key)
     return {
