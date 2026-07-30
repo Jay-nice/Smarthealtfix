@@ -1,20 +1,20 @@
 {
-  "png": "output/reel_20260730_191009.png",
-  "mp4": "output/reel_20260730_191009.mp4",
-  "cover": "output/cover_20260730_191009.png",
+  "png": "output/reel_20260730_194528.png",
+  "mp4": "output/reel_20260730_194528.mp4",
+  "cover": "output/cover_20260730_194528.png",
   "content": {
-    "title": "THESE FOODS ARE GOOD FOR YOUR {{ORGANS}}",
+    "title": "5 SMALL {{HABITS}} THAT CREATE BIG RESULTS",
     "facts": [
-      "**WALNUTS** are good for **BRAIN** function thanks to their high content of omega-3 ALA, which supports cell membrane health.",
-      "**CARROTS** are good for **EYES** because they're rich in beta-carotene, which the body converts into vitamin A.",
-      "**SALMON** is good for **HEART** health due to its omega-3 fatty acids, which support healthy blood vessels.",
-      "**LEAFY GREENS** are good for **BONES** since they provide vitamin K and calcium, both essential for bone density.",
-      "**OATS** are good for **GUT** health thanks to their soluble fiber, which feeds beneficial gut bacteria.",
-      "**BEETS** are good for **LIVER** function as they contain betaine, which supports the body's detox pathways.",
-      "**GARLIC** is good for **IMMUNE** system strength due to its sulfur compounds like allicin."
+      "**Drink a glass of water** right after waking up — your body has been dehydrated for hours and this jumpstarts your metabolism and helps flush out toxins.",
+      "**Take 10 deep breaths** before a stressful moment — this activates your parasympathetic nervous system and lowers cortisol levels almost instantly.",
+      "**Walk for 10 minutes after meals** — this helps regulate blood sugar spikes and improves digestion significantly.",
+      "**Stretch for 5 minutes before bed** — this releases muscle tension built up during the day and signals your body it's time to wind down for better sleep.",
+      "**Get sunlight within 30 minutes of waking** — this helps set your circadian rhythm, boosting energy during the day and improving sleep quality at night.",
+      "**Write down 3 things you're grateful for daily** — this simple habit has been linked to reduced symptoms of anxiety and improved overall mood.",
+      "**Eat one piece of fruit with breakfast** — this adds fiber and micronutrients that support steady energy levels throughout the morning."
     ],
     "claims": []
   },
-  "shape": "allcaps_benefit",
-  "caption": "THESE FOODS ARE GOOD FOR YOUR ORGANS\n\n#healthyeating #wellness #healthtips"
+  "shape": "numbered_explainer",
+  "caption": "5 SMALL HABITS THAT CREATE BIG RESULTS\n\n#healthyeating #wellness #healthtips"
 }
