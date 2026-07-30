@@ -1,150 +1,207 @@
 """
-run_pipeline.py — de dagelijkse "maak 1 reel"-stap.
+Content generator — schrijft de tekst voor een reel in een van jouw 8
+sjabloon-vormen, en stuurt elke feitelijke claim door de factchecker voordat
+het als "klaar om te posten" wordt gemarkeerd.
 
-Doet: tekst genereren (Claude) -> factchecken (USDA + bekende wankele claims)
--> als goedgekeurd: renderen tot afbeelding + 5-sec video met muziek
--> als afgekeurd: wegschrijven naar review_queue/ zodat jij het handmatig
-   kan nakijken in plaats van dat er iets fouts automatisch gepost wordt.
-
-Gebruik:
-    export ANTHROPIC_API_KEY=sk-ant-...
-    python3 run_pipeline.py
+Vereist: een eigen Anthropic API-key in de omgevingsvariabele ANTHROPIC_API_KEY
+(https://console.anthropic.com/settings/keys — niet hetzelfde als je claude.ai
+account, dit is los, betaald per gebruik).
 """
 
-import argparse
-import json
 import os
-import random
-import time
-from datetime import datetime
+import json
+import requests
+from dotenv import load_dotenv
 
-from content_generator import generate_and_check, TEMPLATE_SHAPES
-import generate_reel as gr
-import generate_cover as gc
-from instagram_publish import publish_reel
+from nutrition_reference import verify_claim, KNOWN_SHAKY_CLAIMS
 
-TOPIC_POOL = [
-    ("nutrient_comparison", "vitamines en mineralen in veelgegeten groenten en fruit"),
-    ("myth_bust", "veelgemaakte fouten bij het klaarmaken van gezond eten"),
-    ("boxed_hacks", "snelle, ongevaarlijke huis-tuin-en-keuken trucjes voor kleine kwaaltjes"),
-    ("allcaps_benefit", "welk voedsel goed is voor welk orgaan/lichaamsfunctie"),
-    ("symptom_list", "signalen van een tekort aan een vitamine of mineraal"),
-    ("problem_food_mapping", "welk voedsel helpt bij een veelvoorkomend klein gezondheidsprobleem"),
-    ("mineral_sources", "een mineraal, zijn functie in het lichaam, en waar je het in vindt"),
-    ("numbered_explainer", "kleine dagelijkse gewoontes met een concreet gezondheidsvoordeel"),
-]
+load_dotenv()
+
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
+ANTHROPIC_MODEL = "claude-sonnet-5"
+
+TEMPLATE_SHAPES = {
+    "numbered_explainer": {
+        "description": "Genummerde tips: bold intro-fragment + uitleg wat het effect is.",
+        "example": "Eat 1 apple with cinnamon every morning — your blood sugar will "
+                   "stabilize and metabolism will increase.",
+        "has_nutrient_claims": False,
+    },
+    "myth_bust": {
+        "description": "Genummerd, '**Term** – uitleg' die een gangbare misvatting rechtzet.",
+        "example": "Garlic – Chopping right before cooking reduces its health benefits; "
+                   "let it sit for 10 minutes after cutting.",
+        "has_nutrient_claims": False,
+    },
+    "boxed_hacks": {
+        "description": "Bold klacht – korte fix, in een apart kader. Losse items, geen nummers.",
+        "example": "Mosquito Bites – Rub a banana peel on the bite to reduce itching.",
+        "has_nutrient_claims": False,
+    },
+    "allcaps_benefit": {
+        "description": "ALLCAPS voedsel + 'is good for' + ALLCAPS groen orgaan/functie.",
+        "example": "APPLES are good for LUNGS",
+        "has_nutrient_claims": False,
+    },
+    "symptom_list": {
+        "description": "Bold tekort/klacht – lijst symptomen. Geen nummers.",
+        "example": "Vitamin B12 – Tingling in hands/feet, weakness, memory problems, and low mood.",
+        "has_nutrient_claims": False,
+    },
+    "problem_food_mapping": {
+        "description": "Genummerd, Probleem ----- Voedsel (kort en bondig).",
+        "example": "Low Energy ----- Chia Seeds",
+        "has_nutrient_claims": False,
+    },
+    "nutrient_comparison": {
+        "description": "Genummerd, 'X heeft meer [nutrient] dan Y' — DIT is de vorm met harde, "
+                       "checkbare cijferclaims (vitamine C, magnesium, kalium, vezels, etc).",
+        "example": "A red bell pepper has nearly three times more vitamin C than an orange.",
+        "has_nutrient_claims": True,
+    },
+    "mineral_sources": {
+        "description": "Genummerd, mineraal (groen voordeel) + bronnenlijst met voedingsmiddelen eronder.",
+        "example": "Magnesium (Muscle Relaxer) — Pumpkin Seeds | Dark Chocolate | Avocado | Cashews",
+        "has_nutrient_claims": False,
+    },
+}
 
 
-HISTORY_PATH = "output/history.json"
-HISTORY_LENGTH = 3
-TITLE_HISTORY_LENGTH = 6
+def build_system_prompt(shape_key, audience="algemeen"):
+    shape = TEMPLATE_SHAPES[shape_key]
+    audience_hint = {
+        "algemeen": "Schrijf voor een algemeen, gezondheidsbewust publiek.",
+        "50plus": "Schrijf met iets meer aandacht voor onderwerpen die relevant zijn voor "
+                  "mensen van 45-65: energie, gewrichten, hart, geheugen, slaap, cholesterol. "
+                  "Toon blijft gewoon toegankelijk, niet 'medisch' of belerend.",
+    }[audience]
+
+    return f"""Je schrijft content voor een Instagram health/wellness account in deze vaste vorm:
+
+VORM: {shape['description']}
+VOORBEELD: "{shape['example']}"
+
+{audience_hint}
+
+TAAL: schrijf ALTIJD in het Engels (titel, feiten, alles) — dit is de vaste
+merkstijl van het account, ongeacht in welke taal dit verzoek zelf gesteld is.
+
+Belangrijke regels:
+- Alleen feitelijk verdedigbare claims. Als je twijfelt aan een cijfer, wees vager
+  ("bevat veel") in plaats van een specifiek getal te verzinnen.
+- Geen ebook/"Comment FIX"-promotie, dat voegen we later apart toe.
+- Geef ALTIJD puur geldige JSON terug, niets anders, in dit schema:
+
+{{
+  "title": "TITEL IN HOOFDLETTERS MET {{{{EEN WOORD}}}} ALS ACCENT",
+  "facts": ["Feit 1 met **bold** op de kernwoorden", "Feit 2 ..."],
+  "claims": [
+    {{"food_a": "...", "food_b": "...", "nutrient_key": "vitamin_c|magnesium|potassium|fiber|vitamin_d|vitamin_k|selenium|calcium|iron|zinc|omega3_ala"}}
+  ]
+}}
+
+Vul "claims" alleen als de vorm harde voeding-vs-voeding vergelijkingen bevat
+(zoals bij nutrient_comparison). Voor andere vormen: laat "claims" een lege lijst.
+"""
 
 
-def _load_history():
-    if not os.path.exists(HISTORY_PATH):
-        return {"shapes": [], "titles": []}
-    try:
-        with open(HISTORY_PATH) as f:
-            data = json.load(f)
-            if isinstance(data, list):
-                return {"shapes": data, "titles": []}
-            return data
-    except (json.JSONDecodeError, OSError):
-        return {"shapes": [], "titles": []}
+def call_claude(system_prompt, user_prompt, max_retries=2):
+    if not ANTHROPIC_API_KEY:
+        raise RuntimeError(
+            "Geen ANTHROPIC_API_KEY gevonden. Zet je eigen key: "
+            "export ANTHROPIC_API_KEY=sk-ant-..."
+        )
+
+    last_error = None
+    for attempt in range(1, max_retries + 2):
+        resp = requests.post(
+            "https://api.anthropic.com/v1/messages",
+            headers={
+                "x-api-key": ANTHROPIC_API_KEY,
+                "anthropic-version": "2023-06-01",
+                "content-type": "application/json",
+            },
+            json={
+                "model": ANTHROPIC_MODEL,
+                "max_tokens": 4000,
+                "system": system_prompt,
+                "messages": [{"role": "user", "content": user_prompt}],
+            },
+            timeout=60,
+        )
+        resp.raise_for_status()
+        data = resp.json()
+        text = "".join(b["text"] for b in data["content"] if b["type"] == "text")
+        text = text.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+
+        try:
+            return json.loads(text)
+        except json.JSONDecodeError as e:
+            last_error = e
+            print(f"[!] Antwoord was geen geldige JSON (poging {attempt}/{max_retries + 1}): {e}. "
+                  f"Probeer opnieuw...")
+            continue
+
+    raise RuntimeError(f"Kon na {max_retries + 1} pogingen geen geldige JSON van het "
+                        f"model krijgen. Laatste fout: {last_error}")
 
 
-def _save_history(shape_key, title):
-    history = _load_history()
-    history["shapes"] = (history["shapes"] + [shape_key])[-HISTORY_LENGTH:]
-    history["titles"] = (history["titles"] + [title])[-TITLE_HISTORY_LENGTH:]
-    os.makedirs(os.path.dirname(HISTORY_PATH), exist_ok=True)
-    with open(HISTORY_PATH, "w") as f:
-        json.dump(history, f)
+def fact_check_content(content, shape_key):
+    shape = TEMPLATE_SHAPES[shape_key]
+    if not shape["has_nutrient_claims"] or not content.get("claims"):
+        return True, {"checked": 0, "issues": []}
+
+    issues = []
+    for claim in content["claims"]:
+        key = f"{claim['food_a']}_more_{claim['nutrient_key']}_than_{claim['food_b']}"
+        shaky_match = next((v for k, v in KNOWN_SHAKY_CLAIMS.items()
+                             if claim['food_a'].replace(" ", "_") in k
+                             and claim['food_b'].replace(" ", "_") in k), None)
+        if shaky_match:
+            issues.append({"claim": claim, "verdict": "known_shaky", "note": shaky_match})
+            continue
+
+        result = verify_claim(claim["food_a"], claim["food_b"], claim["nutrient_key"],
+                               use_live_api=False)
+        if result["verdict"] != "confirmed":
+            issues.append({"claim": claim, "verdict": result["verdict"], "detail": result})
+
+    is_approved = len(issues) == 0
+    return is_approved, {"checked": len(content["claims"]), "issues": issues}
 
 
-def pick_todays_topic(audience="algemeen"):
-    history = _load_history()
-    recent_shapes = history["shapes"]
-    available = [t for t in TOPIC_POOL if t[0] not in recent_shapes]
-    if not available:
-        available = TOPIC_POOL
-    choice = random.choice(available)
-    return choice, audience
-
-
-def run_once(handle="@smarthealthfix", display_name="Smart Health Fix",
-             footer_cta="Save & Share let's get healthier together!",
-             skip_upload=False):
-    os.makedirs("output", exist_ok=True)
-    os.makedirs("review_queue", exist_ok=True)
-
-    (shape_key, topic_hint), audience = pick_todays_topic()
-    print(f"[1/5] Genereren: vorm='{shape_key}', onderwerp='{topic_hint}'")
-
-    recent_titles = _load_history()["titles"]
-    result = generate_and_check(shape_key, topic_hint, audience=audience,
-                                 recent_titles=recent_titles)
-
-    if not result["approved"]:
-        ts = datetime.now().strftime("%Y%m%d_%H%M%S")
-        path = f"review_queue/flagged_{ts}.json"
-        with open(path, "w") as f:
-            json.dump(result, f, indent=2, ensure_ascii=False)
-        print(f"[!] Content afgekeurd door factcheck. Weggeschreven naar {path}")
-        print(json.dumps(result["fact_check_report"], indent=2, ensure_ascii=False))
-        return None
-
-    print("[2/5] Factcheck OK, renderen...")
-    content = result["content"]
-    config = {
-        "handle": handle,
-        "title": content["title"],
-        "facts": content["facts"],
-        "footer_cta": footer_cta,
+def generate_and_check(shape_key, topic_hint, audience="algemeen", recent_titles=None):
+    system_prompt = build_system_prompt(shape_key, audience)
+    user_prompt = f"Onderwerp/invalshoek: {topic_hint}\n\nSchrijf nu de content volgens het schema."
+    if recent_titles:
+        titles_list = "\n".join(f"- {t}" for t in recent_titles)
+        user_prompt += (
+            f"\n\nBelangrijk: deze titels/invalshoeken zijn recent al gebruikt, "
+            f"kies een merkbaar andere invalshoek (niet gewoon een synoniem van "
+            f"hetzelfde idee):\n{titles_list}"
+        )
+    content = call_claude(system_prompt, user_prompt)
+    approved, report = fact_check_content(content, shape_key)
+    return {
+        "shape": shape_key,
+        "content": content,
+        "approved": approved,
+        "fact_check_report": report,
     }
-
-    ts = datetime.now().strftime("%Y%m%d_%H%M%S")
-    png_path = gr.render_slide(config, f"output/reel_{ts}.png")
-    print(f"[3/5] Afbeelding klaar: {png_path}")
-
-    mp4_path, track = gr.image_to_reel_video(png_path, f"output/reel_{ts}.mp4")
-    print(f"[4/5] Video klaar: {mp4_path} (muziek: {track})")
-
-    cover_title = content["title"].replace("{{", "").replace("}}", "")
-    cover_path = gc.make_cover_for_topic(cover_title, display_name, f"output/cover_{ts}.png")
-    print(f"[5/5] Cover klaar: {cover_path}")
-
-    _save_history(shape_key, cover_title)
-
-    caption = build_caption(content)
-    result_paths = {"png": png_path, "mp4": mp4_path, "cover": cover_path,
-                     "content": content, "shape": shape_key, "caption": caption}
-
-    with open("output/last_run.json", "w") as f:
-        json.dump(result_paths, f, indent=2, ensure_ascii=False)
-
-    public_base_url = os.environ.get("PUBLIC_BASE_URL")
-    if skip_upload:
-        print("[i] Upload overgeslagen (--skip-upload) — gebeurt in een latere stap.")
-    elif public_base_url:
-        video_url = f"{public_base_url}/{mp4_path}"
-        cover_url = f"{public_base_url}/{cover_path}"
-        media_id = publish_reel(video_url=video_url, cover_url=cover_url, caption=caption)
-        result_paths["instagram_media_id"] = media_id
-    else:
-        print("[i] PUBLIC_BASE_URL niet gezet — reel is klaar maar nog niet geupload.")
-
-    return result_paths
-
-
-def build_caption(content, hashtags="#healthyeating #wellness #healthtips"):
-    return f"{content['title'].replace('{{', '').replace('}}', '')}\n\n{hashtags}"
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--skip-upload", action="store_true",
-                         help="Genereer alleen, upload pas in een latere/aparte stap "
-                              "(gebruikt door de GitHub Actions workflow).")
-    args = parser.parse_args()
-    run_once(skip_upload=args.skip_upload)
+    fake_content_good = {
+        "title": "SURPRISING {{FOOD}} FACTS",
+        "facts": ["A **red bell pepper** has nearly three times more **vitamin C** than **an orange**."],
+        "claims": [{"food_a": "red bell pepper", "food_b": "orange", "nutrient_key": "vitamin_c"}],
+    }
+    fake_content_bad = {
+        "title": "SURPRISING {{FOOD}} FACTS",
+        "facts": ["A **kiwi** has more **vitamin C** than **an orange**."],
+        "claims": [{"food_a": "kiwi", "food_b": "orange", "nutrient_key": "vitamin_c"}],
+    }
+    for label, fake in [("Correcte claim", fake_content_good), ("Wankele claim", fake_content_bad)]:
+        approved, report = fact_check_content(fake, "nutrient_comparison")
+        print(f"\n{label}: approved={approved}")
+        print(json.dumps(report, indent=2, ensure_ascii=False))
