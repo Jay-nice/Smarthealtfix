@@ -16,7 +16,8 @@ permissions:
   contents: write   # nodig om de gegenereerde bestanden terug te committen
 
 jobs:
-  maak-en-post-reel:
+  # --- Taak 1: content genereren + pushen ---
+  maak-reel:
     runs-on: ubuntu-latest
     steps:
       - name: Repository ophalen
@@ -38,9 +39,6 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           FDC_API_KEY: ${{ secrets.FDC_API_KEY }}
         run: python3 run_pipeline.py --skip-upload
-        # --skip-upload: eerst alleen genereren, dan pushen we de bestanden,
-        # en pas daarna (in een aparte stap) publiceren we naar Instagram.
-        # Zo staat het bestand al op Pages voordat Instagram ernaar vraagt.
 
       - name: Gegenereerde bestanden committen en pushen
         run: |
@@ -53,9 +51,114 @@ jobs:
       - name: Wachten tot GitHub Pages de nieuwe bestanden live heeft
         run: sleep 120   # 2 minuten, ruim voldoende voor een Pages-redeploy
 
-      - name: Publiceren naar Instagram
+  # --- Taak 2/3/4: publiceren, elk op een VERSE computer (ander IP) ---
+  # Meta blokkeert soms specifieke datacenter-IP-reeksen met "API access
+  # blocked" — opnieuw proberen op dezelfde computer helpt dan niks (zelfde IP
+  # blijft geblokkeerd). Door elke poging een aparte job te maken geeft GitHub
+  # er telkens een nieuwe, willekeurige computer bij, en dus een andere kans.
+  #
+  # BELANGRIJK: deze jobs halen 'ref: main' op, zodat ze de ZOJUIST door
+  # 'maak-reel' gepushte reel (output/last_run.json) te pakken hebben — anders
+  # zouden ze de vorige reel posten.
+  publiceer-poging-1:
+    needs: maak-reel
+    runs-on: ubuntu-latest
+    outputs:
+      gelukt: ${{ steps.pub.outcome }}
+    steps:
+      - name: Repository ophalen (verse tip van main, mét de nieuwe reel)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Python installeren
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Dependencies installeren (alleen wat publiceren nodig heeft)
+        run: pip install requests python-dotenv
+
+      - name: Publiceren naar Instagram (poging 1)
+        id: pub
+        continue-on-error: true   # niet meteen de hele run laten falen; poging 2 mag het overnemen
         env:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL }}
         run: python3 publish_latest.py
+
+  publiceer-poging-2:
+    needs: [maak-reel, publiceer-poging-1]
+    if: needs.publiceer-poging-1.outputs.gelukt != 'success'
+    runs-on: ubuntu-latest
+    outputs:
+      gelukt: ${{ steps.pub.outcome }}
+    steps:
+      - name: Repository ophalen (verse tip van main, mét de nieuwe reel)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Python installeren
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Dependencies installeren (alleen wat publiceren nodig heeft)
+        run: pip install requests python-dotenv
+
+      - name: Publiceren naar Instagram (poging 2, verse computer)
+        id: pub
+        continue-on-error: true
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL }}
+        run: python3 publish_latest.py
+
+  publiceer-poging-3:
+    needs: [maak-reel, publiceer-poging-1, publiceer-poging-2]
+    if: needs.publiceer-poging-1.outputs.gelukt != 'success' && needs.publiceer-poging-2.outputs.gelukt != 'success'
+    runs-on: ubuntu-latest
+    outputs:
+      gelukt: ${{ steps.pub.outcome }}
+    steps:
+      - name: Repository ophalen (verse tip van main, mét de nieuwe reel)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Python installeren
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Dependencies installeren (alleen wat publiceren nodig heeft)
+        run: pip install requests python-dotenv
+
+      - name: Publiceren naar Instagram (poging 3, verse computer)
+        id: pub
+        continue-on-error: true
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL }}
+        run: python3 publish_latest.py
+
+  # --- Eindcontrole: groen als minstens één poging postte, rood als alles faalde ---
+  controle:
+    needs: [publiceer-poging-1, publiceer-poging-2, publiceer-poging-3]
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - name: Is er iets gepost?
+        run: |
+          if [ "${{ needs.publiceer-poging-1.outputs.gelukt }}" = "success" ] \
+          || [ "${{ needs.publiceer-poging-2.outputs.gelukt }}" = "success" ] \
+          || [ "${{ needs.publiceer-poging-3.outputs.gelukt }}" = "success" ]; then
+            echo "Reel is gepost. Alles goed."
+          else
+            echo "Alle 3 pogingen mislukt. Waarschijnlijk blokkeert Meta breed of is je token verlopen — check je IG_ACCESS_TOKEN."
+            exit 1
+          fi
