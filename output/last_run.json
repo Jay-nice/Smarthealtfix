@@ -1,20 +1,21 @@
 {
-  "png": "output/reel_20260731_220437.png",
-  "mp4": "output/reel_20260731_220437.mp4",
-  "cover": "output/cover_20260731_220437.png",
+  "png": "output/reel_20260731_221751.png",
+  "mp4": "output/reel_20260731_221751.mp4",
+  "cover": "output/cover_20260731_221751.png",
   "content": {
-    "title": "ORGAN BY ORGAN: FOODS YOUR BODY {{CRAVES}}",
+    "title": "EVERYDAY ANNOYANCES, ONE {{BITE}} AWAY",
     "facts": [
-      "**SALMON** is good for **HEART** — its **omega-3 fats** help support healthy blood vessels and normal blood pressure.",
-      "**CARROTS** is good for **EYES** — packed with **beta-carotene**, which the body converts into vitamin A for night vision.",
-      "**WALNUTS** is good for **BRAIN** — contain **omega-3 ALA** and healthy fats linked to cognitive support.",
-      "**YOGURT** is good for **GUT** — a source of **live cultures** that help maintain a balanced microbiome.",
-      "**BEETS** is good for **LIVER** — contain **betalains** and antioxidants that support the liver's natural detox processes.",
-      "**OATS** is good for **HEART** — rich in **soluble fiber**, which helps maintain healthy cholesterol levels.",
-      "**SPINACH** is good for **BONES** — a good source of **vitamin K**, important for bone mineralization."
+      "1. Bloating ----- **Peppermint Tea**",
+      "2. Headaches ----- **Almonds**",
+      "3. Bad Breath ----- **Crunchy Apples**",
+      "4. Muscle Cramps ----- **Bananas**",
+      "5. Trouble Sleeping ----- **Tart Cherries**",
+      "6. Nausea ----- **Fresh Ginger**",
+      "7. Brain Fog ----- **Walnuts**",
+      "8. Hiccups ----- **A Spoonful of Honey**"
     ],
     "claims": []
   },
-  "shape": "allcaps_benefit",
-  "caption": "ORGAN BY ORGAN: FOODS YOUR BODY CRAVES\n\n#healthyeating #wellness #healthtips"
+  "shape": "problem_food_mapping",
+  "caption": "EVERYDAY ANNOYANCES, ONE BITE AWAY\n\n#healthyeating #wellness #healthtips"
 }
