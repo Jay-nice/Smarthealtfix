@@ -1,20 +1,20 @@
 {
-  "png": "output/reel_20260731_120453.png",
-  "mp4": "output/reel_20260731_120453.mp4",
-  "cover": "output/cover_20260731_120453.png",
+  "png": "output/reel_20260731_165203.png",
+  "mp4": "output/reel_20260731_165203.mp4",
+  "cover": "output/cover_20260731_165203.png",
   "content": {
-    "title": "KITCHEN CURES FOR {{ANNOYING}} PROBLEMS",
+    "title": "TINY HABITS, BIG {{RESULTS}}",
     "facts": [
-      "Bloating ----- Peppermint Tea: contains **menthol** that relaxes gut muscles and helps release trapped gas.",
-      "Muscle Cramps ----- Bananas: rich in **potassium**, a mineral essential for proper muscle contraction.",
-      "Headaches ----- Watermelon: mostly water content, helps fight **dehydration**, a common headache trigger.",
-      "Bad Breath ----- Apples: crunchy texture and **fiber** help naturally scrub away odor-causing bacteria.",
-      "Hiccups ----- Peanut Butter: its thick texture forces **slow, deliberate swallowing** that can reset the diaphragm.",
-      "Brain Fog ----- Blueberries: loaded with **antioxidants** linked to sharper focus and mental clarity.",
-      "Sore Throat ----- Honey: offers natural **antibacterial** properties that help soothe irritation."
+      "**Drink a glass of water** right after waking up — your brain and body have been dehydrated for hours and this jumpstarts alertness and digestion.",
+      "**Take 10 deep breaths** before opening your phone in the morning — it lowers cortisol and sets a calmer tone for the rest of the day.",
+      "**Walk for 5 minutes** after every meal — it blunts blood sugar spikes and improves digestion significantly.",
+      "**Stretch your neck and shoulders** every hour at your desk — it prevents tension headaches and improves posture over time.",
+      "**Step outside for 2 minutes of sunlight** in the morning — it helps regulate your circadian rhythm and boosts mood via serotonin.",
+      "**Write down 3 things you're grateful for** before bed — it's linked to better sleep quality and reduced anxiety.",
+      "**Chew each bite 20 times** at dinner — it improves digestion and gives your body time to signal fullness, reducing overeating."
     ],
     "claims": []
   },
-  "shape": "problem_food_mapping",
-  "caption": "KITCHEN CURES FOR ANNOYING PROBLEMS\n\n#healthyeating #wellness #healthtips"
+  "shape": "numbered_explainer",
+  "caption": "TINY HABITS, BIG RESULTS\n\n#healthyeating #wellness #healthtips"
 }
