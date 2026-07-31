@@ -1,20 +1,19 @@
 {
-  "png": "output/reel_20260731_165203.png",
-  "mp4": "output/reel_20260731_165203.mp4",
-  "cover": "output/cover_20260731_165203.png",
+  "png": "output/reel_20260731_210421.png",
+  "mp4": "output/reel_20260731_210421.mp4",
+  "cover": "output/cover_20260731_210421.png",
   "content": {
-    "title": "TINY HABITS, BIG {{RESULTS}}",
+    "title": "THE MINERAL {{TOOLKIT}} YOUR BODY RUNS ON",
     "facts": [
-      "**Drink a glass of water** right after waking up — your brain and body have been dehydrated for hours and this jumpstarts alertness and digestion.",
-      "**Take 10 deep breaths** before opening your phone in the morning — it lowers cortisol and sets a calmer tone for the rest of the day.",
-      "**Walk for 5 minutes** after every meal — it blunts blood sugar spikes and improves digestion significantly.",
-      "**Stretch your neck and shoulders** every hour at your desk — it prevents tension headaches and improves posture over time.",
-      "**Step outside for 2 minutes of sunlight** in the morning — it helps regulate your circadian rhythm and boosts mood via serotonin.",
-      "**Write down 3 things you're grateful for** before bed — it's linked to better sleep quality and reduced anxiety.",
-      "**Chew each bite 20 times** at dinner — it improves digestion and gives your body time to signal fullness, reducing overeating."
+      "1. **Magnesium** (Muscle Relaxer) — Pumpkin Seeds | Dark Chocolate | Avocado | Cashews",
+      "2. **Potassium** (Fluid Balancer) — Bananas | Sweet Potatoes | Coconut Water | White Beans",
+      "3. **Zinc** (Immune Booster) — Oysters | Beef | Chickpeas | Pumpkin Seeds",
+      "4. **Iron** (Oxygen Carrier) — Red Meat | Spinach | Lentils | Pumpkin Seeds",
+      "5. **Calcium** (Bone Builder) — Yogurt | Sardines | Kale | Almonds",
+      "6. **Selenium** (Thyroid Supporter) — Brazil Nuts | Tuna | Eggs | Sunflower Seeds"
     ],
     "claims": []
   },
-  "shape": "numbered_explainer",
-  "caption": "TINY HABITS, BIG RESULTS\n\n#healthyeating #wellness #healthtips"
+  "shape": "mineral_sources",
+  "caption": "THE MINERAL TOOLKIT YOUR BODY RUNS ON\n\n#healthyeating #wellness #healthtips"
 }
