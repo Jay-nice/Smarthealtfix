@@ -1,19 +1,19 @@
 {
-  "png": "output/reel_20260731_223403.png",
-  "mp4": "output/reel_20260731_223403.mp4",
-  "cover": "output/cover_20260731_223403.png",
+  "png": "output/reel_20260731_224900.png",
+  "mp4": "output/reel_20260731_224900.mp4",
+  "cover": "output/cover_20260731_224900.png",
   "content": {
-    "title": "STACK THESE HABITS ONTO THINGS YOU ALREADY {{DO}}",
+    "title": "MINERALS ON {{DUTY}} INSIDE YOUR BODY",
     "facts": [
-      "While your **coffee** brews, drink a full glass of **water** first — you'll rehydrate before caffeine kicks in and curb the jittery crash.",
-      "Right after brushing your teeth, do **10 squats** — it takes 20 seconds and adds up to better circulation and stronger legs over weeks.",
-      "Every time you check your phone, roll your **shoulders** back 5 times — it counters the forward slouch and eases tension headaches.",
-      "Before your first bite at lunch, eat a handful of **raw veggies** — the **fiber** slows digestion and helps prevent an afternoon energy dip.",
-      "While waiting for the shower to warm up, do **deep breathing** for 30 seconds — it lowers cortisol and eases you into the day calmer.",
-      "Right when you plug in your phone to charge at night, put your **book** on the pillow instead of the phone — it nudges you toward better sleep and less screen-driven insomnia."
+      "1. **Magnesium** (Muscle Relaxer) — Pumpkin Seeds | Dark Chocolate | Almonds | Spinach",
+      "2. **Potassium** (Fluid Balancer) — Bananas | Sweet Potatoes | White Beans | Coconut Water",
+      "3. **Zinc** (Immune Guard) — Oysters | Beef | Chickpeas | Pumpkin Seeds",
+      "4. **Iron** (Oxygen Carrier) — Red Meat | Lentils | Spinach | Dark Chocolate",
+      "5. **Calcium** (Bone Builder) — Yogurt | Sardines | Kale | Almonds",
+      "6. **Selenium** (Antioxidant Shield) — Brazil Nuts | Tuna | Eggs | Sunflower Seeds"
     ],
     "claims": []
   },
-  "shape": "numbered_explainer",
-  "caption": "STACK THESE HABITS ONTO THINGS YOU ALREADY DO\n\n#healthyeating #wellness #healthtips"
+  "shape": "mineral_sources",
+  "caption": "MINERALS ON DUTY INSIDE YOUR BODY\n\n#healthyeating #wellness #healthtips"
 }
