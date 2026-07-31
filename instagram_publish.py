@@ -3,10 +3,13 @@ instagram_publish.py — de daadwerkelijke upload-stap. Verwacht dat de
 video/cover al ergens publiek bereikbaar staan en gebruikt je
 IG_ACCESS_TOKEN / IG_USER_ID uit .env.
 
-Bevat retry-met-backoff rondom de container-creatie en het publiceren, zodat
-tijdelijke Meta-blokkades ("API access blocked.", rate-limits, 5xx) de hele
-run niet meer laten crashen. Echte fouten (verlopen token e.d.) stoppen wel
-meteen.
+Belangrijk (juli 2026): Meta zet Graph API-versies na ~24 maanden uit. v23.0
+is op 9 juni 2026 gesloten, dus alles t/m v23 is dood. Een uitgezette versie
+geeft grillige fouten zoals "API access blocked." — eerst af en toe, daarna
+altijd. Daarom probeert dit script automatisch meerdere actuele versies tot
+er één werkt, en meldt het welke versie het deed. Zo hoef je bij de volgende
+sunset (over ~2 jaar) alleen API_VERSIONS bij te werken, of de omgevings-
+variabele IG_API_VERSION te zetten.
 """
 
 import os
@@ -18,67 +21,75 @@ load_dotenv()
 
 IG_ACCESS_TOKEN = os.environ.get("IG_ACCESS_TOKEN")
 IG_USER_ID = os.environ.get("IG_USER_ID")
-GRAPH_BASE = "https://graph.instagram.com/v21.0"
+
+# Nieuwste eerst. Bij een blokkade zakt het script automatisch door naar de
+# volgende. Zet IG_API_VERSION (bijv. "v26.0") om er eentje af te dwingen.
+API_VERSIONS = ["v26.0", "v25.0", "v24.0"]
+_forced = os.environ.get("IG_API_VERSION")
+if _forced:
+    API_VERSIONS = [_forced if _forced.startswith("v") else f"v{_forced}"]
+
+
+def _graph_base(version):
+    return f"https://graph.instagram.com/{version}"
+
 
 # Meta-foutcodes die "probeer het straks nog eens" betekenen (geen echte fout).
-# 1  = onbekende tijdelijke fout        2  = tijdelijke storing
-# 4  = app-rate-limit                   17 = user-rate-limit
-# 32 = page-rate-limit                  341 = tijdelijke limiet
-# 613 = custom-rate-limit
 TRANSIENT_ERROR_CODES = {1, 2, 4, 17, 32, 341, 613}
-# Sommige tijdelijke blokkades komen als code 200 met deze boodschap binnen.
-TRANSIENT_MESSAGES = ("api access blocked", "please reduce the amount", "temporarily blocked")
+# Blokkades die op een uitgezette/afgeknepen API-versie wijzen: bij deze
+# meldingen heeft het zin om een ANDERE versie te proberen.
+VERSION_BLOCK_MESSAGES = ("api access blocked", "version", "deprecat", "no longer supported")
 
-RETRY_ATTEMPTS = 4          # totaal aantal pogingen per API-call
-RETRY_BACKOFF = (10, 30, 60)  # wachttijd (sec) na poging 1, 2, 3
+RETRY_ATTEMPTS = 3            # pogingen per versie bij een tijdelijke fout
+RETRY_BACKOFF = (10, 30)      # wachttijd (sec) tussen die pogingen
 
 
-def _is_transient(resp):
-    """Bepaal of een mislukte response een tijdelijke Meta-hik is (dan retryen)."""
-    if resp.status_code >= 500:
-        return True
+def _describe(resp):
     try:
         err = resp.json().get("error", {})
     except ValueError:
-        return False
+        return {}, ""
+    return err, (err.get("message") or "").lower()
+
+
+def _is_transient(resp):
+    if resp.status_code >= 500:
+        return True
+    err, msg = _describe(resp)
     if err.get("code") in TRANSIENT_ERROR_CODES:
         return True
-    msg = (err.get("message") or "").lower()
-    return any(m in msg for m in TRANSIENT_MESSAGES)
+    return "please reduce the amount" in msg or "temporarily blocked" in msg
 
 
-def _post_with_retry(url, params, what):
-    """POST met backoff bij tijdelijke fouten. Geeft de gelukte response terug."""
-    last_resp = None
+def _looks_like_version_block(resp):
+    err, msg = _describe(resp)
+    if err.get("code") == 2635:          # "API Version Deprecated"
+        return True
+    return any(m in msg for m in VERSION_BLOCK_MESSAGES)
+
+
+def _post_on_version(url, params, what):
+    """POST met korte backoff bij tijdelijke fouten. Geeft (resp, ok) terug."""
+    last = None
     for attempt in range(RETRY_ATTEMPTS):
         try:
             resp = requests.post(url, params=params, timeout=60)
         except requests.exceptions.RequestException as e:
-            # Netwerkfout = altijd tijdelijk; retryen.
             print(f"[RETRY] Netwerkfout bij {what} (poging {attempt+1}/{RETRY_ATTEMPTS}): {e}")
             if attempt < RETRY_ATTEMPTS - 1:
                 time.sleep(RETRY_BACKOFF[min(attempt, len(RETRY_BACKOFF) - 1)])
                 continue
             raise
-
         if resp.ok:
-            return resp
-
-        last_resp = resp
-        transient = _is_transient(resp)
-        print(f"[FOUT] Instagram wees {what} af (status {resp.status_code}, "
-              f"{'tijdelijk - retry' if transient else 'definitief'}):")
-        print(resp.text)
-
-        if not transient or attempt == RETRY_ATTEMPTS - 1:
+            return resp, True
+        last = resp
+        if not _is_transient(resp) or attempt == RETRY_ATTEMPTS - 1:
             break
         wait = RETRY_BACKOFF[min(attempt, len(RETRY_BACKOFF) - 1)]
-        print(f"[RETRY] Wacht {wait}s en probeer {what} opnieuw "
+        print(f"[RETRY] Tijdelijke fout bij {what}; wacht {wait}s "
               f"(poging {attempt+2}/{RETRY_ATTEMPTS})...")
         time.sleep(wait)
-
-    # Alle pogingen op: laat de originele HTTPError opgooien.
-    last_resp.raise_for_status()
+    return last, False
 
 
 def publish_reel(video_url, caption, cover_url=None, audio_name=None,
@@ -97,13 +108,42 @@ def publish_reel(video_url, caption, cover_url=None, audio_name=None,
     if audio_name:
         params["audio_name"] = audio_name
 
-    resp = _post_with_retry(f"{GRAPH_BASE}/{IG_USER_ID}/media", params, "het aanmaken van de container")
-    container_id = resp.json()["id"]
-    print(f"[1/3] Container aangemaakt: {container_id}")
+    # --- Stap 1: container aanmaken, versie voor versie tot er één werkt ---
+    container_id = None
+    working_version = None
+    last_resp = None
 
+    for version in API_VERSIONS:
+        print(f"[1/3] Container aanmaken via API {version}...")
+        resp, ok = _post_on_version(f"{_graph_base(version)}/{IG_USER_ID}/media",
+                                    params, f"het aanmaken van de container ({version})")
+        if ok:
+            container_id = resp.json()["id"]
+            working_version = version
+            print(f"[1/3] Gelukt op {version}. Container: {container_id}")
+            break
+
+        last_resp = resp
+        print(f"[FOUT] {version} weigerde het verzoek (status {resp.status_code}):")
+        print(resp.text)
+        if _looks_like_version_block(resp) and version != API_VERSIONS[-1]:
+            print(f"[VERSIE] {version} lijkt geblokkeerd/uitgezet - probeer de volgende versie...")
+            continue
+        break
+
+    if container_id is None:
+        print("[FOUT] Geen enkele API-versie accepteerde het verzoek.")
+        print("       Check: (1) is IG_ACCESS_TOKEN nog geldig, (2) staat er een "
+              "waarschuwing in het Meta App Dashboard, (3) bestaat er een nieuwere "
+              "API-versie? Werk dan API_VERSIONS bij.")
+        last_resp.raise_for_status()
+
+    base = _graph_base(working_version)
+
+    # --- Stap 2: wachten tot Instagram de video verwerkt heeft ---
     for attempt in range(max_polls):
         status_resp = requests.get(
-            f"{GRAPH_BASE}/{container_id}",
+            f"{base}/{container_id}",
             params={"fields": "status_code", "access_token": IG_ACCESS_TOKEN},
             timeout=60,
         )
@@ -118,13 +158,19 @@ def publish_reel(video_url, caption, cover_url=None, audio_name=None,
     else:
         raise TimeoutError("Video was na te veel pogingen nog niet FINISHED.")
 
-    publish_resp = _post_with_retry(
-        f"{GRAPH_BASE}/{IG_USER_ID}/media_publish",
+    # --- Stap 3: publiceren (zelfde versie die de container accepteerde) ---
+    publish_resp, ok = _post_on_version(
+        f"{base}/{IG_USER_ID}/media_publish",
         {"creation_id": container_id, "access_token": IG_ACCESS_TOKEN},
         "het publiceren",
     )
+    if not ok:
+        print(f"[FOUT] Instagram wees het publiceren af (status {publish_resp.status_code}):")
+        print(publish_resp.text)
+        publish_resp.raise_for_status()
+
     media_id = publish_resp.json()["id"]
-    print(f"[3/3] Gepubliceerd! media_id={media_id}")
+    print(f"[3/3] Gepubliceerd via {working_version}! media_id={media_id}")
     return media_id
 
 
