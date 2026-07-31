@@ -1,21 +1,19 @@
 {
-  "png": "output/reel_20260731_221751.png",
-  "mp4": "output/reel_20260731_221751.mp4",
-  "cover": "output/cover_20260731_221751.png",
+  "png": "output/reel_20260731_223403.png",
+  "mp4": "output/reel_20260731_223403.mp4",
+  "cover": "output/cover_20260731_223403.png",
   "content": {
-    "title": "EVERYDAY ANNOYANCES, ONE {{BITE}} AWAY",
+    "title": "STACK THESE HABITS ONTO THINGS YOU ALREADY {{DO}}",
     "facts": [
-      "1. Bloating ----- **Peppermint Tea**",
-      "2. Headaches ----- **Almonds**",
-      "3. Bad Breath ----- **Crunchy Apples**",
-      "4. Muscle Cramps ----- **Bananas**",
-      "5. Trouble Sleeping ----- **Tart Cherries**",
-      "6. Nausea ----- **Fresh Ginger**",
-      "7. Brain Fog ----- **Walnuts**",
-      "8. Hiccups ----- **A Spoonful of Honey**"
+      "While your **coffee** brews, drink a full glass of **water** first — you'll rehydrate before caffeine kicks in and curb the jittery crash.",
+      "Right after brushing your teeth, do **10 squats** — it takes 20 seconds and adds up to better circulation and stronger legs over weeks.",
+      "Every time you check your phone, roll your **shoulders** back 5 times — it counters the forward slouch and eases tension headaches.",
+      "Before your first bite at lunch, eat a handful of **raw veggies** — the **fiber** slows digestion and helps prevent an afternoon energy dip.",
+      "While waiting for the shower to warm up, do **deep breathing** for 30 seconds — it lowers cortisol and eases you into the day calmer.",
+      "Right when you plug in your phone to charge at night, put your **book** on the pillow instead of the phone — it nudges you toward better sleep and less screen-driven insomnia."
     ],
     "claims": []
   },
-  "shape": "problem_food_mapping",
-  "caption": "EVERYDAY ANNOYANCES, ONE BITE AWAY\n\n#healthyeating #wellness #healthtips"
+  "shape": "numbered_explainer",
+  "caption": "STACK THESE HABITS ONTO THINGS YOU ALREADY DO\n\n#healthyeating #wellness #healthtips"
 }
