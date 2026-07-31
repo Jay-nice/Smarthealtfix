@@ -1,19 +1,20 @@
 {
-  "png": "output/reel_20260731_210421.png",
-  "mp4": "output/reel_20260731_210421.mp4",
-  "cover": "output/cover_20260731_210421.png",
+  "png": "output/reel_20260731_220437.png",
+  "mp4": "output/reel_20260731_220437.mp4",
+  "cover": "output/cover_20260731_220437.png",
   "content": {
-    "title": "THE MINERAL {{TOOLKIT}} YOUR BODY RUNS ON",
+    "title": "ORGAN BY ORGAN: FOODS YOUR BODY {{CRAVES}}",
     "facts": [
-      "1. **Magnesium** (Muscle Relaxer) — Pumpkin Seeds | Dark Chocolate | Avocado | Cashews",
-      "2. **Potassium** (Fluid Balancer) — Bananas | Sweet Potatoes | Coconut Water | White Beans",
-      "3. **Zinc** (Immune Booster) — Oysters | Beef | Chickpeas | Pumpkin Seeds",
-      "4. **Iron** (Oxygen Carrier) — Red Meat | Spinach | Lentils | Pumpkin Seeds",
-      "5. **Calcium** (Bone Builder) — Yogurt | Sardines | Kale | Almonds",
-      "6. **Selenium** (Thyroid Supporter) — Brazil Nuts | Tuna | Eggs | Sunflower Seeds"
+      "**SALMON** is good for **HEART** — its **omega-3 fats** help support healthy blood vessels and normal blood pressure.",
+      "**CARROTS** is good for **EYES** — packed with **beta-carotene**, which the body converts into vitamin A for night vision.",
+      "**WALNUTS** is good for **BRAIN** — contain **omega-3 ALA** and healthy fats linked to cognitive support.",
+      "**YOGURT** is good for **GUT** — a source of **live cultures** that help maintain a balanced microbiome.",
+      "**BEETS** is good for **LIVER** — contain **betalains** and antioxidants that support the liver's natural detox processes.",
+      "**OATS** is good for **HEART** — rich in **soluble fiber**, which helps maintain healthy cholesterol levels.",
+      "**SPINACH** is good for **BONES** — a good source of **vitamin K**, important for bone mineralization."
     ],
     "claims": []
   },
-  "shape": "mineral_sources",
-  "caption": "THE MINERAL TOOLKIT YOUR BODY RUNS ON\n\n#healthyeating #wellness #healthtips"
+  "shape": "allcaps_benefit",
+  "caption": "ORGAN BY ORGAN: FOODS YOUR BODY CRAVES\n\n#healthyeating #wellness #healthtips"
 }
