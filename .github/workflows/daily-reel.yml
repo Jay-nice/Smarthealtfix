@@ -1,14 +1,19 @@
-﻿name: Dagelijkse reel
+name: Dagelijkse reel
 
 on:
   schedule:
-    - cron: "0 10 * * *"
-    - cron: "0 15 * * *"
-    - cron: "0 20 * * *"
-  workflow_dispatch: {}
+    # Tijden in UTC! Ingesteld op 12:00, 17:00, 22:00 Nederlandse ZOMERtijd (UTC+2).
+    # Let op: dit is een vaste UTC-tijd die NIET automatisch meeschuift met de
+    # klok. Zodra het in Nederland weer wintertijd wordt (UTC+1, eind oktober),
+    # schuiven deze momenten in werkelijkheid 1 uur op (dus dan 13:00/18:00/23:00
+    # lokale tijd) — pas dan de cron-regels hieronder met -1 uur aan indien gewenst.
+    - cron: "5 10 * * *"
+    - cron: "5 15 * * *"
+    - cron: "5 20 * * *"
+  workflow_dispatch: {}   # handmatig te starten via de "Actions"-tab, handig om te testen
 
 permissions:
-  contents: write
+  contents: write   # nodig om de gegenereerde bestanden terug te committen
 
 jobs:
   maak-en-post-reel:
@@ -33,6 +38,9 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           FDC_API_KEY: ${{ secrets.FDC_API_KEY }}
         run: python3 run_pipeline.py --skip-upload
+        # --skip-upload: eerst alleen genereren, dan pushen we de bestanden,
+        # en pas daarna (in een aparte stap) publiceren we naar Instagram.
+        # Zo staat het bestand al op Pages voordat Instagram ernaar vraagt.
 
       - name: Gegenereerde bestanden committen en pushen
         run: |
@@ -43,7 +51,7 @@ jobs:
           git push
 
       - name: Wachten tot GitHub Pages de nieuwe bestanden live heeft
-        run: sleep 120
+        run: sleep 120   # 2 minuten, ruim voldoende voor een Pages-redeploy
 
       - name: Publiceren naar Instagram
         env:
