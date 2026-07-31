@@ -1,20 +1,20 @@
 {
-  "png": "output/reel_20260730_220705.png",
-  "mp4": "output/reel_20260730_220705.mp4",
-  "cover": "output/cover_20260730_220705.png",
+  "png": "output/reel_20260731_120453.png",
+  "mp4": "output/reel_20260731_120453.mp4",
+  "cover": "output/cover_20260731_120453.png",
   "content": {
-    "title": "SILENT SIGNS OF A {{DEFICIENCY}}",
+    "title": "KITCHEN CURES FOR {{ANNOYING}} PROBLEMS",
     "facts": [
-      "**Vitamin B12** – Tingling in hands/feet, fatigue, memory problems, and low mood.",
-      "**Iron** – Pale skin, constant tiredness, shortness of breath, and brittle nails.",
-      "**Vitamin D** – Bone pain, muscle weakness, frequent illness, and low mood in winter months.",
-      "**Magnesium** – Muscle cramps, twitching, sleep issues, and irritability.",
-      "**Zinc** – Slow wound healing, hair loss, frequent colds, and reduced sense of taste.",
-      "**Potassium** – Muscle weakness, fatigue, heart palpitations, and constipation.",
-      "**Vitamin C** – Bleeding gums, easy bruising, slow healing, and joint pain."
+      "Bloating ----- Peppermint Tea: contains **menthol** that relaxes gut muscles and helps release trapped gas.",
+      "Muscle Cramps ----- Bananas: rich in **potassium**, a mineral essential for proper muscle contraction.",
+      "Headaches ----- Watermelon: mostly water content, helps fight **dehydration**, a common headache trigger.",
+      "Bad Breath ----- Apples: crunchy texture and **fiber** help naturally scrub away odor-causing bacteria.",
+      "Hiccups ----- Peanut Butter: its thick texture forces **slow, deliberate swallowing** that can reset the diaphragm.",
+      "Brain Fog ----- Blueberries: loaded with **antioxidants** linked to sharper focus and mental clarity.",
+      "Sore Throat ----- Honey: offers natural **antibacterial** properties that help soothe irritation."
     ],
     "claims": []
   },
-  "shape": "symptom_list",
-  "caption": "SILENT SIGNS OF A DEFICIENCY\n\n#healthyeating #wellness #healthtips"
+  "shape": "problem_food_mapping",
+  "caption": "KITCHEN CURES FOR ANNOYING PROBLEMS\n\n#healthyeating #wellness #healthtips"
 }
