@@ -1,19 +1,23 @@
 {
-  "png": "output/reel_20260801_111934.png",
-  "mp4": "output/reel_20260801_111934.mp4",
-  "cover": "output/cover_20260801_111934.png",
+  "png": "output/reel_20260801_160954.png",
+  "mp4": "output/reel_20260801_160954.mp4",
+  "cover": "output/cover_20260801_160954.png",
   "content": {
-    "title": "FOODS FOR THE {{OVERLOOKED}} PARTS OF YOU",
+    "title": "COOKING {{MISTAKES}} THAT CANCEL OUT YOUR EFFORTS",
     "facts": [
-      "CARROTS are good for EYES — they're rich in **beta-carotene**, which the body converts to **vitamin A** to support night vision and eye health.",
-      "SALMON is good for SKIN — its **omega-3 fatty acids** help keep skin hydrated, elastic, and less prone to irritation.",
-      "STRAWBERRIES are good for GUMS — they contain **vitamin C**, which supports **collagen** production for stronger, healthier gum tissue.",
-      "CRANBERRIES are good for the BLADDER — compounds in cranberries may help reduce bacteria sticking to the urinary tract lining.",
-      "TURMERIC is good for JOINTS — its active compound **curcumin** has natural **anti-inflammatory** properties that may ease stiffness.",
-      "ALMONDS are good for NERVES — they provide **magnesium** and **vitamin E**, both important for healthy nerve function and protection."
+      "**Garlic** – Chopping right before cooking reduces its health benefits; let it sit for 10 minutes after cutting to allow beneficial compounds to form.",
+      "**Olive oil** – Heating extra virgin olive oil past its smoke point breaks down its **antioxidants**; use it raw or for low-heat cooking instead.",
+      "**Vegetables** – Boiling vegetables and tossing the water drains away **water-soluble vitamins** like vitamin C and B vitamins; steaming preserves far more.",
+      "**Tomatoes** – Eating them only raw limits **lycopene** absorption; cooking with a bit of oil actually increases how much your body can use.",
+      "**Rice** – Not rinsing rice before cooking leaves more surface starch and, depending on source, trace **arsenic**; rinsing reduces both.",
+      "**Chicken** – Washing raw chicken under the tap doesn't remove bacteria; it just splashes them around your kitchen, raising contamination risk.",
+      "**Spinach** – Eating large amounts only raw limits **iron and calcium** absorption due to oxalates; light cooking reduces this effect.",
+      "**Turmeric** – Adding it to food without **black pepper or fat** means most of its active compound passes through unused.",
+      "**Salads** – Using only fat-free dressing reduces absorption of **fat-soluble vitamins** (A, D, E, K) from the vegetables underneath.",
+      "**Meal prepping** – Storing hot food in sealed containers traps steam, encouraging bacterial growth; let food cool slightly before sealing."
     ],
     "claims": []
   },
-  "shape": "allcaps_benefit",
-  "caption": "FOODS FOR THE OVERLOOKED PARTS OF YOU\n\n#healthyeating #wellness #healthtips"
+  "shape": "myth_bust",
+  "caption": "COOKING MISTAKES THAT CANCEL OUT YOUR EFFORTS\n\n#healthyeating #wellness #healthtips"
 }
