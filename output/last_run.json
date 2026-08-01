@@ -1,23 +1,23 @@
 {
-  "png": "output/reel_20260801_160954.png",
-  "mp4": "output/reel_20260801_160954.mp4",
-  "cover": "output/cover_20260801_160954.png",
+  "png": "output/reel_20260801_205312.png",
+  "mp4": "output/reel_20260801_205312.mp4",
+  "cover": "output/cover_20260801_205312.png",
   "content": {
-    "title": "COOKING {{MISTAKES}} THAT CANCEL OUT YOUR EFFORTS",
+    "title": "SMALL SYMPTOMS, {{SIMPLE}} FIXES",
     "facts": [
-      "**Garlic** – Chopping right before cooking reduces its health benefits; let it sit for 10 minutes after cutting to allow beneficial compounds to form.",
-      "**Olive oil** – Heating extra virgin olive oil past its smoke point breaks down its **antioxidants**; use it raw or for low-heat cooking instead.",
-      "**Vegetables** – Boiling vegetables and tossing the water drains away **water-soluble vitamins** like vitamin C and B vitamins; steaming preserves far more.",
-      "**Tomatoes** – Eating them only raw limits **lycopene** absorption; cooking with a bit of oil actually increases how much your body can use.",
-      "**Rice** – Not rinsing rice before cooking leaves more surface starch and, depending on source, trace **arsenic**; rinsing reduces both.",
-      "**Chicken** – Washing raw chicken under the tap doesn't remove bacteria; it just splashes them around your kitchen, raising contamination risk.",
-      "**Spinach** – Eating large amounts only raw limits **iron and calcium** absorption due to oxalates; light cooking reduces this effect.",
-      "**Turmeric** – Adding it to food without **black pepper or fat** means most of its active compound passes through unused.",
-      "**Salads** – Using only fat-free dressing reduces absorption of **fat-soluble vitamins** (A, D, E, K) from the vegetables underneath.",
-      "**Meal prepping** – Storing hot food in sealed containers traps steam, encouraging bacterial growth; let food cool slightly before sealing."
+      "1. Hiccups ----- Peanut Butter — a **thick, sticky texture** forces slower swallowing, which can interrupt the spasm reflex.",
+      "2. Bad Breath ----- Parsley — packed with **chlorophyll**, a natural compound that helps neutralize odor-causing sulfur compounds.",
+      "3. Muscle Cramps ----- Bananas — rich in **potassium**, a mineral your muscles need to contract and relax properly.",
+      "4. Bloating ----- Ginger — contains compounds that support **digestion** and may ease gas and stomach discomfort.",
+      "5. Brain Fog ----- Walnuts — a good source of **omega-3s**, linked to healthy brain function and focus.",
+      "6. Mouth Ulcers ----- Yogurt — contains **probiotics** that support a balanced mouth and gut microbiome.",
+      "7. Cold Hands & Feet ----- Spinach — high in **iron**, essential for carrying oxygen through your blood to your extremities.",
+      "8. Restless Sleep ----- Tart Cherries — one of the few natural sources of **melatonin**, the hormone that regulates sleep.",
+      "9. Headaches ----- Almonds — contain **magnesium**, a mineral often linked to fewer tension headaches.",
+      "10. Dry, Flaky Skin ----- Avocado — full of **healthy fats** that help support skin's natural moisture barrier."
     ],
     "claims": []
   },
-  "shape": "myth_bust",
-  "caption": "COOKING MISTAKES THAT CANCEL OUT YOUR EFFORTS\n\n#healthyeating #wellness #healthtips"
+  "shape": "problem_food_mapping",
+  "caption": "SMALL SYMPTOMS, SIMPLE FIXES\n\n#healthyeating #wellness #healthtips"
 }
