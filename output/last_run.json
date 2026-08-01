@@ -1,19 +1,19 @@
 {
-  "png": "output/reel_20260731_224900.png",
-  "mp4": "output/reel_20260731_224900.mp4",
-  "cover": "output/cover_20260731_224900.png",
+  "png": "output/reel_20260801_111934.png",
+  "mp4": "output/reel_20260801_111934.mp4",
+  "cover": "output/cover_20260801_111934.png",
   "content": {
-    "title": "MINERALS ON {{DUTY}} INSIDE YOUR BODY",
+    "title": "FOODS FOR THE {{OVERLOOKED}} PARTS OF YOU",
     "facts": [
-      "1. **Magnesium** (Muscle Relaxer) — Pumpkin Seeds | Dark Chocolate | Almonds | Spinach",
-      "2. **Potassium** (Fluid Balancer) — Bananas | Sweet Potatoes | White Beans | Coconut Water",
-      "3. **Zinc** (Immune Guard) — Oysters | Beef | Chickpeas | Pumpkin Seeds",
-      "4. **Iron** (Oxygen Carrier) — Red Meat | Lentils | Spinach | Dark Chocolate",
-      "5. **Calcium** (Bone Builder) — Yogurt | Sardines | Kale | Almonds",
-      "6. **Selenium** (Antioxidant Shield) — Brazil Nuts | Tuna | Eggs | Sunflower Seeds"
+      "CARROTS are good for EYES — they're rich in **beta-carotene**, which the body converts to **vitamin A** to support night vision and eye health.",
+      "SALMON is good for SKIN — its **omega-3 fatty acids** help keep skin hydrated, elastic, and less prone to irritation.",
+      "STRAWBERRIES are good for GUMS — they contain **vitamin C**, which supports **collagen** production for stronger, healthier gum tissue.",
+      "CRANBERRIES are good for the BLADDER — compounds in cranberries may help reduce bacteria sticking to the urinary tract lining.",
+      "TURMERIC is good for JOINTS — its active compound **curcumin** has natural **anti-inflammatory** properties that may ease stiffness.",
+      "ALMONDS are good for NERVES — they provide **magnesium** and **vitamin E**, both important for healthy nerve function and protection."
     ],
     "claims": []
   },
-  "shape": "mineral_sources",
-  "caption": "MINERALS ON DUTY INSIDE YOUR BODY\n\n#healthyeating #wellness #healthtips"
+  "shape": "allcaps_benefit",
+  "caption": "FOODS FOR THE OVERLOOKED PARTS OF YOU\n\n#healthyeating #wellness #healthtips"
 }
