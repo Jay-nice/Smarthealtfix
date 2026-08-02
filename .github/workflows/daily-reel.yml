@@ -57,11 +57,21 @@ jobs:
   # blijft geblokkeerd). Door elke poging een aparte job te maken geeft GitHub
   # er telkens een nieuwe, willekeurige computer bij, en dus een andere kans.
   #
-  # BELANGRIJK: deze jobs halen 'ref: main' op, zodat ze de ZOJUIST door
-  # 'maak-reel' gepushte reel (output/last_run.json) te pakken hebben — anders
-  # zouden ze de vorige reel posten.
+  # BELANGRIJK #1: deze jobs halen 'ref: main' op, zodat ze de ZOJUIST door
+  # 'maak-reel' gepushte reel (output/last_run.json) te pakken hebben.
+  #
+  # BELANGRIJK #2 (bug gevonden + gefixt op 2 augustus 2026): zodra een job
+  # een EIGEN 'if:'-voorwaarde heeft, past GitHub NIET meer automatisch de
+  # regel "alleen draaien als alle needs-jobs geslaagd zijn" toe - dat moet
+  # je er dan zelf expliciet bij zetten. Zonder 'needs.maak-reel.result ==
+  # success' in de voorwaarde hieronder draaiden poging-2/3 ook door als
+  # maak-reel MISLUKTE (bijv. door een Anthropic API-hikje) - ze checkten dan
+  # gewoon de OUDE, nog niet vervangen output/last_run.json uit en postten
+  # zo een reel van een vorige dag NOG EEN KEER, zonder dat er iets nieuws
+  # gegenereerd was. Dat gaf 3x exact dezelfde post op één dag.
   publiceer-poging-1:
     needs: maak-reel
+    if: needs.maak-reel.result == 'success'
     runs-on: ubuntu-latest
     outputs:
       gelukt: ${{ steps.pub.outcome }}
@@ -90,7 +100,9 @@ jobs:
 
   publiceer-poging-2:
     needs: [maak-reel, publiceer-poging-1]
-    if: needs.publiceer-poging-1.outputs.gelukt != 'success'
+    if: |
+      needs.maak-reel.result == 'success' &&
+      needs.publiceer-poging-1.outputs.gelukt != 'success'
     runs-on: ubuntu-latest
     outputs:
       gelukt: ${{ steps.pub.outcome }}
@@ -119,7 +131,10 @@ jobs:
 
   publiceer-poging-3:
     needs: [maak-reel, publiceer-poging-1, publiceer-poging-2]
-    if: needs.publiceer-poging-1.outputs.gelukt != 'success' && needs.publiceer-poging-2.outputs.gelukt != 'success'
+    if: |
+      needs.maak-reel.result == 'success' &&
+      needs.publiceer-poging-1.outputs.gelukt != 'success' &&
+      needs.publiceer-poging-2.outputs.gelukt != 'success'
     runs-on: ubuntu-latest
     outputs:
       gelukt: ${{ steps.pub.outcome }}
@@ -146,9 +161,9 @@ jobs:
           PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL }}
         run: python3 publish_latest.py
 
-  # --- Eindcontrole: groen als minstens één poging postte, rood als alles faalde ---
+  # --- Eindcontrole: groen als minstens één poging postte, rood als er echt iets mis is ---
   controle:
-    needs: [publiceer-poging-1, publiceer-poging-2, publiceer-poging-3]
+    needs: [maak-reel, publiceer-poging-1, publiceer-poging-2, publiceer-poging-3]
     if: always()
     runs-on: ubuntu-latest
     steps:
@@ -158,7 +173,13 @@ jobs:
           || [ "${{ needs.publiceer-poging-2.outputs.gelukt }}" = "success" ] \
           || [ "${{ needs.publiceer-poging-3.outputs.gelukt }}" = "success" ]; then
             echo "Reel is gepost. Alles goed."
+          elif [ "${{ needs.maak-reel.result }}" != "success" ]; then
+            echo "Het GENEREREN van de reel is mislukt (zie de 'maak-reel'-job hierboven"
+            echo "voor de foutmelding, bijv. een Anthropic API-probleem). Er is daardoor"
+            echo "terecht NIETS gepost - dit is geen Instagram-probleem."
+            exit 1
           else
-            echo "Alle 3 pogingen mislukt. Waarschijnlijk blokkeert Meta breed of is je token verlopen — check je IG_ACCESS_TOKEN."
+            echo "Genereren lukte, maar alle 3 publiceer-pogingen naar Instagram mislukten."
+            echo "Waarschijnlijk blokkeert Meta breed of is je token verlopen — check je IG_ACCESS_TOKEN."
             exit 1
           fi
