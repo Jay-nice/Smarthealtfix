@@ -40,12 +40,17 @@ jobs:
           FDC_API_KEY: ${{ secrets.FDC_API_KEY }}
         run: python3 run_pipeline.py --skip-upload
 
-      - name: Gegenereerde bestanden committen en pushen
+      # 'if: always()' zodat we OOK committen als de stap hierboven faalde
+      # (bijv. door een factcheck-afkeuring) - anders verdwijnt een eventueel
+      # review_queue/-bestand spoorloos zodra deze tijdelijke computer wordt
+      # opgeruimd, en kun je nooit zien wát er precies is afgekeurd.
+      - name: Gegenereerde bestanden (en eventuele afgekeurde review_queue) committen en pushen
+        if: always()
         run: |
           git config user.name "reel-bot"
           git config user.email "reel-bot@users.noreply.github.com"
-          git add -f output/
-          git diff --staged --quiet || git commit -m "Nieuwe reel: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git add -f output/ review_queue/
+          git diff --staged --quiet || git commit -m "Nieuwe reel / review_queue-update: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
 
       - name: Wachten tot GitHub Pages de nieuwe bestanden live heeft
