@@ -191,9 +191,23 @@ def build_caption(content, hashtags="#healthyeating #wellness #healthtips"):
 
 
 if __name__ == "__main__":
+    import sys
+
     parser = argparse.ArgumentParser()
     parser.add_argument("--skip-upload", action="store_true",
                          help="Genereer alleen, upload pas in een latere/aparte stap "
                               "(gebruikt door de GitHub Actions workflow).")
     args = parser.parse_args()
-    run_once(skip_upload=args.skip_upload)
+    result = run_once(skip_upload=args.skip_upload)
+
+    if result is None:
+        # run_once() geeft None terug als de factcheck de content afkeurde (zie
+        # review_queue/). Vroeger merkte niemand dit: het script sloot gewoon af
+        # met exit code 0, GitHub Actions zag dat als "gelukt", en de publiceer-
+        # stap postte dan stilletjes de VORIGE (oude) reel nog een keer omdat er
+        # niks nieuws was om te posten. Nu laten we dit expliciet als mislukking
+        # tellen, zodat de workflow rood kleurt en er NIETS herhaald/herpost wordt.
+        print("[FOUT] Geen nieuwe reel gemaakt deze run (afgekeurd door factcheck of "
+              "een andere reden - zie hierboven). Dit telt vanaf nu als mislukt, dus "
+              "wordt er niks (opnieuw) gepost.")
+        sys.exit(1)
