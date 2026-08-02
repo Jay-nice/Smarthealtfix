@@ -1,19 +1,18 @@
 {
-  "png": "output/reel_20260802_232107.png",
-  "mp4": "output/reel_20260802_232107.mp4",
-  "cover": "output/cover_20260802_232107.png",
+  "png": "output/reel_20260802_235344.png",
+  "mp4": "output/reel_20260802_235344.mp4",
+  "cover": "output/cover_20260802_235344.png",
   "content": {
-    "title": "WHAT YOUR BODY IS TRYING TO {{TELL}} YOU",
+    "title": "MINERALS HIDING IN YOUR EVERYDAY {{GROCERIES}}",
     "facts": [
-      "**Iron** – Pale skin, constant fatigue, shortness of breath, and brittle nails.",
-      "**Vitamin D** – Bone aches, frequent colds, muscle weakness, and low mood in darker months.",
-      "**Magnesium** – Muscle cramps, twitching eyelids, poor sleep, and irritability.",
-      "**Vitamin B12** – Tingling in hands/feet, weakness, memory problems, and low mood.",
-      "**Zinc** – Slow wound healing, frequent infections, hair thinning, and reduced sense of taste.",
-      "**Potassium** – Muscle weakness, irregular heartbeat, fatigue, and leg cramps."
+      "**Iodine** (Thyroid Fuel) — Seaweed | Cod | Dairy | Eggs",
+      "**Copper** (Energy Enzyme Helper) — Cashews | Shiitake Mushrooms | Dark Chocolate | Chickpeas",
+      "**Manganese** (Bone & Joint Support) — Pineapple | Brown Rice | Spinach | Mussels",
+      "**Potassium** (Fluid Balancer) — Bananas | Sweet Potato | White Beans | Coconut Water",
+      "**Selenium** (Antioxidant Shield) — Brazil Nuts | Tuna | Eggs | Sunflower Seeds"
     ],
     "claims": []
   },
-  "shape": "symptom_list",
-  "caption": "WHAT YOUR BODY IS TRYING TO TELL YOU\n\n#healthyeating #wellness #healthtips"
+  "shape": "mineral_sources",
+  "caption": "MINERALS HIDING IN YOUR EVERYDAY GROCERIES\n\n#healthyeating #wellness #healthtips"
 }
