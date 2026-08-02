@@ -1,23 +1,19 @@
 {
-  "png": "output/reel_20260801_205312.png",
-  "mp4": "output/reel_20260801_205312.mp4",
-  "cover": "output/cover_20260801_205312.png",
+  "png": "output/reel_20260802_232107.png",
+  "mp4": "output/reel_20260802_232107.mp4",
+  "cover": "output/cover_20260802_232107.png",
   "content": {
-    "title": "SMALL SYMPTOMS, {{SIMPLE}} FIXES",
+    "title": "WHAT YOUR BODY IS TRYING TO {{TELL}} YOU",
     "facts": [
-      "1. Hiccups ----- Peanut Butter — a **thick, sticky texture** forces slower swallowing, which can interrupt the spasm reflex.",
-      "2. Bad Breath ----- Parsley — packed with **chlorophyll**, a natural compound that helps neutralize odor-causing sulfur compounds.",
-      "3. Muscle Cramps ----- Bananas — rich in **potassium**, a mineral your muscles need to contract and relax properly.",
-      "4. Bloating ----- Ginger — contains compounds that support **digestion** and may ease gas and stomach discomfort.",
-      "5. Brain Fog ----- Walnuts — a good source of **omega-3s**, linked to healthy brain function and focus.",
-      "6. Mouth Ulcers ----- Yogurt — contains **probiotics** that support a balanced mouth and gut microbiome.",
-      "7. Cold Hands & Feet ----- Spinach — high in **iron**, essential for carrying oxygen through your blood to your extremities.",
-      "8. Restless Sleep ----- Tart Cherries — one of the few natural sources of **melatonin**, the hormone that regulates sleep.",
-      "9. Headaches ----- Almonds — contain **magnesium**, a mineral often linked to fewer tension headaches.",
-      "10. Dry, Flaky Skin ----- Avocado — full of **healthy fats** that help support skin's natural moisture barrier."
+      "**Iron** – Pale skin, constant fatigue, shortness of breath, and brittle nails.",
+      "**Vitamin D** – Bone aches, frequent colds, muscle weakness, and low mood in darker months.",
+      "**Magnesium** – Muscle cramps, twitching eyelids, poor sleep, and irritability.",
+      "**Vitamin B12** – Tingling in hands/feet, weakness, memory problems, and low mood.",
+      "**Zinc** – Slow wound healing, frequent infections, hair thinning, and reduced sense of taste.",
+      "**Potassium** – Muscle weakness, irregular heartbeat, fatigue, and leg cramps."
     ],
     "claims": []
   },
-  "shape": "problem_food_mapping",
-  "caption": "SMALL SYMPTOMS, SIMPLE FIXES\n\n#healthyeating #wellness #healthtips"
+  "shape": "symptom_list",
+  "caption": "WHAT YOUR BODY IS TRYING TO TELL YOU\n\n#healthyeating #wellness #healthtips"
 }
