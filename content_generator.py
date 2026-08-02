@@ -170,7 +170,8 @@ def fact_check_content(content, shape_key):
     return is_approved, {"checked": len(content["claims"]), "issues": issues}
 
 
-def generate_and_check(shape_key, topic_hint, audience="algemeen", recent_titles=None):
+def generate_and_check(shape_key, topic_hint, audience="algemeen", recent_titles=None,
+                        recent_items=None):
     system_prompt = build_system_prompt(shape_key, audience)
     user_prompt = f"Onderwerp/invalshoek: {topic_hint}\n\nSchrijf nu de content volgens het schema."
     if recent_titles:
@@ -179,6 +180,15 @@ def generate_and_check(shape_key, topic_hint, audience="algemeen", recent_titles
             f"\n\nBelangrijk: deze titels/invalshoeken zijn recent al gebruikt, "
             f"kies een merkbaar andere invalshoek (niet gewoon een synoniem van "
             f"hetzelfde idee):\n{titles_list}"
+        )
+    if recent_items:
+        items_list = ", ".join(recent_items)
+        user_prompt += (
+            f"\n\nNOG BELANGRIJKER: deze specifieke voedingsmiddelen/voedingsstoffen/"
+            f"klachten/organen zijn recent al gebruikt in dit account (over meerdere "
+            f"reels heen, ongeacht de vorm). Vermijd ze zoveel mogelijk en kies "
+            f"echt andere, ook minder voor de hand liggende opties - niet steeds "
+            f"dezelfde 'bekendste' 5-6 terugpakken:\n{items_list}"
         )
     content = call_claude(system_prompt, user_prompt)
     approved, report = fact_check_content(content, shape_key)
