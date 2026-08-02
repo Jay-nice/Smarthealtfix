@@ -10,11 +10,21 @@ altijd. Daarom probeert dit script automatisch meerdere actuele versies tot
 er één werkt, en meldt het welke versie het deed. Zo hoef je bij de volgende
 sunset (over ~2 jaar) alleen API_VERSIONS bij te werken, of de omgevings-
 variabele IG_API_VERSION te zetten.
+
+Dubbele posts voorkomen (augustus 2026): de daily-reel workflow probeert het
+publiceren tot 3x op een verse computer als een poging faalt. Instagram's
+publiceer-endpoint is NIET idempotent — als een netwerkhikje optreedt vlak
+NADAT de post al gelukt is (we krijgen geen bevestiging terug, maar 'm staat
+al live), denkt dit script dat het mislukt is en zou de volgende poging een
+tweede, identieke post plaatsen. Daarom checkt publish_reel() vóór het
+posten eerst of er al een recente post met exact dezelfde caption bestaat,
+en slaat het publiceren dan over in plaats van te dupliceren.
 """
 
 import os
 import time
 import requests
+from datetime import datetime, timezone
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -28,6 +38,12 @@ API_VERSIONS = ["v26.0", "v25.0", "v24.0"]
 _forced = os.environ.get("IG_API_VERSION")
 if _forced:
     API_VERSIONS = [_forced if _forced.startswith("v") else f"v{_forced}"]
+
+# Hoe recent een bestaande post met dezelfde caption moet zijn om als
+# "dat ben ik zelf, net geplaatst" te tellen i.p.v. toeval (een keer eerder
+# exact dezelfde tekst gebruikt). Ruim boven de tijd die 1 publiceer-poging
+# (incl. polling) kost, ruim onder de tijd tot de volgende geplande post.
+DUPLICATE_WINDOW_MINUTES = 180
 
 
 def _graph_base(version):
@@ -92,10 +108,54 @@ def _post_on_version(url, params, what):
     return last, False
 
 
+def _find_recent_duplicate(caption):
+    """
+    Kijkt of er al een post met EXACT deze caption bestaat, geplaatst binnen
+    DUPLICATE_WINDOW_MINUTES. Geeft het media_id terug als die gevonden is,
+    anders None. Faalt deze check zelf (netwerk/API-probleem), dan geven we
+    gewoon None terug — liever een keer een gemiste duplicate-check dan de
+    hele publicatie blokkeren op een check die zelf niet werkt.
+    """
+    for version in API_VERSIONS:
+        try:
+            resp = requests.get(
+                f"{_graph_base(version)}/{IG_USER_ID}/media",
+                params={"fields": "id,caption,timestamp", "limit": 5,
+                        "access_token": IG_ACCESS_TOKEN},
+                timeout=30,
+            )
+        except requests.exceptions.RequestException:
+            continue
+        if not resp.ok:
+            continue
+
+        now = datetime.now(timezone.utc)
+        for item in resp.json().get("data", []):
+            if (item.get("caption") or "") != caption:
+                continue
+            try:
+                posted_at = datetime.fromisoformat(item["timestamp"].replace("Z", "+00:00"))
+            except (KeyError, ValueError):
+                continue
+            age_minutes = (now - posted_at).total_seconds() / 60
+            if age_minutes <= DUPLICATE_WINDOW_MINUTES:
+                return item["id"], age_minutes
+        return None, None  # gelukt gelezen, gewoon geen match - niet bij andere versies nogmaals proberen
+
+    return None, None  # geen enkele versie kon de check uitvoeren
+
+
 def publish_reel(video_url, caption, cover_url=None, audio_name=None,
                   poll_interval=10, max_polls=30):
     if not IG_ACCESS_TOKEN or not IG_USER_ID:
         raise RuntimeError("IG_ACCESS_TOKEN / IG_USER_ID ontbreken in .env - draai eerst oauth_setup.py.")
+
+    # --- Stap 0: is dit al gepost? (voorkomt duplicaten bij een retry-poging) ---
+    existing_id, age_minutes = _find_recent_duplicate(caption)
+    if existing_id:
+        print(f"[0/3] Deze caption staat al {age_minutes:.0f} min geleden gepost "
+              f"(media_id={existing_id}). Publiceren overgeslagen om duplicaat te voorkomen.")
+        return existing_id
 
     params = {
         "media_type": "REELS",
@@ -157,6 +217,16 @@ def publish_reel(video_url, caption, cover_url=None, audio_name=None,
         time.sleep(poll_interval)
     else:
         raise TimeoutError("Video was na te veel pogingen nog niet FINISHED.")
+
+    # --- Stap 2b: vlak vóór publiceren nog één keer checken. Dekt het geval
+    # waarbij een EERDERE poging het hier tot en met publiceren schopte, wij
+    # geen bevestiging kregen (vandaar dat we opnieuw zijn gestart), maar de
+    # post ondertussen al live staat. ---
+    existing_id, age_minutes = _find_recent_duplicate(caption)
+    if existing_id:
+        print(f"[2b/3] Bleek ondertussen al gepost te zijn ({age_minutes:.0f} min geleden, "
+              f"media_id={existing_id}). Publiceren overgeslagen.")
+        return existing_id
 
     # --- Stap 3: publiceren (zelfde versie die de container accepteerde) ---
     publish_resp, ok = _post_on_version(
