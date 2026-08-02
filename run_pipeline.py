@@ -15,6 +15,7 @@ import argparse
 import json
 import os
 import random
+import re
 import time
 from datetime import datetime
 
@@ -24,13 +25,19 @@ import generate_cover as gc
 from instagram_publish import publish_reel
 
 TOPIC_POOL = [
-    ("nutrient_comparison", "vitamines en mineralen in veelgegeten groenten en fruit"),
+    ("nutrient_comparison", "vitamines en mineralen in veelgegeten groenten en fruit - "
+     "varieer breed tussen vitamine C, magnesium, kalium, vezels, vitamine D, vitamine K, "
+     "selenium, calcium, ijzer, zink, omega-3, niet steeds dezelfde 1-2 stoffen"),
     ("myth_bust", "veelgemaakte fouten bij het klaarmaken van gezond eten"),
     ("boxed_hacks", "snelle, ongevaarlijke huis-tuin-en-keuken trucjes voor kleine kwaaltjes"),
     ("allcaps_benefit", "welk voedsel goed is voor welk orgaan/lichaamsfunctie"),
-    ("symptom_list", "signalen van een tekort aan een vitamine of mineraal"),
+    ("symptom_list", "signalen van een tekort aan een vitamine of mineraal - kies breed uit "
+     "o.a. ijzer, vitamine D, magnesium, vitamine B12, zink, kalium, vitamine C, calcium, "
+     "jodium, foliumzuur, vitamine A, vitamine E, omega-3 - niet steeds dezelfde 5-6 'bekendste'"),
     ("problem_food_mapping", "welk voedsel helpt bij een veelvoorkomend klein gezondheidsprobleem"),
-    ("mineral_sources", "een mineraal, zijn functie in het lichaam, en waar je het in vindt"),
+    ("mineral_sources", "een mineraal, zijn functie in het lichaam, en waar je het in vindt - "
+     "varieer tussen o.a. magnesium, ijzer, zink, calcium, kalium, jodium, selenium, koper, "
+     "mangaan - niet steeds dezelfde 2-3"),
     ("numbered_explainer", "kleine dagelijkse gewoontes met een concreet gezondheidsvoordeel"),
 ]
 
@@ -38,25 +45,61 @@ TOPIC_POOL = [
 HISTORY_PATH = "output/history.json"
 HISTORY_LENGTH = 3
 TITLE_HISTORY_LENGTH = 6
+ITEMS_HISTORY_LENGTH = 36   # ruim genoeg voor ~6 reels aan specifieke items
 
 
 def _load_history():
     if not os.path.exists(HISTORY_PATH):
-        return {"shapes": [], "titles": []}
+        return {"shapes": [], "titles": [], "items": []}
     try:
         with open(HISTORY_PATH) as f:
             data = json.load(f)
             if isinstance(data, list):
-                return {"shapes": data, "titles": []}
+                return {"shapes": data, "titles": [], "items": []}
+            data.setdefault("shapes", [])
+            data.setdefault("titles", [])
+            data.setdefault("items", [])
             return data
     except (json.JSONDecodeError, OSError):
-        return {"shapes": [], "titles": []}
+        return {"shapes": [], "titles": [], "items": []}
 
 
-def _save_history(shape_key, title):
+def _extract_items(content):
+    """
+    Haalt de specifieke onderwerpen (voedingsstof/voedingsmiddel/klacht/orgaan) uit
+    de gegenereerde feiten, zodat we die apart van de titel kunnen onthouden en de
+    volgende keer kunnen laten vermijden. Twee simpele signalen, samengevoegd:
+    - alle **vetgedrukte** stukken tekst
+    - het stuk vóór het eerste streepje/liggend streepje (meestal de kern-entiteit,
+      bijv. "Iron – ..." of "1. Hiccups ----- Peanut Butter")
+    Geen perfecte NLP, maar ruim genoeg om te voorkomen dat dezelfde 5-6 voor de
+    hand liggende items steeds terugkomen.
+    """
+    bold_re = re.compile(r"\*\*(.+?)\*\*")
+    lead_re = re.compile(r"^\s*(?:\d+\.\s*)?(.+?)\s*(?:–|—|-{2,})\s")
+
+    items = set()
+    for fact in content.get("facts", []):
+        for m in bold_re.findall(fact):
+            cleaned = m.strip().strip(".,")
+            if cleaned:
+                items.add(cleaned)
+        lead_match = lead_re.match(fact)
+        if lead_match:
+            lead = lead_match.group(1).replace("*", "").strip()
+            if lead and len(lead) < 40:  # lange zinnen overslaan, dat is geen "item"
+                items.add(lead)
+    return items
+
+
+def _save_history(shape_key, title, new_items=None):
     history = _load_history()
     history["shapes"] = (history["shapes"] + [shape_key])[-HISTORY_LENGTH:]
     history["titles"] = (history["titles"] + [title])[-TITLE_HISTORY_LENGTH:]
+    if new_items:
+        # dedupliceren met behoud van volgorde (oudste eerst, nieuwste onderaan)
+        combined = history["items"] + [i for i in new_items if i not in history["items"]]
+        history["items"] = combined[-ITEMS_HISTORY_LENGTH:]
     os.makedirs(os.path.dirname(HISTORY_PATH), exist_ok=True)
     with open(HISTORY_PATH, "w") as f:
         json.dump(history, f)
@@ -81,9 +124,13 @@ def run_once(handle="@smarthealthfix", display_name="Smart Health Fix",
     (shape_key, topic_hint), audience = pick_todays_topic()
     print(f"[1/5] Genereren: vorm='{shape_key}', onderwerp='{topic_hint}'")
 
-    recent_titles = _load_history()["titles"]
+    history = _load_history()
+    recent_titles = history["titles"]
+    recent_items = history["items"]
+    if recent_items:
+        print(f"[1/5] Vermijd recente items: {', '.join(recent_items)}")
     result = generate_and_check(shape_key, topic_hint, audience=audience,
-                                 recent_titles=recent_titles)
+                                 recent_titles=recent_titles, recent_items=recent_items)
 
     if not result["approved"]:
         ts = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -114,7 +161,9 @@ def run_once(handle="@smarthealthfix", display_name="Smart Health Fix",
     cover_path = gc.make_cover_for_topic(cover_title, display_name, f"output/cover_{ts}.png")
     print(f"[5/5] Cover klaar: {cover_path}")
 
-    _save_history(shape_key, cover_title)
+    new_items = _extract_items(content)
+    print(f"[i] Nieuwe items uit deze reel (onthouden voor volgende keer): {', '.join(new_items) or '(geen gevonden)'}")
+    _save_history(shape_key, cover_title, new_items)
 
     caption = build_caption(content)
     result_paths = {"png": png_path, "mp4": mp4_path, "cover": cover_path,
