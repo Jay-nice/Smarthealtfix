@@ -1,18 +1,21 @@
 {
-  "png": "output/reel_20260802_235344.png",
-  "mp4": "output/reel_20260802_235344.mp4",
-  "cover": "output/cover_20260802_235344.png",
+  "png": "output/reel_20260803_125655.png",
+  "mp4": "output/reel_20260803_125655.mp4",
+  "cover": "output/cover_20260803_125655.png",
   "content": {
-    "title": "MINERALS HIDING IN YOUR EVERYDAY {{GROCERIES}}",
+    "title": "FOODS AND THE ORGANS THEY {{QUIETLY}} SUPPORT",
     "facts": [
-      "**Iodine** (Thyroid Fuel) — Seaweed | Cod | Dairy | Eggs",
-      "**Copper** (Energy Enzyme Helper) — Cashews | Shiitake Mushrooms | Dark Chocolate | Chickpeas",
-      "**Manganese** (Bone & Joint Support) — Pineapple | Brown Rice | Spinach | Mussels",
-      "**Potassium** (Fluid Balancer) — Bananas | Sweet Potato | White Beans | Coconut Water",
-      "**Selenium** (Antioxidant Shield) — Brazil Nuts | Tuna | Eggs | Sunflower Seeds"
+      "**BEETS** are good for **LIVER** — they contain **betalains** that support the liver's natural detox pathways.",
+      "**CARROTS** are good for **EYES** — rich in **beta-carotene**, which the body converts into vitamin A for healthy vision.",
+      "**OATS** are good for **GUT LINING** — their **soluble fiber** feeds beneficial bacteria and helps maintain a healthy gut barrier.",
+      "**CHERRIES** are good for **JOINTS** — they contain **anthocyanins**, plant compounds linked to lower inflammation around joints.",
+      "**CRANBERRIES** are good for **BLADDER** — compounds called **proanthocyanidins** may help stop bacteria from sticking to the bladder wall.",
+      "**PUMPKIN SEEDS** are good for **PANCREAS** — they provide **magnesium**, a mineral involved in insulin activity and pancreatic function.",
+      "**ARTICHOKES** are good for **GALLBLADDER** — they contain **cynarin**, which may support healthy bile flow.",
+      "**WALNUTS** are good for **BRAIN** — a natural source of **omega-3 ALA**, linked to long-term brain health."
     ],
     "claims": []
   },
-  "shape": "mineral_sources",
-  "caption": "MINERALS HIDING IN YOUR EVERYDAY GROCERIES\n\n#healthyeating #wellness #healthtips"
+  "shape": "allcaps_benefit",
+  "caption": "FOODS AND THE ORGANS THEY QUIETLY SUPPORT\n\n#healthyeating #wellness #healthtips"
 }
