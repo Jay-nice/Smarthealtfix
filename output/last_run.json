@@ -1,21 +1,20 @@
 {
-  "png": "output/reel_20260803_125655.png",
-  "mp4": "output/reel_20260803_125655.mp4",
-  "cover": "output/cover_20260803_125655.png",
+  "png": "output/reel_20260803_171731.png",
+  "mp4": "output/reel_20260803_171731.mp4",
+  "cover": "output/cover_20260803_171731.png",
   "content": {
-    "title": "FOODS AND THE ORGANS THEY {{QUIETLY}} SUPPORT",
+    "title": "TINY HABITS, {{HUGE}} PAYOFFS",
     "facts": [
-      "**BEETS** are good for **LIVER** — they contain **betalains** that support the liver's natural detox pathways.",
-      "**CARROTS** are good for **EYES** — rich in **beta-carotene**, which the body converts into vitamin A for healthy vision.",
-      "**OATS** are good for **GUT LINING** — their **soluble fiber** feeds beneficial bacteria and helps maintain a healthy gut barrier.",
-      "**CHERRIES** are good for **JOINTS** — they contain **anthocyanins**, plant compounds linked to lower inflammation around joints.",
-      "**CRANBERRIES** are good for **BLADDER** — compounds called **proanthocyanidins** may help stop bacteria from sticking to the bladder wall.",
-      "**PUMPKIN SEEDS** are good for **PANCREAS** — they provide **magnesium**, a mineral involved in insulin activity and pancreatic function.",
-      "**ARTICHOKES** are good for **GALLBLADDER** — they contain **cynarin**, which may support healthy bile flow.",
-      "**WALNUTS** are good for **BRAIN** — a natural source of **omega-3 ALA**, linked to long-term brain health."
+      "**Splash cold water on your face** every morning — it stimulates the vagus nerve, slowing your heart rate and sharpening focus within seconds.",
+      "**Walk for 10 minutes after eating** — this simple move blunts blood sugar spikes and speeds up digestion far more than sitting does.",
+      "**Stand on one leg while brushing your teeth** — it quietly trains balance and core stability, lowering fall risk as you age.",
+      "**Take 5 slow belly breaths before meals** — it shifts your body into rest-and-digest mode, easing bloating and improving nutrient absorption.",
+      "**Get natural light within 30 minutes of waking** — this resets your internal clock, leading to deeper sleep and steadier energy all day.",
+      "**Chew each bite closer to 20 times** — it gives your brain time to register fullness, naturally reducing overeating.",
+      "**Stretch your calves before bed** — better blood flow here can cut down on nighttime leg cramps and restless sleep."
     ],
     "claims": []
   },
-  "shape": "allcaps_benefit",
-  "caption": "FOODS AND THE ORGANS THEY QUIETLY SUPPORT\n\n#healthyeating #wellness #healthtips"
+  "shape": "numbered_explainer",
+  "caption": "TINY HABITS, HUGE PAYOFFS\n\n#healthyeating #wellness #healthtips"
 }
