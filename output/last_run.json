@@ -1,20 +1,21 @@
 {
-  "png": "output/reel_20260803_171731.png",
-  "mp4": "output/reel_20260803_171731.mp4",
-  "cover": "output/cover_20260803_171731.png",
+  "png": "output/reel_20260803_210314.png",
+  "mp4": "output/reel_20260803_210314.mp4",
+  "cover": "output/cover_20260803_210314.png",
   "content": {
-    "title": "TINY HABITS, {{HUGE}} PAYOFFS",
+    "title": "KITCHEN {{FIXES}} FOR EVERYDAY ANNOYANCES",
     "facts": [
-      "**Splash cold water on your face** every morning — it stimulates the vagus nerve, slowing your heart rate and sharpening focus within seconds.",
-      "**Walk for 10 minutes after eating** — this simple move blunts blood sugar spikes and speeds up digestion far more than sitting does.",
-      "**Stand on one leg while brushing your teeth** — it quietly trains balance and core stability, lowering fall risk as you age.",
-      "**Take 5 slow belly breaths before meals** — it shifts your body into rest-and-digest mode, easing bloating and improving nutrient absorption.",
-      "**Get natural light within 30 minutes of waking** — this resets your internal clock, leading to deeper sleep and steadier energy all day.",
-      "**Chew each bite closer to 20 times** — it gives your brain time to register fullness, naturally reducing overeating.",
-      "**Stretch your calves before bed** — better blood flow here can cut down on nighttime leg cramps and restless sleep."
+      "Hiccups – Swallow a **teaspoon of sugar** to help reset the nerve signal causing the spasm.",
+      "Bad Breath – Chew a sprig of **fresh parsley** to neutralize odor-causing sulfur compounds.",
+      "Nosebleed – Pinch the **soft part of your nose** and lean slightly forward for five minutes.",
+      "Sunburn – Apply **cool plain yogurt** to the skin to ease heat and calm irritation.",
+      "Muscle Cramp – Press firmly on your **upper lip** for thirty seconds to interrupt the nerve signal.",
+      "Dry Cough – Sip **warm water with honey** to coat and soothe an irritated throat.",
+      "Canker Sore – Rinse with **warm salt water** a few times a day to reduce irritation.",
+      "Brain Freeze – Press your **tongue** flat against the roof of your mouth to warm it quickly."
     ],
     "claims": []
   },
-  "shape": "numbered_explainer",
-  "caption": "TINY HABITS, HUGE PAYOFFS\n\n#healthyeating #wellness #healthtips"
+  "shape": "boxed_hacks",
+  "caption": "KITCHEN FIXES FOR EVERYDAY ANNOYANCES\n\n#healthyeating #wellness #healthtips"
 }
