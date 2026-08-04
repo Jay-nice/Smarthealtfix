@@ -1,21 +1,19 @@
 {
-  "png": "output/reel_20260803_210314.png",
-  "mp4": "output/reel_20260803_210314.mp4",
-  "cover": "output/cover_20260803_210314.png",
+  "png": "output/reel_20260804_120506.png",
+  "mp4": "output/reel_20260804_120506.mp4",
+  "cover": "output/cover_20260804_120506.png",
   "content": {
-    "title": "KITCHEN {{FIXES}} FOR EVERYDAY ANNOYANCES",
+    "title": "COMMON COMPLAINTS, {{SIMPLE}} FIXES",
     "facts": [
-      "Hiccups – Swallow a **teaspoon of sugar** to help reset the nerve signal causing the spasm.",
-      "Bad Breath – Chew a sprig of **fresh parsley** to neutralize odor-causing sulfur compounds.",
-      "Nosebleed – Pinch the **soft part of your nose** and lean slightly forward for five minutes.",
-      "Sunburn – Apply **cool plain yogurt** to the skin to ease heat and calm irritation.",
-      "Muscle Cramp – Press firmly on your **upper lip** for thirty seconds to interrupt the nerve signal.",
-      "Dry Cough – Sip **warm water with honey** to coat and soothe an irritated throat.",
-      "Canker Sore – Rinse with **warm salt water** a few times a day to reduce irritation.",
-      "Brain Freeze – Press your **tongue** flat against the roof of your mouth to warm it quickly."
+      "1. **Bloating** ----- **Fennel Seeds**: their natural compounds help relax the gut and ease trapped gas.",
+      "2. **Restless Sleep** ----- **Kiwi**: rich in antioxidants and **serotonin**-supporting compounds linked to better sleep quality.",
+      "3. **Dry, Flaky Skin** ----- **Sunflower Seeds**: packed with **vitamin E**, which supports skin moisture and barrier repair.",
+      "4. **Frequent Headaches** ----- **Pumpkin Seeds**: a strong source of **magnesium**, a mineral tied to fewer tension headaches.",
+      "5. **Weak, Brittle Nails** ----- **Lentils**: high in **iron** and **biotin**, both essential for stronger nail growth.",
+      "6. **Eye Strain** ----- **Carrots**: loaded with **vitamin A**, key for healthy vision and reduced eye fatigue."
     ],
     "claims": []
   },
-  "shape": "boxed_hacks",
-  "caption": "KITCHEN FIXES FOR EVERYDAY ANNOYANCES\n\n#healthyeating #wellness #healthtips"
+  "shape": "problem_food_mapping",
+  "caption": "COMMON COMPLAINTS, SIMPLE FIXES\n\n#healthyeating #wellness #healthtips"
 }
