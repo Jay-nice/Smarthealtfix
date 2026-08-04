@@ -1,19 +1,18 @@
 {
-  "png": "output/reel_20260804_120506.png",
-  "mp4": "output/reel_20260804_120506.mp4",
-  "cover": "output/cover_20260804_120506.png",
+  "png": "output/reel_20260804_170026.png",
+  "mp4": "output/reel_20260804_170026.mp4",
+  "cover": "output/cover_20260804_170026.png",
   "content": {
-    "title": "COMMON COMPLAINTS, {{SIMPLE}} FIXES",
+    "title": "THE MINERALS YOUR BODY BURNS THROUGH {{DAILY}}",
     "facts": [
-      "1. **Bloating** ----- **Fennel Seeds**: their natural compounds help relax the gut and ease trapped gas.",
-      "2. **Restless Sleep** ----- **Kiwi**: rich in antioxidants and **serotonin**-supporting compounds linked to better sleep quality.",
-      "3. **Dry, Flaky Skin** ----- **Sunflower Seeds**: packed with **vitamin E**, which supports skin moisture and barrier repair.",
-      "4. **Frequent Headaches** ----- **Pumpkin Seeds**: a strong source of **magnesium**, a mineral tied to fewer tension headaches.",
-      "5. **Weak, Brittle Nails** ----- **Lentils**: high in **iron** and **biotin**, both essential for stronger nail growth.",
-      "6. **Eye Strain** ----- **Carrots**: loaded with **vitamin A**, key for healthy vision and reduced eye fatigue."
+      "**Zinc** (Immune Defender) — Oysters | Chickpeas | Cashews | Dark Chocolate",
+      "**Potassium** (Fluid Balancer) — Coconut Water | Sweet Potatoes | White Beans | Bananas",
+      "**Iodine** (Thyroid Fuel) — Seaweed | Cod | Dairy Milk | Eggs",
+      "**Selenium** (Antioxidant Shield) — Brazil Nuts | Tuna | Mushrooms | Sardines",
+      "**Manganese** (Bone Builder) — Pineapple | Brown Rice | Spinach | Tahini"
     ],
     "claims": []
   },
-  "shape": "problem_food_mapping",
-  "caption": "COMMON COMPLAINTS, SIMPLE FIXES\n\n#healthyeating #wellness #healthtips"
+  "shape": "mineral_sources",
+  "caption": "THE MINERALS YOUR BODY BURNS THROUGH DAILY\n\n#healthyeating #wellness #healthtips"
 }
