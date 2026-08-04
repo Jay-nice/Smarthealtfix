@@ -1,0 +1,106 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "THE QUIET NUTRIENT {{CHAMPIONS}} IN YOUR PRODUCE AISLE",
+    "facts": [
+      "**Guava** packs roughly **four times more vitamin C** than an **orange**, making it one of the most overlooked immune-boosting fruits at the store.",
+      "Ounce for ounce, **dried figs** contain **more calcium** than a glass of **milk**, quietly supporting bone health without a dairy label.",
+      "**Chia seeds** carry nearly **twice the omega-3 ALA** found in **walnuts**, despite walnuts getting all the credit for plant-based omega-3s.",
+      "A cup of **raspberries** has about **two and a half times more fiber** than a **banana**, keeping digestion steady with far less sugar.",
+      "**Swiss chard** delivers roughly **eight times more vitamin K** than **broccoli**, making it a surprisingly powerful leafy green for blood and bone health."
+    ],
+    "claims": [
+      {
+        "food_a": "Guava",
+        "food_b": "Orange",
+        "nutrient_key": "vitamin_c"
+      },
+      {
+        "food_a": "Dried figs",
+        "food_b": "Milk",
+        "nutrient_key": "calcium"
+      },
+      {
+        "food_a": "Chia seeds",
+        "food_b": "Walnuts",
+        "nutrient_key": "omega3_ala"
+      },
+      {
+        "food_a": "Raspberries",
+        "food_b": "Banana",
+        "nutrient_key": "fiber"
+      },
+      {
+        "food_a": "Swiss chard",
+        "food_b": "Broccoli",
+        "nutrient_key": "vitamin_k"
+      }
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 5,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "Guava",
+          "food_b": "Orange",
+          "nutrient_key": "vitamin_c"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Dried figs",
+          "food_b": "Milk",
+          "nutrient_key": "calcium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Chia seeds",
+          "food_b": "Walnuts",
+          "nutrient_key": "omega3_ala"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Raspberries",
+          "food_b": "Banana",
+          "nutrient_key": "fiber"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Swiss chard",
+          "food_b": "Broccoli",
+          "nutrient_key": "vitamin_k"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      }
+    ]
+  }
+}
