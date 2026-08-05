@@ -1,19 +1,21 @@
 {
-  "png": "output/reel_20260805_164906.png",
-  "mp4": "output/reel_20260805_164906.mp4",
-  "cover": "output/cover_20260805_164906.png",
+  "png": "output/reel_20260805_210846.png",
+  "mp4": "output/reel_20260805_210846.mp4",
+  "cover": "output/cover_20260805_210846.png",
   "content": {
-    "title": "SILENT SIGNS OF A HIDDEN {{DEFICIENCY}}",
+    "title": "WEIRD TRICKS YOUR {{GRANDMA}} SWORE BY",
     "facts": [
-      "**Vitamin D** – Bone or joint pain, constant tiredness, frequent colds, and low mood that worsens in winter.",
-      "**Magnesium** – Muscle cramps, twitching eyelids, irritability, and trouble falling or staying asleep.",
-      "**Vitamin B12** – Tingling in hands or feet, weakness, memory problems, and unusually pale skin.",
-      "**Vitamin K** – Easy bruising, slow-healing cuts, and bleeding gums.",
-      "**Choline** – Brain fog, poor memory, right-sided abdominal discomfort, and low energy.",
-      "**Omega-3 (ALA)** – Dry skin, stiff joints, low mood, and trouble concentrating."
+      "Hiccups – Swallow a **teaspoon of sugar** to reset the vagus nerve.",
+      "Nosebleed – Pinch the **soft part of your nose** and lean forward for five minutes.",
+      "Muscle Cramp – Pinch your **upper lip** firmly for thirty seconds to release the spasm.",
+      "Bad Breath – Chew a **whole clove** to neutralize odor-causing bacteria.",
+      "Sunburn Sting – Pat on **cooled black tea** to calm redness with its natural tannins.",
+      "Canker Sore – Rinse with **warm salt water** to reduce swelling and speed healing.",
+      "Toothache – Dab a little **clove oil** on the spot for its natural numbing effect.",
+      "Hangover Headache – Sip **ginger tea** to settle the stomach and ease head pressure."
     ],
     "claims": []
   },
-  "shape": "symptom_list",
-  "caption": "SILENT SIGNS OF A HIDDEN DEFICIENCY\n\n#healthyeating #wellness #healthtips"
+  "shape": "boxed_hacks",
+  "caption": "WEIRD TRICKS YOUR GRANDMA SWORE BY\n\n#healthyeating #wellness #healthtips"
 }
