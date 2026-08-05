@@ -1,18 +1,19 @@
 {
-  "png": "output/reel_20260804_170026.png",
-  "mp4": "output/reel_20260804_170026.mp4",
-  "cover": "output/cover_20260804_170026.png",
+  "png": "output/reel_20260805_120147.png",
+  "mp4": "output/reel_20260805_120147.mp4",
+  "cover": "output/cover_20260805_120147.png",
   "content": {
-    "title": "THE MINERALS YOUR BODY BURNS THROUGH {{DAILY}}",
+    "title": "KITCHEN HABITS THAT {{DESTROY}} YOUR NUTRIENTS",
     "facts": [
-      "**Zinc** (Immune Defender) — Oysters | Chickpeas | Cashews | Dark Chocolate",
-      "**Potassium** (Fluid Balancer) — Coconut Water | Sweet Potatoes | White Beans | Bananas",
-      "**Iodine** (Thyroid Fuel) — Seaweed | Cod | Dairy Milk | Eggs",
-      "**Selenium** (Antioxidant Shield) — Brazil Nuts | Tuna | Mushrooms | Sardines",
-      "**Manganese** (Bone Builder) — Pineapple | Brown Rice | Spinach | Tahini"
+      "**Broccoli** – Boiling it lets water-soluble **vitamin C** leach straight into the pot; steaming for a few minutes keeps far more intact.",
+      "**Tomatoes** – Putting unripe ones in the fridge halts the enzymes that build flavor and **lycopene**; leave them at room temperature until fully ripe.",
+      "**Mushrooms** – A quick rinse is fine, but soaking them in water makes them absorb liquid like a sponge, diluting flavor and nutrients alike.",
+      "**Rice** – Over-rinsing fortified white rice washes away added **folic acid** and other nutrients coating the grains; a light rinse is enough.",
+      "**Spinach** – Eating it only raw limits how much **iron** and **calcium** your body can actually absorb; a brief sauté breaks down the oxalates blocking them.",
+      "**Avocado** – Leaving the cut flesh exposed speeds up oxidation and **vitamin E** loss; press plastic wrap directly onto the surface to slow it down."
     ],
     "claims": []
   },
-  "shape": "mineral_sources",
-  "caption": "THE MINERALS YOUR BODY BURNS THROUGH DAILY\n\n#healthyeating #wellness #healthtips"
+  "shape": "myth_bust",
+  "caption": "KITCHEN HABITS THAT DESTROY YOUR NUTRIENTS\n\n#healthyeating #wellness #healthtips"
 }
