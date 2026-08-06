@@ -1,21 +1,18 @@
 {
-  "png": "output/reel_20260805_210846.png",
-  "mp4": "output/reel_20260805_210846.mp4",
-  "cover": "output/cover_20260805_210846.png",
+  "png": "output/reel_20260806_120528.png",
+  "mp4": "output/reel_20260806_120528.mp4",
+  "cover": "output/cover_20260806_120528.png",
   "content": {
-    "title": "WEIRD TRICKS YOUR {{GRANDMA}} SWORE BY",
+    "title": "MINERALS THAT BUILD YOUR {{THYROID}}",
     "facts": [
-      "Hiccups – Swallow a **teaspoon of sugar** to reset the vagus nerve.",
-      "Nosebleed – Pinch the **soft part of your nose** and lean forward for five minutes.",
-      "Muscle Cramp – Pinch your **upper lip** firmly for thirty seconds to release the spasm.",
-      "Bad Breath – Chew a **whole clove** to neutralize odor-causing bacteria.",
-      "Sunburn Sting – Pat on **cooled black tea** to calm redness with its natural tannins.",
-      "Canker Sore – Rinse with **warm salt water** to reduce swelling and speed healing.",
-      "Toothache – Dab a little **clove oil** on the spot for its natural numbing effect.",
-      "Hangover Headache – Sip **ginger tea** to settle the stomach and ease head pressure."
+      "**Iodine** is essential for making thyroid hormones that control your metabolism and energy levels",
+      "Seaweed like **nori and kelp** are among the richest natural sources of iodine",
+      "**Cod and shrimp** also provide meaningful amounts of iodine from the sea",
+      "**Iodized salt** was introduced decades ago specifically to prevent widespread deficiency",
+      "Dairy products like **yogurt** can contribute iodine depending on how animals were fed"
     ],
     "claims": []
   },
-  "shape": "boxed_hacks",
-  "caption": "WEIRD TRICKS YOUR GRANDMA SWORE BY\n\n#healthyeating #wellness #healthtips"
+  "shape": "mineral_sources",
+  "caption": "MINERALS THAT BUILD YOUR THYROID\n\n#healthyeating #wellness #healthtips"
 }
