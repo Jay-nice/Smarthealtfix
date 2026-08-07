@@ -1,21 +1,19 @@
 {
-  "png": "output/reel_20260807_160416.png",
-  "mp4": "output/reel_20260807_160416.mp4",
-  "cover": "output/cover_20260807_160416.png",
+  "png": "output/reel_20260807_204114.png",
+  "mp4": "output/reel_20260807_204114.mp4",
+  "cover": "output/cover_20260807_204114.png",
   "content": {
-    "title": "QUICK {{FIXES}} FOR EVERYDAY BODY GLITCHES",
+    "title": "TINY HABITS THAT QUIETLY TRANSFORM YOUR {{HEALTH}}",
     "facts": [
-      "Hiccups – Swallow a spoonful of **sugar** to interrupt the reflex signal to your diaphragm.",
-      "Bad Breath – Chew a sprig of **parsley**; its chlorophyll helps neutralize sulfur compounds.",
-      "Chapped Lips – Dab on a little **honey** to seal in moisture and calm cracked skin.",
-      "Nosebleed – Pinch the **soft part** of your nose and lean forward, not back, for a minute.",
-      "Canker Sores – Rinse with **warm salt water** a few times a day to ease irritation.",
-      "Foot Cramps – Press your **heel** into the floor and pull your toes upward to release the muscle.",
-      "Hay Fever – Rinse your sinuses with a **saline spray** to flush out pollen and dust.",
-      "Splinter – Soak the spot in **warm water with baking soda** to help it work its way out."
+      "Drink a glass of **water with lemon and a pinch of sea salt** right after waking — it **rehydrates** your cells and kickstarts digestion after hours of sleep.",
+      "Take a **10-minute walk right after meals** — it blunts **blood sugar spikes** and speeds up digestion noticeably.",
+      "Step outside for **5 minutes of morning sunlight** — it resets your **circadian rhythm** and supports steady mood through the day.",
+      "Stir **one tablespoon of ground flaxseed** into breakfast — the **fiber and omega-3 ALA** support heart and gut health long-term.",
+      "Spend **2 minutes on slow, deep breathing** before bed — it lowers **cortisol** and helps you fall into deeper sleep faster.",
+      "Swap one daily coffee for **green tea** — its **L-theanine** smooths out energy and avoids the afternoon crash."
     ],
     "claims": []
   },
-  "shape": "boxed_hacks",
-  "caption": "QUICK FIXES FOR EVERYDAY BODY GLITCHES\n\n#healthyeating #wellness #healthtips"
+  "shape": "numbered_explainer",
+  "caption": "TINY HABITS THAT QUIETLY TRANSFORM YOUR HEALTH\n\n#healthyeating #wellness #healthtips"
 }
