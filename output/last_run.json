@@ -1,18 +1,19 @@
 {
-  "png": "output/reel_20260806_120528.png",
-  "mp4": "output/reel_20260806_120528.mp4",
-  "cover": "output/cover_20260806_120528.png",
+  "png": "output/reel_20260807_005351.png",
+  "mp4": "output/reel_20260807_005351.mp4",
+  "cover": "output/cover_20260807_005351.png",
   "content": {
-    "title": "MINERALS THAT BUILD YOUR {{THYROID}}",
+    "title": "THE HEALTHY COOKING {{MISTAKES}} YOU DON'T NOTICE",
     "facts": [
-      "**Iodine** is essential for making thyroid hormones that control your metabolism and energy levels",
-      "Seaweed like **nori and kelp** are among the richest natural sources of iodine",
-      "**Cod and shrimp** also provide meaningful amounts of iodine from the sea",
-      "**Iodized salt** was introduced decades ago specifically to prevent widespread deficiency",
-      "Dairy products like **yogurt** can contribute iodine depending on how animals were fed"
+      "Broccoli – **boiling** it for several minutes leaches water-soluble nutrients into the pot; a quick **steam** keeps far more intact.",
+      "Onions – chopping and cooking them **immediately** cuts off time for beneficial sulfur compounds to form; let cut onion **rest** for a few minutes first.",
+      "Sweet Potatoes – peeling before cooking tosses out much of the **fiber** concentrated right under the skin; cook them **unpeeled** when you can.",
+      "Blueberries – washing them right after buying speeds up mold growth and nutrient loss; rinse **just before eating**, not before **storing**.",
+      "Olive Oil – heating it to a high smoke point breaks down its **polyphenols**; save good extra virgin oil for finishing dishes or **low-heat** cooking.",
+      "Asparagus – snapping off and discarding the thick ends removes a good chunk of the stalk's **fiber**; trim less and cook the tougher parts a bit longer instead."
     ],
     "claims": []
   },
-  "shape": "mineral_sources",
-  "caption": "MINERALS THAT BUILD YOUR THYROID\n\n#healthyeating #wellness #healthtips"
+  "shape": "myth_bust",
+  "caption": "THE HEALTHY COOKING MISTAKES YOU DON'T NOTICE\n\n#healthyeating #wellness #healthtips"
 }
