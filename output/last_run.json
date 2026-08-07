@@ -1,19 +1,23 @@
 {
-  "png": "output/reel_20260807_005351.png",
-  "mp4": "output/reel_20260807_005351.mp4",
-  "cover": "output/cover_20260807_005351.png",
+  "png": "output/reel_20260807_105601.png",
+  "mp4": "output/reel_20260807_105601.mp4",
+  "cover": "output/cover_20260807_105601.png",
   "content": {
-    "title": "THE HEALTHY COOKING {{MISTAKES}} YOU DON'T NOTICE",
+    "title": "EVERYDAY ANNOYANCES AND THEIR {{FOOD}} FIX",
     "facts": [
-      "Broccoli – **boiling** it for several minutes leaches water-soluble nutrients into the pot; a quick **steam** keeps far more intact.",
-      "Onions – chopping and cooking them **immediately** cuts off time for beneficial sulfur compounds to form; let cut onion **rest** for a few minutes first.",
-      "Sweet Potatoes – peeling before cooking tosses out much of the **fiber** concentrated right under the skin; cook them **unpeeled** when you can.",
-      "Blueberries – washing them right after buying speeds up mold growth and nutrient loss; rinse **just before eating**, not before **storing**.",
-      "Olive Oil – heating it to a high smoke point breaks down its **polyphenols**; save good extra virgin oil for finishing dishes or **low-heat** cooking.",
-      "Asparagus – snapping off and discarding the thick ends removes a good chunk of the stalk's **fiber**; trim less and cook the tougher parts a bit longer instead."
+      "**Bloating** ----- **Fennel Seeds**",
+      "**Brain Fog** ----- **Walnuts**",
+      "**Restless Sleep** ----- **Tart Cherry Juice**",
+      "**Easy Bruising** ----- **Kiwi**",
+      "**Cold Hands & Feet** ----- **Cayenne Pepper**",
+      "**Motion Sickness** ----- **Peppermint**",
+      "**Eye Twitching** ----- **Pumpkin Seeds**",
+      "**Dry, Itchy Skin** ----- **Sunflower Seeds**",
+      "**Stuffy Nose** ----- **Horseradish**",
+      "**Ringing Ears** ----- **Brazil Nuts**"
     ],
     "claims": []
   },
-  "shape": "myth_bust",
-  "caption": "THE HEALTHY COOKING MISTAKES YOU DON'T NOTICE\n\n#healthyeating #wellness #healthtips"
+  "shape": "problem_food_mapping",
+  "caption": "EVERYDAY ANNOYANCES AND THEIR FOOD FIX\n\n#healthyeating #wellness #healthtips"
 }
