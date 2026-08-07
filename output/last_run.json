@@ -1,23 +1,21 @@
 {
-  "png": "output/reel_20260807_105601.png",
-  "mp4": "output/reel_20260807_105601.mp4",
-  "cover": "output/cover_20260807_105601.png",
+  "png": "output/reel_20260807_160416.png",
+  "mp4": "output/reel_20260807_160416.mp4",
+  "cover": "output/cover_20260807_160416.png",
   "content": {
-    "title": "EVERYDAY ANNOYANCES AND THEIR {{FOOD}} FIX",
+    "title": "QUICK {{FIXES}} FOR EVERYDAY BODY GLITCHES",
     "facts": [
-      "**Bloating** ----- **Fennel Seeds**",
-      "**Brain Fog** ----- **Walnuts**",
-      "**Restless Sleep** ----- **Tart Cherry Juice**",
-      "**Easy Bruising** ----- **Kiwi**",
-      "**Cold Hands & Feet** ----- **Cayenne Pepper**",
-      "**Motion Sickness** ----- **Peppermint**",
-      "**Eye Twitching** ----- **Pumpkin Seeds**",
-      "**Dry, Itchy Skin** ----- **Sunflower Seeds**",
-      "**Stuffy Nose** ----- **Horseradish**",
-      "**Ringing Ears** ----- **Brazil Nuts**"
+      "Hiccups – Swallow a spoonful of **sugar** to interrupt the reflex signal to your diaphragm.",
+      "Bad Breath – Chew a sprig of **parsley**; its chlorophyll helps neutralize sulfur compounds.",
+      "Chapped Lips – Dab on a little **honey** to seal in moisture and calm cracked skin.",
+      "Nosebleed – Pinch the **soft part** of your nose and lean forward, not back, for a minute.",
+      "Canker Sores – Rinse with **warm salt water** a few times a day to ease irritation.",
+      "Foot Cramps – Press your **heel** into the floor and pull your toes upward to release the muscle.",
+      "Hay Fever – Rinse your sinuses with a **saline spray** to flush out pollen and dust.",
+      "Splinter – Soak the spot in **warm water with baking soda** to help it work its way out."
     ],
     "claims": []
   },
-  "shape": "problem_food_mapping",
-  "caption": "EVERYDAY ANNOYANCES AND THEIR FOOD FIX\n\n#healthyeating #wellness #healthtips"
+  "shape": "boxed_hacks",
+  "caption": "QUICK FIXES FOR EVERYDAY BODY GLITCHES\n\n#healthyeating #wellness #healthtips"
 }
