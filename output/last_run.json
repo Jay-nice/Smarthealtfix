@@ -1,19 +1,18 @@
 {
-  "png": "output/reel_20260807_204114.png",
-  "mp4": "output/reel_20260807_204114.mp4",
-  "cover": "output/cover_20260807_204114.png",
+  "png": "output/reel_20260808_103738.png",
+  "mp4": "output/reel_20260808_103738.mp4",
+  "cover": "output/cover_20260808_103738.png",
   "content": {
-    "title": "TINY HABITS THAT QUIETLY TRANSFORM YOUR {{HEALTH}}",
+    "title": "THE OVERLOOKED MINERALS YOUR BODY {{CRAVES}}",
     "facts": [
-      "Drink a glass of **water with lemon and a pinch of sea salt** right after waking — it **rehydrates** your cells and kickstarts digestion after hours of sleep.",
-      "Take a **10-minute walk right after meals** — it blunts **blood sugar spikes** and speeds up digestion noticeably.",
-      "Step outside for **5 minutes of morning sunlight** — it resets your **circadian rhythm** and supports steady mood through the day.",
-      "Stir **one tablespoon of ground flaxseed** into breakfast — the **fiber and omega-3 ALA** support heart and gut health long-term.",
-      "Spend **2 minutes on slow, deep breathing** before bed — it lowers **cortisol** and helps you fall into deeper sleep faster.",
-      "Swap one daily coffee for **green tea** — its **L-theanine** smooths out energy and avoids the afternoon crash."
+      "**Potassium** (**Heart Rhythm** Support) — White Beans | Coconut Water | Sweet Potato | Swiss Chard",
+      "**Iodine** (**Metabolic Spark**) — Cod | Seaweed | Eggs | Cranberries",
+      "**Copper** (**Collagen Builder**) — Lentils | Sesame Seeds | Shiitake Mushrooms | Beef Liver",
+      "**Manganese** (**Bone Matrix**) — Brown Rice | Pineapple | Chickpeas | Spinach",
+      "**Calcium** (**Bone Density**) — Sardines | Tahini | Collard Greens | Almonds"
     ],
     "claims": []
   },
-  "shape": "numbered_explainer",
-  "caption": "TINY HABITS THAT QUIETLY TRANSFORM YOUR HEALTH\n\n#healthyeating #wellness #healthtips"
+  "shape": "mineral_sources",
+  "caption": "THE OVERLOOKED MINERALS YOUR BODY CRAVES\n\n#healthyeating #wellness #healthtips"
 }
