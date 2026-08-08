@@ -1,18 +1,18 @@
 {
-  "png": "output/reel_20260808_103738.png",
-  "mp4": "output/reel_20260808_103738.mp4",
-  "cover": "output/cover_20260808_103738.png",
+  "png": "output/reel_20260808_153858.png",
+  "mp4": "output/reel_20260808_153858.mp4",
+  "cover": "output/cover_20260808_153858.png",
   "content": {
-    "title": "THE OVERLOOKED MINERALS YOUR BODY {{CRAVES}}",
+    "title": "SIGNS YOUR BODY IS QUIETLY {{DEFICIENT}}",
     "facts": [
-      "**Potassium** (**Heart Rhythm** Support) — White Beans | Coconut Water | Sweet Potato | Swiss Chard",
-      "**Iodine** (**Metabolic Spark**) — Cod | Seaweed | Eggs | Cranberries",
-      "**Copper** (**Collagen Builder**) — Lentils | Sesame Seeds | Shiitake Mushrooms | Beef Liver",
-      "**Manganese** (**Bone Matrix**) — Brown Rice | Pineapple | Chickpeas | Spinach",
-      "**Calcium** (**Bone Density**) — Sardines | Tahini | Collard Greens | Almonds"
+      "**Folate** – Constant fatigue, mouth sores, pale skin, and irritability that won't go away.",
+      "**Vitamin A** – Trouble seeing in dim light, dry or flaky skin, and getting sick more often.",
+      "**Vitamin E** – Muscle weakness, unsteady balance, and unexplained numbness or tingling.",
+      "**Zinc** – Slow-healing cuts, a fading sense of taste or smell, and thinning hair.",
+      "**Selenium** – Persistent tiredness, muscle aches, and a weakened immune response."
     ],
     "claims": []
   },
-  "shape": "mineral_sources",
-  "caption": "THE OVERLOOKED MINERALS YOUR BODY CRAVES\n\n#healthyeating #wellness #healthtips"
+  "shape": "symptom_list",
+  "caption": "SIGNS YOUR BODY IS QUIETLY DEFICIENT\n\n#healthyeating #wellness #healthtips"
 }
