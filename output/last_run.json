@@ -1,18 +1,30 @@
 {
-  "png": "output/reel_20260808_153858.png",
-  "mp4": "output/reel_20260808_153858.mp4",
-  "cover": "output/cover_20260808_153858.png",
+  "png": "output/reel_20260808_203018.png",
+  "mp4": "output/reel_20260808_203018.mp4",
+  "cover": "output/cover_20260808_203018.png",
   "content": {
-    "title": "SIGNS YOUR BODY IS QUIETLY {{DEFICIENT}}",
+    "title": "COOKING MISTAKES THAT QUIETLY {{DRAIN}} YOUR NUTRIENTS",
     "facts": [
-      "**Folate** – Constant fatigue, mouth sores, pale skin, and irritability that won't go away.",
-      "**Vitamin A** – Trouble seeing in dim light, dry or flaky skin, and getting sick more often.",
-      "**Vitamin E** – Muscle weakness, unsteady balance, and unexplained numbness or tingling.",
-      "**Zinc** – Slow-healing cuts, a fading sense of taste or smell, and thinning hair.",
-      "**Selenium** – Persistent tiredness, muscle aches, and a weakened immune response."
+      "**Broccoli** – Boiling it lets much of its **vitamin C** leach into the water; a few minutes of steaming keeps most of it intact.",
+      "**Tomatoes** – Refrigerating them slows the ripening process that increases usable **lycopene**, so counter storage is often the better choice.",
+      "**Onions** – Rinsing them after chopping washes away some of the beneficial sulfur compounds that give them their heart-supportive properties.",
+      "**Spinach** – Cooking it in reactive metal pans can cause it to lose more of its **iron** than cooking in stainless steel or glass.",
+      "**Lentils** – Many assume red meat is the main source of **iron**, but a cooked serving of lentils delivers a comparable amount without the saturated fat.",
+      "**Bell Peppers** – Ounce for ounce, red bell peppers often edge out oranges in **vitamin C**, yet the nutrient-rich white pith usually ends up in the trash."
     ],
-    "claims": []
+    "claims": [
+      {
+        "food_a": "lentils",
+        "food_b": "red meat",
+        "nutrient_key": "iron"
+      },
+      {
+        "food_a": "red bell peppers",
+        "food_b": "oranges",
+        "nutrient_key": "vitamin_c"
+      }
+    ]
   },
-  "shape": "symptom_list",
-  "caption": "SIGNS YOUR BODY IS QUIETLY DEFICIENT\n\n#healthyeating #wellness #healthtips"
+  "shape": "myth_bust",
+  "caption": "COOKING MISTAKES THAT QUIETLY DRAIN YOUR NUTRIENTS\n\n#healthyeating #wellness #healthtips"
 }
