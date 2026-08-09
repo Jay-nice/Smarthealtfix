@@ -1,19 +1,23 @@
 {
-  "png": "output/reel_20260809_154051.png",
-  "mp4": "output/reel_20260809_154051.mp4",
-  "cover": "output/cover_20260809_154051.png",
+  "png": "output/reel_20260809_203231.png",
+  "mp4": "output/reel_20260809_203231.mp4",
+  "cover": "output/cover_20260809_203231.png",
   "content": {
-    "title": "SMALL HABITS WITH {{INSTANT}} PAYOFF",
+    "title": "KITCHEN CABINET FIXES FOR ANNOYING {{LITTLE}} AILMENTS",
     "facts": [
-      "**Chew** each bite about 20 times — digestion improves and **bloating** decreases almost immediately.",
-      "End your shower with **30-60 seconds of cold water** — circulation gets a boost and alertness spikes right away.",
-      "Follow the **20-20-20 rule** (every 20 minutes, look 20 feet away for 20 seconds) — eye strain and tension headaches ease.",
-      "**Stand on one leg** while brushing your teeth — balance and core stability quietly improve over weeks.",
-      "**Hum or sing** for two minutes a day — it stimulates the vagus nerve and calms the nervous system fast.",
-      "Do a few **squats** before sitting for a long stretch — joints stay mobile and blood flow to the legs improves."
+      "Hiccups – Slowly sip a glass of **ice-cold water** without pausing to breathe.",
+      "Sore Throat – Gargle with **warm salt water** a few times a day to ease irritation.",
+      "Nosebleed – Pinch the **soft part of your nose** and lean slightly forward for a few minutes.",
+      "Hangnail – Soak the finger in **warm olive oil** to soften the skin before trimming.",
+      "Stuffy Nose – Inhale steam from a bowl of **hot water** to loosen congestion.",
+      "Muscle Cramp – Gently stretch and press a **cold compress** on the tight muscle.",
+      "Splinter – Apply a piece of **tape** and peel it off to lift small splinters out.",
+      "Dry, Cracked Heels – Rub crushed **oatmeal and honey** paste on feet before rinsing.",
+      "Minor Burn – Hold the area under **cool running water** for several minutes, not ice.",
+      "Bad Breath – Chew on a **fresh parsley sprig** to freshen breath naturally."
     ],
     "claims": []
   },
-  "shape": "numbered_explainer",
-  "caption": "SMALL HABITS WITH INSTANT PAYOFF\n\n#healthyeating #wellness #healthtips"
+  "shape": "boxed_hacks",
+  "caption": "KITCHEN CABINET FIXES FOR ANNOYING LITTLE AILMENTS\n\n#healthyeating #wellness #healthtips"
 }
