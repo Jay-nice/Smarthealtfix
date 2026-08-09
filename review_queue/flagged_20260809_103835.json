@@ -1,0 +1,106 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "THE PRODUCE AISLE {{RANKINGS}} NOBODY TAUGHT YOU",
+    "facts": [
+      "Swiss chard has nearly **three times more magnesium** than kale, gram for gram.",
+      "Raspberries pack about **three times more fiber** than strawberries.",
+      "Brussels sprouts carry close to **ten times more vitamin K** than green beans.",
+      "UV-exposed mushrooms can hold **dramatically more vitamin D** than regular button mushrooms grown in the dark.",
+      "Flaxseeds edge out chia seeds with **slightly more omega-3 ALA** per serving."
+    ],
+    "claims": [
+      {
+        "food_a": "Swiss chard",
+        "food_b": "kale",
+        "nutrient_key": "magnesium"
+      },
+      {
+        "food_a": "raspberries",
+        "food_b": "strawberries",
+        "nutrient_key": "fiber"
+      },
+      {
+        "food_a": "Brussels sprouts",
+        "food_b": "green beans",
+        "nutrient_key": "vitamin_k"
+      },
+      {
+        "food_a": "UV-exposed mushrooms",
+        "food_b": "regular button mushrooms",
+        "nutrient_key": "vitamin_d"
+      },
+      {
+        "food_a": "flaxseeds",
+        "food_b": "chia seeds",
+        "nutrient_key": "omega3_ala"
+      }
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 5,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "Swiss chard",
+          "food_b": "kale",
+          "nutrient_key": "magnesium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "raspberries",
+          "food_b": "strawberries",
+          "nutrient_key": "fiber"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Brussels sprouts",
+          "food_b": "green beans",
+          "nutrient_key": "vitamin_k"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "UV-exposed mushrooms",
+          "food_b": "regular button mushrooms",
+          "nutrient_key": "vitamin_d"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "flaxseeds",
+          "food_b": "chia seeds",
+          "nutrient_key": "omega3_ala"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      }
+    ]
+  }
+}
