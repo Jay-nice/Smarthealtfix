@@ -1,30 +1,19 @@
 {
-  "png": "output/reel_20260808_203018.png",
-  "mp4": "output/reel_20260808_203018.mp4",
-  "cover": "output/cover_20260808_203018.png",
+  "png": "output/reel_20260809_154051.png",
+  "mp4": "output/reel_20260809_154051.mp4",
+  "cover": "output/cover_20260809_154051.png",
   "content": {
-    "title": "COOKING MISTAKES THAT QUIETLY {{DRAIN}} YOUR NUTRIENTS",
+    "title": "SMALL HABITS WITH {{INSTANT}} PAYOFF",
     "facts": [
-      "**Broccoli** – Boiling it lets much of its **vitamin C** leach into the water; a few minutes of steaming keeps most of it intact.",
-      "**Tomatoes** – Refrigerating them slows the ripening process that increases usable **lycopene**, so counter storage is often the better choice.",
-      "**Onions** – Rinsing them after chopping washes away some of the beneficial sulfur compounds that give them their heart-supportive properties.",
-      "**Spinach** – Cooking it in reactive metal pans can cause it to lose more of its **iron** than cooking in stainless steel or glass.",
-      "**Lentils** – Many assume red meat is the main source of **iron**, but a cooked serving of lentils delivers a comparable amount without the saturated fat.",
-      "**Bell Peppers** – Ounce for ounce, red bell peppers often edge out oranges in **vitamin C**, yet the nutrient-rich white pith usually ends up in the trash."
+      "**Chew** each bite about 20 times — digestion improves and **bloating** decreases almost immediately.",
+      "End your shower with **30-60 seconds of cold water** — circulation gets a boost and alertness spikes right away.",
+      "Follow the **20-20-20 rule** (every 20 minutes, look 20 feet away for 20 seconds) — eye strain and tension headaches ease.",
+      "**Stand on one leg** while brushing your teeth — balance and core stability quietly improve over weeks.",
+      "**Hum or sing** for two minutes a day — it stimulates the vagus nerve and calms the nervous system fast.",
+      "Do a few **squats** before sitting for a long stretch — joints stay mobile and blood flow to the legs improves."
     ],
-    "claims": [
-      {
-        "food_a": "lentils",
-        "food_b": "red meat",
-        "nutrient_key": "iron"
-      },
-      {
-        "food_a": "red bell peppers",
-        "food_b": "oranges",
-        "nutrient_key": "vitamin_c"
-      }
-    ]
+    "claims": []
   },
-  "shape": "myth_bust",
-  "caption": "COOKING MISTAKES THAT QUIETLY DRAIN YOUR NUTRIENTS\n\n#healthyeating #wellness #healthtips"
+  "shape": "numbered_explainer",
+  "caption": "SMALL HABITS WITH INSTANT PAYOFF\n\n#healthyeating #wellness #healthtips"
 }
