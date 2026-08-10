@@ -1,0 +1,124 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "THE NUTRIENT SHOWDOWN NOBODY {{EXPECTED}}",
+    "facts": [
+      "**Avocado** has nearly **twice the potassium** of a **banana**, making it one of the richest plant sources of this mineral.",
+      "A single **Brazil nut** contains more **selenium** than several whole **eggs** combined — one nut can cover your entire daily need.",
+      "**Pumpkin seeds** pack more **zinc** per ounce than **cashews**, making them a quietly powerful immune-support snack.",
+      "**Walnuts** contain far more **omega-3 ALA** than **almonds**, which have almost none of this plant-based fat.",
+      "**Kale** has dramatically more **vitamin K** than **iceberg lettuce** — a single cup can exceed your daily requirement.",
+      "**White beans** carry nearly as much **iron** as **spinach**, without the oxalates that block some of spinach's iron absorption."
+    ],
+    "claims": [
+      {
+        "food_a": "Avocado",
+        "food_b": "Banana",
+        "nutrient_key": "potassium"
+      },
+      {
+        "food_a": "Brazil nut",
+        "food_b": "Eggs",
+        "nutrient_key": "selenium"
+      },
+      {
+        "food_a": "Pumpkin seeds",
+        "food_b": "Cashews",
+        "nutrient_key": "zinc"
+      },
+      {
+        "food_a": "Walnuts",
+        "food_b": "Almonds",
+        "nutrient_key": "omega3_ala"
+      },
+      {
+        "food_a": "Kale",
+        "food_b": "Iceberg lettuce",
+        "nutrient_key": "vitamin_k"
+      },
+      {
+        "food_a": "White beans",
+        "food_b": "Spinach",
+        "nutrient_key": "iron"
+      }
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 6,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "Avocado",
+          "food_b": "Banana",
+          "nutrient_key": "potassium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Brazil nut",
+          "food_b": "Eggs",
+          "nutrient_key": "selenium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Pumpkin seeds",
+          "food_b": "Cashews",
+          "nutrient_key": "zinc"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Walnuts",
+          "food_b": "Almonds",
+          "nutrient_key": "omega3_ala"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Kale",
+          "food_b": "Iceberg lettuce",
+          "nutrient_key": "vitamin_k"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "White beans",
+          "food_b": "Spinach",
+          "nutrient_key": "iron"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      }
+    ]
+  }
+}
