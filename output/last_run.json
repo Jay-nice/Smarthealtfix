@@ -1,23 +1,18 @@
 {
-  "png": "output/reel_20260809_203231.png",
-  "mp4": "output/reel_20260809_203231.mp4",
-  "cover": "output/cover_20260809_203231.png",
+  "png": "output/reel_20260810_160710.png",
+  "mp4": "output/reel_20260810_160710.mp4",
+  "cover": "output/cover_20260810_160710.png",
   "content": {
-    "title": "KITCHEN CABINET FIXES FOR ANNOYING {{LITTLE}} AILMENTS",
+    "title": "THE MINERAL SYSTEM BEHIND YOUR DAILY {{ENERGY}}",
     "facts": [
-      "Hiccups – Slowly sip a glass of **ice-cold water** without pausing to breathe.",
-      "Sore Throat – Gargle with **warm salt water** a few times a day to ease irritation.",
-      "Nosebleed – Pinch the **soft part of your nose** and lean slightly forward for a few minutes.",
-      "Hangnail – Soak the finger in **warm olive oil** to soften the skin before trimming.",
-      "Stuffy Nose – Inhale steam from a bowl of **hot water** to loosen congestion.",
-      "Muscle Cramp – Gently stretch and press a **cold compress** on the tight muscle.",
-      "Splinter – Apply a piece of **tape** and peel it off to lift small splinters out.",
-      "Dry, Cracked Heels – Rub crushed **oatmeal and honey** paste on feet before rinsing.",
-      "Minor Burn – Hold the area under **cool running water** for several minutes, not ice.",
-      "Bad Breath – Chew on a **fresh parsley sprig** to freshen breath naturally."
+      "1. **Iodine** (Thyroid Fuel) — Seaweed | Cod | Shrimp | Eggs",
+      "2. **Copper** (Collagen Builder) — Oysters | Sunflower Seeds | Cashews | Dark Leafy Greens",
+      "3. **Manganese** (Joint & Bone Support) — Pineapple | Brown Rice | Chickpeas | Cloves",
+      "4. **Potassium** (Blood Pressure Balancer) — Sweet Potatoes | White Beans | Coconut Water | Swiss Chard",
+      "5. **Selenium** (Antioxidant Shield) — Brazil Nuts | Turkey | Tuna | Sardines"
     ],
     "claims": []
   },
-  "shape": "boxed_hacks",
-  "caption": "KITCHEN CABINET FIXES FOR ANNOYING LITTLE AILMENTS\n\n#healthyeating #wellness #healthtips"
+  "shape": "mineral_sources",
+  "caption": "THE MINERAL SYSTEM BEHIND YOUR DAILY ENERGY\n\n#healthyeating #wellness #healthtips"
 }
