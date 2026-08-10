@@ -1,18 +1,34 @@
 {
-  "png": "output/reel_20260810_160710.png",
-  "mp4": "output/reel_20260810_160710.mp4",
-  "cover": "output/cover_20260810_160710.png",
+  "png": "output/reel_20260810_194836.png",
+  "mp4": "output/reel_20260810_194836.mp4",
+  "cover": "output/cover_20260810_194836.png",
   "content": {
-    "title": "THE MINERAL SYSTEM BEHIND YOUR DAILY {{ENERGY}}",
+    "title": "HEALTHY-EATING {{MISTAKES}} HIDING IN YOUR KITCHEN",
     "facts": [
-      "1. **Iodine** (Thyroid Fuel) — Seaweed | Cod | Shrimp | Eggs",
-      "2. **Copper** (Collagen Builder) — Oysters | Sunflower Seeds | Cashews | Dark Leafy Greens",
-      "3. **Manganese** (Joint & Bone Support) — Pineapple | Brown Rice | Chickpeas | Cloves",
-      "4. **Potassium** (Blood Pressure Balancer) — Sweet Potatoes | White Beans | Coconut Water | Swiss Chard",
-      "5. **Selenium** (Antioxidant Shield) — Brazil Nuts | Turkey | Tuna | Sardines"
+      "**Salad Dressing** – Skipping oil entirely can mean less absorption of vitamin A, E, and K from your greens; a drizzle of healthy fat actually helps your body use them.",
+      "**Store-Bought Granola** – Many \"healthy\" granolas pack more added sugar per serving than people expect; the label matters more than the packaging.",
+      "**Smoothies** – Blending fruit breaks down its fiber structure, so a smoothie can raise blood sugar faster than eating the same fruit whole.",
+      "**Air Frying** – Using an air fryer doesn't automatically make a dish light if it still has the same oil and breading as deep frying.",
+      "**Canned Beans** – Rinsing them under water lowers the sodium content, a simple step most people skip.",
+      "**Meal Prep Containers** – Sealing hot food right away traps steam and can speed up spoilage; letting it cool a bit first helps it last longer.",
+      "**Frozen Vegetables** – Thawing them at room temperature before cooking often leaves them soggy and watery; cooking straight from frozen keeps texture and nutrients better.",
+      "**Flavored Yogurt** – Many \"protein\" yogurts contain as much sugar as dessert; plain yogurt with your own toppings is usually the smarter base.",
+      "**Quinoa** – Skipping the rinse before cooking leaves a bitter coating that people mistake for it \"just tasting healthy.\"",
+      "**Avocado Toast** – Piling it on refined white bread cancels out a good chunk of the fiber benefit you're aiming for.",
+      "**Follow along** – for more everyday fixes to make your healthy meals actually work."
     ],
-    "claims": []
+    "claims": [],
+    "caption": "None of this means your healthy meal is ruined forever or that you're doing everything wrong — small tweaks add up, and everyone's body reacts a little differently to food and prep. Think of these as gentle upgrades, not strict rules to stress over.\n\nFollow @smarthealthfix for more everyday guidance on nutrition, common health issues, how your organs actually work, and the small daily habits that quietly make the biggest difference.\n\nSave this post so you have it next time you're meal prepping, and share it with someone who's trying to eat healthier but keeps missing these small details.",
+    "hashtags": [
+      "#healthtips",
+      "#wellness",
+      "#mealprep",
+      "#healthyeating",
+      "#nutritionfacts",
+      "#kitchentips",
+      "#cookingmistakes"
+    ]
   },
-  "shape": "mineral_sources",
-  "caption": "THE MINERAL SYSTEM BEHIND YOUR DAILY ENERGY\n\n#healthyeating #wellness #healthtips"
+  "shape": "myth_bust",
+  "caption": "None of this means your healthy meal is ruined forever or that you're doing everything wrong — small tweaks add up, and everyone's body reacts a little differently to food and prep. Think of these as gentle upgrades, not strict rules to stress over.\n\nFollow @smarthealthfix for more everyday guidance on nutrition, common health issues, how your organs actually work, and the small daily habits that quietly make the biggest difference.\n\nSave this post so you have it next time you're meal prepping, and share it with someone who's trying to eat healthier but keeps missing these small details.\n\n#healthtips #wellness #mealprep #healthyeating #nutritionfacts #kitchentips #cookingmistakes"
 }
