@@ -1,0 +1,189 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "EVERYDAY FOODS THAT QUIETLY BEAT THEIR {{FAMOUS}} RIVALS",
+    "facts": [
+      "**Kiwi** contains almost twice the vitamin C of an **orange**, ounce for ounce.",
+      "**Kale** delivers noticeably more vitamin K than **broccoli**, gram for gram.",
+      "**Dried figs** pack more calcium per serving than a glass of **milk**.",
+      "**Lentils** contain more iron than **spinach** once both are cooked.",
+      "**Pumpkin seeds** have more zinc than **cashews**, ounce for ounce.",
+      "**Chia seeds** contain more omega-3 ALA than **walnuts**, gram for gram.",
+      "**Sun-exposed mushrooms** can contain more vitamin D than a whole **egg**.",
+      "**Artichokes** have nearly double the fiber of an **apple**, per serving.",
+      "**Spinach** contains far more magnesium than a **banana**, cup for cup.",
+      "**Follow along** – for more daily nutrition comparisons like this."
+    ],
+    "claims": [
+      {
+        "food_a": "Kiwi",
+        "food_b": "Orange",
+        "nutrient_key": "vitamin_c"
+      },
+      {
+        "food_a": "Kale",
+        "food_b": "Broccoli",
+        "nutrient_key": "vitamin_k"
+      },
+      {
+        "food_a": "Dried figs",
+        "food_b": "Milk",
+        "nutrient_key": "calcium"
+      },
+      {
+        "food_a": "Lentils",
+        "food_b": "Spinach",
+        "nutrient_key": "iron"
+      },
+      {
+        "food_a": "Pumpkin seeds",
+        "food_b": "Cashews",
+        "nutrient_key": "zinc"
+      },
+      {
+        "food_a": "Chia seeds",
+        "food_b": "Walnuts",
+        "nutrient_key": "omega3_ala"
+      },
+      {
+        "food_a": "Sun-exposed mushrooms",
+        "food_b": "Egg",
+        "nutrient_key": "vitamin_d"
+      },
+      {
+        "food_a": "Artichokes",
+        "food_b": "Apple",
+        "nutrient_key": "fiber"
+      },
+      {
+        "food_a": "Spinach",
+        "food_b": "Banana",
+        "nutrient_key": "magnesium"
+      }
+    ],
+    "caption": "These comparisons are eye-opening, but nutrient content can shift depending on ripeness, soil, cooking method, and how something's stored — so think of these as helpful patterns, not strict rules. Everyone's body absorbs and needs nutrients a little differently, so always listen to yours.\n\nFollow @smarthealthfix for more on nutrition, common health issues, how your organs actually work, and the small daily habits that quietly shape your long-term health.\n\nSave this post so you don't lose it, and share it with someone who's trying to eat a little smarter this week.",
+    "hashtags": [
+      "#nutrition",
+      "#healthyeating",
+      "#wellness",
+      "#plantbased",
+      "#micronutrients",
+      "#foodfacts",
+      "#healthtips"
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 9,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "Kiwi",
+          "food_b": "Orange",
+          "nutrient_key": "vitamin_c"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Kale",
+          "food_b": "Broccoli",
+          "nutrient_key": "vitamin_k"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Dried figs",
+          "food_b": "Milk",
+          "nutrient_key": "calcium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Lentils",
+          "food_b": "Spinach",
+          "nutrient_key": "iron"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Pumpkin seeds",
+          "food_b": "Cashews",
+          "nutrient_key": "zinc"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Chia seeds",
+          "food_b": "Walnuts",
+          "nutrient_key": "omega3_ala"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Sun-exposed mushrooms",
+          "food_b": "Egg",
+          "nutrient_key": "vitamin_d"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Artichokes",
+          "food_b": "Apple",
+          "nutrient_key": "fiber"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Spinach",
+          "food_b": "Banana",
+          "nutrient_key": "magnesium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      }
+    ]
+  }
+}
