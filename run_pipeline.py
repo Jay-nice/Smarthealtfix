@@ -82,12 +82,15 @@ def _extract_items(content):
     for fact in content.get("facts", []):
         for m in bold_re.findall(fact):
             cleaned = m.strip().strip(".,")
-            if cleaned:
+            # de laatste "fact" is standaard een follow-oproep, geen onderwerp -
+            # die willen we NIET laten meetellen als "recent gebruikt item",
+            # anders leert het systeem zichzelf aan om 'm juist te gaan vermijden.
+            if cleaned and "follow" not in cleaned.lower():
                 items.add(cleaned)
         lead_match = lead_re.match(fact)
         if lead_match:
             lead = lead_match.group(1).replace("*", "").strip()
-            if lead and len(lead) < 40:  # lange zinnen overslaan, dat is geen "item"
+            if lead and len(lead) < 40 and "follow" not in lead.lower():  # lange zinnen overslaan, dat is geen "item"
                 items.add(lead)
     return items
 
@@ -130,7 +133,8 @@ def run_once(handle="@smarthealthfix", display_name="Smart Health Fix",
     if recent_items:
         print(f"[1/5] Vermijd recente items: {', '.join(recent_items)}")
     result = generate_and_check(shape_key, topic_hint, audience=audience,
-                                 recent_titles=recent_titles, recent_items=recent_items)
+                                 recent_titles=recent_titles, recent_items=recent_items,
+                                 handle=handle)
 
     if not result["approved"]:
         ts = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -186,8 +190,23 @@ def run_once(handle="@smarthealthfix", display_name="Smart Health Fix",
     return result_paths
 
 
-def build_caption(content, hashtags="#healthyeating #wellness #healthtips"):
-    return f"{content['title'].replace('{{', '').replace('}}', '')}\n\n{hashtags}"
+def build_caption(content, fallback_hashtags="#healthyeating #wellness #healthtips"):
+    """
+    Bouwt de Instagram-caption. Sinds de prompt-update schrijft Claude zelf een
+    3-alinea caption + eigen hashtags mee in de content (zie content_generator.py) -
+    dat gebruiken we hier gewoon. Als die velden om wat voor reden dan ook ontbreken
+    (bijv. oude/gecachete content), vallen we terug op de oude, minimale variant
+    zodat het script nooit crasht op een ontbrekend veld.
+    """
+    caption_text = content.get("caption")
+    hashtags = content.get("hashtags")
+
+    if caption_text and hashtags:
+        tags = " ".join(h if h.startswith("#") else f"#{h}" for h in hashtags)
+        return f"{caption_text}\n\n{tags}"
+
+    title = content['title'].replace('{{', '').replace('}}', '')
+    return f"{title}\n\n{fallback_hashtags}"
 
 
 if __name__ == "__main__":
