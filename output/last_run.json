@@ -1,34 +1,36 @@
 {
-  "png": "output/reel_20260810_194836.png",
-  "mp4": "output/reel_20260810_194836.mp4",
-  "cover": "output/cover_20260810_194836.png",
+  "png": "output/reel_20260811_105302.png",
+  "mp4": "output/reel_20260811_105302.mp4",
+  "cover": "output/cover_20260811_105302.png",
   "content": {
-    "title": "HEALTHY-EATING {{MISTAKES}} HIDING IN YOUR KITCHEN",
+    "title": "NUTRIENT DEFICIENCIES THAT HIDE BEHIND EVERYDAY {{SYMPTOMS}}",
     "facts": [
-      "**Salad Dressing** – Skipping oil entirely can mean less absorption of vitamin A, E, and K from your greens; a drizzle of healthy fat actually helps your body use them.",
-      "**Store-Bought Granola** – Many \"healthy\" granolas pack more added sugar per serving than people expect; the label matters more than the packaging.",
-      "**Smoothies** – Blending fruit breaks down its fiber structure, so a smoothie can raise blood sugar faster than eating the same fruit whole.",
-      "**Air Frying** – Using an air fryer doesn't automatically make a dish light if it still has the same oil and breading as deep frying.",
-      "**Canned Beans** – Rinsing them under water lowers the sodium content, a simple step most people skip.",
-      "**Meal Prep Containers** – Sealing hot food right away traps steam and can speed up spoilage; letting it cool a bit first helps it last longer.",
-      "**Frozen Vegetables** – Thawing them at room temperature before cooking often leaves them soggy and watery; cooking straight from frozen keeps texture and nutrients better.",
-      "**Flavored Yogurt** – Many \"protein\" yogurts contain as much sugar as dessert; plain yogurt with your own toppings is usually the smarter base.",
-      "**Quinoa** – Skipping the rinse before cooking leaves a bitter coating that people mistake for it \"just tasting healthy.\"",
-      "**Avocado Toast** – Piling it on refined white bread cancels out a good chunk of the fiber benefit you're aiming for.",
-      "**Follow along** – for more everyday fixes to make your healthy meals actually work."
+      "**Iron** – Fatigue, pale skin, shortness of breath, and brittle nails.",
+      "**Vitamin D** – Bone and muscle aches, low mood, frequent colds, and thinning hair.",
+      "**Magnesium** – Muscle cramps, twitching eyelids, trouble sleeping, and irritability.",
+      "**Vitamin B12** – Tingling in hands or feet, low energy, brain fog, and mood changes.",
+      "**Zinc** – Slow-healing cuts, frequent colds, loss of taste or smell, and hair shedding.",
+      "**Vitamin C** – Bleeding gums, easy bruising, slow-healing wounds, and joint pain.",
+      "**Calcium** – Muscle cramps, tingling fingers, brittle nails, and dental problems.",
+      "**Folate** – Fatigue, mouth sores, pale skin, and trouble concentrating.",
+      "**Vitamin A** – Dry eyes, poor night vision, rough skin, and frequent infections.",
+      "**Vitamin E** – Muscle weakness, vision changes, numbness, and weaker immunity.",
+      "**Omega-3** – Dry skin, joint stiffness, low mood, and dry, irritated eyes.",
+      "**Follow along** – for more everyday signs your body might be trying to send you."
     ],
     "claims": [],
-    "caption": "None of this means your healthy meal is ruined forever or that you're doing everything wrong — small tweaks add up, and everyone's body reacts a little differently to food and prep. Think of these as gentle upgrades, not strict rules to stress over.\n\nFollow @smarthealthfix for more everyday guidance on nutrition, common health issues, how your organs actually work, and the small daily habits that quietly make the biggest difference.\n\nSave this post so you have it next time you're meal prepping, and share it with someone who's trying to eat healthier but keeps missing these small details.",
+    "caption": "None of these symptoms automatically mean you have a deficiency — fatigue, dry skin, or trouble sleeping can come from stress, sleep habits, or a dozen other things. Bodies are different, so think of this as a gentle nudge to pay attention, not a diagnosis, and always check in with a doctor before changing anything major.\n\nFollow @smarthealthfix for daily, easy-to-understand posts on nutrition, common health issues, how your organs actually work, and the small daily habits that quietly shape how you feel.\n\nSave this post so you have it handy later, and share it with someone who's been feeling 'off' lately without knowing why.",
     "hashtags": [
+      "#nutrientdeficiency",
+      "#vitamindeficiency",
       "#healthtips",
       "#wellness",
-      "#mealprep",
-      "#healthyeating",
-      "#nutritionfacts",
-      "#kitchentips",
-      "#cookingmistakes"
+      "#ironhealth",
+      "#magnesium",
+      "#guthealthy",
+      "#nutritionfacts"
     ]
   },
-  "shape": "myth_bust",
-  "caption": "None of this means your healthy meal is ruined forever or that you're doing everything wrong — small tweaks add up, and everyone's body reacts a little differently to food and prep. Think of these as gentle upgrades, not strict rules to stress over.\n\nFollow @smarthealthfix for more everyday guidance on nutrition, common health issues, how your organs actually work, and the small daily habits that quietly make the biggest difference.\n\nSave this post so you have it next time you're meal prepping, and share it with someone who's trying to eat healthier but keeps missing these small details.\n\n#healthtips #wellness #mealprep #healthyeating #nutritionfacts #kitchentips #cookingmistakes"
+  "shape": "symptom_list",
+  "caption": "None of these symptoms automatically mean you have a deficiency — fatigue, dry skin, or trouble sleeping can come from stress, sleep habits, or a dozen other things. Bodies are different, so think of this as a gentle nudge to pay attention, not a diagnosis, and always check in with a doctor before changing anything major.\n\nFollow @smarthealthfix for daily, easy-to-understand posts on nutrition, common health issues, how your organs actually work, and the small daily habits that quietly shape how you feel.\n\nSave this post so you have it handy later, and share it with someone who's been feeling 'off' lately without knowing why.\n\n#nutrientdeficiency #vitamindeficiency #healthtips #wellness #ironhealth #magnesium #guthealthy #nutritionfacts"
 }
