@@ -23,7 +23,8 @@ def main():
     print(f"Cover URL:  {cover_url}")
 
     media_id = publish_reel(video_url=video_url, cover_url=cover_url,
-                             caption=last_run["caption"])
+                             caption=last_run["caption"],
+                             hashtags_comment=last_run.get("hashtags_comment"))
     print(f"Gepubliceerd, media_id={media_id}")
 
 
