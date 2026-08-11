@@ -1,0 +1,189 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "HIDDEN NUTRIENT WINNERS IN YOUR {{PRODUCE}} DRAWER",
+    "facts": [
+      "**Raspberries** have nearly three times more **fiber** than strawberries, gram for gram.",
+      "**Kale** contains notably more **vitamin K** than spinach, even though both are dark leafy greens.",
+      "**Artichokes** pack about twice the **fiber** of broccoli per serving.",
+      "**Brussels sprouts** have several times more **vitamin K** than green beans.",
+      "**Pears** (eaten with the skin) offer roughly double the **fiber** of peaches.",
+      "**Swiss chard** contains dramatically more **vitamin K** than iceberg lettuce — it's not close.",
+      "**Passion fruit** has significantly more **fiber** than mango, despite being smaller.",
+      "**Parsley** is one of the richest sources of **vitamin K** of any common vegetable, far surpassing celery.",
+      "**Guava** has about twice the **fiber** of a banana, plus a fraction of the sugar.",
+      "**Follow along** – for more daily health tips like this."
+    ],
+    "claims": [
+      {
+        "food_a": "Raspberries",
+        "food_b": "Strawberries",
+        "nutrient_key": "fiber"
+      },
+      {
+        "food_a": "Kale",
+        "food_b": "Spinach",
+        "nutrient_key": "vitamin_k"
+      },
+      {
+        "food_a": "Artichokes",
+        "food_b": "Broccoli",
+        "nutrient_key": "fiber"
+      },
+      {
+        "food_a": "Brussels sprouts",
+        "food_b": "Green beans",
+        "nutrient_key": "vitamin_k"
+      },
+      {
+        "food_a": "Pears",
+        "food_b": "Peaches",
+        "nutrient_key": "fiber"
+      },
+      {
+        "food_a": "Swiss chard",
+        "food_b": "Iceberg lettuce",
+        "nutrient_key": "vitamin_k"
+      },
+      {
+        "food_a": "Passion fruit",
+        "food_b": "Mango",
+        "nutrient_key": "fiber"
+      },
+      {
+        "food_a": "Parsley",
+        "food_b": "Celery",
+        "nutrient_key": "vitamin_k"
+      },
+      {
+        "food_a": "Guava",
+        "food_b": "Banana",
+        "nutrient_key": "fiber"
+      }
+    ],
+    "caption": "None of this means one fruit or veggie is 'bad' and another is 'good' — it just means some options quietly pack more of a specific nutrient than others. Your body's needs, digestion, and reactions to different foods are unique, so always pay attention to how you personally feel rather than chasing a single number on a label.\n\nFollow @smarthealthfix for more everyday breakdowns like this — we cover nutrition, common health issues, how your organs actually work, and the small daily habits that quietly shape your health over time.\n\nSave this post so you have it next time you're grocery shopping, and share it with someone who's trying to eat a little smarter.",
+    "hashtags": [
+      "#healthtips",
+      "#nutritionfacts",
+      "#fiberfoods",
+      "#vitaminK",
+      "#wellness",
+      "#eatthisnotthat",
+      "#healthyeating"
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 9,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "Raspberries",
+          "food_b": "Strawberries",
+          "nutrient_key": "fiber"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Kale",
+          "food_b": "Spinach",
+          "nutrient_key": "vitamin_k"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Artichokes",
+          "food_b": "Broccoli",
+          "nutrient_key": "fiber"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Brussels sprouts",
+          "food_b": "Green beans",
+          "nutrient_key": "vitamin_k"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Pears",
+          "food_b": "Peaches",
+          "nutrient_key": "fiber"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Swiss chard",
+          "food_b": "Iceberg lettuce",
+          "nutrient_key": "vitamin_k"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Passion fruit",
+          "food_b": "Mango",
+          "nutrient_key": "fiber"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Parsley",
+          "food_b": "Celery",
+          "nutrient_key": "vitamin_k"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Guava",
+          "food_b": "Banana",
+          "nutrient_key": "fiber"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      }
+    ]
+  }
+}
