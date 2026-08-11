@@ -170,8 +170,10 @@ def run_once(handle="@smarthealthfix", display_name="Smart Health Fix",
     _save_history(shape_key, cover_title, new_items)
 
     caption = build_caption(content)
+    hashtags_comment = build_hashtags_comment(content)
     result_paths = {"png": png_path, "mp4": mp4_path, "cover": cover_path,
-                     "content": content, "shape": shape_key, "caption": caption}
+                     "content": content, "shape": shape_key, "caption": caption,
+                     "hashtags_comment": hashtags_comment}
 
     with open("output/last_run.json", "w") as f:
         json.dump(result_paths, f, indent=2, ensure_ascii=False)
@@ -182,7 +184,8 @@ def run_once(handle="@smarthealthfix", display_name="Smart Health Fix",
     elif public_base_url:
         video_url = f"{public_base_url}/{mp4_path}"
         cover_url = f"{public_base_url}/{cover_path}"
-        media_id = publish_reel(video_url=video_url, cover_url=cover_url, caption=caption)
+        media_id = publish_reel(video_url=video_url, cover_url=cover_url, caption=caption,
+                                 hashtags_comment=hashtags_comment)
         result_paths["instagram_media_id"] = media_id
     else:
         print("[i] PUBLIC_BASE_URL niet gezet — reel is klaar maar nog niet geupload.")
@@ -190,23 +193,33 @@ def run_once(handle="@smarthealthfix", display_name="Smart Health Fix",
     return result_paths
 
 
-def build_caption(content, fallback_hashtags="#healthyeating #wellness #healthtips"):
+def build_caption(content):
     """
-    Bouwt de Instagram-caption. Sinds de prompt-update schrijft Claude zelf een
-    3-alinea caption + eigen hashtags mee in de content (zie content_generator.py) -
-    dat gebruiken we hier gewoon. Als die velden om wat voor reden dan ook ontbreken
-    (bijv. oude/gecachete content), vallen we terug op de oude, minimale variant
-    zodat het script nooit crasht op een ontbrekend veld.
+    Bouwt de schone Instagram-caption, ZONDER hashtags. Sinds de "hashtags in de
+    eerste comment"-tip gaan de hashtags niet meer in de caption zelf (zie
+    build_hashtags_comment() hieronder + instagram_publish.py, die ze na het
+    publiceren als losse comment plaatst) - dat oogt schoner en werkt voor bereik
+    net zo goed. Claude schrijft de 3-alinea caption al mee in de content (zie
+    content_generator.py); als dat veld om wat voor reden dan ook ontbreekt
+    (bijv. oude/gecachete content) vallen we terug op alleen de titel.
     """
     caption_text = content.get("caption")
+    if caption_text:
+        return caption_text
+    return content['title'].replace('{{', '').replace('}}', '')
+
+
+def build_hashtags_comment(content, fallback_hashtags="#healthyeating #wellness #healthtips"):
+    """
+    Bouwt de hashtag-tekst voor de EERSTE COMMENT (niet de caption). Claude
+    genereert al 5-8 aan-het-onderwerp-aangepaste hashtags per reel (zie
+    content_generator.py) - dus die wisselen vanzelf per post i.p.v. steeds
+    dezelfde vaste set, wat Instagram minder "repetitief" laat ogen.
+    """
     hashtags = content.get("hashtags")
-
-    if caption_text and hashtags:
-        tags = " ".join(h if h.startswith("#") else f"#{h}" for h in hashtags)
-        return f"{caption_text}\n\n{tags}"
-
-    title = content['title'].replace('{{', '').replace('}}', '')
-    return f"{title}\n\n{fallback_hashtags}"
+    if hashtags:
+        return " ".join(h if h.startswith("#") else f"#{h}" for h in hashtags)
+    return fallback_hashtags
 
 
 if __name__ == "__main__":
