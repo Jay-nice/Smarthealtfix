@@ -145,8 +145,31 @@ def _find_recent_duplicate(caption):
     return None, None  # geen enkele versie kon de check uitvoeren
 
 
+def post_comment(base, media_id, text):
+    """
+    Plaatst 'text' als comment onder media_id (gebruikt voor de hashtags-in-de-
+    eerste-comment aanpak: schonere caption, hashtags staan toch nog gewoon mee
+    voor de vindbaarheid). Faalt dit, dan laten we de hele run NIET falen - de
+    reel zelf staat dan al live, een ontbrekende hashtag-comment is vervelend
+    maar geen reden om de publicatie als mislukt te markeren.
+    """
+    resp, ok = _post_on_version(
+        f"{base}/{media_id}/comments",
+        {"message": text, "access_token": IG_ACCESS_TOKEN},
+        "het plaatsen van de hashtag-comment",
+    )
+    if not ok:
+        print(f"[WAARSCHUWING] Hashtags als eerste comment plaatsen mislukt "
+              f"(de reel zelf staat wel gewoon live): "
+              f"{resp.text if resp is not None else '(geen response)'}")
+        return None
+    comment_id = resp.json().get("id")
+    print(f"[i] Hashtags geplaatst als eerste comment (comment_id={comment_id}).")
+    return comment_id
+
+
 def publish_reel(video_url, caption, cover_url=None, audio_name=None,
-                  poll_interval=10, max_polls=30):
+                  hashtags_comment=None, poll_interval=10, max_polls=30):
     if not IG_ACCESS_TOKEN or not IG_USER_ID:
         raise RuntimeError("IG_ACCESS_TOKEN / IG_USER_ID ontbreken in .env - draai eerst oauth_setup.py.")
 
@@ -241,6 +264,10 @@ def publish_reel(video_url, caption, cover_url=None, audio_name=None,
 
     media_id = publish_resp.json()["id"]
     print(f"[3/3] Gepubliceerd via {working_version}! media_id={media_id}")
+
+    if hashtags_comment:
+        post_comment(base, media_id, hashtags_comment)
+
     return media_id
 
 
