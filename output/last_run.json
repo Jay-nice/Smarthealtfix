@@ -1,37 +1,35 @@
 {
-  "png": "output/reel_20260812_110300.png",
-  "mp4": "output/reel_20260812_110300.mp4",
-  "cover": "output/cover_20260812_110300.png",
+  "png": "output/reel_20260812_160618.png",
+  "mp4": "output/reel_20260812_160618.mp4",
+  "cover": "output/cover_20260812_160618.png",
   "content": {
-    "title": "WHAT YOUR ORGANS ACTUALLY {{CRAVE}}",
+    "title": "COMMON {{ANNOYANCES}} AND THE FOOD THAT EASES THEM",
     "facts": [
-      "**BEETS** are good for **LIVER FUNCTION** – they contain compounds that support the body's natural filtering process.",
-      "**FENNEL** is good for **DIGESTION** – it's traditionally used to ease bloating and support smooth digestion.",
-      "**OATS** are good for **GUT LINING** – their soluble fiber helps feed beneficial gut bacteria.",
-      "**WALNUTS** are good for **BRAIN HEALTH** – they contain fats linked to healthy cognitive function.",
-      "**CRANBERRIES** are good for **BLADDER HEALTH** – compounds in them may help prevent bacteria from sticking to the urinary tract.",
-      "**GARLIC** is good for **ARTERIES** – it has been studied for its role in supporting healthy blood pressure.",
-      "**MUSHROOMS** are good for **IMMUNE SYSTEM** – many varieties contain beta-glucans that support immune response.",
-      "**ASPARAGUS** is good for **KIDNEYS** – it acts as a gentle natural diuretic, supporting fluid balance.",
-      "**ARTICHOKE** is good for **GALLBLADDER** – it may support bile production and healthy fat digestion.",
-      "**CELERY** is good for **JOINTS** – it contains plant compounds that may help ease everyday stiffness.",
-      "**SEAWEED** is good for **THYROID FUNCTION** – it's a natural source of iodine, essential for hormone production.",
-      "**DARK CHOCOLATE** (70%+) is good for **BLOOD FLOW** – its flavanols may help support healthy circulation.",
-      "**Follow along** – for more daily health tips like this."
+      "Hiccups ----- **Peanut Butter**",
+      "Muscle Cramps ----- **Pickle Juice**",
+      "Bloating ----- **Peppermint Tea**",
+      "Brain Fog ----- **Blueberries**",
+      "Cold Hands & Feet ----- **Cayenne Pepper**",
+      "Puffy Eyes ----- **Cucumber**",
+      "Tension Headache ----- **Watermelon**",
+      "Stuffy Nose ----- **Ginger**",
+      "Heartburn ----- **Bananas**",
+      "Dry Skin ----- **Avocado**",
+      "**Follow along** ----- for more everyday fixes like this."
     ],
     "claims": [],
-    "caption": "Food can genuinely support specific organs, but it's rarely a magic switch — one beet won't fix your liver overnight, and no single food works the same way for everyone. Think of these as small, steady nudges rather than instant cures, and always pay attention to how your own body responds.\n\nFollow @smarthealthfix for more everyday breakdowns on nutrition, common health issues, how your organs actually work, and the small daily habits that quietly add up over time.\n\nSave this post so you have it next time you're grocery shopping, and share it with someone who could use a little organ-by-organ inspiration.",
+    "caption": "These little annoyances are so common we often just push through them, but the food-based tricks above have real logic behind them — pickle juice's electrolytes, peppermint's muscle-relaxing effect on the gut, ginger's soothing action on the stomach. That said, this isn't a guarantee for everyone. Bodies react differently, and if something is frequent or severe, it's worth talking to a doctor instead of just reaching for a snack.\n\nFollow @smarthealthfix for more on nutrition, common health issues, how your organs actually work, and the small daily habits that quietly shape how you feel.\n\nSave this post so you have it next time one of these pops up, and share it with someone who deals with these little annoyances too.",
     "hashtags": [
-      "#organhealth",
-      "#wholefoods",
+      "#healthtips",
+      "#wellness",
+      "#naturalremedies",
+      "#everydayhealth",
       "#guthealth",
-      "#nutritiontips",
-      "#healthyfood",
-      "#liverhealth",
-      "#wellnessjourney"
+      "#foodismedicine",
+      "#quickfix"
     ]
   },
-  "shape": "allcaps_benefit",
-  "caption": "Food can genuinely support specific organs, but it's rarely a magic switch — one beet won't fix your liver overnight, and no single food works the same way for everyone. Think of these as small, steady nudges rather than instant cures, and always pay attention to how your own body responds.\n\nFollow @smarthealthfix for more everyday breakdowns on nutrition, common health issues, how your organs actually work, and the small daily habits that quietly add up over time.\n\nSave this post so you have it next time you're grocery shopping, and share it with someone who could use a little organ-by-organ inspiration.",
-  "hashtags_comment": "#organhealth #wholefoods #guthealth #nutritiontips #healthyfood #liverhealth #wellnessjourney"
+  "shape": "problem_food_mapping",
+  "caption": "These little annoyances are so common we often just push through them, but the food-based tricks above have real logic behind them — pickle juice's electrolytes, peppermint's muscle-relaxing effect on the gut, ginger's soothing action on the stomach. That said, this isn't a guarantee for everyone. Bodies react differently, and if something is frequent or severe, it's worth talking to a doctor instead of just reaching for a snack.\n\nFollow @smarthealthfix for more on nutrition, common health issues, how your organs actually work, and the small daily habits that quietly shape how you feel.\n\nSave this post so you have it next time one of these pops up, and share it with someone who deals with these little annoyances too.",
+  "hashtags_comment": "#healthtips #wellness #naturalremedies #everydayhealth #guthealth #foodismedicine #quickfix"
 }
