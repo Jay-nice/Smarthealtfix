@@ -1,34 +1,37 @@
 {
-  "png": "output/reel_20260811_204328.png",
-  "mp4": "output/reel_20260811_204328.mp4",
-  "cover": "output/cover_20260811_204328.png",
+  "png": "output/reel_20260812_110300.png",
+  "mp4": "output/reel_20260812_110300.mp4",
+  "cover": "output/cover_20260812_110300.png",
   "content": {
-    "title": "THE {{2-MINUTE}} FIXES FOR EVERYDAY BODY GLITCHES",
+    "title": "WHAT YOUR ORGANS ACTUALLY {{CRAVE}}",
     "facts": [
-      "**Hiccups** – Swallow a spoonful of sugar to interrupt the diaphragm spasm.",
-      "**Toothache** – Dab a drop of clove oil onto the sore spot for temporary numbing.",
-      "**Sore Throat** – Sip warm water with honey and lemon to ease the irritation.",
-      "**Leg Cramp** – Flex your foot upward and stretch your calf until it releases.",
-      "**Splinter** – Soak the spot in warm Epsom salt water to help it surface.",
-      "**Sunburn Sting** – Press a cool, damp black tea bag against the skin.",
-      "**Nosebleed** – Pinch the soft part of your nose and lean forward, not back.",
-      "**Eyelid Stye** – Hold a warm washcloth over the eye for five minutes.",
-      "**Blister** – Cover it loosely with a soft cloth to cut down on friction.",
-      "**Hangover Queasiness** – Sip ginger tea in small mouthfuls to settle your stomach.",
-      "**Follow along** – for more quick fixes like this whenever you need them."
+      "**BEETS** are good for **LIVER FUNCTION** – they contain compounds that support the body's natural filtering process.",
+      "**FENNEL** is good for **DIGESTION** – it's traditionally used to ease bloating and support smooth digestion.",
+      "**OATS** are good for **GUT LINING** – their soluble fiber helps feed beneficial gut bacteria.",
+      "**WALNUTS** are good for **BRAIN HEALTH** – they contain fats linked to healthy cognitive function.",
+      "**CRANBERRIES** are good for **BLADDER HEALTH** – compounds in them may help prevent bacteria from sticking to the urinary tract.",
+      "**GARLIC** is good for **ARTERIES** – it has been studied for its role in supporting healthy blood pressure.",
+      "**MUSHROOMS** are good for **IMMUNE SYSTEM** – many varieties contain beta-glucans that support immune response.",
+      "**ASPARAGUS** is good for **KIDNEYS** – it acts as a gentle natural diuretic, supporting fluid balance.",
+      "**ARTICHOKE** is good for **GALLBLADDER** – it may support bile production and healthy fat digestion.",
+      "**CELERY** is good for **JOINTS** – it contains plant compounds that may help ease everyday stiffness.",
+      "**SEAWEED** is good for **THYROID FUNCTION** – it's a natural source of iodine, essential for hormone production.",
+      "**DARK CHOCOLATE** (70%+) is good for **BLOOD FLOW** – its flavanols may help support healthy circulation.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "These little tricks have been passed around for generations, but they're not magic and they're not medical treatment. If a symptom is severe, lasts too long, or something feels off, please check in with a doctor — everyone's body reacts a bit differently, so take what works for you and skip what doesn't.\n\nFollow @smarthealthfix for everyday tips on nutrition, common health issues, how your organs work, and the small daily habits that quietly add up over time.\n\nSave this post so you have it ready next time one of these little annoyances shows up, and share it with someone who could use a quick fix today.",
+    "caption": "Food can genuinely support specific organs, but it's rarely a magic switch — one beet won't fix your liver overnight, and no single food works the same way for everyone. Think of these as small, steady nudges rather than instant cures, and always pay attention to how your own body responds.\n\nFollow @smarthealthfix for more everyday breakdowns on nutrition, common health issues, how your organs actually work, and the small daily habits that quietly add up over time.\n\nSave this post so you have it next time you're grocery shopping, and share it with someone who could use a little organ-by-organ inspiration.",
     "hashtags": [
-      "#naturalremedies",
-      "#healthhacks",
-      "#homeremedies",
-      "#wellnesstips",
-      "#quickrelief",
-      "#everydayhealth",
-      "#healthtips"
+      "#organhealth",
+      "#wholefoods",
+      "#guthealth",
+      "#nutritiontips",
+      "#healthyfood",
+      "#liverhealth",
+      "#wellnessjourney"
     ]
   },
-  "shape": "boxed_hacks",
-  "caption": "These little tricks have been passed around for generations, but they're not magic and they're not medical treatment. If a symptom is severe, lasts too long, or something feels off, please check in with a doctor — everyone's body reacts a bit differently, so take what works for you and skip what doesn't.\n\nFollow @smarthealthfix for everyday tips on nutrition, common health issues, how your organs work, and the small daily habits that quietly add up over time.\n\nSave this post so you have it ready next time one of these little annoyances shows up, and share it with someone who could use a quick fix today.\n\n#naturalremedies #healthhacks #homeremedies #wellnesstips #quickrelief #everydayhealth #healthtips"
+  "shape": "allcaps_benefit",
+  "caption": "Food can genuinely support specific organs, but it's rarely a magic switch — one beet won't fix your liver overnight, and no single food works the same way for everyone. Think of these as small, steady nudges rather than instant cures, and always pay attention to how your own body responds.\n\nFollow @smarthealthfix for more everyday breakdowns on nutrition, common health issues, how your organs actually work, and the small daily habits that quietly add up over time.\n\nSave this post so you have it next time you're grocery shopping, and share it with someone who could use a little organ-by-organ inspiration.",
+  "hashtags_comment": "#organhealth #wholefoods #guthealth #nutritiontips #healthyfood #liverhealth #wellnessjourney"
 }
