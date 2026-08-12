@@ -32,6 +32,12 @@ load_dotenv()
 IG_ACCESS_TOKEN = os.environ.get("IG_ACCESS_TOKEN")
 IG_USER_ID = os.environ.get("IG_USER_ID")
 
+# Optioneel: een vaste locatie-tag (bijv. "New York, New York") op elke reel.
+# Dit moet een Facebook Page-ID zijn, GEEN vrije tekst - zoek 'm 1x op met
+# find_location_id.py en zet de uitkomst als IG_LOCATION_ID secret/env var.
+# Leeg laten = geen locatie-tag, precies zoals nu.
+IG_LOCATION_ID = os.environ.get("IG_LOCATION_ID")
+
 # Nieuwste eerst. Bij een blokkade zakt het script automatisch door naar de
 # volgende. Zet IG_API_VERSION (bijv. "v26.0") om er eentje af te dwingen.
 API_VERSIONS = ["v26.0", "v25.0", "v24.0"]
@@ -190,6 +196,8 @@ def publish_reel(video_url, caption, cover_url=None, audio_name=None,
         params["cover_url"] = cover_url
     if audio_name:
         params["audio_name"] = audio_name
+    if IG_LOCATION_ID:
+        params["location_id"] = IG_LOCATION_ID
 
     # --- Stap 1: container aanmaken, versie voor versie tot er één werkt ---
     container_id = None
