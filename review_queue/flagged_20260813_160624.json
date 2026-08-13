@@ -1,0 +1,190 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "WEEKLY GROCERY {{SHOWDOWN}}: WHO ACTUALLY WINS ON NUTRIENTS",
+    "facts": [
+      "**Papaya** has more vitamin C than an **orange**, gram for gram, even though the orange gets all the credit.",
+      "**Pumpkin seeds** contain over ten times more **magnesium** than **broccoli** per 100 grams.",
+      "**Black beans** pack more than twenty times the **fiber** of the same amount of **white rice**.",
+      "**Mushrooms** exposed to sunlight can contain measurable **vitamin D** — something **carrots** essentially never provide.",
+      "**Dried apricots** have far more **iron** than fresh **apples**, nearly twenty times as much.",
+      "**Chickpeas** offer roughly five times more **zinc** than **potatoes** of the same weight.",
+      "**Walnuts** contain dramatically more plant-based **omega-3s** than **pistachios** — over thirty times more.",
+      "**Dried figs** have more than ten times the **fiber** of fresh **grapes**.",
+      "**Brussels sprouts** contain more than thirty times the **vitamin C** of **iceberg lettuce**.",
+      "**Follow along** – for more daily health tips like this."
+    ],
+    "claims": [
+      {
+        "food_a": "Papaya",
+        "food_b": "Orange",
+        "nutrient_key": "vitamin_c"
+      },
+      {
+        "food_a": "Pumpkin seeds",
+        "food_b": "Broccoli",
+        "nutrient_key": "magnesium"
+      },
+      {
+        "food_a": "Black beans",
+        "food_b": "White rice",
+        "nutrient_key": "fiber"
+      },
+      {
+        "food_a": "Mushrooms",
+        "food_b": "Carrots",
+        "nutrient_key": "vitamin_d"
+      },
+      {
+        "food_a": "Dried apricots",
+        "food_b": "Apples",
+        "nutrient_key": "iron"
+      },
+      {
+        "food_a": "Chickpeas",
+        "food_b": "Potatoes",
+        "nutrient_key": "zinc"
+      },
+      {
+        "food_a": "Walnuts",
+        "food_b": "Pistachios",
+        "nutrient_key": "omega3_ala"
+      },
+      {
+        "food_a": "Dried figs",
+        "food_b": "Grapes",
+        "nutrient_key": "fiber"
+      },
+      {
+        "food_a": "Brussels sprouts",
+        "food_b": "Iceberg lettuce",
+        "nutrient_key": "vitamin_c"
+      }
+    ],
+    "caption": "None of this means the 'lower' food is bad for you — every fruit and veggie brings something different to the table, and your body's needs can shift depending on the day, your activity level, or what else you're eating. Numbers are a guide, not a verdict.\n\nFollow @smarthealthfix for daily breakdowns on nutrition, common health issues, how your organs actually work, and the small daily habits that quietly shape your health.\n\nSave this post for your next grocery run, and share it with someone who's trying to eat a little smarter this week.",
+    "hashtags": [
+      "#healthtips",
+      "#nutritionfacts",
+      "#wellness",
+      "#eatthisnotthat",
+      "#plantbasednutrition",
+      "#veggiepower",
+      "#micronutrients",
+      "#healthyeating"
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 9,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "Papaya",
+          "food_b": "Orange",
+          "nutrient_key": "vitamin_c"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Pumpkin seeds",
+          "food_b": "Broccoli",
+          "nutrient_key": "magnesium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Black beans",
+          "food_b": "White rice",
+          "nutrient_key": "fiber"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Mushrooms",
+          "food_b": "Carrots",
+          "nutrient_key": "vitamin_d"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Dried apricots",
+          "food_b": "Apples",
+          "nutrient_key": "iron"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Chickpeas",
+          "food_b": "Potatoes",
+          "nutrient_key": "zinc"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Walnuts",
+          "food_b": "Pistachios",
+          "nutrient_key": "omega3_ala"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Dried figs",
+          "food_b": "Grapes",
+          "nutrient_key": "fiber"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Brussels sprouts",
+          "food_b": "Iceberg lettuce",
+          "nutrient_key": "vitamin_c"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      }
+    ]
+  }
+}
