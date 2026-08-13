@@ -1,0 +1,190 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "THE {{SURPRISING}} NUTRIENT SWAPS HIDING IN YOUR KITCHEN",
+    "facts": [
+      "**Kiwi** has almost twice as much vitamin C as an orange, gram for gram.",
+      "**Pumpkin seeds** contain nearly double the magnesium found in cashews.",
+      "**Black beans** pack far more iron per serving than white rice.",
+      "**Chia seeds** deliver almost twice the omega-3 ALA of walnuts.",
+      "**Oats** contain roughly three times more fiber than white bread.",
+      "**Sun-exposed mushrooms** can have over 100 times more vitamin D than regular store-bought ones.",
+      "**Dark chocolate** has more than three times the magnesium of milk chocolate.",
+      "**Dried apricots** are far more concentrated in iron than fresh apricots.",
+      "**Cashews** contain noticeably more zinc than almonds do.",
+      "**Follow along** – for more daily health tips like this."
+    ],
+    "claims": [
+      {
+        "food_a": "Kiwi",
+        "food_b": "Orange",
+        "nutrient_key": "vitamin_c"
+      },
+      {
+        "food_a": "Pumpkin seeds",
+        "food_b": "Cashews",
+        "nutrient_key": "magnesium"
+      },
+      {
+        "food_a": "Black beans",
+        "food_b": "White rice",
+        "nutrient_key": "iron"
+      },
+      {
+        "food_a": "Chia seeds",
+        "food_b": "Walnuts",
+        "nutrient_key": "omega3_ala"
+      },
+      {
+        "food_a": "Oats",
+        "food_b": "White bread",
+        "nutrient_key": "fiber"
+      },
+      {
+        "food_a": "Sun-exposed mushrooms",
+        "food_b": "Regular mushrooms",
+        "nutrient_key": "vitamin_d"
+      },
+      {
+        "food_a": "Dark chocolate",
+        "food_b": "Milk chocolate",
+        "nutrient_key": "magnesium"
+      },
+      {
+        "food_a": "Dried apricots",
+        "food_b": "Fresh apricots",
+        "nutrient_key": "iron"
+      },
+      {
+        "food_a": "Cashews",
+        "food_b": "Almonds",
+        "nutrient_key": "zinc"
+      }
+    ],
+    "caption": "Numbers like these are fun to know, but they're not the whole story — how much of a nutrient you actually absorb depends on your gut, your overall diet, and even how the food was prepared. This isn't about crowning one 'winner' food, it's about noticing there's often more nutrition hiding in everyday pantry items than we give them credit for.\n\nFollow @smarthealthfix for daily bites on nutrition, common health issues, how your organs actually work, and small daily habits that quietly add up over time.\n\nSave this post so you have it next time you're grocery shopping, and share it with someone who could use a little nutrient inspiration today.",
+    "hashtags": [
+      "#healthtips",
+      "#nutritionfacts",
+      "#magnesium",
+      "#ironrich",
+      "#plantbasedprotein",
+      "#wellnessjourney",
+      "#healthyeating",
+      "#micronutrients"
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 9,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "Kiwi",
+          "food_b": "Orange",
+          "nutrient_key": "vitamin_c"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Pumpkin seeds",
+          "food_b": "Cashews",
+          "nutrient_key": "magnesium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Black beans",
+          "food_b": "White rice",
+          "nutrient_key": "iron"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Chia seeds",
+          "food_b": "Walnuts",
+          "nutrient_key": "omega3_ala"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Oats",
+          "food_b": "White bread",
+          "nutrient_key": "fiber"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Sun-exposed mushrooms",
+          "food_b": "Regular mushrooms",
+          "nutrient_key": "vitamin_d"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Dark chocolate",
+          "food_b": "Milk chocolate",
+          "nutrient_key": "magnesium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Dried apricots",
+          "food_b": "Fresh apricots",
+          "nutrient_key": "iron"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Cashews",
+          "food_b": "Almonds",
+          "nutrient_key": "zinc"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      }
+    ]
+  }
+}
