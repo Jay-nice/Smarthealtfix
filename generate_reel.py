@@ -206,13 +206,22 @@ def render_slide(config, out_path):
     list_bottom_limit = CANVAS_H - footer_bar_h - cta_reserved_h - 20
     available_h = list_bottom_limit - list_top
 
+    # Het LAATSTE item in "facts" is standaard de follow-oproep (zie
+    # content_generator.py) - die laten we opvallen door 'm helemaal vet te
+    # zetten (zelfde kleur als de rest, alleen dikker).
+    num_facts = len(config["facts"])
+    last_fact_index = num_facts - 1
+
     def measure_list_height(font_size, line_height, paragraph_gap):
         f_reg = ImageFont.truetype(FONT_REGULAR, font_size)
         f_bold = ImageFont.truetype(FONT_SEMIBOLD, font_size)
         total = 0
         per_fact_lines = []
-        for fact in config["facts"]:
-            words = runs_to_words(parse_bold_runs(fact))
+        for idx, fact in enumerate(config["facts"]):
+            runs = parse_bold_runs(fact)
+            if idx == last_fact_index:
+                runs = [(text, True) for text, _ in runs]  # alles vet voor de CTA
+            words = runs_to_words(runs)
             wlines = wrap_words(draw, words, f_reg, f_bold, list_max_w)
             per_fact_lines.append(wlines)
             total += len(wlines) * line_height
@@ -306,6 +315,18 @@ def image_to_reel_video(image_path, video_path, duration_seconds=REEL_DURATION_S
     if audio_path == "__auto__":
         audio_path = pick_random_track()
 
+    # Kwaliteitsinstellingen: Instagram's Content Publishing API heeft GEEN
+    # "beste kwaliteit"-schuifje zoals de app dat wel heeft bij handmatig
+    # uploaden - de enige hendel die wij hebben is hoe goed het bronbestand
+    # zelf is dat we aanleveren. -crf 18 is visueel zo goed als lossless
+    # (standaard is 23, hoger getal = meer compressie/kwaliteitsverlies).
+    # -maxrate/-bufsize houdt 'm binnen Instagram's aanbevolen max van 5 Mbps
+    # voor Reels, -profile:v high voor de beste H.264-encodingkwaliteit.
+    video_quality_flags = [
+        "-c:v", "libx264", "-crf", "18", "-profile:v", "high", "-level", "4.0",
+        "-maxrate", "5M", "-bufsize", "10M", "-r", "30",
+    ]
+
     if audio_path:
         cmd = [
             "ffmpeg", "-y",
@@ -313,7 +334,7 @@ def image_to_reel_video(image_path, video_path, duration_seconds=REEL_DURATION_S
             "-i", audio_path,
             "-t", str(duration_seconds),
             "-vf", "scale=1080:1920,format=yuv420p",
-            "-c:v", "libx264", "-r", "30",
+            *video_quality_flags,
             "-c:a", "aac", "-b:a", "128k",
             "-shortest", "-movflags", "+faststart",
             video_path,
@@ -325,7 +346,8 @@ def image_to_reel_video(image_path, video_path, duration_seconds=REEL_DURATION_S
             "-loop", "1", "-i", image_path,
             "-t", str(duration_seconds),
             "-vf", "scale=1080:1920,format=yuv420p",
-            "-c:v", "libx264", "-r", "30", "-movflags", "+faststart",
+            *video_quality_flags,
+            "-movflags", "+faststart",
             video_path,
         ]
         used_track = None
