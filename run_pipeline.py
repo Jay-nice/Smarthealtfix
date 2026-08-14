@@ -39,6 +39,18 @@ TOPIC_POOL = [
      "varieer tussen o.a. magnesium, ijzer, zink, calcium, kalium, jodium, selenium, koper, "
      "mangaan - niet steeds dezelfde 2-3"),
     ("numbered_explainer", "kleine dagelijkse gewoontes met een concreet gezondheidsvoordeel"),
+    ("daily_dose_habit", "een dagelijkse hoeveelheid van iets (voeding, water, beweging, slaap, "
+     "zonlicht) gekoppeld aan een heel kort, concreet resultaat - varieer breed tussen voeding, "
+     "beweging, slaap, mindset/stress, niet steeds dezelfde 5-6 items"),
+    ("organ_food_list", "een orgaan/lichaamsdeel gekoppeld aan 2-4 voedingsmiddelen die het "
+     "ondersteunen - varieer tussen o.a. longen, huid, nieren, hart, hersenen, ogen, maag, "
+     "alvleesklier, darmen, bloed - niet steeds dezelfde 2-3 organen"),
+    ("conditional_transformation", "wat er zou gebeuren als je een specifiek voedingsmiddel elke "
+     "dag zou eten gedurende een paar weken - kies een breed scala aan voedingsmiddelen en "
+     "zichtbare/voelbare resultaten, varieer ook het tijdsbestek (bijv. 1 week, 2 weken, 30 dagen)"),
+    ("imperative_advice_list", "direct, actiegericht advies voor een specifieke levensfase of "
+     "doelgroep (bijv. 60-plussers, drukke professionals, nieuwe ouders, vrouwen, studenten) - "
+     "wissel de doelgroep en insteek per keer af"),
 ]
 
 
@@ -170,10 +182,8 @@ def run_once(handle="@smarthealthfix", display_name="Smart Health Fix",
     _save_history(shape_key, cover_title, new_items)
 
     caption = build_caption(content)
-    hashtags_comment = build_hashtags_comment(content)
     result_paths = {"png": png_path, "mp4": mp4_path, "cover": cover_path,
-                     "content": content, "shape": shape_key, "caption": caption,
-                     "hashtags_comment": hashtags_comment}
+                     "content": content, "shape": shape_key, "caption": caption}
 
     with open("output/last_run.json", "w") as f:
         json.dump(result_paths, f, indent=2, ensure_ascii=False)
@@ -184,8 +194,7 @@ def run_once(handle="@smarthealthfix", display_name="Smart Health Fix",
     elif public_base_url:
         video_url = f"{public_base_url}/{mp4_path}"
         cover_url = f"{public_base_url}/{cover_path}"
-        media_id = publish_reel(video_url=video_url, cover_url=cover_url, caption=caption,
-                                 hashtags_comment=hashtags_comment)
+        media_id = publish_reel(video_url=video_url, cover_url=cover_url, caption=caption)
         result_paths["instagram_media_id"] = media_id
     else:
         print("[i] PUBLIC_BASE_URL niet gezet — reel is klaar maar nog niet geupload.")
@@ -193,33 +202,27 @@ def run_once(handle="@smarthealthfix", display_name="Smart Health Fix",
     return result_paths
 
 
-def build_caption(content):
+def build_caption(content, fallback_hashtags="#healthyeating #wellness #healthtips"):
     """
-    Bouwt de schone Instagram-caption, ZONDER hashtags. Sinds de "hashtags in de
-    eerste comment"-tip gaan de hashtags niet meer in de caption zelf (zie
-    build_hashtags_comment() hieronder + instagram_publish.py, die ze na het
-    publiceren als losse comment plaatst) - dat oogt schoner en werkt voor bereik
-    net zo goed. Claude schrijft de 3-alinea caption al mee in de content (zie
-    content_generator.py); als dat veld om wat voor reden dan ook ontbreekt
-    (bijv. oude/gecachete content) vallen we terug op alleen de titel.
+    Bouwt de volledige Instagram-caption INCLUSIEF hashtags + losse trefwoorden aan
+    het eind (net als @naturalhealinglab dat doet). Claude schrijft de 3-alinea
+    caption + 8-12 onderwerp-specifieke hashtags + 3-5 losse trefwoorden al mee in
+    de content (zie content_generator.py); als die velden om wat voor reden dan ook
+    ontbreken (bijv. oude/gecachete content) vallen we terug op de titel + vaste
+    hashtags.
     """
     caption_text = content.get("caption")
-    if caption_text:
-        return caption_text
-    return content['title'].replace('{{', '').replace('}}', '')
-
-
-def build_hashtags_comment(content, fallback_hashtags="#healthyeating #wellness #healthtips"):
-    """
-    Bouwt de hashtag-tekst voor de EERSTE COMMENT (niet de caption). Claude
-    genereert al 5-8 aan-het-onderwerp-aangepaste hashtags per reel (zie
-    content_generator.py) - dus die wisselen vanzelf per post i.p.v. steeds
-    dezelfde vaste set, wat Instagram minder "repetitief" laat ogen.
-    """
     hashtags = content.get("hashtags")
-    if hashtags:
-        return " ".join(h if h.startswith("#") else f"#{h}" for h in hashtags)
-    return fallback_hashtags
+    extra_keywords = content.get("extra_keywords") or []
+
+    if caption_text and hashtags:
+        tags = " ".join(h if h.startswith("#") else f"#{h}" for h in hashtags)
+        keywords = " ".join(extra_keywords)
+        tail = f"{tags} {keywords}".strip() if keywords else tags
+        return f"{caption_text}\n\n{tail}"
+
+    title = content['title'].replace('{{', '').replace('}}', '')
+    return f"{title}\n\n{fallback_hashtags}"
 
 
 if __name__ == "__main__":
