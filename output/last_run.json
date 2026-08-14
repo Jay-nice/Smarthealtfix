@@ -1,34 +1,35 @@
 {
-  "png": "output/reel_20260813_110301.png",
-  "mp4": "output/reel_20260813_110301.mp4",
-  "cover": "output/cover_20260813_110301.png",
+  "png": "output/reel_20260814_160055.png",
+  "mp4": "output/reel_20260814_160055.mp4",
+  "cover": "output/cover_20260814_160055.png",
   "content": {
-    "title": "THE BODY'S {{SOS}} SIGNALS FOR HIDDEN NUTRIENT GAPS",
+    "title": "THE {{TINY}} HABITS WITH SURPRISINGLY BIG PAYOFFS",
     "facts": [
-      "**Iodine** – Constant fatigue, unexplained weight gain, feeling cold all the time, and swelling in the neck.",
-      "**Vitamin K** – Easy bruising, slow-healing cuts, and bleeding gums that won't quit.",
-      "**Selenium** – Frequent colds, brittle nails, and muscle weakness that doesn't match your activity level.",
-      "**Copper** – Pale skin, brittle or prematurely grey hair, and bones that fracture more easily than they should.",
-      "**Vitamin E** – Blurred vision, muscle weakness, and numbness or tingling in the limbs.",
-      "**Folate** – Mouth sores, irritability, shortness of breath, and unusually pale skin.",
-      "**Potassium** – Irregular heartbeat, muscle weakness, and stubborn constipation.",
-      "**Vitamin A** – Trouble seeing at night, dry eyes, and getting sick more often than usual.",
-      "**Calcium** – Muscle spasms, brittle nails, and numbness or tingling around the mouth.",
-      "**Follow along** – for more daily health tips like this."
+      "**Sip warm lemon water** before your coffee — it kickstarts digestion and helps your body ease into the day instead of jolting it awake.",
+      "**Walk for 10 minutes after eating** — it helps smooth out blood sugar spikes that would otherwise leave you sluggish an hour later.",
+      "**Step outside within 30 minutes of waking** — natural light exposure early on helps set your circadian rhythm, so you feel sleepier at the right time at night.",
+      "**Chew each bite slowly** — it gives your gut more time to signal fullness and improves how well you absorb nutrients from your food.",
+      "**Add a spoonful of chia seeds** to breakfast — the fiber and omega-3 ALA content keeps you fuller longer and supports heart health.",
+      "**Roll your shoulders every hour** — this tiny movement break releases built-up tension before it turns into a stiff neck or headache.",
+      "**Swap one coffee for green tea** — you still get a gentle lift, minus the afternoon crash, thanks to its calmer caffeine-antioxidant combo.",
+      "**End your shower with 30 seconds of cool water** — it's a small nudge that supports circulation and can leave you feeling more alert.",
+      "**Take five slow, deep breaths** before a stressful task — it lowers your heart rate and helps keep cortisol from spiking unnecessarily.",
+      "**Write down three things before bed** — offloading your thoughts onto paper is linked to falling asleep faster and waking up calmer.",
+      "**Follow along** – for more small daily habits that quietly add up to a healthier you."
     ],
     "claims": [],
-    "caption": "This doesn't mean every bruise, cold hand, or bad night's sleep means you're deficient in something — the body is messy and symptoms overlap all the time. Think of this list as a gentle nudge to pay attention, not a diagnosis. Everyone's body is different, and if something feels off for a while, it's always worth checking in with a doctor and getting real bloodwork instead of guessing.\n\nFollow @smarthealthfix for daily, easy-to-digest posts on nutrition, common health issues, how your organs actually work, and the small daily habits that quietly shape how you feel.\n\nSave this post so you have it next time something feels off, and share it with someone who's been feeling 'just tired' lately.",
+    "caption": "None of these tiny habits are magic fixes, and they won't undo a rough week overnight — but small, consistent actions add up more than we usually give them credit for. Everyone's body responds a little differently, so treat these as gentle experiments rather than rules, and pay attention to what actually makes you feel better.\n\nFollow @smarthealthfix for daily, practical tips on nutrition, common health issues, how your organs actually work, and small daily habits that quietly add up over time.\n\nSave this post so you don't lose it, and share it with someone who could use a few easy wins today.",
     "hashtags": [
-      "#nutrientdeficiency",
-      "#vitamink",
-      "#folate",
       "#healthtips",
+      "#dailyhabits",
       "#wellness",
-      "#nutritionfacts",
-      "#hiddensymptoms"
+      "#smallhabits",
+      "#healthyroutine",
+      "#selfcare",
+      "#mindfulliving"
     ]
   },
-  "shape": "symptom_list",
-  "caption": "This doesn't mean every bruise, cold hand, or bad night's sleep means you're deficient in something — the body is messy and symptoms overlap all the time. Think of this list as a gentle nudge to pay attention, not a diagnosis. Everyone's body is different, and if something feels off for a while, it's always worth checking in with a doctor and getting real bloodwork instead of guessing.\n\nFollow @smarthealthfix for daily, easy-to-digest posts on nutrition, common health issues, how your organs actually work, and the small daily habits that quietly shape how you feel.\n\nSave this post so you have it next time something feels off, and share it with someone who's been feeling 'just tired' lately.",
-  "hashtags_comment": "#nutrientdeficiency #vitamink #folate #healthtips #wellness #nutritionfacts #hiddensymptoms"
+  "shape": "numbered_explainer",
+  "caption": "None of these tiny habits are magic fixes, and they won't undo a rough week overnight — but small, consistent actions add up more than we usually give them credit for. Everyone's body responds a little differently, so treat these as gentle experiments rather than rules, and pay attention to what actually makes you feel better.\n\nFollow @smarthealthfix for daily, practical tips on nutrition, common health issues, how your organs actually work, and small daily habits that quietly add up over time.\n\nSave this post so you don't lose it, and share it with someone who could use a few easy wins today.",
+  "hashtags_comment": "#healthtips #dailyhabits #wellness #smallhabits #healthyroutine #selfcare #mindfulliving"
 }
