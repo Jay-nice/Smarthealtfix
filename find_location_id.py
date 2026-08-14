@@ -1,0 +1,193 @@
+name: Dagelijkse reel
+
+on:
+  schedule:
+    # Tijden in UTC! Ingesteld op 12:00, 17:00, 22:00 Nederlandse ZOMERtijd (UTC+2).
+    # Let op: dit is een vaste UTC-tijd die NIET automatisch meeschuift met de
+    # klok. Zodra het in Nederland weer wintertijd wordt (UTC+1, eind oktober),
+    # schuiven deze momenten in werkelijkheid 1 uur op (dus dan 13:00/18:00/23:00
+    # lokale tijd) — pas dan de cron-regels hieronder met -1 uur aan indien gewenst.
+    - cron: "5 10 * * *"
+    - cron: "5 15 * * *"
+    - cron: "5 20 * * *"
+  workflow_dispatch: {}   # handmatig te starten via de "Actions"-tab, handig om te testen
+
+permissions:
+  contents: write   # nodig om de gegenereerde bestanden terug te committen
+
+jobs:
+  # --- Taak 1: content genereren + pushen ---
+  maak-reel:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository ophalen
+        uses: actions/checkout@v4
+
+      - name: Python installeren
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: ffmpeg installeren
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Dependencies installeren
+        run: pip install -r requirements.txt
+
+      - name: Reel genereren (tekst -> factcheck -> afbeelding -> video -> cover)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FDC_API_KEY: ${{ secrets.FDC_API_KEY }}
+        run: python3 run_pipeline.py --skip-upload
+
+      # 'if: always()' zodat we OOK committen als de stap hierboven faalde
+      # (bijv. door een factcheck-afkeuring) - anders verdwijnt een eventueel
+      # review_queue/-bestand spoorloos zodra deze tijdelijke computer wordt
+      # opgeruimd, en kun je nooit zien wát er precies is afgekeurd.
+      - name: Gegenereerde bestanden (en eventuele afgekeurde review_queue) committen en pushen
+        if: always()
+        run: |
+          git config user.name "reel-bot"
+          git config user.email "reel-bot@users.noreply.github.com"
+          git add -f output/ review_queue/
+          git diff --staged --quiet || git commit -m "Nieuwe reel / review_queue-update: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
+
+      - name: Wachten tot GitHub Pages de nieuwe bestanden live heeft
+        run: sleep 120   # 2 minuten, ruim voldoende voor een Pages-redeploy
+
+  # --- Taak 2/3/4: publiceren, elk op een VERSE computer (ander IP) ---
+  # Meta blokkeert soms specifieke datacenter-IP-reeksen met "API access
+  # blocked" — opnieuw proberen op dezelfde computer helpt dan niks (zelfde IP
+  # blijft geblokkeerd). Door elke poging een aparte job te maken geeft GitHub
+  # er telkens een nieuwe, willekeurige computer bij, en dus een andere kans.
+  #
+  # BELANGRIJK #1: deze jobs halen 'ref: main' op, zodat ze de ZOJUIST door
+  # 'maak-reel' gepushte reel (output/last_run.json) te pakken hebben.
+  #
+  # BELANGRIJK #2 (bug gevonden + gefixt op 2 augustus 2026): zodra een job
+  # een EIGEN 'if:'-voorwaarde heeft, past GitHub NIET meer automatisch de
+  # regel "alleen draaien als alle needs-jobs geslaagd zijn" toe - dat moet
+  # je er dan zelf expliciet bij zetten. Zonder 'needs.maak-reel.result ==
+  # success' in de voorwaarde hieronder draaiden poging-2/3 ook door als
+  # maak-reel MISLUKTE (bijv. door een Anthropic API-hikje) - ze checkten dan
+  # gewoon de OUDE, nog niet vervangen output/last_run.json uit en postten
+  # zo een reel van een vorige dag NOG EEN KEER, zonder dat er iets nieuws
+  # gegenereerd was. Dat gaf 3x exact dezelfde post op één dag.
+  publiceer-poging-1:
+    needs: maak-reel
+    if: needs.maak-reel.result == 'success'
+    runs-on: ubuntu-latest
+    outputs:
+      gelukt: ${{ steps.pub.outcome }}
+    steps:
+      - name: Repository ophalen (verse tip van main, mét de nieuwe reel)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Python installeren
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Dependencies installeren (alleen wat publiceren nodig heeft)
+        run: pip install requests python-dotenv
+
+      - name: Publiceren naar Instagram (poging 1)
+        id: pub
+        continue-on-error: true   # niet meteen de hele run laten falen; poging 2 mag het overnemen
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL }}
+          IG_LOCATION_ID: ${{ secrets.IG_LOCATION_ID }}
+        run: python3 publish_latest.py
+
+  publiceer-poging-2:
+    needs: [maak-reel, publiceer-poging-1]
+    if: |
+      needs.maak-reel.result == 'success' &&
+      needs.publiceer-poging-1.outputs.gelukt != 'success'
+    runs-on: ubuntu-latest
+    outputs:
+      gelukt: ${{ steps.pub.outcome }}
+    steps:
+      - name: Repository ophalen (verse tip van main, mét de nieuwe reel)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Python installeren
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Dependencies installeren (alleen wat publiceren nodig heeft)
+        run: pip install requests python-dotenv
+
+      - name: Publiceren naar Instagram (poging 2, verse computer)
+        id: pub
+        continue-on-error: true
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL }}
+          IG_LOCATION_ID: ${{ secrets.IG_LOCATION_ID }}
+        run: python3 publish_latest.py
+
+  publiceer-poging-3:
+    needs: [maak-reel, publiceer-poging-1, publiceer-poging-2]
+    if: |
+      needs.maak-reel.result == 'success' &&
+      needs.publiceer-poging-1.outputs.gelukt != 'success' &&
+      needs.publiceer-poging-2.outputs.gelukt != 'success'
+    runs-on: ubuntu-latest
+    outputs:
+      gelukt: ${{ steps.pub.outcome }}
+    steps:
+      - name: Repository ophalen (verse tip van main, mét de nieuwe reel)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Python installeren
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Dependencies installeren (alleen wat publiceren nodig heeft)
+        run: pip install requests python-dotenv
+
+      - name: Publiceren naar Instagram (poging 3, verse computer)
+        id: pub
+        continue-on-error: true
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL }}
+          IG_LOCATION_ID: ${{ secrets.IG_LOCATION_ID }}
+        run: python3 publish_latest.py
+
+  # --- Eindcontrole: groen als minstens één poging postte, rood als er echt iets mis is ---
+  controle:
+    needs: [maak-reel, publiceer-poging-1, publiceer-poging-2, publiceer-poging-3]
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - name: Is er iets gepost?
+        run: |
+          if [ "${{ needs.publiceer-poging-1.outputs.gelukt }}" = "success" ] \
+          || [ "${{ needs.publiceer-poging-2.outputs.gelukt }}" = "success" ] \
+          || [ "${{ needs.publiceer-poging-3.outputs.gelukt }}" = "success" ]; then
+            echo "Reel is gepost. Alles goed."
+          elif [ "${{ needs.maak-reel.result }}" != "success" ]; then
+            echo "Het GENEREREN van de reel is mislukt (zie de 'maak-reel'-job hierboven"
+            echo "voor de foutmelding, bijv. een Anthropic API-probleem). Er is daardoor"
+            echo "terecht NIETS gepost - dit is geen Instagram-probleem."
+            exit 1
+          else
+            echo "Genereren lukte, maar alle 3 publiceer-pogingen naar Instagram mislukten."
+            echo "Waarschijnlijk blokkeert Meta breed of is je token verlopen — check je IG_ACCESS_TOKEN."
+            exit 1
+          fi
