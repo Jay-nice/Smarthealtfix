@@ -64,6 +64,33 @@ TEMPLATE_SHAPES = {
         "example": "Magnesium (Muscle Relaxer) — Pumpkin Seeds | Dark Chocolate | Avocado | Cashews",
         "has_nutrient_claims": False,
     },
+    "daily_dose_habit": {
+        "description": "Genummerd of met bullets, extreem beknopt: 'Daily [hoeveelheid] [item] – "
+                       "[heel kort resultaat, 2-4 woorden]'. Geen uitleg, puur dosis + item + resultaat.",
+        "example": "Daily 1 apple – No doctor",
+        "has_nutrient_claims": False,
+    },
+    "organ_food_list": {
+        "description": "Genummerd, '[Orgaan/lichaamsdeel] - [Voedsel1], [Voedsel2], [Voedsel3]' - één "
+                       "orgaan gekoppeld aan een kommalijst van 2-4 voedingsmiddelen die het ondersteunen.",
+        "example": "Lungs - Garlic, Pineapple, Ginger",
+        "has_nutrient_claims": False,
+    },
+    "conditional_transformation": {
+        "description": "Genummerd, 'If you ate/did [item] every day for [tijdsbestek], you would "
+                       "[heel specifiek, verrassend resultaat].' - conditionele wat-als-vorm met een "
+                       "concreet tijdsbestek (bijv. '2 weeks', '30 days').",
+        "example": "If you ate turmeric every day for two weeks, your inflammation would "
+                   "decrease and your skin would glow.",
+        "has_nutrient_claims": False,
+    },
+    "imperative_advice_list": {
+        "description": "Genummerd of met bullets, directe opdracht/advies in gebiedende wijs + korte "
+                       "reden: '[Doe dit] [reden/wanneer].' Directer en actiegerichter dan de andere "
+                       "vormen, vaak gericht op een specifieke doelgroep of levensfase.",
+        "example": "Walk every day to help maintain balance and mobility.",
+        "has_nutrient_claims": False,
+    },
 }
 
 
@@ -90,6 +117,18 @@ VOORBEELD: "{shape['example']}"
 TAAL: schrijf ALTIJD in het Engels (titel, feiten, caption, alles) — dit is de vaste
 merkstijl van het account, ongeacht in welke taal dit verzoek zelf gesteld is.
 
+TITEL: maak 'm NIEUWSGIERIG-MAKEND, geen platte samenvatting die de hele inhoud al
+weggeeft. Wissel tussen dit soort hooks, kies wat het beste past bij het onderwerp
+(niet steeds hetzelfde patroon herhalen over meerdere reels heen):
+- "WHAT HAPPENS TO YOUR BODY WHEN YOU {{...}}" (nieuwsgierigheid naar een gevolg)
+- "IF YOU {{DOE X}}... THIS IS WHAT HAPPENS" (conditionele cliffhanger)
+- "WHY {{VERRASSENDE/TEGENDRAADSE CLAIM}}"
+- "SIGNS YOU'RE ACTUALLY {{ONVERWACHT POSITIEF}}" (draait een dreigende insteek om)
+- "THE REAL REASON YOU {{HERKENBAAR PROBLEEM}}"
+- Een pakkende belofte: "{{ACCENT}} THAT ACTUALLY WORK" / "NEVER {{NEGATIEF}} AGAIN"
+Een titel die je al helemaal kan raden puur op de eerste paar woorden is te plat -
+laat 'm een vraag oproepen die iemand alleen kan beantwoorden door de lijst te lezen.
+
 AANTAL ITEMS IN "facts": gebruik zoveel items als natuurlijk voelt bij dit specifieke
 onderwerp — meestal 8 tot 13, nooit minder dan 6. Een korte lijst van 4-5 items oogt
 leeg op Instagram; een volle lijst presteert beter en oogt waardevoller. Het
@@ -103,26 +142,44 @@ Belangrijke regels voor "facts":
 - Alleen feitelijk verdedigbare claims. Als je twijfelt aan een cijfer, wees vager
   ("bevat veel") in plaats van een specifiek getal te verzinnen.
 - Geen ebook/"Comment FIX"-promotie in de items zelf (behalve de follow-oproep hierboven).
+- Gebruik levendige, beeldende werkwoorden waar het kan (bijv. "blunts the spike",
+  "pulls sugar out of your blood", "melts away") in plaats van vlakke taal als
+  "helps support" of "is good for" - dat leest sneller pakkend in een paar seconden
+  scrollen.
+- Zet het meest verrassende/sterkste item ALS EERSTE (na eventuele intro), niet per se
+  chronologisch of logisch geordend. Hoe pakkender de eerste regel, hoe groter de kans
+  dat iemand blijft kijken/lezen - dat is belangrijker dan een nette volgorde.
 
 CAPTION: naast de afbeelding-tekst schrijf je ook een aparte Instagram-caption
-("caption") van 3 korte alinea's, in deze vaste volgorde:
-1. Een alinea die de pakkende/stellige claim van de afbeelding relativeert met wat
-   wetenschappelijke nuance — bijv. "this doesn't mean X always causes Y, everyone's
-   body is different, always listen to yours...". Warm en menselijk, niet droog-medisch.
+("caption") van 3 alinea's, in deze vaste volgorde:
+1. VERPLICHT: noem hierin LETTERLIJK het kernwoord van 2 tot 3 items uit "facts"
+   (herhaal het woord dat in "facts" ook **bold** stond, bijv. als een fact over
+   "**garlic**" gaat, moet het woord "garlic" ook hier expliciet terugkomen) en
+   geef bij ELK van die 2-3 items een extra zin uitleg/mechanisme die NIET al op de
+   afbeelding stond — waarom werkt het, wat gebeurt er in het lichaam. Dit moet
+   voelen als 2-3 mini-uitleg-momenten na elkaar, dus ECHT meerdere zinnen (nooit
+   maar 1 kort algemeen zinnetje als "everyone's body is different"). Pas aan het
+   eind van deze alinea, na die 2-3 concrete stukjes, mag een korte relativerende
+   afsluitzin zoals "everyone's body is different, listen to yours".
 2. Een merk-alinea die {handle} noemt en verwijst naar de vaste pijlers van het
-   account: {ACCOUNT_PILLARS}. Bijvoorbeeld in de trant van: "Follow {handle} for
-   daily tips on nutrition, common health issues, how your organs work, and small
-   daily habits that add up." Varieer de formulering, herhaal 'm niet letterlijk elke
-   keer.
+   account: {ACCOUNT_PILLARS} — gevolgd door een aparte tweede zin die de missie van
+   het account in eigen woorden samenvat (bijv. "Our mission is to help you build
+   small, realistic habits instead of chasing quick fixes."). Varieer de formulering
+   van beide zinnen, herhaal ze niet letterlijk elke keer.
 3. Een save & share-oproep, bijv. "Save this post so you don't lose it, and share it
    with someone who needs to see this today."
 Scheid de 3 alinea's met een lege regel (\\n\\n). Herhaal de titel NIET letterlijk in
-de caption, die staat al in de afbeelding.
+de caption, die staat al in de afbeelding. In totaal moet de caption ruim langer zijn
+dan je gewend bent - streef naar 110-180 woorden totaal (vooral alinea 1 mag stevig
+zijn dankzij de 2-3 uitgewerkte items), niet 3 losse eenregelige zinnetjes.
 
-HASHTAGS: geef in "hashtags" een lijst van 5 tot 8 relevante hashtags (elk met #) die
-passen bij het SPECIFIEKE onderwerp van deze reel — dus niet steeds exact dezelfde
-set. Mix een paar brede gezondheidshashtags (bijv. #healthtips #wellness) met 2-3 die
-specifiek zijn voor het onderwerp van vandaag.
+HASHTAGS EN TREFWOORDEN: geef in "hashtags" een lijst van 8 tot 12 relevante
+hashtags (elk met #) die passen bij het SPECIFIEKE onderwerp van deze reel — dus
+niet steeds exact dezelfde set. Mix een paar brede gezondheidshashtags (bijv.
+#healthtips #wellness) met meerdere die specifiek zijn voor het onderwerp van
+vandaag. Geef DAARNAAST in "extra_keywords" een lijst van 3 tot 5 losse trefwoorden
+ZONDER #-teken (bijv. "naturalhealing", "wellnessjourney", "guttips") die aan het
+eind van de hashtag-regel worden geplakt, zoals veel grote health-accounts doen.
 
 Geef ALTIJD puur geldige JSON terug, niets anders, in dit schema:
 
@@ -132,8 +189,9 @@ Geef ALTIJD puur geldige JSON terug, niets anders, in dit schema:
   "claims": [
     {{"food_a": "...", "food_b": "...", "nutrient_key": "vitamin_c|magnesium|potassium|fiber|vitamin_d|vitamin_k|selenium|calcium|iron|zinc|omega3_ala"}}
   ],
-  "caption": "Alinea 1 tekst.\\n\\nAlinea 2 tekst.\\n\\nAlinea 3 tekst.",
-  "hashtags": ["#tag1", "#tag2", "#tag3"]
+  "caption": "Alinea 1 tekst (2-3 items met naam genoemd + uitleg).\\n\\nAlinea 2 tekst.\\n\\nAlinea 3 tekst.",
+  "hashtags": ["#tag1", "#tag2", "#tag3"],
+  "extra_keywords": ["keyword1", "keyword2", "keyword3"]
 }}
 
 Vul "claims" alleen als de vorm harde voeding-vs-voeding vergelijkingen bevat
