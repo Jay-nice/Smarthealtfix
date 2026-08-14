@@ -1,35 +1,36 @@
 {
-  "png": "output/reel_20260814_160055.png",
-  "mp4": "output/reel_20260814_160055.mp4",
-  "cover": "output/cover_20260814_160055.png",
+  "png": "output/reel_20260814_203112.png",
+  "mp4": "output/reel_20260814_203112.mp4",
+  "cover": "output/cover_20260814_203112.png",
   "content": {
-    "title": "THE {{TINY}} HABITS WITH SURPRISINGLY BIG PAYOFFS",
+    "title": "{{PANTRY}} FIXES FOR LIFE'S LITTLE ANNOYANCES",
     "facts": [
-      "**Sip warm lemon water** before your coffee — it kickstarts digestion and helps your body ease into the day instead of jolting it awake.",
-      "**Walk for 10 minutes after eating** — it helps smooth out blood sugar spikes that would otherwise leave you sluggish an hour later.",
-      "**Step outside within 30 minutes of waking** — natural light exposure early on helps set your circadian rhythm, so you feel sleepier at the right time at night.",
-      "**Chew each bite slowly** — it gives your gut more time to signal fullness and improves how well you absorb nutrients from your food.",
-      "**Add a spoonful of chia seeds** to breakfast — the fiber and omega-3 ALA content keeps you fuller longer and supports heart health.",
-      "**Roll your shoulders every hour** — this tiny movement break releases built-up tension before it turns into a stiff neck or headache.",
-      "**Swap one coffee for green tea** — you still get a gentle lift, minus the afternoon crash, thanks to its calmer caffeine-antioxidant combo.",
-      "**End your shower with 30 seconds of cool water** — it's a small nudge that supports circulation and can leave you feeling more alert.",
-      "**Take five slow, deep breaths** before a stressful task — it lowers your heart rate and helps keep cortisol from spiking unnecessarily.",
-      "**Write down three things before bed** — offloading your thoughts onto paper is linked to falling asleep faster and waking up calmer.",
-      "**Follow along** – for more small daily habits that quietly add up to a healthier you."
+      "**Hiccups** – Swallow a teaspoon of sugar slowly to help reset the nerve signal.",
+      "**Sore Throat** – Gargle warm salt water a few times a day to calm irritation.",
+      "**Bad Breath** – Chew a sprig of fresh parsley to help neutralize odor.",
+      "**Stuffy Nose** – Lean over a bowl of hot water and breathe in the steam to loosen mucus.",
+      "**Minor Burns** – Run cool (not icy) water over the area for several minutes right away.",
+      "**Splinters** – Soak the spot in warm water with a bit of baking soda to help it surface.",
+      "**Bloating** – Sip warm peppermint tea to help relax the digestive muscles.",
+      "**Toothache** – Rinse with warm water and a pinch of clove powder for temporary relief.",
+      "**Hangnails** – Soak fingertips in warm water with a spoonful of Epsom salt to soften skin.",
+      "**Foot Odor** – Soak feet in cooled black tea to help tighten pores and cut down sweat.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "None of these tiny habits are magic fixes, and they won't undo a rough week overnight — but small, consistent actions add up more than we usually give them credit for. Everyone's body responds a little differently, so treat these as gentle experiments rather than rules, and pay attention to what actually makes you feel better.\n\nFollow @smarthealthfix for daily, practical tips on nutrition, common health issues, how your organs actually work, and small daily habits that quietly add up over time.\n\nSave this post so you don't lose it, and share it with someone who could use a few easy wins today.",
+    "caption": "Quick fixes like these can genuinely take the edge off small, everyday annoyances — but they're not magic cures. Bodies react differently, some things work better for one person than another, and if anything lingers or feels serious, it's always worth checking in with a doctor instead of just a home remedy.\n\nFollow @smarthealthfix for more everyday tips on nutrition, common health issues, how your organs actually work, and small daily habits that quietly add up over time.\n\nSave this post so you have it ready next time a little annoyance strikes, and share it with someone who could use a few easy fixes today.",
     "hashtags": [
       "#healthtips",
-      "#dailyhabits",
+      "#homeremedies",
       "#wellness",
-      "#smallhabits",
-      "#healthyroutine",
+      "#naturalremedies",
+      "#kitchenhacks",
       "#selfcare",
-      "#mindfulliving"
+      "#quickfixes",
+      "#healthyliving"
     ]
   },
-  "shape": "numbered_explainer",
-  "caption": "None of these tiny habits are magic fixes, and they won't undo a rough week overnight — but small, consistent actions add up more than we usually give them credit for. Everyone's body responds a little differently, so treat these as gentle experiments rather than rules, and pay attention to what actually makes you feel better.\n\nFollow @smarthealthfix for daily, practical tips on nutrition, common health issues, how your organs actually work, and small daily habits that quietly add up over time.\n\nSave this post so you don't lose it, and share it with someone who could use a few easy wins today.",
-  "hashtags_comment": "#healthtips #dailyhabits #wellness #smallhabits #healthyroutine #selfcare #mindfulliving"
+  "shape": "boxed_hacks",
+  "caption": "Quick fixes like these can genuinely take the edge off small, everyday annoyances — but they're not magic cures. Bodies react differently, some things work better for one person than another, and if anything lingers or feels serious, it's always worth checking in with a doctor instead of just a home remedy.\n\nFollow @smarthealthfix for more everyday tips on nutrition, common health issues, how your organs actually work, and small daily habits that quietly add up over time.\n\nSave this post so you have it ready next time a little annoyance strikes, and share it with someone who could use a few easy fixes today.",
+  "hashtags_comment": "#healthtips #homeremedies #wellness #naturalremedies #kitchenhacks #selfcare #quickfixes #healthyliving"
 }
