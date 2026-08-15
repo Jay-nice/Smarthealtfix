@@ -228,13 +228,18 @@ def render_slide(config, out_path):
         total += paragraph_gap * (len(config["facts"]) - 1)
         return total, per_fact_lines, f_reg, f_bold
 
-    font_size = 46          # startpunt: groot genoeg om bij weinig feiten al veel ruimte te vullen
-    min_font_size = 20
-    max_font_size = 46
+    # Groter startpunt en een veel hoger plafond dan voorheen (was 46): de
+    # concurrentie (@mentorofwellness e.d.) gebruikt fors grotere tekst en
+    # zet items strak onder elkaar i.p.v. met veel lucht ertussen. Door hier
+    # hoog te beginnen en de tussenruimte krap te houden, vult grotere TEKST
+    # de beschikbare ruimte i.p.v. extra WITRUIMTE tussen de items.
+    font_size = 100          # startpunt: zoekt vanaf hier naar beneden de grootste maat die past
+    min_font_size = 22
+    max_font_size = 100
     chosen = None
     while font_size >= min_font_size:
-        line_height = round(font_size * 1.27)
-        paragraph_gap = round(font_size * 0.9)
+        line_height = round(font_size * 1.12)       # krap binnen 1 item (was 1.27)
+        paragraph_gap = round(font_size * 0.32)      # krap tussen items (was 0.9) - "direct onder elkaar"
         total_h, per_fact_lines, f_reg, f_bold = measure_list_height(
             font_size, line_height, paragraph_gap)
         if total_h <= available_h:
@@ -243,8 +248,8 @@ def render_slide(config, out_path):
         font_size -= 1
     if chosen is None:
         # niets paste zelfs op de kleinste toegestane grootte: gebruik 'm toch
-        line_height = round(min_font_size * 1.27)
-        paragraph_gap = round(min_font_size * 0.9)
+        line_height = round(min_font_size * 1.12)
+        paragraph_gap = round(min_font_size * 0.32)
         total_h, per_fact_lines, f_reg, f_bold = measure_list_height(
             min_font_size, line_height, paragraph_gap)
         chosen = (min_font_size, line_height, paragraph_gap, per_fact_lines, f_reg, f_bold, total_h)
@@ -252,14 +257,15 @@ def render_slide(config, out_path):
     font_size, line_height, paragraph_gap, per_fact_lines, fact_font, fact_font_bold, total_h = chosen
 
     # --- Restruimte opvullen ---
-    # Bij weinig feiten (bijv. 6 i.p.v. 9-20) is er ook op max_font_size nog
-    # ruimte over. Die vullen we op door de tussenruimte tussen de feiten te
-    # vergroten (tot een nette grens), en wat overblijft daarna verdelen we
-    # als extra ruimte boven/onder zodat het blok mooi gecentreerd oogt i.p.v.
-    # bovenaan geplakt met een kale onderkant.
+    # De zoeklus hierboven kiest al de GROOTSTE tekstgrootte die past, dus
+    # normaal is er weinig restruimte. Als er (bij weinig feiten) toch nog
+    # wat overblijft, houden we de tussenruimte tussen items krap (geen grote
+    # stretch meer zoals voorheen tot 1.6x regelhoogte) en centreren we het
+    # hele blok verticaal, zodat de items zelf strak bij elkaar blijven staan
+    # net als bij het voorbeeld-account.
     num_gaps = max(len(config["facts"]) - 1, 1)
     leftover = available_h - total_h
-    max_paragraph_gap = round(line_height * 1.6)
+    max_paragraph_gap = round(line_height * 0.55)   # krappe bovengrens (was 1.6)
     extra_per_gap = min(leftover / num_gaps, max_paragraph_gap - paragraph_gap) if leftover > 0 else 0
     paragraph_gap += max(extra_per_gap, 0)
 
