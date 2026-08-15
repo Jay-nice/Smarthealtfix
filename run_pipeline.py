@@ -164,6 +164,7 @@ def run_once(handle="@smarthealthfix", display_name="Smart Health Fix",
         "title": content["title"],
         "facts": content["facts"],
         "footer_cta": footer_cta,
+        "numbered": TEMPLATE_SHAPES[shape_key].get("numbered", False),
     }
 
     ts = datetime.now().strftime("%Y%m%d_%H%M%S")
