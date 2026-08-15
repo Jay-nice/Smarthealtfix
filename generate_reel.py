@@ -206,6 +206,21 @@ def render_slide(config, out_path):
     list_bottom_limit = CANVAS_H - footer_bar_h - cta_reserved_h - 20
     available_h = list_bottom_limit - list_top
 
+    # Sommige vormen zijn een genummerde lijst (zie "numbered" in
+    # TEMPLATE_SHAPES/content_generator.py) - net als bij de concurrentie
+    # ("1. Baking Soda removes...", ..., "9. Follow this page...") zetten we
+    # dan zelf een schoon "1. ", "2. ", ... nummer voor elk item, inclusief de
+    # laatste follow-oproep. Dit doen we hier in de renderer (niet aan het
+    # model overlaten) zodat de nummering altijd 100% consistent is, ongeacht
+    # of het model het zelf ook had toegevoegd (een eventueel dubbel nummer
+    # van het model wordt eerst gestript).
+    if config.get("numbered"):
+        strip_num_re = re.compile(r"^\s*\d+[\.\)]\s*")
+        config["facts"] = [
+            f"{i + 1}. {strip_num_re.sub('', fact)}"
+            for i, fact in enumerate(config["facts"])
+        ]
+
     # Het LAATSTE item in "facts" is standaard de follow-oproep (zie
     # content_generator.py) - die laten we opvallen door 'm helemaal vet te
     # zetten (zelfde kleur als de rest, alleen dikker).
