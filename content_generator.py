@@ -26,55 +26,65 @@ TEMPLATE_SHAPES = {
         "example": "Eat 1 apple with cinnamon every morning — your blood sugar will "
                    "stabilize and metabolism will increase.",
         "has_nutrient_claims": False,
+        "numbered": True,
     },
     "myth_bust": {
         "description": "Genummerd, '**Term** – uitleg' die een gangbare misvatting rechtzet.",
         "example": "Garlic – Chopping right before cooking reduces its health benefits; "
                    "let it sit for 10 minutes after cutting.",
         "has_nutrient_claims": False,
+        "numbered": True,
     },
     "boxed_hacks": {
         "description": "Bold klacht – korte fix, in een apart kader. Losse items, geen nummers.",
         "example": "Mosquito Bites – Rub a banana peel on the bite to reduce itching.",
         "has_nutrient_claims": False,
+        "numbered": False,
     },
     "allcaps_benefit": {
         "description": "ALLCAPS voedsel + 'is good for' + ALLCAPS groen orgaan/functie.",
         "example": "APPLES are good for LUNGS",
         "has_nutrient_claims": False,
+        "numbered": False,
     },
     "symptom_list": {
         "description": "Bold tekort/klacht – lijst symptomen. Geen nummers.",
         "example": "Vitamin B12 – Tingling in hands/feet, weakness, memory problems, and low mood.",
         "has_nutrient_claims": False,
+        "numbered": False,
     },
     "problem_food_mapping": {
         "description": "Genummerd, Probleem ----- Voedsel (kort en bondig).",
         "example": "Low Energy ----- Chia Seeds",
         "has_nutrient_claims": False,
+        "numbered": True,
     },
     "nutrient_comparison": {
         "description": "Genummerd, 'X heeft meer [nutrient] dan Y' — DIT is de vorm met harde, "
                        "checkbare cijferclaims (vitamine C, magnesium, kalium, vezels, etc).",
         "example": "A red bell pepper has nearly three times more vitamin C than an orange.",
         "has_nutrient_claims": True,
+        "numbered": True,
     },
     "mineral_sources": {
         "description": "Genummerd, mineraal (groen voordeel) + bronnenlijst met voedingsmiddelen eronder.",
         "example": "Magnesium (Muscle Relaxer) — Pumpkin Seeds | Dark Chocolate | Avocado | Cashews",
         "has_nutrient_claims": False,
+        "numbered": True,
     },
     "daily_dose_habit": {
         "description": "Genummerd of met bullets, extreem beknopt: 'Daily [hoeveelheid] [item] – "
                        "[heel kort resultaat, 2-4 woorden]'. Geen uitleg, puur dosis + item + resultaat.",
         "example": "Daily 1 apple – No doctor",
         "has_nutrient_claims": False,
+        "numbered": True,
     },
     "organ_food_list": {
         "description": "Genummerd, '[Orgaan/lichaamsdeel] - [Voedsel1], [Voedsel2], [Voedsel3]' - één "
                        "orgaan gekoppeld aan een kommalijst van 2-4 voedingsmiddelen die het ondersteunen.",
         "example": "Lungs - Garlic, Pineapple, Ginger",
         "has_nutrient_claims": False,
+        "numbered": True,
     },
     "conditional_transformation": {
         "description": "Genummerd, 'If you ate/did [item] every day for [tijdsbestek], you would "
@@ -83,6 +93,7 @@ TEMPLATE_SHAPES = {
         "example": "If you ate turmeric every day for two weeks, your inflammation would "
                    "decrease and your skin would glow.",
         "has_nutrient_claims": False,
+        "numbered": True,
     },
     "imperative_advice_list": {
         "description": "Genummerd of met bullets, directe opdracht/advies in gebiedende wijs + korte "
@@ -90,6 +101,7 @@ TEMPLATE_SHAPES = {
                        "vormen, vaak gericht op een specifieke doelgroep of levensfase.",
         "example": "Walk every day to help maintain balance and mobility.",
         "has_nutrient_claims": False,
+        "numbered": True,
     },
 }
 
@@ -126,6 +138,10 @@ weggeeft. Wissel tussen dit soort hooks, kies wat het beste past bij het onderwe
 - "SIGNS YOU'RE ACTUALLY {{ONVERWACHT POSITIEF}}" (draait een dreigende insteek om)
 - "THE REAL REASON YOU {{HERKENBAAR PROBLEEM}}"
 - Een pakkende belofte: "{{ACCENT}} THAT ACTUALLY WORK" / "NEVER {{NEGATIEF}} AGAIN"
+- "WHAT {{AUTORITEIT}} DOESN'T WANT YOU TO KNOW" / "{{ONDERWERP}} DOCTORS WON'T TELL YOU" (wantrouwen
+  richting een gevestigde autoriteit zoals "big pharma", "doctors", "the food industry" - wekt
+  nieuwsgierigheid op door te suggereren dat er verzwegen/onderbelichte info volgt; bewezen sterk
+  presterende hook bij meerdere vergelijkbare accounts, dus zeker meenemen in de rotatie)
 Een titel die je al helemaal kan raden puur op de eerste paar woorden is te plat -
 laat 'm een vraag oproepen die iemand alleen kan beantwoorden door de lijst te lezen.
 
