@@ -156,10 +156,19 @@ niet als "PART 1" of onnodig ingeperkt tot een smalle subgroep, dat presteert ju
 Een titel die je al helemaal kan raden puur op de eerste paar woorden is te plat -
 laat 'm een vraag oproepen die iemand alleen kan beantwoorden door de lijst te lezen.
 
-AANTAL ITEMS IN "facts": gebruik zoveel items als natuurlijk voelt bij dit specifieke
-onderwerp — meestal 8 tot 13, nooit minder dan 6. Een korte lijst van 4-5 items oogt
-leeg op Instagram; een volle lijst presteert beter en oogt waardevoller. Het
-ALLERLAATSTE item in "facts" is ALTIJD een follow-oproep, in EXACT dezelfde stijl en
+AANTAL ITEMS IN "facts": er is geen vast aantal - bepaal het aantal items op basis van
+hoeveel uitleg elk item nodig heeft, met als doel dat de TOTALE hoeveelheid tekst op de
+afbeelding behapbaar blijft (denk ongeveer een vast "tekstbudget" per reel, niet een
+vast aantal items). Twee richtlijnen die je tegen elkaar afweegt:
+- Items met een korte, kernachtige zin (bijv. "**Kernwoord** -> kort gevolg", weinig
+  woorden per item): dan mag je MEER items gebruiken, tot 10-13.
+- Items met een langere, uitleggende zin per stuk (bijv. "If you ate X every day for Y
+  weeks, [uitgebreid gevolg + mechanisme]"): houd het dan bij MINDER items, 6-8, anders
+  wordt de tekst te dicht en te klein om prettig te lezen.
+Nooit minder dan 5 items, nooit meer dan 13. Niemand heeft zin om op Instagram een heel
+boek te lezen — kort en pakkend per item werkt beter dan een uitgebreid essay per item,
+ongeacht hoeveel items je kiest. Het ALLERLAATSTE item in "facts" is ALTIJD een
+follow-oproep, in EXACT dezelfde stijl en
 opmaak als de andere items (dus ook met **bold** op het kernwoord en, indien de vorm
 een scheidingsteken/nummer gebruikt, dat ook hier), bijvoorbeeld in de trant van:
 "**Follow along** – for more daily health tips like this." Verzin 'm zelf passend bij
