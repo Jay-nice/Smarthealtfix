@@ -244,49 +244,40 @@ def render_slide(config, out_path):
         return total, per_fact_lines, f_reg, f_bold
 
     # Groter startpunt en een veel hoger plafond dan voorheen (was 46): de
-    # concurrentie (@mentorofwellness e.d.) gebruikt fors grotere tekst en
-    # zet items strak onder elkaar i.p.v. met veel lucht ertussen. Door hier
-    # hoog te beginnen en de tussenruimte krap te houden, vult grotere TEKST
-    # de beschikbare ruimte i.p.v. extra WITRUIMTE tussen de items.
+    # concurrentie (@mentorofwellness, @holistichealthplanet e.d.) gebruikt
+    # fors grotere tekst en zet items DIRECT onder elkaar, zonder enige
+    # tussenruimte - het nummer ervoor is genoeg om aan te geven waar het
+    # volgende item begint. paragraph_gap is daarom 0: geen ruimte tussen
+    # items, alleen line_height tussen regels (ook binnen hetzelfde item).
     font_size = 100          # startpunt: zoekt vanaf hier naar beneden de grootste maat die past
     min_font_size = 22
     max_font_size = 100
+    paragraph_gap = 0
     chosen = None
     while font_size >= min_font_size:
         line_height = round(font_size * 1.12)       # krap binnen 1 item (was 1.27)
-        paragraph_gap = round(font_size * 0.32)      # krap tussen items (was 0.9) - "direct onder elkaar"
         total_h, per_fact_lines, f_reg, f_bold = measure_list_height(
             font_size, line_height, paragraph_gap)
         if total_h <= available_h:
-            chosen = (font_size, line_height, paragraph_gap, per_fact_lines, f_reg, f_bold, total_h)
+            chosen = (font_size, line_height, per_fact_lines, f_reg, f_bold, total_h)
             break
         font_size -= 1
     if chosen is None:
         # niets paste zelfs op de kleinste toegestane grootte: gebruik 'm toch
         line_height = round(min_font_size * 1.12)
-        paragraph_gap = round(min_font_size * 0.32)
         total_h, per_fact_lines, f_reg, f_bold = measure_list_height(
             min_font_size, line_height, paragraph_gap)
-        chosen = (min_font_size, line_height, paragraph_gap, per_fact_lines, f_reg, f_bold, total_h)
+        chosen = (min_font_size, line_height, per_fact_lines, f_reg, f_bold, total_h)
 
-    font_size, line_height, paragraph_gap, per_fact_lines, fact_font, fact_font_bold, total_h = chosen
+    font_size, line_height, per_fact_lines, fact_font, fact_font_bold, total_h = chosen
 
     # --- Restruimte opvullen ---
     # De zoeklus hierboven kiest al de GROOTSTE tekstgrootte die past, dus
-    # normaal is er weinig restruimte. Als er (bij weinig feiten) toch nog
-    # wat overblijft, houden we de tussenruimte tussen items krap (geen grote
-    # stretch meer zoals voorheen tot 1.6x regelhoogte) en centreren we het
-    # hele blok verticaal, zodat de items zelf strak bij elkaar blijven staan
-    # net als bij het voorbeeld-account.
-    num_gaps = max(len(config["facts"]) - 1, 1)
-    leftover = available_h - total_h
-    max_paragraph_gap = round(line_height * 0.55)   # krappe bovengrens (was 1.6)
-    extra_per_gap = min(leftover / num_gaps, max_paragraph_gap - paragraph_gap) if leftover > 0 else 0
-    paragraph_gap += max(extra_per_gap, 0)
-
-    total_h_after = total_h + extra_per_gap * num_gaps
-    remaining_leftover = max(available_h - total_h_after, 0)
-    list_top_adjusted = list_top + remaining_leftover / 2
+    # normaal is er weinig restruimte. Wat er nog overblijft (bijv. bij
+    # weinig items) gaat NIET naar extra tussenruimte (die willen we juist op
+    # 0 houden, net als het voorbeeld-account), maar puur naar het verticaal
+    # centreren van het hele blok tussen titel en footer.
+    list_top_adjusted = list_top + max(available_h - total_h, 0) / 2
 
     list_y = list_top_adjusted
     for wlines in per_fact_lines:
