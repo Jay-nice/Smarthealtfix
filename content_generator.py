@@ -1,387 +1,338 @@
 """
-Reel-afbeelding generator — bouwt het "did you know" sjabloon na
-(donker groen/slate accent, witte achtergrond, bold keywords in de tekst).
+Content generator — schrijft de tekst voor een reel in een van jouw 8
+sjabloon-vormen, en stuurt elke feitelijke claim door de factchecker voordat
+het als "klaar om te posten" wordt gemarkeerd.
 
-Gebruik:
-    python3 generate_reel.py
-
-Pas de CONFIG hieronder aan (of importeer render_slide() vanuit een ander script
-dat de content automatisch genereert, bijv. via de Claude API).
+Vereist: een eigen Anthropic API-key in de omgevingsvariabele ANTHROPIC_API_KEY
+(https://console.anthropic.com/settings/keys — niet hetzelfde als je claude.ai
+account, dit is los, betaald per gebruik).
 """
 
 import os
-import re
-from PIL import Image, ImageDraw, ImageFont
+import json
+import requests
+from dotenv import load_dotenv
 
-# ---------------------------------------------------------------------------
-# CONFIG — kleuren en fonts gebaseerd op het aangeleverde voorbeeld
-# ---------------------------------------------------------------------------
+from nutrition_reference import verify_claim, KNOWN_SHAKY_CLAIMS
 
-CANVAS_W, CANVAS_H = 1080, 1920
-BG_COLOR = (249, 250, 248)        # bijna-wit
-DARK = (65, 72, 78)               # donker leisteen (titel/tekst/footer-bar)
-ACCENT_GREEN = (150, 172, 138)    # sage groen (accentwoord + handle)
-WHITE = (255, 255, 255)
+load_dotenv()
 
-FONT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "fonts")
-FONT_BOLD = f"{FONT_DIR}/Poppins-Bold.ttf"
-FONT_SEMIBOLD = f"{FONT_DIR}/Poppins-SemiBold.ttf"
-FONT_REGULAR = f"{FONT_DIR}/Poppins-Regular.ttf"
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
+ANTHROPIC_MODEL = "claude-sonnet-5"
 
-MARGIN_X = 72
-MUSIC_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "music")
-REEL_DURATION_SECONDS = 5
-
-# ---------------------------------------------------------------------------
-# Content — pas dit aan per reel. **woord** = vetgedrukt, {{woord}} in de titel
-# = groen accentwoord.
-# ---------------------------------------------------------------------------
-
-CONFIG = {
-    "handle": "@smarthealthfix",
-    "title": "SURPRISING {{FOOD}} FACTS: NUTRIENT-PACKED FOODS YOU DIDN'T EXPECT",
-    "facts": [
-        "Did you know that a cup of **red bell peppers** has almost 3 times more **vitamin C** than **an orange**?",
-        "Did you know that a serving of **pumpkin seeds** has more **magnesium** than **a banana**?",
-        "Did you know that a cup of **raspberries** has more **fiber** than **a bowl of oatmeal**?",
-        "Did you know that **a sweet potato** has more **potassium** than **a banana**?",
-        "Did you know that **mushrooms** exposed to sunlight contain more **vitamin D** than **fortified milk**?",
-        "Did you know that **dark chocolate** contains more **antioxidants** than **green tea**?",
-        "Did you know that **collard greens** have more **vitamin K** per cup than **kale**?",
-        "Did you know that eating **beets** can support **healthy blood pressure** thanks to their natural **nitrates**?",
-        "Did you know that a single **Brazil nut** provides more than your **daily requirement of selenium**?",
-    ],
-    "footer_cta": "Save & Share let's get healthier together!",
+TEMPLATE_SHAPES = {
+    "numbered_explainer": {
+        "description": "Genummerde tips: bold intro-fragment + uitleg wat het effect is.",
+        "example": "Eat 1 apple with cinnamon every morning — your blood sugar will "
+                   "stabilize and metabolism will increase.",
+        "has_nutrient_claims": False,
+        "numbered": True,
+    },
+    "myth_bust": {
+        "description": "Genummerd, '**Term** – uitleg' die een gangbare misvatting rechtzet.",
+        "example": "Garlic – Chopping right before cooking reduces its health benefits; "
+                   "let it sit for 10 minutes after cutting.",
+        "has_nutrient_claims": False,
+        "numbered": True,
+    },
+    "boxed_hacks": {
+        "description": "Bold klacht – korte fix, in een apart kader. Losse items, geen nummers.",
+        "example": "Mosquito Bites – Rub a banana peel on the bite to reduce itching.",
+        "has_nutrient_claims": False,
+        "numbered": False,
+    },
+    "allcaps_benefit": {
+        "description": "ALLCAPS voedsel + 'is good for' + ALLCAPS groen orgaan/functie.",
+        "example": "APPLES are good for LUNGS",
+        "has_nutrient_claims": False,
+        "numbered": False,
+    },
+    "symptom_list": {
+        "description": "Bold tekort/klacht – lijst symptomen. Geen nummers.",
+        "example": "Vitamin B12 – Tingling in hands/feet, weakness, memory problems, and low mood.",
+        "has_nutrient_claims": False,
+        "numbered": False,
+    },
+    "problem_food_mapping": {
+        "description": "Genummerd, Probleem ----- Voedsel (kort en bondig).",
+        "example": "Low Energy ----- Chia Seeds",
+        "has_nutrient_claims": False,
+        "numbered": True,
+    },
+    "nutrient_comparison": {
+        "description": "Genummerd, 'X heeft meer [nutrient] dan Y' — DIT is de vorm met harde, "
+                       "checkbare cijferclaims (vitamine C, magnesium, kalium, vezels, etc).",
+        "example": "A red bell pepper has nearly three times more vitamin C than an orange.",
+        "has_nutrient_claims": True,
+        "numbered": True,
+    },
+    "mineral_sources": {
+        "description": "Genummerd, mineraal (groen voordeel) + bronnenlijst met voedingsmiddelen eronder.",
+        "example": "Magnesium (Muscle Relaxer) — Pumpkin Seeds | Dark Chocolate | Avocado | Cashews",
+        "has_nutrient_claims": False,
+        "numbered": True,
+    },
+    "daily_dose_habit": {
+        "description": "Genummerd of met bullets, extreem beknopt: 'Daily [hoeveelheid] [item] – "
+                       "[heel kort resultaat, 2-4 woorden]'. Geen uitleg, puur dosis + item + resultaat.",
+        "example": "Daily 1 apple – No doctor",
+        "has_nutrient_claims": False,
+        "numbered": True,
+    },
+    "organ_food_list": {
+        "description": "Genummerd, '[Orgaan/lichaamsdeel] - [Voedsel1], [Voedsel2], [Voedsel3]' - één "
+                       "orgaan gekoppeld aan een kommalijst van 2-4 voedingsmiddelen die het ondersteunen.",
+        "example": "Lungs - Garlic, Pineapple, Ginger",
+        "has_nutrient_claims": False,
+        "numbered": True,
+    },
+    "conditional_transformation": {
+        "description": "Genummerd, 'If you ate/did [item] every day for [tijdsbestek], you would "
+                       "[heel specifiek, verrassend resultaat].' - conditionele wat-als-vorm met een "
+                       "concreet tijdsbestek (bijv. '2 weeks', '30 days').",
+        "example": "If you ate turmeric every day for two weeks, your inflammation would "
+                   "decrease and your skin would glow.",
+        "has_nutrient_claims": False,
+        "numbered": True,
+    },
+    "imperative_advice_list": {
+        "description": "Genummerd of met bullets, directe opdracht/advies in gebiedende wijs + korte "
+                       "reden: '[Doe dit] [reden/wanneer].' Directer en actiegerichter dan de andere "
+                       "vormen, vaak gericht op een specifieke doelgroep of levensfase.",
+        "example": "Walk every day to help maintain balance and mobility.",
+        "has_nutrient_claims": False,
+        "numbered": True,
+    },
 }
 
-# ---------------------------------------------------------------------------
-# Tekst-helpers: parsen van **bold** runs en woord-voor-woord wrappen met
-# gemengde fonts (regular/bold) op één regel.
-# ---------------------------------------------------------------------------
 
-def parse_bold_runs(text):
-    """Splits 'a **b** c' in [('a ', False), ('b', True), (' c', False)]."""
-    parts = re.split(r"(\*\*[^*]+\*\*)", text)
-    runs = []
-    for p in parts:
-        if not p:
+ACCOUNT_PILLARS = ("nutrition (voeding), common health issues/symptoms (klachten), "
+                    "organs & body functions (organen), and small daily habits (gewoontes)")
+
+
+def build_system_prompt(shape_key, audience="algemeen", handle="@smarthealthfix"):
+    shape = TEMPLATE_SHAPES[shape_key]
+    audience_hint = {
+        "algemeen": "Schrijf voor een algemeen, gezondheidsbewust publiek.",
+        "50plus": "Schrijf met iets meer aandacht voor onderwerpen die relevant zijn voor "
+                  "mensen van 45-65: energie, gewrichten, hart, geheugen, slaap, cholesterol. "
+                  "Toon blijft gewoon toegankelijk, niet 'medisch' of belerend.",
+    }[audience]
+
+    return f"""Je schrijft content voor een Instagram health/wellness account in deze vaste vorm:
+
+VORM: {shape['description']}
+VOORBEELD: "{shape['example']}"
+
+{audience_hint}
+
+TAAL: schrijf ALTIJD in het Engels (titel, feiten, caption, alles) — dit is de vaste
+merkstijl van het account, ongeacht in welke taal dit verzoek zelf gesteld is.
+
+TITEL: maak 'm NIEUWSGIERIG-MAKEND, geen platte samenvatting die de hele inhoud al
+weggeeft. Kies uit dit soort hooks, wat het beste past bij het onderwerp. De eerste
+twee hieronder ("autoriteit verzwijgt iets" en "dit klinkt slecht maar is eigenlijk
+goed") zijn bij vergelijkbare accounts BIJ VERRE de sterkste performers qua views
+(soms 3-10x meer views dan een neutrale/beschrijvende titel over hetzelfde onderwerp)
+- gebruik die twee dus vaker dan de rest (ruim de helft van de keren), en wissel de
+andere helft af met de overige patronen zodat het niet elke keer identiek aanvoelt:
+- "WHAT {{AUTORITEIT}} DOESN'T WANT YOU TO KNOW" / "{{ONDERWERP}} DOCTORS WON'T TELL YOU" /
+  "DOCTORS DON'T WANT YOU TO KNOW THIS" (wantrouwen richting een gevestigde autoriteit zoals
+  "big pharma", "doctors", "the food industry" - suggereert verzwegen/onderbelichte info)
+- "SIGNS YOU'RE ACTUALLY {{ONVERWACHT POSITIEF}}" / "WEIRD SIGNS YOU'RE ACTUALLY HEALTHIER
+  THAN YOU THINK" (draait een op-het-eerste-gezicht negatieve/verontrustende insteek om in
+  iets positiefs/geruststellends - erg sterke curiosity-hook)
+- "WHAT HAPPENS TO YOUR BODY WHEN YOU {{...}}" (nieuwsgierigheid naar een gevolg)
+- "IF YOU {{DOE X}}... THIS IS WHAT HAPPENS" (conditionele cliffhanger)
+- "WHY {{VERRASSENDE/TEGENDRAADSE CLAIM}}"
+- "THE REAL REASON YOU {{HERKENBAAR PROBLEEM}}"
+- Een pakkende belofte: "{{ACCENT}} THAT ACTUALLY WORK" / "NEVER {{NEGATIEF}} AGAIN"
+Vermijd platte, puur beschrijvende titels zonder enige spanning (bijv. "IMPORTANT HEALTH
+TIPS", "BODY CLEANSING FOODS", "FOOD FACTS YOU DIDN'T KNOW") - dat soort titels presteert
+aantoonbaar veel slechter. Gebruik het woord "YOU"/"YOUR" waar het past (2e persoon
+presteert beter dan neutrale 3e-persoon benoeming). Als je een getal in de titel gebruikt
+(bijv. "16 WARNING SIGNS"), laat het als een compleet, universeel relevant lijstje voelen -
+niet als "PART 1" of onnodig ingeperkt tot een smalle subgroep, dat presteert juist slechter.
+Een titel die je al helemaal kan raden puur op de eerste paar woorden is te plat -
+laat 'm een vraag oproepen die iemand alleen kan beantwoorden door de lijst te lezen.
+
+AANTAL ITEMS IN "facts": gebruik zoveel items als natuurlijk voelt bij dit specifieke
+onderwerp — meestal 8 tot 13, nooit minder dan 6. Een korte lijst van 4-5 items oogt
+leeg op Instagram; een volle lijst presteert beter en oogt waardevoller. Het
+ALLERLAATSTE item in "facts" is ALTIJD een follow-oproep, in EXACT dezelfde stijl en
+opmaak als de andere items (dus ook met **bold** op het kernwoord en, indien de vorm
+een scheidingsteken/nummer gebruikt, dat ook hier), bijvoorbeeld in de trant van:
+"**Follow along** – for more daily health tips like this." Verzin 'm zelf passend bij
+de vorm, dit is maar een voorbeeld.
+
+Belangrijke regels voor "facts":
+- Alleen feitelijk verdedigbare claims. Als je twijfelt aan een cijfer, wees vager
+  ("bevat veel") in plaats van een specifiek getal te verzinnen.
+- Geen ebook/"Comment FIX"-promotie in de items zelf (behalve de follow-oproep hierboven).
+- Gebruik levendige, beeldende werkwoorden waar het kan (bijv. "blunts the spike",
+  "pulls sugar out of your blood", "melts away") in plaats van vlakke taal als
+  "helps support" of "is good for" - dat leest sneller pakkend in een paar seconden
+  scrollen.
+- Zet het meest verrassende/sterkste item ALS EERSTE (na eventuele intro), niet per se
+  chronologisch of logisch geordend. Hoe pakkender de eerste regel, hoe groter de kans
+  dat iemand blijft kijken/lezen - dat is belangrijker dan een nette volgorde.
+
+CAPTION: naast de afbeelding-tekst schrijf je ook een aparte Instagram-caption
+("caption") van 3 alinea's, in deze vaste volgorde:
+1. VERPLICHT: noem hierin LETTERLIJK het kernwoord van 2 tot 3 items uit "facts"
+   (herhaal het woord dat in "facts" ook **bold** stond, bijv. als een fact over
+   "**garlic**" gaat, moet het woord "garlic" ook hier expliciet terugkomen) en
+   geef bij ELK van die 2-3 items een extra zin uitleg/mechanisme die NIET al op de
+   afbeelding stond — waarom werkt het, wat gebeurt er in het lichaam. Dit moet
+   voelen als 2-3 mini-uitleg-momenten na elkaar, dus ECHT meerdere zinnen (nooit
+   maar 1 kort algemeen zinnetje als "everyone's body is different"). Pas aan het
+   eind van deze alinea, na die 2-3 concrete stukjes, mag een korte relativerende
+   afsluitzin zoals "everyone's body is different, listen to yours".
+2. Een merk-alinea die {handle} noemt en verwijst naar de vaste pijlers van het
+   account: {ACCOUNT_PILLARS} — gevolgd door een aparte tweede zin die de missie van
+   het account in eigen woorden samenvat (bijv. "Our mission is to help you build
+   small, realistic habits instead of chasing quick fixes."). Varieer de formulering
+   van beide zinnen, herhaal ze niet letterlijk elke keer.
+3. Een save & share-oproep, bijv. "Save this post so you don't lose it, and share it
+   with someone who needs to see this today."
+Scheid de 3 alinea's met een lege regel (\\n\\n). Herhaal de titel NIET letterlijk in
+de caption, die staat al in de afbeelding. In totaal moet de caption ruim langer zijn
+dan je gewend bent - streef naar 110-180 woorden totaal (vooral alinea 1 mag stevig
+zijn dankzij de 2-3 uitgewerkte items), niet 3 losse eenregelige zinnetjes.
+
+HASHTAGS EN TREFWOORDEN: geef in "hashtags" een lijst van 8 tot 12 relevante
+hashtags (elk met #) die passen bij het SPECIFIEKE onderwerp van deze reel — dus
+niet steeds exact dezelfde set. Mix een paar brede gezondheidshashtags (bijv.
+#healthtips #wellness) met meerdere die specifiek zijn voor het onderwerp van
+vandaag. Geef DAARNAAST in "extra_keywords" een lijst van 3 tot 5 losse trefwoorden
+ZONDER #-teken (bijv. "naturalhealing", "wellnessjourney", "guttips") die aan het
+eind van de hashtag-regel worden geplakt, zoals veel grote health-accounts doen.
+
+Geef ALTIJD puur geldige JSON terug, niets anders, in dit schema:
+
+{{
+  "title": "TITEL IN HOOFDLETTERS MET {{{{EEN WOORD}}}} ALS ACCENT",
+  "facts": ["Feit 1 met **bold** op de kernwoorden", "... laatste item is de follow-oproep"],
+  "claims": [
+    {{"food_a": "...", "food_b": "...", "nutrient_key": "vitamin_c|magnesium|potassium|fiber|vitamin_d|vitamin_k|selenium|calcium|iron|zinc|omega3_ala"}}
+  ],
+  "caption": "Alinea 1 tekst (2-3 items met naam genoemd + uitleg).\\n\\nAlinea 2 tekst.\\n\\nAlinea 3 tekst.",
+  "hashtags": ["#tag1", "#tag2", "#tag3"],
+  "extra_keywords": ["keyword1", "keyword2", "keyword3"]
+}}
+
+Vul "claims" alleen als de vorm harde voeding-vs-voeding vergelijkingen bevat
+(zoals bij nutrient_comparison). Voor andere vormen: laat "claims" een lege lijst.
+"""
+
+
+def call_claude(system_prompt, user_prompt, max_retries=2):
+    if not ANTHROPIC_API_KEY:
+        raise RuntimeError(
+            "Geen ANTHROPIC_API_KEY gevonden. Zet je eigen key: "
+            "export ANTHROPIC_API_KEY=sk-ant-..."
+        )
+
+    last_error = None
+    for attempt in range(1, max_retries + 2):
+        resp = requests.post(
+            "https://api.anthropic.com/v1/messages",
+            headers={
+                "x-api-key": ANTHROPIC_API_KEY,
+                "anthropic-version": "2023-06-01",
+                "content-type": "application/json",
+            },
+            json={
+                "model": ANTHROPIC_MODEL,
+                "max_tokens": 4000,
+                "system": system_prompt,
+                "messages": [{"role": "user", "content": user_prompt}],
+            },
+            timeout=60,
+        )
+        resp.raise_for_status()
+        data = resp.json()
+        text = "".join(b["text"] for b in data["content"] if b["type"] == "text")
+        text = text.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+
+        try:
+            return json.loads(text)
+        except json.JSONDecodeError as e:
+            last_error = e
+            print(f"[!] Antwoord was geen geldige JSON (poging {attempt}/{max_retries + 1}): {e}. "
+                  f"Probeer opnieuw...")
             continue
-        if p.startswith("**") and p.endswith("**"):
-            runs.append((p[2:-2], True))
-        else:
-            runs.append((p, False))
-    return runs
+
+    raise RuntimeError(f"Kon na {max_retries + 1} pogingen geen geldige JSON van het "
+                        f"model krijgen. Laatste fout: {last_error}")
 
 
-def runs_to_words(runs):
-    """Zet runs om in losse (woord, is_bold) tokens, spaties worden weggegooid
-    (worden apart weer toegevoegd bij het tekenen)."""
-    words = []
-    for text, is_bold in runs:
-        for w in text.split(" "):
-            if w:
-                words.append((w, is_bold))
-    return words
+def fact_check_content(content, shape_key):
+    shape = TEMPLATE_SHAPES[shape_key]
+    if not shape["has_nutrient_claims"] or not content.get("claims"):
+        return True, {"checked": 0, "issues": []}
 
-
-def text_width(draw, text, font):
-    bbox = draw.textbbox((0, 0), text, font=font)
-    return bbox[2] - bbox[0]
-
-
-def wrap_words(draw, words, font_regular, font_bold, max_width):
-    """Groepeert (woord, is_bold) tokens in regels die binnen max_width passen."""
-    space_w = text_width(draw, " ", font_regular)
-    lines = []
-    current = []
-    current_w = 0
-    for word, is_bold in words:
-        f = font_bold if is_bold else font_regular
-        w = text_width(draw, word, f)
-        extra = (space_w if current else 0) + w
-        if current and current_w + extra > max_width:
-            lines.append(current)
-            current = [(word, is_bold)]
-            current_w = w
-        else:
-            current.append((word, is_bold))
-            current_w += extra
-    if current:
-        lines.append(current)
-    return lines
-
-
-def draw_wrapped_line(draw, line, font_regular, font_bold, x_center, y, align="center", left_x=None, color=DARK):
-    """Tekent één regel (lijst van (woord, is_bold)) gecentreerd of links uitgelijnd."""
-    space_w = text_width(draw, " ", font_regular)
-    widths = []
-    for word, is_bold in line:
-        f = font_bold if is_bold else font_regular
-        widths.append(text_width(draw, word, f))
-    total_w = sum(widths) + space_w * (len(line) - 1 if line else 0)
-
-    if align == "center":
-        x = x_center - total_w / 2
-    else:
-        x = left_x
-
-    for (word, is_bold), w in zip(line, widths):
-        f = font_bold if is_bold else font_regular
-        draw.text((x, y), word, font=f, fill=color)
-        x += w + space_w
-
-
-# ---------------------------------------------------------------------------
-# Render
-# ---------------------------------------------------------------------------
-
-def render_slide(config, out_path):
-    img = Image.new("RGB", (CANVAS_W, CANVAS_H), BG_COLOR)
-    draw = ImageDraw.Draw(img)
-
-    # --- Handle rechtsboven ---
-    handle_font = ImageFont.truetype(FONT_BOLD, 30)
-    handle = config["handle"]
-    hw = text_width(draw, handle, handle_font)
-    draw.text((CANVAS_W - MARGIN_X - hw, 60), handle, font=handle_font, fill=ACCENT_GREEN)
-
-    # --- Titel ---
-    title_font = ImageFont.truetype(FONT_BOLD, 62)
-    title_max_w = CANVAS_W - 2 * MARGIN_X
-
-    # parse {{highlight}} in de titel -> los als bold-run met groene kleur
-    raw_title = config["title"].upper()
-    title_runs = []
-    for part in re.split(r"(\{\{[^}]+\}\})", raw_title):
-        if not part:
+    issues = []
+    for claim in content["claims"]:
+        key = f"{claim['food_a']}_more_{claim['nutrient_key']}_than_{claim['food_b']}"
+        shaky_match = next((v for k, v in KNOWN_SHAKY_CLAIMS.items()
+                             if claim['food_a'].replace(" ", "_") in k
+                             and claim['food_b'].replace(" ", "_") in k), None)
+        if shaky_match:
+            issues.append({"claim": claim, "verdict": "known_shaky", "note": shaky_match})
             continue
-        if part.startswith("{{") and part.endswith("}}"):
-            title_runs.append((part[2:-2], "accent"))
-        else:
-            title_runs.append((part, "normal"))
 
-    title_words = []
-    for text, kind in title_runs:
-        for w in text.split(" "):
-            if w:
-                title_words.append((w, kind))
+        result = verify_claim(claim["food_a"], claim["food_b"], claim["nutrient_key"],
+                               use_live_api=False)
+        if result["verdict"] != "confirmed":
+            issues.append({"claim": claim, "verdict": result["verdict"], "detail": result})
 
-    # wrap (zelfde logica, kleur ipv bold voor de highlight)
-    space_w = text_width(draw, " ", title_font)
-    lines, current, current_w = [], [], 0
-    for word, kind in title_words:
-        w = text_width(draw, word, title_font)
-        extra = (space_w if current else 0) + w
-        if current and current_w + extra > title_max_w:
-            lines.append(current)
-            current, current_w = [(word, kind)], w
-        else:
-            current.append((word, kind))
-            current_w += extra
-    if current:
-        lines.append(current)
-
-    title_line_height = 76
-    title_y = 170
-    x_center = CANVAS_W / 2
-    for line in lines:
-        widths = [text_width(draw, w, title_font) for w, _ in line]
-        total_w = sum(widths) + space_w * (len(line) - 1 if line else 0)
-        x = x_center - total_w / 2
-        for (word, kind), w in zip(line, widths):
-            color = ACCENT_GREEN if kind == "accent" else DARK
-            draw.text((x, title_y), word, font=title_font, fill=color)
-            x += w + space_w
-        title_y += title_line_height
-
-    # --- Feiten-lijst: auto-fit ---
-    # Beschikbare ruimte tussen titel en footer-CTA bepalen, en de grootst
-    # mogelijke tekstgrootte zoeken die alle feiten laat passen (zoals
-    # "auto-fit tekst" in Canva/PowerPoint).
-    footer_bar_h = 130
-    cta_font_size = 30
-    cta_reserved_h = 80  # ruimte voor de CTA-regel boven de footer-bar
-    list_max_w = CANVAS_W - 2 * MARGIN_X
-    list_top = title_y + 50
-    list_bottom_limit = CANVAS_H - footer_bar_h - cta_reserved_h - 20
-    available_h = list_bottom_limit - list_top
-
-    # Sommige vormen zijn een genummerde lijst (zie "numbered" in
-    # TEMPLATE_SHAPES/content_generator.py) - net als bij de concurrentie
-    # ("1. Baking Soda removes...", ..., "9. Follow this page...") zetten we
-    # dan zelf een schoon "1. ", "2. ", ... nummer voor elk item, inclusief de
-    # laatste follow-oproep. Dit doen we hier in de renderer (niet aan het
-    # model overlaten) zodat de nummering altijd 100% consistent is, ongeacht
-    # of het model het zelf ook had toegevoegd (een eventueel dubbel nummer
-    # van het model wordt eerst gestript).
-    if config.get("numbered"):
-        strip_num_re = re.compile(r"^\s*\d+[\.\)]\s*")
-        config["facts"] = [
-            f"{i + 1}. {strip_num_re.sub('', fact)}"
-            for i, fact in enumerate(config["facts"])
-        ]
-
-    # Het LAATSTE item in "facts" is standaard de follow-oproep (zie
-    # content_generator.py) - die laten we opvallen door 'm helemaal vet te
-    # zetten (zelfde kleur als de rest, alleen dikker).
-    num_facts = len(config["facts"])
-    last_fact_index = num_facts - 1
-
-    def measure_list_height(font_size, line_height, paragraph_gap):
-        f_reg = ImageFont.truetype(FONT_REGULAR, font_size)
-        f_bold = ImageFont.truetype(FONT_SEMIBOLD, font_size)
-        total = 0
-        per_fact_lines = []
-        for idx, fact in enumerate(config["facts"]):
-            runs = parse_bold_runs(fact)
-            if idx == last_fact_index:
-                runs = [(text, True) for text, _ in runs]  # alles vet voor de CTA
-            words = runs_to_words(runs)
-            wlines = wrap_words(draw, words, f_reg, f_bold, list_max_w)
-            per_fact_lines.append(wlines)
-            total += len(wlines) * line_height
-        total += paragraph_gap * (len(config["facts"]) - 1)
-        return total, per_fact_lines, f_reg, f_bold
-
-    # Groter startpunt en een veel hoger plafond dan voorheen (was 46): de
-    # concurrentie (@mentorofwellness e.d.) gebruikt fors grotere tekst en
-    # zet items strak onder elkaar i.p.v. met veel lucht ertussen. Door hier
-    # hoog te beginnen en de tussenruimte krap te houden, vult grotere TEKST
-    # de beschikbare ruimte i.p.v. extra WITRUIMTE tussen de items.
-    font_size = 100          # startpunt: zoekt vanaf hier naar beneden de grootste maat die past
-    min_font_size = 22
-    max_font_size = 100
-    chosen = None
-    while font_size >= min_font_size:
-        line_height = round(font_size * 1.12)       # krap binnen 1 item (was 1.27)
-        paragraph_gap = round(font_size * 0.32)      # krap tussen items (was 0.9) - "direct onder elkaar"
-        total_h, per_fact_lines, f_reg, f_bold = measure_list_height(
-            font_size, line_height, paragraph_gap)
-        if total_h <= available_h:
-            chosen = (font_size, line_height, paragraph_gap, per_fact_lines, f_reg, f_bold, total_h)
-            break
-        font_size -= 1
-    if chosen is None:
-        # niets paste zelfs op de kleinste toegestane grootte: gebruik 'm toch
-        line_height = round(min_font_size * 1.12)
-        paragraph_gap = round(min_font_size * 0.32)
-        total_h, per_fact_lines, f_reg, f_bold = measure_list_height(
-            min_font_size, line_height, paragraph_gap)
-        chosen = (min_font_size, line_height, paragraph_gap, per_fact_lines, f_reg, f_bold, total_h)
-
-    font_size, line_height, paragraph_gap, per_fact_lines, fact_font, fact_font_bold, total_h = chosen
-
-    # --- Restruimte opvullen ---
-    # De zoeklus hierboven kiest al de GROOTSTE tekstgrootte die past, dus
-    # normaal is er weinig restruimte. Als er (bij weinig feiten) toch nog
-    # wat overblijft, houden we de tussenruimte tussen items krap (geen grote
-    # stretch meer zoals voorheen tot 1.6x regelhoogte) en centreren we het
-    # hele blok verticaal, zodat de items zelf strak bij elkaar blijven staan
-    # net als bij het voorbeeld-account.
-    num_gaps = max(len(config["facts"]) - 1, 1)
-    leftover = available_h - total_h
-    max_paragraph_gap = round(line_height * 0.55)   # krappe bovengrens (was 1.6)
-    extra_per_gap = min(leftover / num_gaps, max_paragraph_gap - paragraph_gap) if leftover > 0 else 0
-    paragraph_gap += max(extra_per_gap, 0)
-
-    total_h_after = total_h + extra_per_gap * num_gaps
-    remaining_leftover = max(available_h - total_h_after, 0)
-    list_top_adjusted = list_top + remaining_leftover / 2
-
-    list_y = list_top_adjusted
-    for wlines in per_fact_lines:
-        for wline in wlines:
-            draw_wrapped_line(draw, wline, fact_font, fact_font_bold,
-                               x_center=None, y=list_y, align="left",
-                               left_x=MARGIN_X, color=DARK)
-            list_y += line_height
-        list_y += paragraph_gap
-
-    # --- Footer CTA tekst ---
-    cta_font = ImageFont.truetype(FONT_SEMIBOLD, cta_font_size)
-    cta_text = config["footer_cta"]
-    cta_w = text_width(draw, cta_text, cta_font)
-    cta_y = CANVAS_H - footer_bar_h - 60
-    draw.text((x_center - cta_w / 2, cta_y), cta_text, font=cta_font, fill=DARK)
-
-    # --- Footer bar ---
-    draw.rectangle([0, CANVAS_H - footer_bar_h, CANVAS_W, CANVAS_H], fill=DARK)
-    footer_handle_font = ImageFont.truetype(FONT_BOLD, 36)
-    fh_w = text_width(draw, config["handle"], footer_handle_font)
-    draw.text((x_center - fh_w / 2, CANVAS_H - footer_bar_h / 2 - 22),
-               config["handle"], font=footer_handle_font, fill=WHITE)
-
-    img.save(out_path)
-    return out_path
+    is_approved = len(issues) == 0
+    return is_approved, {"checked": len(content["claims"]), "issues": issues}
 
 
-def pick_random_track(music_dir=MUSIC_DIR):
-    """Kiest willekeurig een audiobestand uit jouw muziekmap."""
-    import os, random
-    if not os.path.isdir(music_dir):
-        return None
-    tracks = [f for f in os.listdir(music_dir) if f.lower().endswith((".mp3", ".m4a", ".wav", ".aac"))]
-    if not tracks:
-        return None
-    return os.path.join(music_dir, random.choice(tracks))
-
-
-def image_to_reel_video(image_path, video_path, duration_seconds=REEL_DURATION_SECONDS,
-                         audio_path="__auto__"):
-    """Zet de statische afbeelding om in een MP4 van vaste lengte, met automatisch
-    een willekeurige track uit MUSIC_DIR eronder gemixt (tenzij audio_path=None
-    wordt meegegeven, dan blijft de reel stil)."""
-    import subprocess
-
-    if audio_path == "__auto__":
-        audio_path = pick_random_track()
-
-    # Kwaliteitsinstellingen: Instagram's Content Publishing API heeft GEEN
-    # "beste kwaliteit"-schuifje zoals de app dat wel heeft bij handmatig
-    # uploaden - de enige hendel die wij hebben is hoe goed het bronbestand
-    # zelf is dat we aanleveren. -crf 18 is visueel zo goed als lossless
-    # (standaard is 23, hoger getal = meer compressie/kwaliteitsverlies).
-    # -maxrate/-bufsize houdt 'm binnen Instagram's aanbevolen max van 5 Mbps
-    # voor Reels, -profile:v high voor de beste H.264-encodingkwaliteit.
-    video_quality_flags = [
-        "-c:v", "libx264", "-crf", "18", "-profile:v", "high", "-level", "4.0",
-        "-maxrate", "5M", "-bufsize", "10M", "-r", "30",
-    ]
-
-    if audio_path:
-        cmd = [
-            "ffmpeg", "-y",
-            "-loop", "1", "-i", image_path,
-            "-i", audio_path,
-            "-t", str(duration_seconds),
-            "-vf", "scale=1080:1920,format=yuv420p",
-            *video_quality_flags,
-            "-c:a", "aac", "-b:a", "128k",
-            "-shortest", "-movflags", "+faststart",
-            video_path,
-        ]
-        used_track = audio_path
-    else:
-        cmd = [
-            "ffmpeg", "-y",
-            "-loop", "1", "-i", image_path,
-            "-t", str(duration_seconds),
-            "-vf", "scale=1080:1920,format=yuv420p",
-            *video_quality_flags,
-            "-movflags", "+faststart",
-            video_path,
-        ]
-        used_track = None
-
-    subprocess.run(cmd, check=True, capture_output=True)
-    return video_path, used_track
+def generate_and_check(shape_key, topic_hint, audience="algemeen", recent_titles=None,
+                        recent_items=None, handle="@smarthealthfix"):
+    system_prompt = build_system_prompt(shape_key, audience, handle=handle)
+    user_prompt = f"Onderwerp/invalshoek: {topic_hint}\n\nSchrijf nu de content volgens het schema."
+    if recent_titles:
+        titles_list = "\n".join(f"- {t}" for t in recent_titles)
+        user_prompt += (
+            f"\n\nBelangrijk: deze titels/invalshoeken zijn recent al gebruikt, "
+            f"kies een merkbaar andere invalshoek (niet gewoon een synoniem van "
+            f"hetzelfde idee):\n{titles_list}"
+        )
+    if recent_items:
+        items_list = ", ".join(recent_items)
+        user_prompt += (
+            f"\n\nNOG BELANGRIJKER: deze specifieke voedingsmiddelen/voedingsstoffen/"
+            f"klachten/organen zijn recent al gebruikt in dit account (over meerdere "
+            f"reels heen, ongeacht de vorm). Vermijd ze zoveel mogelijk en kies "
+            f"echt andere, ook minder voor de hand liggende opties - niet steeds "
+            f"dezelfde 'bekendste' 5-6 terugpakken:\n{items_list}"
+        )
+    content = call_claude(system_prompt, user_prompt)
+    approved, report = fact_check_content(content, shape_key)
+    return {
+        "shape": shape_key,
+        "content": content,
+        "approved": approved,
+        "fact_check_report": report,
+    }
 
 
 if __name__ == "__main__":
-    import os as _os
-    _os.makedirs("output", exist_ok=True)
-    png_path = render_slide(CONFIG, "output/test_slide.png")
-    print(f"Afbeelding klaar: {png_path}")
-    mp4_path, track = image_to_reel_video(png_path, "output/test_reel.mp4")
-    print(f"Reel-video klaar: {mp4_path}")
-    print(f"Gebruikte muziektrack: {track}")
+    fake_content_good = {
+        "title": "SURPRISING {{FOOD}} FACTS",
+        "facts": ["A **red bell pepper** has nearly three times more **vitamin C** than **an orange**."],
+        "claims": [{"food_a": "red bell pepper", "food_b": "orange", "nutrient_key": "vitamin_c"}],
+    }
+    fake_content_bad = {
+        "title": "SURPRISING {{FOOD}} FACTS",
+        "facts": ["A **kiwi** has more **vitamin C** than **an orange**."],
+        "claims": [{"food_a": "kiwi", "food_b": "orange", "nutrient_key": "vitamin_c"}],
+    }
+    for label, fake in [("Correcte claim", fake_content_good), ("Wankele claim", fake_content_bad)]:
+        approved, report = fact_check_content(fake, "nutrient_comparison")
+        print(f"\n{label}: approved={approved}")
+        print(json.dumps(report, indent=2, ensure_ascii=False))
