@@ -1,43 +1,43 @@
 {
-  "png": "output/reel_20260815_202238.png",
-  "mp4": "output/reel_20260815_202238.mp4",
-  "cover": "output/cover_20260815_202238.png",
+  "png": "output/reel_20260816_112409.png",
+  "mp4": "output/reel_20260816_112409.mp4",
+  "cover": "output/cover_20260816_112409.png",
   "content": {
-    "title": "IF YOU ATE {{THESE}} EVERY DAY... THIS IS WHAT WOULD HAPPEN TO YOUR BODY",
+    "title": "WHAT DOCTORS DON'T TELL YOU ABOUT THESE {{TINY}} DAILY HABITS",
     "facts": [
-      "If you ate **beets** every day for 2 weeks, your resting heart rate would drop and stairs would feel easier, as their nitrates widen blood vessels and pump more oxygen to your muscles.",
-      "If you ate **sauerkraut** every day for 10 days, your bloating would ease and your gut bacteria would grow noticeably more diverse.",
-      "If you ate **pumpkin seeds** every day for 3 weeks, you'd fall asleep faster, since their natural compounds help calm an overactive nervous system at night.",
-      "If you ate **chia seeds** every day for 30 days, you'd snack less between meals, because they swell into a gel that slows digestion and blunts blood sugar swings.",
-      "If you ate **walnuts** every day for 3 weeks, your afternoon brain fog would lift as their fats support sharper, clearer thinking.",
-      "If you ate **oats** every day for 4 weeks, your cholesterol numbers would visibly improve and your arteries would stay more flexible.",
-      "If you ate **celery** every day for 2 weeks, the puffiness in your face and ankles would fade, thanks to its natural diuretic effect.",
-      "If you ate **kefir** every day for 3 weeks, your skin would look clearer as its live cultures calm gut inflammation that often shows up on your face.",
-      "If you ate **dark chocolate** every day for 2 weeks, your blood pressure would ease and your stress hormone levels would quietly drop.",
-      "If you ate **shiitake mushrooms** every day for 3 weeks, you'd catch fewer colds as your immune cells respond faster to invaders.",
+      "Daily **1 clove raw garlic** – lower blood pressure",
+      "Daily **7 min walk after eating** – flattens sugar spike",
+      "Daily **20 min morning sunlight** – deeper sleep tonight",
+      "Daily **2 tbsp ground flaxseed** – smoother digestion",
+      "Daily **5 min box breathing** – calms your nerves",
+      "Daily **30 min screen-free before bed** – falls asleep faster",
+      "Daily **8 glasses water** – clearer skin",
+      "Daily **3 gratitude notes** – lowers stress hormone",
+      "Daily **20 bodyweight squats** – stronger knees",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Beets work faster than people expect – their nitrates get converted into nitric oxide right in your mouth and gut, which relaxes blood vessel walls within hours, not weeks, so your muscles get more oxygen with less effort. Sauerkraut isn't just a gut trend either; the fermentation process breeds specific lactobacillus strains that physically crowd out troublemaking bacteria along your intestinal lining, which is why bloating tends to calm down so quickly. And walnuts deserve more credit than they get – their plant-based fats get converted in your liver into compounds that keep brain cell membranes flexible, which is directly tied to that afternoon mental fog lifting. Everyone's body responds a little differently, so pay attention to what yours is telling you.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits so you don't have to guess what your body actually needs. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these are backed by more science than people realize. Garlic contains allicin, a sulfur compound that forms when it's crushed or chewed raw — it relaxes blood vessels and can measurably soften blood pressure within weeks. Flaxseed brings soluble fiber and lignans that slow down digestion, feed your gut bacteria, and help pull excess cholesterol out through your stool. And gratitude journaling isn't just a mood thing — writing down 3 specific things activates your prefrontal cortex and quiets the stress response, pulling your body out of fight-or-flight mode. Everyone's body responds a little differently, so notice what actually shifts for you.\n\n@smarthealthfix breaks down nutrition, common symptoms, organ function, and small daily habits like these into simple, no-fluff posts. Our mission is to help you build tiny, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a simple reset today.",
     "hashtags": [
-      "#healthtips",
-      "#wellness",
-      "#guthealth",
-      "#beets",
-      "#fermentedfoods",
-      "#brainfog",
-      "#immuneboost",
-      "#nutritionfacts",
+      "#dailyhabits",
       "#healthyhabits",
-      "#foodismedicine"
+      "#wellness",
+      "#guttips",
+      "#bloodpressure",
+      "#stressrelief",
+      "#sleeptips",
+      "#mindsetmatters",
+      "#healthtips",
+      "#naturalremedies"
     ],
     "extra_keywords": [
+      "dailyhabits",
       "naturalhealing",
       "wellnessjourney",
-      "dailyhabits",
+      "stressrelief",
       "guttips"
     ]
   },
-  "shape": "conditional_transformation",
-  "caption": "Beets work faster than people expect – their nitrates get converted into nitric oxide right in your mouth and gut, which relaxes blood vessel walls within hours, not weeks, so your muscles get more oxygen with less effort. Sauerkraut isn't just a gut trend either; the fermentation process breeds specific lactobacillus strains that physically crowd out troublemaking bacteria along your intestinal lining, which is why bloating tends to calm down so quickly. And walnuts deserve more credit than they get – their plant-based fats get converted in your liver into compounds that keep brain cell membranes flexible, which is directly tied to that afternoon mental fog lifting. Everyone's body responds a little differently, so pay attention to what yours is telling you.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits so you don't have to guess what your body actually needs. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #beets #fermentedfoods #brainfog #immuneboost #nutritionfacts #healthyhabits #foodismedicine naturalhealing wellnessjourney dailyhabits guttips"
+  "shape": "daily_dose_habit",
+  "caption": "A few of these are backed by more science than people realize. Garlic contains allicin, a sulfur compound that forms when it's crushed or chewed raw — it relaxes blood vessels and can measurably soften blood pressure within weeks. Flaxseed brings soluble fiber and lignans that slow down digestion, feed your gut bacteria, and help pull excess cholesterol out through your stool. And gratitude journaling isn't just a mood thing — writing down 3 specific things activates your prefrontal cortex and quiets the stress response, pulling your body out of fight-or-flight mode. Everyone's body responds a little differently, so notice what actually shifts for you.\n\n@smarthealthfix breaks down nutrition, common symptoms, organ function, and small daily habits like these into simple, no-fluff posts. Our mission is to help you build tiny, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a simple reset today.\n\n#dailyhabits #healthyhabits #wellness #guttips #bloodpressure #stressrelief #sleeptips #mindsetmatters #healthtips #naturalremedies dailyhabits naturalhealing wellnessjourney stressrelief guttips"
 }
