@@ -1,43 +1,40 @@
 {
-  "png": "output/reel_20260816_153202.png",
-  "mp4": "output/reel_20260816_153202.mp4",
-  "cover": "output/cover_20260816_153202.png",
+  "png": "output/reel_20260816_202147.png",
+  "mp4": "output/reel_20260816_202147.mp4",
+  "cover": "output/cover_20260816_202147.png",
   "content": {
-    "title": "WHAT HAPPENS TO YOUR BODY WHEN YOU DO {{THESE}} EVERY DAY",
+    "title": "THE ORGANS YOUR {{DOCTOR}} NEVER MENTIONS AT YOUR CHECKUP",
     "facts": [
-      "**Splash cold water** on your face and wrists each morning — it triggers the dive reflex, instantly slowing your heart rate and sharpening focus.",
-      "**Nasal-only breathing** during light exercise — it boosts oxygen efficiency and trains your lungs to work smarter, not harder.",
-      "**Stand up every 45 minutes** — it kicks your muscles into pulling sugar out of your blood, keeping energy crashes away.",
-      "**Chew each bite 20 times** — it eases digestion and cuts bloating before it even starts.",
-      "**Hum for one minute** — it stimulates the vagus nerve, calming your nervous system almost instantly.",
-      "**Rub your ears** for 30 seconds — it wakes up pressure points linked to alertness and circulation.",
-      "**Write tomorrow's to-do list** before bed — it empties racing thoughts, helping you fall asleep faster.",
-      "**Balance on one leg** while brushing your teeth — it quietly rebuilds stability and lowers fall risk as you age.",
-      "**Eat dinner 3 hours before bed** — it gives digestion time to finish, leading to deeper, uninterrupted sleep.",
-      "**Follow along** – for more daily health tips like this."
+      "1. **Pancreas** - Okra, Bitter melon, Turmeric",
+      "2. **Kidneys** - Cranberries, Parsley, Dandelion tea",
+      "3. **Eyes** - Bell peppers, Kale, Egg yolks",
+      "4. **Blood** - Pomegranate, Spinach, Lentils",
+      "5. **Stomach** - Papaya, Ginger, Fennel",
+      "6. **Skin** - Avocado, Sweet potato, Bone broth",
+      "7. **Bladder** - Cucumber, Watermelon, Celery",
+      "8. **Follow along** - for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "That **cold water** splash on your face works through something called the mammalian dive reflex — it slows your heart rate and shifts your body into a calmer parasympathetic state within seconds. **Humming** does something similar but through vibration: the buzzing sensation directly stimulates your vagus nerve, the main highway between your gut and brain. And **chewing** slowly isn't just about manners — it triggers enzymes in your saliva that start breaking down carbs before food even reaches your stomach, which is why rushed meals often leave you bloated. Everyone's body responds a little differently, so notice what actually settles yours.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organ function, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Your pancreas quietly controls blood sugar, and okra's sticky fiber slows how fast glucose hits your bloodstream while bitter melon contains compounds that mimic insulin's effect on your cells. Your kidneys filter about 50 gallons of blood a day, and cranberries work by preventing bacteria from clinging to the urinary tract walls, which is why they're linked to fewer infections. Pomegranate deserves a mention too — its polyphenols help relax blood vessels and improve circulation, which takes pressure off your heart and blood vessels over time. Of course, everyone's body responds a little differently, so pay attention to what actually works for yours.\n\n@smarthealthfix is all about the basics that get overlooked — nutrition, common symptoms, organ function, and the small daily habits that quietly shape your health. Our mission is to make real, sustainable health feel simple instead of overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#healthtips",
-      "#wellness",
-      "#dailyhabits",
-      "#vagusnerve",
+      "#organhealth",
+      "#pancreashealth",
+      "#kidneyhealth",
+      "#eyehealth",
+      "#bloodhealth",
       "#guthealth",
-      "#bettersleep",
-      "#mindbodyconnection",
-      "#selfcare",
-      "#healthyhabits",
-      "#nervoussystem"
+      "#skinhealth",
+      "#naturalremedies",
+      "#healthtips",
+      "#wellness"
     ],
     "extra_keywords": [
-      "dailyhabits",
-      "vagusnerve",
-      "wellnessroutine",
-      "mindbodyconnection",
-      "healthyliving"
+      "organsupport",
+      "wholefoods",
+      "healingfoods",
+      "bodyhealth"
     ]
   },
-  "shape": "numbered_explainer",
-  "caption": "That **cold water** splash on your face works through something called the mammalian dive reflex — it slows your heart rate and shifts your body into a calmer parasympathetic state within seconds. **Humming** does something similar but through vibration: the buzzing sensation directly stimulates your vagus nerve, the main highway between your gut and brain. And **chewing** slowly isn't just about manners — it triggers enzymes in your saliva that start breaking down carbs before food even reaches your stomach, which is why rushed meals often leave you bloated. Everyone's body responds a little differently, so notice what actually settles yours.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organ function, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #dailyhabits #vagusnerve #guthealth #bettersleep #mindbodyconnection #selfcare #healthyhabits #nervoussystem dailyhabits vagusnerve wellnessroutine mindbodyconnection healthyliving"
+  "shape": "organ_food_list",
+  "caption": "Your pancreas quietly controls blood sugar, and okra's sticky fiber slows how fast glucose hits your bloodstream while bitter melon contains compounds that mimic insulin's effect on your cells. Your kidneys filter about 50 gallons of blood a day, and cranberries work by preventing bacteria from clinging to the urinary tract walls, which is why they're linked to fewer infections. Pomegranate deserves a mention too — its polyphenols help relax blood vessels and improve circulation, which takes pressure off your heart and blood vessels over time. Of course, everyone's body responds a little differently, so pay attention to what actually works for yours.\n\n@smarthealthfix is all about the basics that get overlooked — nutrition, common symptoms, organ function, and the small daily habits that quietly shape your health. Our mission is to make real, sustainable health feel simple instead of overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #pancreashealth #kidneyhealth #eyehealth #bloodhealth #guthealth #skinhealth #naturalremedies #healthtips #wellness organsupport wholefoods healingfoods bodyhealth"
 }
