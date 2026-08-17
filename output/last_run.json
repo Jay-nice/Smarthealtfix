@@ -1,40 +1,39 @@
 {
-  "png": "output/reel_20260816_202147.png",
-  "mp4": "output/reel_20260816_202147.mp4",
-  "cover": "output/cover_20260816_202147.png",
+  "png": "output/reel_20260817_103602.png",
+  "mp4": "output/reel_20260817_103602.mp4",
+  "cover": "output/cover_20260817_103602.png",
   "content": {
-    "title": "THE ORGANS YOUR {{DOCTOR}} NEVER MENTIONS AT YOUR CHECKUP",
+    "title": "THE MINERALS YOUR DOCTOR NEVER TESTS FOR",
     "facts": [
-      "1. **Pancreas** - Okra, Bitter melon, Turmeric",
-      "2. **Kidneys** - Cranberries, Parsley, Dandelion tea",
-      "3. **Eyes** - Bell peppers, Kale, Egg yolks",
-      "4. **Blood** - Pomegranate, Spinach, Lentils",
-      "5. **Stomach** - Papaya, Ginger, Fennel",
-      "6. **Skin** - Avocado, Sweet potato, Bone broth",
-      "7. **Bladder** - Cucumber, Watermelon, Celery",
-      "8. **Follow along** - for more daily health tips like this."
+      "**Manganese** (Bone Builder) — Pineapple | Brown Rice | Chickpeas | Sweet Potato",
+      "**Iodine** (Thyroid Fuel) — Seaweed | Cod | Iodized Salt | Shrimp",
+      "**Copper** (Energy Spark) — Oysters | Cashews | Shiitake Mushrooms | Dark Chocolate",
+      "**Selenium** (Immune Shield) — Brazil Nuts | Sardines | Eggs | Sunflower Seeds",
+      "**Potassium** (Heart Rhythm) — Coconut Water | Sweet Potato | White Beans | Banana",
+      "**Zinc** (Wound Healer) — Pumpkin Seeds | Lentils | Chickpeas | Cashews",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Your pancreas quietly controls blood sugar, and okra's sticky fiber slows how fast glucose hits your bloodstream while bitter melon contains compounds that mimic insulin's effect on your cells. Your kidneys filter about 50 gallons of blood a day, and cranberries work by preventing bacteria from clinging to the urinary tract walls, which is why they're linked to fewer infections. Pomegranate deserves a mention too — its polyphenols help relax blood vessels and improve circulation, which takes pressure off your heart and blood vessels over time. Of course, everyone's body responds a little differently, so pay attention to what actually works for yours.\n\n@smarthealthfix is all about the basics that get overlooked — nutrition, common symptoms, organ function, and the small daily habits that quietly shape your health. Our mission is to make real, sustainable health feel simple instead of overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Most people have never had their **manganese** checked, yet it quietly activates the enzymes your body uses to build bone and repair connective tissue — low levels can leave joints and bones weaker than they should be. **Iodine** works behind the scenes too: your thyroid grabs it to make T3 and T4, the hormones that set your metabolism's pace, so even a mild shortage can leave you tired and puffy without an obvious cause. Then there's **selenium**, which fuels an antioxidant enzyme called glutathione peroxidase that protects your cells from damage and helps your thyroid convert hormones into their active form. Everyone's body is different, so listen to yours and get labs checked if something feels off.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organs, and small daily habits so you actually understand what your body needs instead of guessing. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#organhealth",
-      "#pancreashealth",
-      "#kidneyhealth",
-      "#eyehealth",
-      "#bloodhealth",
-      "#guthealth",
-      "#skinhealth",
-      "#naturalremedies",
+      "#thyroidhealth",
+      "#traceminerals",
+      "#micronutrients",
+      "#immunesupport",
+      "#mineralbalance",
+      "#electrolytes",
+      "#nutrientdense",
       "#healthtips",
-      "#wellness"
+      "#wellness",
+      "#boneupp"
     ],
     "extra_keywords": [
-      "organsupport",
-      "wholefoods",
-      "healingfoods",
-      "bodyhealth"
+      "mineraldeficiency",
+      "nutrienttips",
+      "healthyeating",
+      "wellnessjourney"
     ]
   },
-  "shape": "organ_food_list",
-  "caption": "Your pancreas quietly controls blood sugar, and okra's sticky fiber slows how fast glucose hits your bloodstream while bitter melon contains compounds that mimic insulin's effect on your cells. Your kidneys filter about 50 gallons of blood a day, and cranberries work by preventing bacteria from clinging to the urinary tract walls, which is why they're linked to fewer infections. Pomegranate deserves a mention too — its polyphenols help relax blood vessels and improve circulation, which takes pressure off your heart and blood vessels over time. Of course, everyone's body responds a little differently, so pay attention to what actually works for yours.\n\n@smarthealthfix is all about the basics that get overlooked — nutrition, common symptoms, organ function, and the small daily habits that quietly shape your health. Our mission is to make real, sustainable health feel simple instead of overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #pancreashealth #kidneyhealth #eyehealth #bloodhealth #guthealth #skinhealth #naturalremedies #healthtips #wellness organsupport wholefoods healingfoods bodyhealth"
+  "shape": "mineral_sources",
+  "caption": "Most people have never had their **manganese** checked, yet it quietly activates the enzymes your body uses to build bone and repair connective tissue — low levels can leave joints and bones weaker than they should be. **Iodine** works behind the scenes too: your thyroid grabs it to make T3 and T4, the hormones that set your metabolism's pace, so even a mild shortage can leave you tired and puffy without an obvious cause. Then there's **selenium**, which fuels an antioxidant enzyme called glutathione peroxidase that protects your cells from damage and helps your thyroid convert hormones into their active form. Everyone's body is different, so listen to yours and get labs checked if something feels off.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organs, and small daily habits so you actually understand what your body needs instead of guessing. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#thyroidhealth #traceminerals #micronutrients #immunesupport #mineralbalance #electrolytes #nutrientdense #healthtips #wellness #boneupp mineraldeficiency nutrienttips healthyeating wellnessjourney"
 }
