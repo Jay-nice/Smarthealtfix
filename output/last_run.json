@@ -1,40 +1,41 @@
 {
-  "png": "output/reel_20260817_153418.png",
-  "mp4": "output/reel_20260817_153418.mp4",
-  "cover": "output/cover_20260817_153418.png",
+  "png": "output/reel_20260817_202855.png",
+  "mp4": "output/reel_20260817_202855.mp4",
+  "cover": "output/cover_20260817_202855.png",
   "content": {
-    "title": "WHAT NUTRITIONISTS DON'T WANT YOU TO KNOW ABOUT EATING THE SAME FOOD {{EVERY DAY}}",
+    "title": "WHAT BIG PHARMA DOESN'T WANT YOU EATING FOR THESE ORGANS",
     "facts": [
-      "**Beets** – eaten daily for 2 weeks, the nitrates convert into nitric oxide, your blood vessels widen, blood pressure drops, and you can climb stairs without gasping.",
-      "**Sauerkraut** – a spoonful daily for 10 days shifts your gut bacteria, bloating fades, and that heavy after-lunch slump disappears.",
-      "**Walnuts** – a handful daily for 30 days builds up omega-3s in the brain, and word-recall gets noticeably faster mid-conversation.",
-      "**Oats** – a bowl daily for 3 weeks lets beta-glucan fiber grab onto cholesterol, and your next blood test could show LDL dropping.",
-      "**Kefir** – a glass daily for 2 weeks lets probiotic strains multiply in your gut, and colds start hitting less often and lasting less long.",
-      "**Pomegranate** – daily for a month, polyphenols quiet inflammatory markers, and morning joint stiffness starts to ease.",
-      "**Cinnamon** – half a teaspoon daily for 2 weeks slows carb breakdown, blunting blood sugar spikes and the energy crash that follows meals.",
-      "**Follow along** – for more daily food experiments like this."
+      "**Artichokes** are good for LIVER – they kickstart bile flow and help flush out the toxins that build up after greasy, processed meals.",
+      "**Turmeric** is good for JOINTS – curcumin cools the inflammation that leaves knees and knuckles stiff by evening.",
+      "**Sardines** are good for BRAIN – their omega-3s keep memory sharp and steady your mood on foggy days.",
+      "**Shiitake mushrooms** are good for LYMPH NODES – beta-glucans wake up the immune cells patrolling your lymphatic highways.",
+      "**Dark chocolate** is good for ARTERIES – flavanols relax vessel walls so blood glides through smoother.",
+      "**Asparagus** is good for GALLBLADDER – it nudges bile production, making fatty meals easier to break down.",
+      "**Pumpkin seeds** are good for PROSTATE – loaded with compounds tied to healthier prostate function as you age.",
+      "**Ginger** is good for VOCAL CORDS – it calms the throat inflammation that leaves your voice raspy.",
+      "**Follow along** – for more daily food-to-organ pairings like this."
     ],
     "claims": [],
-    "caption": "Beets are one of the best examples here — the nitrates in them turn into nitric oxide in your bloodstream, which relaxes and widens blood vessels so oxygen reaches your muscles faster, which is exactly why stairs suddenly feel easier. Sauerkraut works differently: the fermentation process fills it with live lactic acid bacteria that colonize your gut lining and crowd out the bacteria causing bloating, so digestion gets smoother within days. Walnuts bring plant-based omega-3s (ALA) that get partially converted and worked into brain cell membranes, keeping neuron signaling fast and flexible, which shows up as quicker recall in everyday conversations. Everyone's body responds a little differently, so pay attention to what yours is telling you.\n\nThis is the kind of thing we live for at @smarthealthfix — breaking down nutrition, common symptoms, organ function, and small daily habits into things you can actually use. Our mission is simple: help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who eats the same five things every week without knowing what they're actually doing.",
+    "caption": "Let's talk about a few of these. Artichokes contain cynarin, a compound that literally stimulates your liver to produce more bile, which speeds up how efficiently it clears waste after a heavy meal. Turmeric's curcumin works by blocking specific inflammatory pathways in the body, which is why it's been studied so much for stiff, achy joints. And shiitake mushrooms contain beta-glucans, natural sugars that bind to immune receptors and essentially put your lymphatic defenses on high alert. Everyone's body responds a little differently, so pay attention to what your own system tells you.\n\nThis is the kind of thing we live for at @smarthealthfix – connecting everyday nutrition, common symptoms, your organs, and the small habits that tie it all together. Our mission is simple: help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#beets",
-      "#sauerkraut",
-      "#walnuts",
+      "#liverhealth",
+      "#jointpain",
+      "#brainfood",
+      "#lymphaticsystem",
       "#guthealth",
-      "#bloodpressure",
-      "#brainhealth",
-      "#fermentedfoods",
       "#antiinflammatory",
+      "#wellness",
       "#healthtips",
-      "#nutritionfacts"
+      "#nutritionfacts",
+      "#organhealth"
     ],
     "extra_keywords": [
-      "wellnessjourney",
-      "guttips",
       "naturalhealing",
-      "eatclean"
+      "foodismedicine",
+      "wellnessjourney",
+      "healthyhabits"
     ]
   },
-  "shape": "conditional_transformation",
-  "caption": "Beets are one of the best examples here — the nitrates in them turn into nitric oxide in your bloodstream, which relaxes and widens blood vessels so oxygen reaches your muscles faster, which is exactly why stairs suddenly feel easier. Sauerkraut works differently: the fermentation process fills it with live lactic acid bacteria that colonize your gut lining and crowd out the bacteria causing bloating, so digestion gets smoother within days. Walnuts bring plant-based omega-3s (ALA) that get partially converted and worked into brain cell membranes, keeping neuron signaling fast and flexible, which shows up as quicker recall in everyday conversations. Everyone's body responds a little differently, so pay attention to what yours is telling you.\n\nThis is the kind of thing we live for at @smarthealthfix — breaking down nutrition, common symptoms, organ function, and small daily habits into things you can actually use. Our mission is simple: help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who eats the same five things every week without knowing what they're actually doing.\n\n#beets #sauerkraut #walnuts #guthealth #bloodpressure #brainhealth #fermentedfoods #antiinflammatory #healthtips #nutritionfacts wellnessjourney guttips naturalhealing eatclean"
+  "shape": "allcaps_benefit",
+  "caption": "Let's talk about a few of these. Artichokes contain cynarin, a compound that literally stimulates your liver to produce more bile, which speeds up how efficiently it clears waste after a heavy meal. Turmeric's curcumin works by blocking specific inflammatory pathways in the body, which is why it's been studied so much for stiff, achy joints. And shiitake mushrooms contain beta-glucans, natural sugars that bind to immune receptors and essentially put your lymphatic defenses on high alert. Everyone's body responds a little differently, so pay attention to what your own system tells you.\n\nThis is the kind of thing we live for at @smarthealthfix – connecting everyday nutrition, common symptoms, your organs, and the small habits that tie it all together. Our mission is simple: help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#liverhealth #jointpain #brainfood #lymphaticsystem #guthealth #antiinflammatory #wellness #healthtips #nutritionfacts #organhealth naturalhealing foodismedicine wellnessjourney healthyhabits"
 }
