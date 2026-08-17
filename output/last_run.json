@@ -1,39 +1,40 @@
 {
-  "png": "output/reel_20260817_103602.png",
-  "mp4": "output/reel_20260817_103602.mp4",
-  "cover": "output/cover_20260817_103602.png",
+  "png": "output/reel_20260817_153418.png",
+  "mp4": "output/reel_20260817_153418.mp4",
+  "cover": "output/cover_20260817_153418.png",
   "content": {
-    "title": "THE MINERALS YOUR DOCTOR NEVER TESTS FOR",
+    "title": "WHAT NUTRITIONISTS DON'T WANT YOU TO KNOW ABOUT EATING THE SAME FOOD {{EVERY DAY}}",
     "facts": [
-      "**Manganese** (Bone Builder) — Pineapple | Brown Rice | Chickpeas | Sweet Potato",
-      "**Iodine** (Thyroid Fuel) — Seaweed | Cod | Iodized Salt | Shrimp",
-      "**Copper** (Energy Spark) — Oysters | Cashews | Shiitake Mushrooms | Dark Chocolate",
-      "**Selenium** (Immune Shield) — Brazil Nuts | Sardines | Eggs | Sunflower Seeds",
-      "**Potassium** (Heart Rhythm) — Coconut Water | Sweet Potato | White Beans | Banana",
-      "**Zinc** (Wound Healer) — Pumpkin Seeds | Lentils | Chickpeas | Cashews",
-      "**Follow along** – for more daily health tips like this."
+      "**Beets** – eaten daily for 2 weeks, the nitrates convert into nitric oxide, your blood vessels widen, blood pressure drops, and you can climb stairs without gasping.",
+      "**Sauerkraut** – a spoonful daily for 10 days shifts your gut bacteria, bloating fades, and that heavy after-lunch slump disappears.",
+      "**Walnuts** – a handful daily for 30 days builds up omega-3s in the brain, and word-recall gets noticeably faster mid-conversation.",
+      "**Oats** – a bowl daily for 3 weeks lets beta-glucan fiber grab onto cholesterol, and your next blood test could show LDL dropping.",
+      "**Kefir** – a glass daily for 2 weeks lets probiotic strains multiply in your gut, and colds start hitting less often and lasting less long.",
+      "**Pomegranate** – daily for a month, polyphenols quiet inflammatory markers, and morning joint stiffness starts to ease.",
+      "**Cinnamon** – half a teaspoon daily for 2 weeks slows carb breakdown, blunting blood sugar spikes and the energy crash that follows meals.",
+      "**Follow along** – for more daily food experiments like this."
     ],
     "claims": [],
-    "caption": "Most people have never had their **manganese** checked, yet it quietly activates the enzymes your body uses to build bone and repair connective tissue — low levels can leave joints and bones weaker than they should be. **Iodine** works behind the scenes too: your thyroid grabs it to make T3 and T4, the hormones that set your metabolism's pace, so even a mild shortage can leave you tired and puffy without an obvious cause. Then there's **selenium**, which fuels an antioxidant enzyme called glutathione peroxidase that protects your cells from damage and helps your thyroid convert hormones into their active form. Everyone's body is different, so listen to yours and get labs checked if something feels off.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organs, and small daily habits so you actually understand what your body needs instead of guessing. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Beets are one of the best examples here — the nitrates in them turn into nitric oxide in your bloodstream, which relaxes and widens blood vessels so oxygen reaches your muscles faster, which is exactly why stairs suddenly feel easier. Sauerkraut works differently: the fermentation process fills it with live lactic acid bacteria that colonize your gut lining and crowd out the bacteria causing bloating, so digestion gets smoother within days. Walnuts bring plant-based omega-3s (ALA) that get partially converted and worked into brain cell membranes, keeping neuron signaling fast and flexible, which shows up as quicker recall in everyday conversations. Everyone's body responds a little differently, so pay attention to what yours is telling you.\n\nThis is the kind of thing we live for at @smarthealthfix — breaking down nutrition, common symptoms, organ function, and small daily habits into things you can actually use. Our mission is simple: help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who eats the same five things every week without knowing what they're actually doing.",
     "hashtags": [
-      "#thyroidhealth",
-      "#traceminerals",
-      "#micronutrients",
-      "#immunesupport",
-      "#mineralbalance",
-      "#electrolytes",
-      "#nutrientdense",
+      "#beets",
+      "#sauerkraut",
+      "#walnuts",
+      "#guthealth",
+      "#bloodpressure",
+      "#brainhealth",
+      "#fermentedfoods",
+      "#antiinflammatory",
       "#healthtips",
-      "#wellness",
-      "#boneupp"
+      "#nutritionfacts"
     ],
     "extra_keywords": [
-      "mineraldeficiency",
-      "nutrienttips",
-      "healthyeating",
-      "wellnessjourney"
+      "wellnessjourney",
+      "guttips",
+      "naturalhealing",
+      "eatclean"
     ]
   },
-  "shape": "mineral_sources",
-  "caption": "Most people have never had their **manganese** checked, yet it quietly activates the enzymes your body uses to build bone and repair connective tissue — low levels can leave joints and bones weaker than they should be. **Iodine** works behind the scenes too: your thyroid grabs it to make T3 and T4, the hormones that set your metabolism's pace, so even a mild shortage can leave you tired and puffy without an obvious cause. Then there's **selenium**, which fuels an antioxidant enzyme called glutathione peroxidase that protects your cells from damage and helps your thyroid convert hormones into their active form. Everyone's body is different, so listen to yours and get labs checked if something feels off.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organs, and small daily habits so you actually understand what your body needs instead of guessing. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#thyroidhealth #traceminerals #micronutrients #immunesupport #mineralbalance #electrolytes #nutrientdense #healthtips #wellness #boneupp mineraldeficiency nutrienttips healthyeating wellnessjourney"
+  "shape": "conditional_transformation",
+  "caption": "Beets are one of the best examples here — the nitrates in them turn into nitric oxide in your bloodstream, which relaxes and widens blood vessels so oxygen reaches your muscles faster, which is exactly why stairs suddenly feel easier. Sauerkraut works differently: the fermentation process fills it with live lactic acid bacteria that colonize your gut lining and crowd out the bacteria causing bloating, so digestion gets smoother within days. Walnuts bring plant-based omega-3s (ALA) that get partially converted and worked into brain cell membranes, keeping neuron signaling fast and flexible, which shows up as quicker recall in everyday conversations. Everyone's body responds a little differently, so pay attention to what yours is telling you.\n\nThis is the kind of thing we live for at @smarthealthfix — breaking down nutrition, common symptoms, organ function, and small daily habits into things you can actually use. Our mission is simple: help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who eats the same five things every week without knowing what they're actually doing.\n\n#beets #sauerkraut #walnuts #guthealth #bloodpressure #brainhealth #fermentedfoods #antiinflammatory #healthtips #nutritionfacts wellnessjourney guttips naturalhealing eatclean"
 }
