@@ -175,7 +175,7 @@ def run_once(handle="@smarthealthfix", display_name="Smart Health Fix",
     print(f"[4/5] Video klaar: {mp4_path} (muziek: {track})")
 
     cover_title = content["title"].replace("{{", "").replace("}}", "")
-    cover_path = gc.make_cover_for_topic(cover_title, display_name, f"output/cover_{ts}.png")
+    cover_path = gc.make_cover_for_topic(cover_title, handle, f"output/cover_{ts}.png")
     print(f"[5/5] Cover klaar: {cover_path}")
 
     new_items = _extract_items(content)
