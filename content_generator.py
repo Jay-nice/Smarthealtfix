@@ -270,12 +270,27 @@ def call_claude(system_prompt, user_prompt, max_retries=2):
             },
             json={
                 "model": ANTHROPIC_MODEL,
-                "max_tokens": 4000,
+                "max_tokens": 6000,
                 "system": system_prompt,
                 "messages": [{"role": "user", "content": user_prompt}],
+                # Op claude-sonnet-5 staat "thinking" standaard AAN zodra je 'm
+                # weglaat, en die denk-tokens gaan af van max_tokens - dat kon
+                # bij lange content (12+ vormen, 3-alinea caption, 8-12
+                # hashtags) de daadwerkelijke JSON-tekst laten afkappen
+                # halverwege (vandaar eerdere "Unterminated string"-fouten).
+                # We hebben hier geen redeneerstappen nodig, alleen
+                # betrouwbare JSON-output, dus schakelen we 'm expliciet uit.
+                "thinking": {"type": "disabled"},
             },
             timeout=60,
         )
+        if not resp.ok:
+            # resp.raise_for_status() alleen geeft "400 Client Error" zonder te
+            # laten zien WAAROM - printen we hier alsnog, anders is een fout
+            # als een verkeerde/verlopen modelnaam niet te diagnosticeren uit
+            # de GitHub Actions-log.
+            print(f"[FOUT] Anthropic API gaf {resp.status_code} terug:")
+            print(resp.text)
         resp.raise_for_status()
         data = resp.json()
         text = "".join(b["text"] for b in data["content"] if b["type"] == "text")
