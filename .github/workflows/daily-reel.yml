@@ -104,6 +104,19 @@ jobs:
           IG_LOCATION_ID: ${{ secrets.IG_LOCATION_ID }}
         run: python3 publish_latest.py
 
+      # Alleen als het publiceren hierboven ECHT gelukt is (post staat live)
+      # leggen we de gebruikte cover-kleur vast voor de groen/wit-afwisseling
+      # (zie publish_latest.py / generate_cover.py). Zo raakt de afwisseling
+      # nooit uit de pas met een reel die (nog) niet echt op je profiel staat.
+      - name: Cover-kleur bevestigen (alleen als publiceren net gelukt is)
+        if: steps.pub.outcome == 'success'
+        run: |
+          git config user.name "reel-bot"
+          git config user.email "reel-bot@users.noreply.github.com"
+          git add -f output/cover_state.json
+          git diff --staged --quiet || git commit -m "Cover-kleur bevestigd na succesvolle publicatie (poging 1): $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
+
   publiceer-poging-2:
     needs: [maak-reel, publiceer-poging-1]
     if: |
@@ -135,6 +148,15 @@ jobs:
           PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL }}
           IG_LOCATION_ID: ${{ secrets.IG_LOCATION_ID }}
         run: python3 publish_latest.py
+
+      - name: Cover-kleur bevestigen (alleen als publiceren net gelukt is)
+        if: steps.pub.outcome == 'success'
+        run: |
+          git config user.name "reel-bot"
+          git config user.email "reel-bot@users.noreply.github.com"
+          git add -f output/cover_state.json
+          git diff --staged --quiet || git commit -m "Cover-kleur bevestigd na succesvolle publicatie (poging 2): $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
 
   publiceer-poging-3:
     needs: [maak-reel, publiceer-poging-1, publiceer-poging-2]
@@ -168,6 +190,15 @@ jobs:
           PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL }}
           IG_LOCATION_ID: ${{ secrets.IG_LOCATION_ID }}
         run: python3 publish_latest.py
+
+      - name: Cover-kleur bevestigen (alleen als publiceren net gelukt is)
+        if: steps.pub.outcome == 'success'
+        run: |
+          git config user.name "reel-bot"
+          git config user.email "reel-bot@users.noreply.github.com"
+          git add -f output/cover_state.json
+          git diff --staged --quiet || git commit -m "Cover-kleur bevestigd na succesvolle publicatie (poging 3): $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
 
   # --- Eindcontrole: groen als minstens één poging postte, rood als er echt iets mis is ---
   controle:
