@@ -73,9 +73,13 @@ TEMPLATE_SHAPES = {
         "numbered": True,
     },
     "daily_dose_habit": {
-        "description": "Genummerd of met bullets, extreem beknopt: 'Daily [hoeveelheid] [item] – "
-                       "[heel kort resultaat, 2-4 woorden]'. Geen uitleg, puur dosis + item + resultaat.",
-        "example": "Daily 1 apple – No doctor",
+        "description": "Genummerd, EXACT dit pijl-format: '[Voedingsmiddel] -> [precieze hoeveelheid/"
+                       "frequentie] -> [kort concreet voordeel, 2-4 woorden]'. Dit specifieke format "
+                       "(voedingsmiddel, exacte dosis, resultaat, alle drie kort) is BEWEZEN STERK "
+                       "PRESTEREND voor dit account - gebruik 'm dus relatief vaak in de rotatie. De "
+                       "hoeveelheid moet een concreet, gangbaar getal/eenheid zijn (aantal stuks, cups, "
+                       "eetlepels, mg, keer per week) - nooit vaag ('regelmatig', 'af en toe').",
+        "example": "Kiwi -> 2 before bed -> Better sleep",
         "has_nutrient_claims": False,
         "numbered": True,
     },
@@ -147,6 +151,8 @@ andere helft af met de overige patronen zodat het niet elke keer identiek aanvoe
 - "WHY {{VERRASSENDE/TEGENDRAADSE CLAIM}}"
 - "THE REAL REASON YOU {{HERKENBAAR PROBLEEM}}"
 - Een pakkende belofte: "{{ACCENT}} THAT ACTUALLY WORK" / "NEVER {{NEGATIEF}} AGAIN"
+- "{{ONDERWERP}} CHEAT SHEET" (bijv. "BETTER SLEEP CHEAT SHEET") - handig, compact
+  naslagwerk-gevoel, past vooral goed bij vormen met precieze hoeveelheden/dosis-items
 Vermijd platte, puur beschrijvende titels zonder enige spanning (bijv. "IMPORTANT HEALTH
 TIPS", "BODY CLEANSING FOODS", "FOOD FACTS YOU DIDN'T KNOW") - dat soort titels presteert
 aantoonbaar veel slechter. Gebruik het woord "YOU"/"YOUR" waar het past (2e persoon
@@ -177,6 +183,17 @@ de vorm, dit is maar een voorbeeld.
 Belangrijke regels voor "facts":
 - Alleen feitelijk verdedigbare claims. Als je twijfelt aan een cijfer, wees vager
   ("bevat veel") in plaats van een specifiek getal te verzinnen.
+- PRECIEZE HOEVEELHEDEN ZIJN GOUD voor dit account (bewezen sterk presterend): "2 kiwis
+  before bed", "1 cup/day", "2x/week", "1 tbsp/day", "400 mg magnesium" - dit soort
+  concrete dosis/frequentie-aanduidingen mag en moet je vaak gebruiken, in vrijwel elke
+  vorm, niet alleen bij "daily_dose_habit". Belangrijk onderscheid: dit mag ALLEEN als
+  het gaat om algemeen erkend, veelgebruikt voedingsadvies (portiegroottes, gangbare
+  suppletie-doseringen) - verzin GEEN exacte percentages of pseudo-wetenschappelijke
+  mechanisme-claims om precies te LIJKEN (bijv. "verhoogt calorieverbranding met 15%",
+  "activeert NAD+-paden", "blokkeert vetopslagenzymen") - dat soort overdreven specifieke
+  taal klinkt knap maar is meestal onbewezen/verzonnen, en is precies waar de factcheck
+  op let. Concrete hoeveelheid bij een alledaags voedingsmiddel: ja, graag veel. Concreet
+  klinkend maar onbewezen mechanisme/percentage: nee.
 - Geen ebook/"Comment FIX"-promotie in de items zelf (behalve de follow-oproep hierboven).
 - Gebruik levendige, beeldende werkwoorden waar het kan (bijv. "blunts the spike",
   "pulls sugar out of your blood", "melts away") in plaats van vlakke taal als
