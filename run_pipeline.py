@@ -175,15 +175,16 @@ def run_once(handle="@smarthealthfix", display_name="Smart Health Fix",
     print(f"[4/5] Video klaar: {mp4_path} (muziek: {track})")
 
     cover_title = content["title"].replace("{{", "").replace("}}", "")
-    cover_path = gc.make_cover_for_topic(cover_title, handle, f"output/cover_{ts}.png")
-    print(f"[5/5] Cover klaar: {cover_path}")
+    cover_path, cover_bg = gc.make_cover_for_topic(cover_title, handle, f"output/cover_{ts}.png")
+    print(f"[5/5] Cover klaar: {cover_path} (achtergrond: {cover_bg} - wordt pas bevestigd "
+          f"als kleur-in-de-afwisseling zodra publiceren ook echt lukt)")
 
     new_items = _extract_items(content)
     print(f"[i] Nieuwe items uit deze reel (onthouden voor volgende keer): {', '.join(new_items) or '(geen gevonden)'}")
     _save_history(shape_key, cover_title, new_items)
 
     caption = build_caption(content)
-    result_paths = {"png": png_path, "mp4": mp4_path, "cover": cover_path,
+    result_paths = {"png": png_path, "mp4": mp4_path, "cover": cover_path, "cover_bg": cover_bg,
                      "content": content, "shape": shape_key, "caption": caption}
 
     with open("output/last_run.json", "w") as f:
