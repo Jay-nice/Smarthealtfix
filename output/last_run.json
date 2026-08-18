@@ -1,41 +1,42 @@
 {
-  "png": "output/reel_20260818_103234.png",
-  "mp4": "output/reel_20260818_103234.mp4",
-  "cover": "output/cover_20260818_103234.png",
+  "png": "output/reel_20260818_205050.png",
+  "mp4": "output/reel_20260818_205050.mp4",
+  "cover": "output/cover_20260818_205050.png",
+  "cover_bg": "white",
   "content": {
-    "title": "THE REAL REASON YOU FEEL {{OFF}} ALL THE TIME (AND IT'S NOT STRESS)",
+    "title": "RULES EVERY WOMAN OVER 40 SHOULD START FOLLOWING NOW",
     "facts": [
-      "**Magnesium** – Muscle cramps, anxiety, trouble falling asleep, and a heartbeat that feels irregular or skips.",
-      "**Vitamin A** – Trouble seeing at night, dry gritty eyes, frequent colds, and rough patchy skin.",
-      "**Folate** – Mouth ulcers, unusual paleness, irritability, and getting winded from simple tasks.",
-      "**Vitamin E** – Muscle weakness, blurry or worsening vision, tingling hands, and slower recovery from illness.",
-      "**Omega-3** – Dry flaky skin, stiff aching joints, low mood, and trouble focusing on tasks.",
-      "**Vitamin D** – Deep bone aches, constant tiredness, catching every cold going around, and thinning hair.",
-      "**Iron** – Pale skin, brittle nails, cold hands and feet, and exhaustion that sleep doesn't fix.",
-      "**Calcium** – Muscle spasms, brittle nails, tooth problems, and numbness or tingling in your fingers.",
+      "**Lift something heavy** twice a week to fight the muscle loss that quietly speeds up after 40.",
+      "**Prioritize protein** at breakfast, aim for 25-30g, to keep hunger and cravings in check all day.",
+      "**Get morning sunlight** within an hour of waking to steady your hormones and sleep quality.",
+      "**Check your posture** every hour if you sit at a desk, since hip and back stiffness creeps in fast at this stage.",
+      "**Cut back on late caffeine** after 2pm, your body clears it slower now and it wrecks deep sleep.",
+      "**Add a fiber-rich food** like lentils or berries to lunch daily to support hormone clearance and steady blood sugar.",
+      "**Schedule a bone density check** in your 40s, not your 60s, so you can act while there's still time to change course.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these deserve extra attention. Magnesium is involved in hundreds of enzyme reactions in your body, and it plays a big role in calming your nervous system — when levels drop, your heart's electrical signals can misfire, which is why palpitations and anxiety often show up together. Folate is essential for making new red blood cells and repairing DNA; without enough, your body starts producing oversized, abnormal red blood cells, leading to that draining fatigue and those stubborn mouth sores. Vitamin E acts as an antioxidant that protects your nerve membranes from damage, so when it's low, nerve signals can misfire, causing tingling, numbness, and balance issues. Everyone's body is different, so listen to yours.\n\nAt @smarthealthfix, we cover nutrition, common symptoms, how your organs actually work, and the small daily habits that quietly shape your health. Our mission is to help you understand your body better, one simple fact at a time, instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who's been feeling 'off' lately.",
+    "caption": "If you're a woman over 40, small shifts matter more than ever. Take protein first: getting 25-30g at breakfast isn't just about muscle, it also blunts the blood sugar swings that get more common with age-related insulin resistance. Fiber works alongside it, foods like lentils and berries bind to excess estrogen in the gut so your body can clear it out instead of recirculating it, which matters as hormones start shifting. And morning sunlight isn't just a mood boost, it helps anchor your circadian rhythm so melatonin production later that night actually works the way it should. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and the small daily habits that quietly shape how you feel. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#healthtips",
-      "#vitamindeficiency",
-      "#magnesium",
-      "#folate",
-      "#vitamine",
-      "#nutrienttips",
-      "#wellness",
+      "#womenover40",
+      "#hormonehealth",
+      "#healthyaging",
+      "#wellnesstips",
+      "#strengthtraining",
       "#guthealth",
-      "#energylevels",
-      "#nutritionfacts"
+      "#bonehealth",
+      "#hormonebalance",
+      "#healthtips",
+      "#midlifewellness"
     ],
     "extra_keywords": [
-      "nutrientdeficiency",
+      "womenshealth",
+      "agingwell",
+      "hormonebalance",
       "wellnessjourney",
-      "healthyhabits",
-      "bodysignals"
+      "healthyhabits"
     ]
   },
-  "shape": "symptom_list",
-  "caption": "A few of these deserve extra attention. Magnesium is involved in hundreds of enzyme reactions in your body, and it plays a big role in calming your nervous system — when levels drop, your heart's electrical signals can misfire, which is why palpitations and anxiety often show up together. Folate is essential for making new red blood cells and repairing DNA; without enough, your body starts producing oversized, abnormal red blood cells, leading to that draining fatigue and those stubborn mouth sores. Vitamin E acts as an antioxidant that protects your nerve membranes from damage, so when it's low, nerve signals can misfire, causing tingling, numbness, and balance issues. Everyone's body is different, so listen to yours.\n\nAt @smarthealthfix, we cover nutrition, common symptoms, how your organs actually work, and the small daily habits that quietly shape your health. Our mission is to help you understand your body better, one simple fact at a time, instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who's been feeling 'off' lately.\n\n#healthtips #vitamindeficiency #magnesium #folate #vitamine #nutrienttips #wellness #guthealth #energylevels #nutritionfacts nutrientdeficiency wellnessjourney healthyhabits bodysignals"
+  "shape": "imperative_advice_list",
+  "caption": "If you're a woman over 40, small shifts matter more than ever. Take protein first: getting 25-30g at breakfast isn't just about muscle, it also blunts the blood sugar swings that get more common with age-related insulin resistance. Fiber works alongside it, foods like lentils and berries bind to excess estrogen in the gut so your body can clear it out instead of recirculating it, which matters as hormones start shifting. And morning sunlight isn't just a mood boost, it helps anchor your circadian rhythm so melatonin production later that night actually works the way it should. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and the small daily habits that quietly shape how you feel. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#womenover40 #hormonehealth #healthyaging #wellnesstips #strengthtraining #guthealth #bonehealth #hormonebalance #healthtips #midlifewellness womenshealth agingwell hormonebalance wellnessjourney healthyhabits"
 }
