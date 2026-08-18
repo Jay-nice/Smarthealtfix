@@ -8,6 +8,7 @@ import json
 import os
 
 from instagram_publish import publish_reel
+from generate_cover import confirm_bg_used
 
 
 def main():
@@ -26,6 +27,20 @@ def main():
                              caption=last_run["caption"],
                              hashtags_comment=last_run.get("hashtags_comment"))
     print(f"Gepubliceerd, media_id={media_id}")
+
+    # Pas NU, met een bevestigde (of al bestaande) publicatie in de hand, leggen
+    # we de gebruikte cover-achtergrondkleur vast voor de groen/wit-afwisseling.
+    # Dit draait bewust pas hier en niet al tijdens het genereren: als het
+    # genereren zelf lukt maar publiceren daarna (op alle 3 pogingen) mislukt,
+    # mag de afwisseling NIET al doorgeschoven zijn naar een kleur die in
+    # werkelijkheid nooit op je profiel verschenen is.
+    cover_bg = last_run.get("cover_bg")
+    if cover_bg:
+        confirm_bg_used(cover_bg)
+        print(f"[i] Cover-kleur '{cover_bg}' bevestigd voor de groen/wit-afwisseling.")
+    else:
+        print("[i] Geen cover_bg gevonden in last_run.json (oudere run) - "
+              "kleur-afwisseling niet bijgewerkt.")
 
 
 if __name__ == "__main__":
