@@ -15,9 +15,10 @@ Wordt gerenderd als 1080x1080 (vierkant), precies zoals Instagram 'm toch al
 bijsnijdt op het grid via de cover_url-parameter.
 """
 
-import json
 import os
 from PIL import Image, ImageDraw, ImageFont
+
+from cover_state import peek_next_bg  # bewust in een apart, Pillow-vrij bestand (zie cover_state.py)
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 FONT_DIR = os.path.join(HERE, "fonts")
@@ -28,43 +29,6 @@ BRAND_GREEN = (183, 204, 171)
 BG_LIGHT = (249, 250, 248)     # zelfde bijna-wit als de achtergrond van de reel-afbeelding zelf
 TEXT_DARK = (65, 72, 78)       # zelfde donkere kleur als de reel-tekst (DARK in generate_reel.py)
 TEXT_LIGHT = (255, 255, 255)
-
-STATE_PATH = "output/cover_state.json"
-
-
-def peek_next_bg():
-    """
-    Geeft terug welke kleur de VOLGENDE cover zou moeten krijgen om het
-    groen/wit/groen/wit-patroon voort te zetten - puur lezen, schrijft NIETS
-    weg. Bewust gesplitst van het daadwerkelijk "bevestigen" (zie
-    confirm_bg_used hieronder): op het moment dat we de cover RENDEREN weten
-    we nog niet of deze reel straks ook echt succesvol gepubliceerd wordt
-    (het genereren kan later in de pipeline alsnog mislukken, of alle 3
-    publiceer-pogingen kunnen falen). Zouden we de afwisseling hier al
-    vastleggen, dan raakt 'm uit de pas met wat er ECHT op je profiel
-    verschijnt zodra zo'n mislukte run een kleur "verbruikt" zonder dat er
-    iets gepost is.
-    """
-    last = "white"  # als er nog niks bekend is, start de EERSTE cover met groen
-    if os.path.exists(STATE_PATH):
-        try:
-            with open(STATE_PATH) as f:
-                last = json.load(f).get("last_bg", "white")
-        except (json.JSONDecodeError, OSError):
-            pass
-    return "green" if last == "white" else "white"
-
-
-def confirm_bg_used(bg_choice):
-    """
-    Legt bg_choice ("green"/"white") pas vast als LAATST GEBRUIKTE kleur.
-    Wordt aangeroepen door publish_latest.py, en dan ook alleen nadat
-    Instagram bevestigd heeft dat de post echt geplaatst is (of al bleek te
-    staan) - dus nooit voor een reel die (nog) niet live staat.
-    """
-    os.makedirs(os.path.dirname(STATE_PATH) or ".", exist_ok=True)
-    with open(STATE_PATH, "w") as f:
-        json.dump({"last_bg": bg_choice}, f)
 
 
 def draw_ig_icon(draw, x, y, size, color):
