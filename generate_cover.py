@@ -32,9 +32,19 @@ TEXT_LIGHT = (255, 255, 255)
 STATE_PATH = "output/cover_state.json"
 
 
-def _next_bg_choice():
-    """Wisselt bij elke aanroep af tussen 'green' en 'white', op basis van de
-    laatst gebruikte kleur die is opgeslagen in STATE_PATH."""
+def peek_next_bg():
+    """
+    Geeft terug welke kleur de VOLGENDE cover zou moeten krijgen om het
+    groen/wit/groen/wit-patroon voort te zetten - puur lezen, schrijft NIETS
+    weg. Bewust gesplitst van het daadwerkelijk "bevestigen" (zie
+    confirm_bg_used hieronder): op het moment dat we de cover RENDEREN weten
+    we nog niet of deze reel straks ook echt succesvol gepubliceerd wordt
+    (het genereren kan later in de pipeline alsnog mislukken, of alle 3
+    publiceer-pogingen kunnen falen). Zouden we de afwisseling hier al
+    vastleggen, dan raakt 'm uit de pas met wat er ECHT op je profiel
+    verschijnt zodra zo'n mislukte run een kleur "verbruikt" zonder dat er
+    iets gepost is.
+    """
     last = "white"  # als er nog niks bekend is, start de EERSTE cover met groen
     if os.path.exists(STATE_PATH):
         try:
@@ -42,11 +52,19 @@ def _next_bg_choice():
                 last = json.load(f).get("last_bg", "white")
         except (json.JSONDecodeError, OSError):
             pass
-    next_bg = "green" if last == "white" else "white"
+    return "green" if last == "white" else "white"
+
+
+def confirm_bg_used(bg_choice):
+    """
+    Legt bg_choice ("green"/"white") pas vast als LAATST GEBRUIKTE kleur.
+    Wordt aangeroepen door publish_latest.py, en dan ook alleen nadat
+    Instagram bevestigd heeft dat de post echt geplaatst is (of al bleek te
+    staan) - dus nooit voor een reel die (nog) niet live staat.
+    """
     os.makedirs(os.path.dirname(STATE_PATH) or ".", exist_ok=True)
     with open(STATE_PATH, "w") as f:
-        json.dump({"last_bg": next_bg}, f)
-    return next_bg
+        json.dump({"last_bg": bg_choice}, f)
 
 
 def draw_ig_icon(draw, x, y, size, color):
@@ -151,11 +169,16 @@ def render_cover_flat(title, handle_text, out_path, bg_color=BRAND_GREEN):
 
 
 def make_cover_for_topic(title, handle_text, out_path):
-    """Kiest automatisch de volgende achtergrondkleur (groen/wit, afwisselend)
-    en rendert daarmee de cover."""
-    bg_choice = _next_bg_choice()
+    """
+    Bepaalt welke achtergrondkleur (groen/wit, afwisselend) deze cover zou
+    moeten krijgen en rendert daarmee de cover. Geeft (out_path, bg_choice)
+    terug - bg_choice moet je bewaren (zie run_pipeline.py -> last_run.json)
+    en pas met confirm_bg_used() vastleggen zodra publiceren ook echt lukt.
+    """
+    bg_choice = peek_next_bg()
     bg_color = BRAND_GREEN if bg_choice == "green" else BG_LIGHT
-    return render_cover_flat(title, handle_text, out_path, bg_color=bg_color)
+    path = render_cover_flat(title, handle_text, out_path, bg_color=bg_color)
+    return path, bg_choice
 
 
 if __name__ == "__main__":
