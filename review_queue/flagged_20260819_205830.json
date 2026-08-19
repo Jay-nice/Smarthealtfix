@@ -1,0 +1,229 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "WHAT THE {{FOOD LABEL}} INDUSTRY HOPES YOU NEVER COMPARE",
+    "facts": [
+      "A cup of cooked **spinach's cousin, Swiss chard**, has more magnesium than a serving of almonds — most people reach for nuts and skip this leafy option entirely.",
+      "**Guava** has nearly four times more vitamin C than an orange, yet almost nobody keeps it in their fridge.",
+      "**Dried apricots** carry more potassium per cup than a banana, but bananas get all the credit for 'electrolytes'.",
+      "**Collard greens** contain more vitamin K per cup than kale, even though kale is the one that ends up on every smoothie label.",
+      "**Sardines with bones** pack more calcium than a glass of milk, ounce for ounce, because the tiny edible bones do the heavy lifting.",
+      "**Swiss chard** again out-supplies iron compared to a cup of spinach, despite spinach's reputation as the go-to iron food.",
+      "**Chickpeas** hold more fiber per cup than a serving of brown rice, making them a quiet upgrade for gut health.",
+      "**Sunflower seeds** contain more zinc than an equal serving of cashews, a swap most snack aisles never suggest.",
+      "**Shiitake mushrooms**, once dried and sun-exposed, can carry more vitamin D than a whole egg — a rare plant-based source most people overlook.",
+      "**Chia seeds** contain more omega-3 ALA per tablespoon than an equal amount of flaxseed, the seed usually praised the most.",
+      "**Follow along** – for more daily health tips like this."
+    ],
+    "claims": [
+      {
+        "food_a": "Swiss chard",
+        "food_b": "almonds",
+        "nutrient_key": "magnesium"
+      },
+      {
+        "food_a": "guava",
+        "food_b": "orange",
+        "nutrient_key": "vitamin_c"
+      },
+      {
+        "food_a": "dried apricots",
+        "food_b": "banana",
+        "nutrient_key": "potassium"
+      },
+      {
+        "food_a": "collard greens",
+        "food_b": "kale",
+        "nutrient_key": "vitamin_k"
+      },
+      {
+        "food_a": "sardines with bones",
+        "food_b": "milk",
+        "nutrient_key": "calcium"
+      },
+      {
+        "food_a": "Swiss chard",
+        "food_b": "spinach",
+        "nutrient_key": "iron"
+      },
+      {
+        "food_a": "chickpeas",
+        "food_b": "brown rice",
+        "nutrient_key": "fiber"
+      },
+      {
+        "food_a": "sunflower seeds",
+        "food_b": "cashews",
+        "nutrient_key": "zinc"
+      },
+      {
+        "food_a": "dried shiitake mushrooms",
+        "food_b": "egg",
+        "nutrient_key": "vitamin_d"
+      },
+      {
+        "food_a": "chia seeds",
+        "food_b": "flaxseed",
+        "nutrient_key": "omega3_ala"
+      }
+    ],
+    "caption": "Let's break down a few of these because the numbers only matter if you understand why. Swiss chard's magnesium doesn't just sit there — this mineral helps your muscles relax and your nervous system calm down, so a deficiency can quietly show up as tension or restless sleep. Guava's vitamin C isn't only about immunity — it also helps your body actually absorb the iron from plant foods you eat in the same meal, so pairing them matters. And chickpeas' fiber feeds the bacteria in your gut lining, which in turn produce compounds that reduce inflammation throughout your whole body. Everyone's body is different, so notice what changes when you make these swaps.\n\nAt @smarthealthfix, we dig into nutrition, everyday health complaints, the organs behind them, and small daily habits that quietly move the needle. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "hashtags": [
+      "#nutritionfacts",
+      "#vitaminC",
+      "#magnesium",
+      "#guthealth",
+      "#ironrich",
+      "#plantbasednutrition",
+      "#healthyswaps",
+      "#micronutrients",
+      "#wellnesstips",
+      "#eatthisnotthat"
+    ],
+    "extra_keywords": [
+      "nutrientdense",
+      "wholefoods",
+      "healthyeatinghabits",
+      "foodismedicine"
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 10,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "Swiss chard",
+          "food_b": "almonds",
+          "nutrient_key": "magnesium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "guava",
+          "food_b": "orange",
+          "nutrient_key": "vitamin_c"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "dried apricots",
+          "food_b": "banana",
+          "nutrient_key": "potassium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "collard greens",
+          "food_b": "kale",
+          "nutrient_key": "vitamin_k"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "collard greens",
+          "food_b": "kale",
+          "nutrient": "vitamin_k",
+          "amount_a": {
+            "amount": 386,
+            "unit": "mcg",
+            "per": "1 cup cooked (190g)"
+          },
+          "amount_b": {
+            "amount": 547,
+            "unit": "mcg",
+            "per": "1 cup cooked (130g)"
+          },
+          "ratio": 0.71
+        }
+      },
+      {
+        "claim": {
+          "food_a": "sardines with bones",
+          "food_b": "milk",
+          "nutrient_key": "calcium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Swiss chard",
+          "food_b": "spinach",
+          "nutrient_key": "iron"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "chickpeas",
+          "food_b": "brown rice",
+          "nutrient_key": "fiber"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "sunflower seeds",
+          "food_b": "cashews",
+          "nutrient_key": "zinc"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "dried shiitake mushrooms",
+          "food_b": "egg",
+          "nutrient_key": "vitamin_d"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "chia seeds",
+          "food_b": "flaxseed",
+          "nutrient_key": "omega3_ala"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      }
+    ]
+  }
+}
