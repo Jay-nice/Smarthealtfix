@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20260819_144250.png",
-  "mp4": "output/reel_20260819_144250.mp4",
-  "cover": "output/cover_20260819_144250.png",
+  "png": "output/reel_20260819_153122.png",
+  "mp4": "output/reel_20260819_153122.mp4",
+  "cover": "output/cover_20260819_153122.png",
   "cover_bg": "white",
   "content": {
-    "title": "WHAT HAPPENS TO YOUR {{BODY}} IF YOU EAT THE SAME FOOD FOR WEEKS",
+    "title": "SIGNS YOUR ORGANS ARE ACTUALLY HEALTHIER THAN YOU THINK",
     "facts": [
-      "If you ate **beets** every day for 2 weeks, your blood pressure would likely drop and your endurance during workouts would noticeably improve.",
-      "If you ate **oats** every day for 30 days, your cholesterol numbers would start shifting and your energy would feel steadier through the morning.",
-      "If you ate **fermented sauerkraut** every day for 3 weeks, your bloating would ease and your digestion would feel noticeably smoother.",
-      "If you ate **walnuts** every day for 2 weeks, your skin would look less dry and your focus in the afternoon would sharpen.",
-      "If you ate **pineapple** every day for 1 week, swelling and joint stiffness would likely calm down thanks to its natural enzymes.",
-      "If you ate **lentils** every day for 30 days, your blood sugar swings would smooth out and cravings between meals would fade.",
-      "If you ate **pumpkin seeds** every day for 2 weeks, your sleep would deepen and you'd wake up feeling less groggy.",
-      "If you ate **dark leafy greens** every day for 3 weeks, your energy crashes would shrink and your nails would grow stronger.",
+      "**BEETROOT LEAVES** are good for LIVER (wait, not beets — the leaves specifically pack compounds that support liver detox pathways, and most people toss them out)",
+      "**MACKEREL** is good for BRAIN — the omega-3s in oily fish like mackerel support memory and slow age-related brain fog.",
+      "**ASPARAGUS** is good for KIDNEYS — it acts as a natural diuretic, helping flush excess fluid and sodium.",
+      "**CELERY** is good for BLOOD VESSELS — its natural compounds help vessels relax, easing pressure on your circulatory system.",
+      "**FIGS** is good for GUT LINING — the soluble fiber feeds good bacteria and soothes the digestive tract.",
+      "**BRAZIL NUTS** are good for THYROID — just 2 a day supply enough selenium to support healthy hormone conversion.",
+      "**POMEGRANATE** is good for JOINTS — its polyphenols help calm inflammation around cartilage over time.",
+      "**BUTTERNUT SQUASH** is good for EYES — rich in beta-carotene, it converts to vitamin A for night vision support.",
+      "**CACAO NIBS** are good for MOOD — 1 tbsp/day contains compounds that support serotonin and dopamine activity.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Beets are one of the most underrated foods for stamina — they're rich in natural nitrates, which your body converts into nitric oxide, widening blood vessels and making it easier for oxygen to reach your muscles during exercise. Oats work differently: their beta-glucan fiber forms a gel in your gut that traps cholesterol particles before they're absorbed, which is why steady oat eaters often see their numbers shift over weeks. And fermented sauerkraut brings live probiotics straight to your gut lining, helping crowd out the bacteria linked to bloating and sluggish digestion. Of course, everyone's body responds a little differently, so pay attention to how yours reacts.\n\nAt @smarthealthfix, we break down nutrition, common symptoms, organ function, and small daily habits so you actually understand your body instead of guessing. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Some of these pairings genuinely surprised us. Take asparagus — it's one of the few foods that acts as a true natural diuretic, meaning it helps your kidneys flush out excess sodium and fluid instead of letting it build up. Then there's brazil nuts: just 2 a day give you a solid dose of selenium, a mineral your thyroid needs to properly convert hormones and keep your energy steady. And pomegranate isn't just a pretty fruit — its polyphenols work slowly over weeks to calm the low-grade inflammation that wears down joint cartilage. Everyone's body responds a little differently, so listen to yours and adjust as needed.\n\nAt @smarthealthfix we focus on four things: nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our mission is to make health feel doable again — small realistic steps instead of extreme overhauls or quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#healthtips",
-      "#wellness",
-      "#guttips",
-      "#nutritionfacts",
-      "#beets",
-      "#oats",
-      "#fermentedfoods",
-      "#digestivehealth",
-      "#energyboost",
-      "#healthyhabits"
+      "#organhealth",
+      "#liversupport",
+      "#kidneyhealth",
+      "#brainfood",
+      "#guthealth",
+      "#thyroidhealth",
+      "#antiinflammatory",
+      "#eyehealth",
+      "#wellnesstips",
+      "#healthtips"
     ],
     "extra_keywords": [
       "naturalhealing",
       "wellnessjourney",
       "foodismedicine",
-      "healthyeating"
+      "healthyhabits"
     ]
   },
-  "shape": "conditional_transformation",
-  "caption": "Beets are one of the most underrated foods for stamina — they're rich in natural nitrates, which your body converts into nitric oxide, widening blood vessels and making it easier for oxygen to reach your muscles during exercise. Oats work differently: their beta-glucan fiber forms a gel in your gut that traps cholesterol particles before they're absorbed, which is why steady oat eaters often see their numbers shift over weeks. And fermented sauerkraut brings live probiotics straight to your gut lining, helping crowd out the bacteria linked to bloating and sluggish digestion. Of course, everyone's body responds a little differently, so pay attention to how yours reacts.\n\nAt @smarthealthfix, we break down nutrition, common symptoms, organ function, and small daily habits so you actually understand your body instead of guessing. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guttips #nutritionfacts #beets #oats #fermentedfoods #digestivehealth #energyboost #healthyhabits naturalhealing wellnessjourney foodismedicine healthyeating"
+  "shape": "allcaps_benefit",
+  "caption": "Some of these pairings genuinely surprised us. Take asparagus — it's one of the few foods that acts as a true natural diuretic, meaning it helps your kidneys flush out excess sodium and fluid instead of letting it build up. Then there's brazil nuts: just 2 a day give you a solid dose of selenium, a mineral your thyroid needs to properly convert hormones and keep your energy steady. And pomegranate isn't just a pretty fruit — its polyphenols work slowly over weeks to calm the low-grade inflammation that wears down joint cartilage. Everyone's body responds a little differently, so listen to yours and adjust as needed.\n\nAt @smarthealthfix we focus on four things: nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our mission is to make health feel doable again — small realistic steps instead of extreme overhauls or quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #liversupport #kidneyhealth #brainfood #guthealth #thyroidhealth #antiinflammatory #eyehealth #wellnesstips #healthtips naturalhealing wellnessjourney foodismedicine healthyhabits"
 }
