@@ -1,43 +1,42 @@
 {
-  "png": "output/reel_20260819_153122.png",
-  "mp4": "output/reel_20260819_153122.mp4",
-  "cover": "output/cover_20260819_153122.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260819_173057.png",
+  "mp4": "output/reel_20260819_173057.mp4",
+  "cover": "output/cover_20260819_173057.png",
+  "cover_bg": "green",
   "content": {
-    "title": "SIGNS YOUR ORGANS ARE ACTUALLY HEALTHIER THAN YOU THINK",
+    "title": "WHAT DOCTORS DON'T WANT YOU TO KNOW ABOUT YOUR {{EVENING}} HABITS",
     "facts": [
-      "**BEETROOT LEAVES** are good for LIVER (wait, not beets — the leaves specifically pack compounds that support liver detox pathways, and most people toss them out)",
-      "**MACKEREL** is good for BRAIN — the omega-3s in oily fish like mackerel support memory and slow age-related brain fog.",
-      "**ASPARAGUS** is good for KIDNEYS — it acts as a natural diuretic, helping flush excess fluid and sodium.",
-      "**CELERY** is good for BLOOD VESSELS — its natural compounds help vessels relax, easing pressure on your circulatory system.",
-      "**FIGS** is good for GUT LINING — the soluble fiber feeds good bacteria and soothes the digestive tract.",
-      "**BRAZIL NUTS** are good for THYROID — just 2 a day supply enough selenium to support healthy hormone conversion.",
-      "**POMEGRANATE** is good for JOINTS — its polyphenols help calm inflammation around cartilage over time.",
-      "**BUTTERNUT SQUASH** is good for EYES — rich in beta-carotene, it converts to vitamin A for night vision support.",
-      "**CACAO NIBS** are good for MOOD — 1 tbsp/day contains compounds that support serotonin and dopamine activity.",
+      "**Cold water on your wrists** for 30 seconds before bed — this cools your core temperature and signals your brain it's time to fall asleep faster.",
+      "**Chew each bite 20 times** at dinner — this slows digestion, lowers bloating, and helps you feel full on less food.",
+      "**Walk for 10 minutes** right after eating — this pulls glucose out of your bloodstream and prevents the post-meal energy crash.",
+      "**Write down 1 worry** before bed on paper — this empties your mind so cortisol doesn't spike at 3am.",
+      "**Stand up every 45 minutes** during work — this keeps blood flowing and prevents stiffness in your hips and lower back.",
+      "**Breathe out longer than you breathe in** for 2 minutes — this shifts your nervous system out of fight-or-flight instantly.",
+      "**Dim the lights 1 hour before bed** — this lets melatonin rise naturally instead of being blocked by bright light.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Some of these pairings genuinely surprised us. Take asparagus — it's one of the few foods that acts as a true natural diuretic, meaning it helps your kidneys flush out excess sodium and fluid instead of letting it build up. Then there's brazil nuts: just 2 a day give you a solid dose of selenium, a mineral your thyroid needs to properly convert hormones and keep your energy steady. And pomegranate isn't just a pretty fruit — its polyphenols work slowly over weeks to calm the low-grade inflammation that wears down joint cartilage. Everyone's body responds a little differently, so listen to yours and adjust as needed.\n\nAt @smarthealthfix we focus on four things: nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our mission is to make health feel doable again — small realistic steps instead of extreme overhauls or quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these tiny habits do more than they look like on the surface. Cold water on your wrists works because your wrists sit close to major blood vessels, so cooling them helps drop your core temperature — one of the strongest natural sleep triggers your body has. Walking for just 10 minutes after eating activates your leg muscles to soak up glucose directly from your blood, which is why so many people feel sleepy and foggy after meals when they skip it. And that longer exhale trick isn't just relaxation talk — it directly stimulates your vagus nerve, which tells your whole nervous system to calm down. Everyone's body responds a little differently, so pay attention to what actually shifts how you feel.\n\nAt @smarthealthfix we go beyond quick fixes and cover nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape how you feel every day. Our mission is to help you build small, realistic changes instead of chasing trends that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#organhealth",
-      "#liversupport",
-      "#kidneyhealth",
-      "#brainfood",
-      "#guthealth",
-      "#thyroidhealth",
-      "#antiinflammatory",
-      "#eyehealth",
-      "#wellnesstips",
-      "#healthtips"
+      "#healthtips",
+      "#wellness",
+      "#dailyhabits",
+      "#betterSleep",
+      "#guttips",
+      "#nervoussystem",
+      "#healthyroutine",
+      "#selfcare",
+      "#mindbodyhealth",
+      "#eveningroutine"
     ],
     "extra_keywords": [
       "naturalhealing",
       "wellnessjourney",
-      "foodismedicine",
-      "healthyhabits"
+      "healthyhabits",
+      "sleeptips",
+      "stressrelief"
     ]
   },
-  "shape": "allcaps_benefit",
-  "caption": "Some of these pairings genuinely surprised us. Take asparagus — it's one of the few foods that acts as a true natural diuretic, meaning it helps your kidneys flush out excess sodium and fluid instead of letting it build up. Then there's brazil nuts: just 2 a day give you a solid dose of selenium, a mineral your thyroid needs to properly convert hormones and keep your energy steady. And pomegranate isn't just a pretty fruit — its polyphenols work slowly over weeks to calm the low-grade inflammation that wears down joint cartilage. Everyone's body responds a little differently, so listen to yours and adjust as needed.\n\nAt @smarthealthfix we focus on four things: nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our mission is to make health feel doable again — small realistic steps instead of extreme overhauls or quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #liversupport #kidneyhealth #brainfood #guthealth #thyroidhealth #antiinflammatory #eyehealth #wellnesstips #healthtips naturalhealing wellnessjourney foodismedicine healthyhabits"
+  "shape": "numbered_explainer",
+  "caption": "A few of these tiny habits do more than they look like on the surface. Cold water on your wrists works because your wrists sit close to major blood vessels, so cooling them helps drop your core temperature — one of the strongest natural sleep triggers your body has. Walking for just 10 minutes after eating activates your leg muscles to soak up glucose directly from your blood, which is why so many people feel sleepy and foggy after meals when they skip it. And that longer exhale trick isn't just relaxation talk — it directly stimulates your vagus nerve, which tells your whole nervous system to calm down. Everyone's body responds a little differently, so pay attention to what actually shifts how you feel.\n\nAt @smarthealthfix we go beyond quick fixes and cover nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape how you feel every day. Our mission is to help you build small, realistic changes instead of chasing trends that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #dailyhabits #betterSleep #guttips #nervoussystem #healthyroutine #selfcare #mindbodyhealth #eveningroutine naturalhealing wellnessjourney healthyhabits sleeptips stressrelief"
 }
