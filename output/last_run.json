@@ -1,41 +1,42 @@
 {
-  "png": "output/reel_20260819_103208.png",
-  "mp4": "output/reel_20260819_103208.mp4",
-  "cover": "output/cover_20260819_103208.png",
+  "png": "output/reel_20260819_144250.png",
+  "mp4": "output/reel_20260819_144250.mp4",
+  "cover": "output/cover_20260819_144250.png",
   "cover_bg": "white",
   "content": {
-    "title": "WHY YOUR BODY IS BEGGING YOU FOR THESE {{MINERALS}}",
+    "title": "WHAT HAPPENS TO YOUR {{BODY}} IF YOU EAT THE SAME FOOD FOR WEEKS",
     "facts": [
-      "**Potassium** (Heart Rhythm Keeper) — Coconut Water | White Beans | Bananas | Swiss Chard",
-      "**Manganese** (Bone Builder) — Mussels | Pineapple | Brown Rice | Hazelnuts",
-      "**Iodine** (Thyroid Fuel) — Seaweed | Cod | Greek Yogurt | Eggs",
-      "**Copper** (Energy Spark) — Beef Liver | Cashews | Lentils | Dark Leafy Greens",
-      "**Zinc** (Immune Shield) — Oysters | Chickpeas | Pumpkin Hummus | Beef",
-      "**Selenium** (Cell Protector) — Brazil Nuts (1-2/day) | Tuna | Eggs | Sunflower Seeds",
-      "**Chromium** (Blood Sugar Balancer) — Broccoli | Grapes | Barley | Turkey Breast",
+      "If you ate **beets** every day for 2 weeks, your blood pressure would likely drop and your endurance during workouts would noticeably improve.",
+      "If you ate **oats** every day for 30 days, your cholesterol numbers would start shifting and your energy would feel steadier through the morning.",
+      "If you ate **fermented sauerkraut** every day for 3 weeks, your bloating would ease and your digestion would feel noticeably smoother.",
+      "If you ate **walnuts** every day for 2 weeks, your skin would look less dry and your focus in the afternoon would sharpen.",
+      "If you ate **pineapple** every day for 1 week, swelling and joint stiffness would likely calm down thanks to its natural enzymes.",
+      "If you ate **lentils** every day for 30 days, your blood sugar swings would smooth out and cravings between meals would fade.",
+      "If you ate **pumpkin seeds** every day for 2 weeks, your sleep would deepen and you'd wake up feeling less groggy.",
+      "If you ate **dark leafy greens** every day for 3 weeks, your energy crashes would shrink and your nails would grow stronger.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Most people have never even heard of chromium, but it plays a quiet role in helping your cells respond to insulin, which is why blood sugar swings can feel less brutal when you're getting enough of it. Potassium works almost like an electrical regulator for your heart — it helps trigger the signal that keeps your heartbeat steady, which is why a deficiency can literally feel like your chest is fluttering for no reason. And copper isn't just a trace mineral hiding in the background — it helps your body actually use the iron you eat, so even with enough iron intake, low copper can still leave you feeling drained. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Beets are one of the most underrated foods for stamina — they're rich in natural nitrates, which your body converts into nitric oxide, widening blood vessels and making it easier for oxygen to reach your muscles during exercise. Oats work differently: their beta-glucan fiber forms a gel in your gut that traps cholesterol particles before they're absorbed, which is why steady oat eaters often see their numbers shift over weeks. And fermented sauerkraut brings live probiotics straight to your gut lining, helping crowd out the bacteria linked to bloating and sluggish digestion. Of course, everyone's body responds a little differently, so pay attention to how yours reacts.\n\nAt @smarthealthfix, we break down nutrition, common symptoms, organ function, and small daily habits so you actually understand your body instead of guessing. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#minerals",
-      "#thyroidhealth",
-      "#bloodsugarbalance",
-      "#hearthealth",
-      "#immunesupport",
-      "#nutritionfacts",
       "#healthtips",
       "#wellness",
-      "#boneHealth",
-      "#micronutrients"
+      "#guttips",
+      "#nutritionfacts",
+      "#beets",
+      "#oats",
+      "#fermentedfoods",
+      "#digestivehealth",
+      "#energyboost",
+      "#healthyhabits"
     ],
     "extra_keywords": [
       "naturalhealing",
       "wellnessjourney",
-      "mineraldeficiency",
+      "foodismedicine",
       "healthyeating"
     ]
   },
-  "shape": "mineral_sources",
-  "caption": "Most people have never even heard of chromium, but it plays a quiet role in helping your cells respond to insulin, which is why blood sugar swings can feel less brutal when you're getting enough of it. Potassium works almost like an electrical regulator for your heart — it helps trigger the signal that keeps your heartbeat steady, which is why a deficiency can literally feel like your chest is fluttering for no reason. And copper isn't just a trace mineral hiding in the background — it helps your body actually use the iron you eat, so even with enough iron intake, low copper can still leave you feeling drained. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#minerals #thyroidhealth #bloodsugarbalance #hearthealth #immunesupport #nutritionfacts #healthtips #wellness #boneHealth #micronutrients naturalhealing wellnessjourney mineraldeficiency healthyeating"
+  "shape": "conditional_transformation",
+  "caption": "Beets are one of the most underrated foods for stamina — they're rich in natural nitrates, which your body converts into nitric oxide, widening blood vessels and making it easier for oxygen to reach your muscles during exercise. Oats work differently: their beta-glucan fiber forms a gel in your gut that traps cholesterol particles before they're absorbed, which is why steady oat eaters often see their numbers shift over weeks. And fermented sauerkraut brings live probiotics straight to your gut lining, helping crowd out the bacteria linked to bloating and sluggish digestion. Of course, everyone's body responds a little differently, so pay attention to how yours reacts.\n\nAt @smarthealthfix, we break down nutrition, common symptoms, organ function, and small daily habits so you actually understand your body instead of guessing. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guttips #nutritionfacts #beets #oats #fermentedfoods #digestivehealth #energyboost #healthyhabits naturalhealing wellnessjourney foodismedicine healthyeating"
 }
