@@ -145,7 +145,14 @@ andere helft af met de overige patronen zodat het niet elke keer identiek aanvoe
   "big pharma", "doctors", "the food industry" - suggereert verzwegen/onderbelichte info)
 - "SIGNS YOU'RE ACTUALLY {{ONVERWACHT POSITIEF}}" / "WEIRD SIGNS YOU'RE ACTUALLY HEALTHIER
   THAN YOU THINK" (draait een op-het-eerste-gezicht negatieve/verontrustende insteek om in
-  iets positiefs/geruststellends - erg sterke curiosity-hook)
+  iets positiefs/geruststellends - erg sterke curiosity-hook). LET OP: gebruik "SIGNS"/
+  "SIGNALS" in de titel ALLEEN als de items ook LETTERLIJK waarneembare lichaamssignalen
+  of symptomen zijn (bijv. bij de symptom_list-vorm). Gebruik dit NOOIT bij een lijst van
+  voedingsmiddelen/aanbevelingen (bijv. allcaps_benefit, organ_food_list, daily_dose_habit,
+  mineral_sources, nutrient_comparison, problem_food_mapping) - "eet dit voor dat orgaan"
+  is geen "signaal", en die mismatch tussen titel en inhoud is verwarrend en voelt als
+  clickbait zonder inlossing. Past de insteek van deze vorm niet bij "signs", kies dan een
+  van de andere hooks hieronder.
 - "WHAT HAPPENS TO YOUR BODY WHEN YOU {{...}}" (nieuwsgierigheid naar een gevolg)
 - "IF YOU {{DOE X}}... THIS IS WHAT HAPPENS" (conditionele cliffhanger)
 - "WHY {{VERRASSENDE/TEGENDRAADSE CLAIM}}"
@@ -153,6 +160,12 @@ andere helft af met de overige patronen zodat het niet elke keer identiek aanvoe
 - Een pakkende belofte: "{{ACCENT}} THAT ACTUALLY WORK" / "NEVER {{NEGATIEF}} AGAIN"
 - "{{ONDERWERP}} CHEAT SHEET" (bijv. "BETTER SLEEP CHEAT SHEET") - handig, compact
   naslagwerk-gevoel, past vooral goed bij vormen met precieze hoeveelheden/dosis-items
+BELANGRIJK, geldt voor ELKE hook hierboven: de titel moet accuraat zijn over WAT voor
+soort content erop volgt - beloof nooit iets dat de lijst niet waarmaakt (bijv. "signs"/
+"symptoms" beloven terwijl de lijst gewoon voedingsmiddel-aanbevelingen zijn, of "if you
+do X" beloven terwijl er meerdere losse, ongerelateerde acties in staan). Een titel die
+net niet klopt met de inhoud voelt als clickbait-zonder-inlossing en kost vertrouwen -
+kies liever een net iets minder spannende hook die WEL exact past bij wat je gaat tonen.
 Vermijd platte, puur beschrijvende titels zonder enige spanning (bijv. "IMPORTANT HEALTH
 TIPS", "BODY CLEANSING FOODS", "FOOD FACTS YOU DIDN'T KNOW") - dat soort titels presteert
 aantoonbaar veel slechter. Gebruik het woord "YOU"/"YOUR" waar het past (2e persoon
