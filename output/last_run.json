@@ -1,42 +1,40 @@
 {
-  "png": "output/reel_20260820_154322.png",
-  "mp4": "output/reel_20260820_154322.mp4",
-  "cover": "output/cover_20260820_154322.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260820_202843.png",
+  "mp4": "output/reel_20260820_202843.mp4",
+  "cover": "output/cover_20260820_202843.png",
+  "cover_bg": "white",
   "content": {
-    "title": "THE MINERAL DEFICIENCY DOCTORS OFTEN MISS ON A CHECKUP",
+    "title": "WHAT BIG PHARMA DOESN'T WANT YOU TO KNOW ABOUT YOUR {{ORGANS}}",
     "facts": [
-      "**Copper** (Iron's Best Friend) — Shiitake Mushrooms | Cashews | Dark Turkey Meat | Sesame Seeds",
-      "**Manganese** (Bone Builder) — Mussels | Pineapple | Pecans | Whole Oats",
-      "**Iodine** (Thyroid Fuel) — Cod | Seaweed Snacks | Prunes | Eggs",
-      "**Potassium** (Blood Pressure Balancer) — White Beans | Coconut Water | Dried Apricots | Swiss Chard",
-      "**Selenium** (Cell Defender) — Sardines | Sunflower Seeds | Barley | Turkey",
-      "**Zinc** (Immune Gatekeeper) — Oysters | Pumpkin | Lentils | Hemp Seeds",
-      "**Calcium** (Nerve Signal Sender) — Sardines with Bones | Bok Choy | Almonds | Kefir",
-      "**Follow along** – for more daily health tips like this."
+      "**Pancreas** - Bitter melon, Okra, Cinnamon - these help steady the insulin response instead of spiking it.",
+      "**Liver** - Beets, Walnuts, Grapefruit - these support the enzymes that flush out toxins overnight.",
+      "**Bladder** - Cranberries, Cucumber, Watermelon - these keep the lining flushed and less prone to irritation.",
+      "**Thyroid** - Brazil nuts, Seaweed, Pumpkin seeds - these feed the gland the raw materials it needs to make hormones.",
+      "**Bone marrow** - Beef liver, Lentils, Dark cherries - these fuel the cells that make your red blood cells.",
+      "**Ears (inner)** - Bananas, Dark leafy greens, Salmon - these support the fluid balance behind hearing and balance.",
+      "**Follow along** - for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Copper doesn't get much attention, but your body needs it to actually absorb and use the iron you eat — without enough copper, iron can sit there unused. Manganese quietly supports the enzymes that build and repair your bones and cartilage, so a shortage can show up as achy joints long before anyone thinks to check a mineral panel. And iodine is the one your thyroid literally cannot function without — too little and your metabolism can slow down even if everything else about your diet looks perfect. Everyone's body is different, so listen to yours and get labs checked if something feels off.\n\n@smarthealthfix breaks down nutrition, common health issues, organ function, and small daily habits that actually add up. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Your pancreas quietly runs the show on blood sugar, and bitter melon has natural compounds that mimic insulin's effect on your cells, helping glucose actually get used instead of just floating in your bloodstream. Your liver processes almost everything you eat or drink, and beets contain betaine, which helps liver cells process fat more efficiently so they don't get sluggish. Your thyroid needs selenium and iodine to convert its hormones into the active form your body actually uses, which is exactly why brazil nuts and seaweed matter more than people realize. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we post daily about nutrition, common health issues, the organs behind them, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#mineraldeficiency",
-      "#copperrich",
-      "#manganese",
-      "#iodinehealth",
-      "#thyroidsupport",
-      "#potassiumrich",
-      "#seleniumfoods",
-      "#zincbenefits",
-      "#nutrientdense",
-      "#healthtips"
+      "#healthtips",
+      "#wellness",
+      "#pancreashealth",
+      "#liverdetox",
+      "#thyroidhealth",
+      "#organhealth",
+      "#nutritionfacts",
+      "#bonemarrow",
+      "#guthealth",
+      "#holistichealth"
     ],
     "extra_keywords": [
-      "micronutrients",
+      "naturalhealing",
       "wellnessjourney",
-      "nutritiontips",
-      "hiddendeficiency",
-      "foodismedicine"
+      "bodyhealth",
+      "healthyliving"
     ]
   },
-  "shape": "mineral_sources",
-  "caption": "Copper doesn't get much attention, but your body needs it to actually absorb and use the iron you eat — without enough copper, iron can sit there unused. Manganese quietly supports the enzymes that build and repair your bones and cartilage, so a shortage can show up as achy joints long before anyone thinks to check a mineral panel. And iodine is the one your thyroid literally cannot function without — too little and your metabolism can slow down even if everything else about your diet looks perfect. Everyone's body is different, so listen to yours and get labs checked if something feels off.\n\n@smarthealthfix breaks down nutrition, common health issues, organ function, and small daily habits that actually add up. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#mineraldeficiency #copperrich #manganese #iodinehealth #thyroidsupport #potassiumrich #seleniumfoods #zincbenefits #nutrientdense #healthtips micronutrients wellnessjourney nutritiontips hiddendeficiency foodismedicine"
+  "shape": "organ_food_list",
+  "caption": "Your pancreas quietly runs the show on blood sugar, and bitter melon has natural compounds that mimic insulin's effect on your cells, helping glucose actually get used instead of just floating in your bloodstream. Your liver processes almost everything you eat or drink, and beets contain betaine, which helps liver cells process fat more efficiently so they don't get sluggish. Your thyroid needs selenium and iodine to convert its hormones into the active form your body actually uses, which is exactly why brazil nuts and seaweed matter more than people realize. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we post daily about nutrition, common health issues, the organs behind them, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #pancreashealth #liverdetox #thyroidhealth #organhealth #nutritionfacts #bonemarrow #guthealth #holistichealth naturalhealing wellnessjourney bodyhealth healthyliving"
 }
