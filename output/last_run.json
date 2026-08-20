@@ -1,41 +1,42 @@
 {
-  "png": "output/reel_20260820_103428.png",
-  "mp4": "output/reel_20260820_103428.mp4",
-  "cover": "output/cover_20260820_103428.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260820_154322.png",
+  "mp4": "output/reel_20260820_154322.mp4",
+  "cover": "output/cover_20260820_154322.png",
+  "cover_bg": "green",
   "content": {
-    "title": "WHY YOUR HEALTHY MEALS AREN'T {{WORKING}}",
+    "title": "THE MINERAL DEFICIENCY DOCTORS OFTEN MISS ON A CHECKUP",
     "facts": [
-      "**Broccoli** – Boiling it destroys most of its sulforaphane; steam it for 3-4 minutes instead to keep the compound intact.",
-      "**Olive oil** – Cooking it at high heat past its smoke point breaks it down into harmful compounds; save extra virgin for low heat or drizzling raw.",
-      "**Tomato sauce** – Skipping the oil means you absorb almost none of the lycopene; add 1 tbsp olive oil while simmering to actually absorb it.",
-      "**Chicken breast** – Cutting it right after cooking lets all the juices run out onto the board; rest it for 5-10 minutes first.",
-      "**Rice** – Cooking and serving it fresh spikes blood sugar hardest; cooling it in the fridge for a few hours creates resistant starch that blunts the spike.",
-      "**Spinach** – Eating it raw in huge amounts blocks iron and calcium absorption due to oxalates; a quick light sauté lowers that effect.",
-      "**Turmeric** – Sprinkling it on food alone barely gets absorbed; pair it with black pepper and a bit of fat to multiply absorption.",
+      "**Copper** (Iron's Best Friend) — Shiitake Mushrooms | Cashews | Dark Turkey Meat | Sesame Seeds",
+      "**Manganese** (Bone Builder) — Mussels | Pineapple | Pecans | Whole Oats",
+      "**Iodine** (Thyroid Fuel) — Cod | Seaweed Snacks | Prunes | Eggs",
+      "**Potassium** (Blood Pressure Balancer) — White Beans | Coconut Water | Dried Apricots | Swiss Chard",
+      "**Selenium** (Cell Defender) — Sardines | Sunflower Seeds | Barley | Turkey",
+      "**Zinc** (Immune Gatekeeper) — Oysters | Pumpkin | Lentils | Hemp Seeds",
+      "**Calcium** (Nerve Signal Sender) — Sardines with Bones | Bok Choy | Almonds | Kefir",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Small prep mistakes quietly cancel out a lot of the effort you put into eating well. Take broccoli: boiling pulls sulforaphane, its main anti-inflammatory compound, straight into the water, which is why steaming for just a few minutes protects it so much better. Olive oil is another sneaky one — heating it past its smoke point actually oxidizes the healthy fats into compounds your body has to work harder to deal with, so it's smarter to save it for finishing a dish rather than frying. And tomato sauce without any oil means the lycopene inside stays locked in the cell walls; that little splash of olive oil while it simmers is what actually unlocks it into a form your body can use. Everyone's kitchen habits are different, so start with whichever one feels easiest to fix first.\n\n@smarthealthfix is all about the everyday stuff: nutrition, common symptoms, how your organs actually work, and the small daily habits that quietly add up. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Copper doesn't get much attention, but your body needs it to actually absorb and use the iron you eat — without enough copper, iron can sit there unused. Manganese quietly supports the enzymes that build and repair your bones and cartilage, so a shortage can show up as achy joints long before anyone thinks to check a mineral panel. And iodine is the one your thyroid literally cannot function without — too little and your metabolism can slow down even if everything else about your diet looks perfect. Everyone's body is different, so listen to yours and get labs checked if something feels off.\n\n@smarthealthfix breaks down nutrition, common health issues, organ function, and small daily habits that actually add up. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#healthtips",
-      "#foodprep",
-      "#nutritionfacts",
-      "#healthyeating",
-      "#mealprep",
-      "#cookingtips",
-      "#wellness",
-      "#kitchenhacks",
-      "#nutrientabsorption",
-      "#healthyhabits"
+      "#mineraldeficiency",
+      "#copperrich",
+      "#manganese",
+      "#iodinehealth",
+      "#thyroidsupport",
+      "#potassiumrich",
+      "#seleniumfoods",
+      "#zincbenefits",
+      "#nutrientdense",
+      "#healthtips"
     ],
     "extra_keywords": [
-      "mealpreptips",
-      "cookingmistakes",
-      "nutritionscience",
-      "wellnessjourney"
+      "micronutrients",
+      "wellnessjourney",
+      "nutritiontips",
+      "hiddendeficiency",
+      "foodismedicine"
     ]
   },
-  "shape": "myth_bust",
-  "caption": "Small prep mistakes quietly cancel out a lot of the effort you put into eating well. Take broccoli: boiling pulls sulforaphane, its main anti-inflammatory compound, straight into the water, which is why steaming for just a few minutes protects it so much better. Olive oil is another sneaky one — heating it past its smoke point actually oxidizes the healthy fats into compounds your body has to work harder to deal with, so it's smarter to save it for finishing a dish rather than frying. And tomato sauce without any oil means the lycopene inside stays locked in the cell walls; that little splash of olive oil while it simmers is what actually unlocks it into a form your body can use. Everyone's kitchen habits are different, so start with whichever one feels easiest to fix first.\n\n@smarthealthfix is all about the everyday stuff: nutrition, common symptoms, how your organs actually work, and the small daily habits that quietly add up. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #foodprep #nutritionfacts #healthyeating #mealprep #cookingtips #wellness #kitchenhacks #nutrientabsorption #healthyhabits mealpreptips cookingmistakes nutritionscience wellnessjourney"
+  "shape": "mineral_sources",
+  "caption": "Copper doesn't get much attention, but your body needs it to actually absorb and use the iron you eat — without enough copper, iron can sit there unused. Manganese quietly supports the enzymes that build and repair your bones and cartilage, so a shortage can show up as achy joints long before anyone thinks to check a mineral panel. And iodine is the one your thyroid literally cannot function without — too little and your metabolism can slow down even if everything else about your diet looks perfect. Everyone's body is different, so listen to yours and get labs checked if something feels off.\n\n@smarthealthfix breaks down nutrition, common health issues, organ function, and small daily habits that actually add up. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#mineraldeficiency #copperrich #manganese #iodinehealth #thyroidsupport #potassiumrich #seleniumfoods #zincbenefits #nutrientdense #healthtips micronutrients wellnessjourney nutritiontips hiddendeficiency foodismedicine"
 }
