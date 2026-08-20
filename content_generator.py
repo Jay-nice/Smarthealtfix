@@ -107,6 +107,50 @@ TEMPLATE_SHAPES = {
         "has_nutrient_claims": False,
         "numbered": True,
     },
+    "counterintuitive_healthy_sign": {
+        "description": "Genummerd, '[Gedrag/lichaamssignaal] -> [verrassende, GOEDE reden/betekenis]' - "
+                       "een op het eerste gezicht raar of onschuldig lichaamssignaal dat eigenlijk een "
+                       "teken is van GOEDE gezondheid, geen kwaal. Dit is de vorm waar de titel-hook "
+                       "'SIGNS YOU'RE ACTUALLY...' (zie TITEL-instructie) daadwerkelijk bij past - "
+                       "gebruik die hook bij voorkeur samen met deze vorm.",
+        "example": "Itchy after exercise -> healthy circulation working hard",
+        "has_nutrient_claims": False,
+        "numbered": True,
+    },
+    "food_safety_mistake": {
+        "description": "Genummerd, '[Voedingsmiddel] – [veelgemaakte bewaar-/bereidingsfout] ([kort, "
+                       "feitelijk juist risico])' - concrete voedselveiligheid-missers, geen "
+                       "voedingsclaims maar bewaar-/bereidingsadvies. Blijf dicht bij algemeen erkende "
+                       "voedselveiligheidsregels (bijv. rijst te lang op kamertemperatuur i.v.m. "
+                       "Bacillus cereus, groene aardappelen i.v.m. solanine, spinazie opwarmen i.v.m. "
+                       "nitraten) - verzin geen risico's die niet breed erkend/verifieerbaar zijn.",
+        "example": "Rice – Don't leave at room temperature too long (bacteria risk from Bacillus "
+                   "cereus spores).",
+        "has_nutrient_claims": False,
+        "numbered": True,
+    },
+    "surprising_true_fact": {
+        "description": "Genummerd, verrassend voedingsfeitje dat overdreven of ongeloofwaardig klinkt "
+                       "maar daadwerkelijk waar en verifieerbaar is (bijv. 'honey never spoils'). "
+                       "ALLEEN feiten gebruiken waarvan je zeker weet dat ze kloppen en breed erkend "
+                       "zijn - geen 'leuk klinkende' claim verzinnen die eigenlijk twijfelachtig is; "
+                       "dat is precies waar dit format om vraagt maar ook het makkelijkst misgaat.",
+        "example": "Honey never spoils — archaeologists have found pots of it in ancient tombs that "
+                   "are still safe to eat.",
+        "has_nutrient_claims": False,
+        "numbered": True,
+    },
+    "habit_harm_reveal": {
+        "description": "Genummerd, '[Gewoonte die onschuldig of zelfs gezond LIJKT] -> [verrassend "
+                       "nadelig gevolg voor lichaam/orgaan]' - een gewoonte omdraaien: iets dat mensen "
+                       "niet als slecht beschouwen, blijkt bij nader inzien toch een nadeel te hebben "
+                       "(bijv. te veel water zonder mineralen, ijskoud water na een maaltijd). Blijf bij "
+                       "milde, genuanceerde effecten - geen paniek zaaien, wel een 'oh, dat wist ik "
+                       "niet' gevoel geven.",
+        "example": "Drinking ice-cold water right after a meal -> slows digestion",
+        "has_nutrient_claims": False,
+        "numbered": True,
+    },
 }
 
 
