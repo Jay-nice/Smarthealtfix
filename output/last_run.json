@@ -1,40 +1,43 @@
 {
-  "png": "output/reel_20260820_202843.png",
-  "mp4": "output/reel_20260820_202843.mp4",
-  "cover": "output/cover_20260820_202843.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260820_215702.png",
+  "mp4": "output/reel_20260820_215702.mp4",
+  "cover": "output/cover_20260820_215702.png",
+  "cover_bg": "green",
   "content": {
-    "title": "WHAT BIG PHARMA DOESN'T WANT YOU TO KNOW ABOUT YOUR {{ORGANS}}",
+    "title": "WHAT DOCTORS DON'T WANT YOU TO KNOW ABOUT {{EATING THIS DAILY}}",
     "facts": [
-      "**Pancreas** - Bitter melon, Okra, Cinnamon - these help steady the insulin response instead of spiking it.",
-      "**Liver** - Beets, Walnuts, Grapefruit - these support the enzymes that flush out toxins overnight.",
-      "**Bladder** - Cranberries, Cucumber, Watermelon - these keep the lining flushed and less prone to irritation.",
-      "**Thyroid** - Brazil nuts, Seaweed, Pumpkin seeds - these feed the gland the raw materials it needs to make hormones.",
-      "**Bone marrow** - Beef liver, Lentils, Dark cherries - these fuel the cells that make your red blood cells.",
-      "**Ears (inner)** - Bananas, Dark leafy greens, Salmon - these support the fluid balance behind hearing and balance.",
-      "**Follow along** - for more daily health tips like this."
+      "If you ate **beets** every day for 2 weeks, your blood pressure would drop noticeably as nitrates widen your blood vessels.",
+      "If you ate **oats** every day for 3 weeks, your cholesterol numbers would start shifting as beta-glucan fiber traps bile acids.",
+      "If you ate **walnuts** every day for 30 days, your mood would feel steadier as omega-3s calm brain inflammation.",
+      "If you ate **fermented yogurt** every day for 2 weeks, your bloating would fade as probiotics rebalance your gut bacteria.",
+      "If you ate **watermelon** every day for 1 week, your muscle soreness after workouts would ease thanks to citrulline.",
+      "If you ate **lentils** every day for 3 weeks, your energy crashes would disappear as slow-digesting carbs steady your blood sugar.",
+      "If you ate **pumpkin seeds** every day for 2 weeks, your sleep would deepen as magnesium and tryptophan relax your nervous system.",
+      "If you ate **grapefruit** every day for 10 days, your skin would look brighter as vitamin C boosts collagen production.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Your pancreas quietly runs the show on blood sugar, and bitter melon has natural compounds that mimic insulin's effect on your cells, helping glucose actually get used instead of just floating in your bloodstream. Your liver processes almost everything you eat or drink, and beets contain betaine, which helps liver cells process fat more efficiently so they don't get sluggish. Your thyroid needs selenium and iodine to convert its hormones into the active form your body actually uses, which is exactly why brazil nuts and seaweed matter more than people realize. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we post daily about nutrition, common health issues, the organs behind them, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Small daily swaps can add up fast. Beets are loaded with natural nitrates that your body converts into nitric oxide, which relaxes and widens blood vessels so blood flows easier — that's why blood pressure often drops within days of eating them regularly. Oats work differently: their beta-glucan fiber forms a gel in your gut that binds to cholesterol-rich bile acids and carries them out, forcing your liver to pull more cholesterol from your blood to make new bile. And pumpkin seeds are one of the richest natural sources of magnesium, a mineral that helps calm an overactive nervous system, which is why sleep quality tends to improve after a couple of weeks. Everyone's body responds a little differently, so listen to yours.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
       "#wellness",
-      "#pancreashealth",
-      "#liverdetox",
-      "#thyroidhealth",
-      "#organhealth",
-      "#nutritionfacts",
-      "#bonemarrow",
       "#guthealth",
-      "#holistichealth"
+      "#bloodpressure",
+      "#nutritionfacts",
+      "#antiinflammatory",
+      "#healthyhabits",
+      "#foodismedicine",
+      "#beets",
+      "#oats",
+      "#betterhealth"
     ],
     "extra_keywords": [
       "naturalhealing",
       "wellnessjourney",
-      "bodyhealth",
+      "cleaneating",
       "healthyliving"
     ]
   },
-  "shape": "organ_food_list",
-  "caption": "Your pancreas quietly runs the show on blood sugar, and bitter melon has natural compounds that mimic insulin's effect on your cells, helping glucose actually get used instead of just floating in your bloodstream. Your liver processes almost everything you eat or drink, and beets contain betaine, which helps liver cells process fat more efficiently so they don't get sluggish. Your thyroid needs selenium and iodine to convert its hormones into the active form your body actually uses, which is exactly why brazil nuts and seaweed matter more than people realize. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we post daily about nutrition, common health issues, the organs behind them, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #pancreashealth #liverdetox #thyroidhealth #organhealth #nutritionfacts #bonemarrow #guthealth #holistichealth naturalhealing wellnessjourney bodyhealth healthyliving"
+  "shape": "conditional_transformation",
+  "caption": "Small daily swaps can add up fast. Beets are loaded with natural nitrates that your body converts into nitric oxide, which relaxes and widens blood vessels so blood flows easier — that's why blood pressure often drops within days of eating them regularly. Oats work differently: their beta-glucan fiber forms a gel in your gut that binds to cholesterol-rich bile acids and carries them out, forcing your liver to pull more cholesterol from your blood to make new bile. And pumpkin seeds are one of the richest natural sources of magnesium, a mineral that helps calm an overactive nervous system, which is why sleep quality tends to improve after a couple of weeks. Everyone's body responds a little differently, so listen to yours.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #bloodpressure #nutritionfacts #antiinflammatory #healthyhabits #foodismedicine #beets #oats #betterhealth naturalhealing wellnessjourney cleaneating healthyliving"
 }
