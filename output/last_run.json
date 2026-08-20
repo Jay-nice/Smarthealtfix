@@ -1,42 +1,41 @@
 {
-  "png": "output/reel_20260819_173057.png",
-  "mp4": "output/reel_20260819_173057.mp4",
-  "cover": "output/cover_20260819_173057.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260820_103428.png",
+  "mp4": "output/reel_20260820_103428.mp4",
+  "cover": "output/cover_20260820_103428.png",
+  "cover_bg": "white",
   "content": {
-    "title": "WHAT DOCTORS DON'T WANT YOU TO KNOW ABOUT YOUR {{EVENING}} HABITS",
+    "title": "WHY YOUR HEALTHY MEALS AREN'T {{WORKING}}",
     "facts": [
-      "**Cold water on your wrists** for 30 seconds before bed — this cools your core temperature and signals your brain it's time to fall asleep faster.",
-      "**Chew each bite 20 times** at dinner — this slows digestion, lowers bloating, and helps you feel full on less food.",
-      "**Walk for 10 minutes** right after eating — this pulls glucose out of your bloodstream and prevents the post-meal energy crash.",
-      "**Write down 1 worry** before bed on paper — this empties your mind so cortisol doesn't spike at 3am.",
-      "**Stand up every 45 minutes** during work — this keeps blood flowing and prevents stiffness in your hips and lower back.",
-      "**Breathe out longer than you breathe in** for 2 minutes — this shifts your nervous system out of fight-or-flight instantly.",
-      "**Dim the lights 1 hour before bed** — this lets melatonin rise naturally instead of being blocked by bright light.",
+      "**Broccoli** – Boiling it destroys most of its sulforaphane; steam it for 3-4 minutes instead to keep the compound intact.",
+      "**Olive oil** – Cooking it at high heat past its smoke point breaks it down into harmful compounds; save extra virgin for low heat or drizzling raw.",
+      "**Tomato sauce** – Skipping the oil means you absorb almost none of the lycopene; add 1 tbsp olive oil while simmering to actually absorb it.",
+      "**Chicken breast** – Cutting it right after cooking lets all the juices run out onto the board; rest it for 5-10 minutes first.",
+      "**Rice** – Cooking and serving it fresh spikes blood sugar hardest; cooling it in the fridge for a few hours creates resistant starch that blunts the spike.",
+      "**Spinach** – Eating it raw in huge amounts blocks iron and calcium absorption due to oxalates; a quick light sauté lowers that effect.",
+      "**Turmeric** – Sprinkling it on food alone barely gets absorbed; pair it with black pepper and a bit of fat to multiply absorption.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these tiny habits do more than they look like on the surface. Cold water on your wrists works because your wrists sit close to major blood vessels, so cooling them helps drop your core temperature — one of the strongest natural sleep triggers your body has. Walking for just 10 minutes after eating activates your leg muscles to soak up glucose directly from your blood, which is why so many people feel sleepy and foggy after meals when they skip it. And that longer exhale trick isn't just relaxation talk — it directly stimulates your vagus nerve, which tells your whole nervous system to calm down. Everyone's body responds a little differently, so pay attention to what actually shifts how you feel.\n\nAt @smarthealthfix we go beyond quick fixes and cover nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape how you feel every day. Our mission is to help you build small, realistic changes instead of chasing trends that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Small prep mistakes quietly cancel out a lot of the effort you put into eating well. Take broccoli: boiling pulls sulforaphane, its main anti-inflammatory compound, straight into the water, which is why steaming for just a few minutes protects it so much better. Olive oil is another sneaky one — heating it past its smoke point actually oxidizes the healthy fats into compounds your body has to work harder to deal with, so it's smarter to save it for finishing a dish rather than frying. And tomato sauce without any oil means the lycopene inside stays locked in the cell walls; that little splash of olive oil while it simmers is what actually unlocks it into a form your body can use. Everyone's kitchen habits are different, so start with whichever one feels easiest to fix first.\n\n@smarthealthfix is all about the everyday stuff: nutrition, common symptoms, how your organs actually work, and the small daily habits that quietly add up. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
+      "#foodprep",
+      "#nutritionfacts",
+      "#healthyeating",
+      "#mealprep",
+      "#cookingtips",
       "#wellness",
-      "#dailyhabits",
-      "#betterSleep",
-      "#guttips",
-      "#nervoussystem",
-      "#healthyroutine",
-      "#selfcare",
-      "#mindbodyhealth",
-      "#eveningroutine"
+      "#kitchenhacks",
+      "#nutrientabsorption",
+      "#healthyhabits"
     ],
     "extra_keywords": [
-      "naturalhealing",
-      "wellnessjourney",
-      "healthyhabits",
-      "sleeptips",
-      "stressrelief"
+      "mealpreptips",
+      "cookingmistakes",
+      "nutritionscience",
+      "wellnessjourney"
     ]
   },
-  "shape": "numbered_explainer",
-  "caption": "A few of these tiny habits do more than they look like on the surface. Cold water on your wrists works because your wrists sit close to major blood vessels, so cooling them helps drop your core temperature — one of the strongest natural sleep triggers your body has. Walking for just 10 minutes after eating activates your leg muscles to soak up glucose directly from your blood, which is why so many people feel sleepy and foggy after meals when they skip it. And that longer exhale trick isn't just relaxation talk — it directly stimulates your vagus nerve, which tells your whole nervous system to calm down. Everyone's body responds a little differently, so pay attention to what actually shifts how you feel.\n\nAt @smarthealthfix we go beyond quick fixes and cover nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape how you feel every day. Our mission is to help you build small, realistic changes instead of chasing trends that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #dailyhabits #betterSleep #guttips #nervoussystem #healthyroutine #selfcare #mindbodyhealth #eveningroutine naturalhealing wellnessjourney healthyhabits sleeptips stressrelief"
+  "shape": "myth_bust",
+  "caption": "Small prep mistakes quietly cancel out a lot of the effort you put into eating well. Take broccoli: boiling pulls sulforaphane, its main anti-inflammatory compound, straight into the water, which is why steaming for just a few minutes protects it so much better. Olive oil is another sneaky one — heating it past its smoke point actually oxidizes the healthy fats into compounds your body has to work harder to deal with, so it's smarter to save it for finishing a dish rather than frying. And tomato sauce without any oil means the lycopene inside stays locked in the cell walls; that little splash of olive oil while it simmers is what actually unlocks it into a form your body can use. Everyone's kitchen habits are different, so start with whichever one feels easiest to fix first.\n\n@smarthealthfix is all about the everyday stuff: nutrition, common symptoms, how your organs actually work, and the small daily habits that quietly add up. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #foodprep #nutritionfacts #healthyeating #mealprep #cookingtips #wellness #kitchenhacks #nutrientabsorption #healthyhabits mealpreptips cookingmistakes nutritionscience wellnessjourney"
 }
