@@ -51,6 +51,18 @@ TOPIC_POOL = [
     ("imperative_advice_list", "direct, actiegericht advies voor een specifieke levensfase of "
      "doelgroep (bijv. 60-plussers, drukke professionals, nieuwe ouders, vrouwen, studenten) - "
      "wissel de doelgroep en insteek per keer af"),
+    ("counterintuitive_healthy_sign", "vreemde of onschuldig lijkende lichaamssignalen die "
+     "eigenlijk een teken zijn van GOEDE gezondheid - varieer breed (huid, spijsvertering, "
+     "slaap, energie, ademhaling, transpiratie, dorst) - niet steeds dezelfde 4-5 signalen"),
+    ("food_safety_mistake", "veelgemaakte bewaar- of bereidingsfouten bij voedingsmiddelen die "
+     "een echt, breed erkend risico met zich meebrengen - varieer tussen groente, granen, "
+     "eiwitten, fruit, blijf bij algemeen erkende voedselveiligheidsregels"),
+    ("surprising_true_fact", "verrassende maar waargebeurde en verifieerbare feitjes over "
+     "voeding die overdreven klinken - alleen feiten waarvan de juistheid zeker is, geen "
+     "twijfelachtige claims verzinnen om 'leuker' te klinken"),
+    ("habit_harm_reveal", "een ogenschijnlijk onschuldige of zelfs gezond klinkende dagelijkse "
+     "gewoonte die eigenlijk een nadelig effect kan hebben - mild en genuanceerd, geen paniek, "
+     "varieer breed tussen voeding, drinken, beweging, slaap"),
 ]
 
 
