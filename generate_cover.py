@@ -59,6 +59,20 @@ def draw_ig_icon(draw, x, y, size, color):
     )
 
 
+# --- Vaste layout-posities (i.p.v. positie die meebeweegt met titel-lengte) ---
+# Titel begint ALTIJD op dezelfde hoogte (TITLE_TOP), ongeacht of 'm 1 of 4
+# regels wordt - hij groeit dus naar ONDEREN toe, nooit rond het midden heen.
+# De handle staat ALTIJD op dezelfde hoogte (HANDLE_ROW_Y), volledig los van
+# hoe lang de titel is. Het lettertype van de titel is een VASTE, bewust
+# gematigde grootte (niet meer een bereik dat soms groot, soms klein uitpakt)
+# - alleen bij een uitzonderlijk lange titel (>4 regels) verkleint 'm als
+# noodgreep, zodat niks ooit buiten beeld valt of de handle raakt.
+TITLE_TOP = 400
+TITLE_FONT_SIZE = 54
+TITLE_MIN_FONT_SIZE = 40
+HANDLE_ROW_Y = 760
+
+
 def render_cover_flat(title, handle_text, out_path, bg_color=BRAND_GREEN):
     img = Image.new("RGB", (SIZE, SIZE), bg_color)
     draw = ImageDraw.Draw(img)
@@ -74,7 +88,6 @@ def render_cover_flat(title, handle_text, out_path, bg_color=BRAND_GREEN):
     # binnen een smallere "veilige kolom" in het midden, zodat 'm nooit wordt
     # afgesneden, in geen van beide weergaven.
     max_width = 560
-    available_title_height = 620
 
     def wrap_at_size(font_size):
         font = ImageFont.truetype(FONT_BOLD, font_size)
@@ -91,20 +104,18 @@ def render_cover_flat(title, handle_text, out_path, bg_color=BRAND_GREEN):
         if current:
             lines.append(" ".join(current))
         line_height = round(font_size * 1.18)
-        return font, lines, line_height, line_height * len(lines)
+        return font, lines, line_height
 
-    font_size = 76
-    min_font_size = 38
-    while font_size > min_font_size:
-        title_font, lines, line_height, total_h = wrap_at_size(font_size)
-        if total_h <= available_title_height and len(lines) <= 4:
-            break
-        font_size -= 4
-    else:
-        title_font, lines, line_height, total_h = wrap_at_size(min_font_size)
+    # Vaste grootte is de norm; alleen als een titel zelfs dan niet in 4
+    # regels past (zeer ongebruikelijk lang), knijpen we 'm iets kleiner -
+    # puur als noodgreep, niet als normale gang van zaken.
+    title_font, lines, line_height = wrap_at_size(TITLE_FONT_SIZE)
+    font_size = TITLE_FONT_SIZE
+    while len(lines) > 4 and font_size > TITLE_MIN_FONT_SIZE:
+        font_size -= 2
+        title_font, lines, line_height = wrap_at_size(font_size)
 
-    y = SIZE / 2 - total_h / 2 - 40
-
+    y = TITLE_TOP
     for line in lines:
         bbox = draw.textbbox((0, 0), line, font=title_font)
         w = bbox[2] - bbox[0]
@@ -112,6 +123,7 @@ def render_cover_flat(title, handle_text, out_path, bg_color=BRAND_GREEN):
         y += line_height
 
     # --- Instagram-icoontje + handle (i.p.v. de vorige roze badge) ---
+    # Vaste hoogte (HANDLE_ROW_Y), NIET afhankelijk van waar de titel eindigt.
     handle_font = ImageFont.truetype(FONT_BOLD, 30)
     bbox = draw.textbbox((0, 0), handle_text, font=handle_font)
     htext_w, htext_h = bbox[2] - bbox[0], bbox[3] - bbox[1]
@@ -119,7 +131,7 @@ def render_cover_flat(title, handle_text, out_path, bg_color=BRAND_GREEN):
     icon_size = round(htext_h * 1.2)
     gap = 14
     group_w = icon_size + gap + htext_w
-    row_y = y + 34
+    row_y = HANDLE_ROW_Y
 
     icon_x = SIZE / 2 - group_w / 2
     icon_y = row_y + (htext_h - icon_size) / 2 - bbox[1]
