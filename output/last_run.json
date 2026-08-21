@@ -1,43 +1,44 @@
 {
-  "png": "output/reel_20260820_215702.png",
-  "mp4": "output/reel_20260820_215702.mp4",
-  "cover": "output/cover_20260820_215702.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260821_103452.png",
+  "mp4": "output/reel_20260821_103452.mp4",
+  "cover": "output/cover_20260821_103452.png",
+  "cover_bg": "white",
   "content": {
-    "title": "WHAT DOCTORS DON'T WANT YOU TO KNOW ABOUT {{EATING THIS DAILY}}",
+    "title": "WEIRD SIGNS YOUR BODY IS SILENTLY MISSING A KEY NUTRIENT",
     "facts": [
-      "If you ate **beets** every day for 2 weeks, your blood pressure would drop noticeably as nitrates widen your blood vessels.",
-      "If you ate **oats** every day for 3 weeks, your cholesterol numbers would start shifting as beta-glucan fiber traps bile acids.",
-      "If you ate **walnuts** every day for 30 days, your mood would feel steadier as omega-3s calm brain inflammation.",
-      "If you ate **fermented yogurt** every day for 2 weeks, your bloating would fade as probiotics rebalance your gut bacteria.",
-      "If you ate **watermelon** every day for 1 week, your muscle soreness after workouts would ease thanks to citrulline.",
-      "If you ate **lentils** every day for 3 weeks, your energy crashes would disappear as slow-digesting carbs steady your blood sugar.",
-      "If you ate **pumpkin seeds** every day for 2 weeks, your sleep would deepen as magnesium and tryptophan relax your nervous system.",
-      "If you ate **grapefruit** every day for 10 days, your skin would look brighter as vitamin C boosts collagen production.",
+      "**Cracked, red corners of your mouth** – a classic sign of low **riboflavin (B2)** or **iron**, not just dry weather.",
+      "**Restless legs at night** – that crawling, twitchy urge to move your legs is often linked to low **iron** or **magnesium** stores, even without anemia.",
+      "**White spots on your nails** – frequently blamed on calcium, but more often tied to a **zinc** shortfall.",
+      "**Night blindness** – struggling to adjust when lights go out can point to low **vitamin A**, which your retina depends on to process dim light.",
+      "**Bleeding, swollen gums** – not always a brushing problem; it can signal low **vitamin C**, needed to keep gum tissue and blood vessels strong.",
+      "**Numb or tingling hands** – beyond B12, this can also show up with low **vitamin E**, which protects nerve membranes from damage.",
+      "**Brittle hair that snaps easily** – often traced back to low **biotin** or **protein**, not just harsh shampoo.",
+      "**Muscle cramps that hit out of nowhere** – classic sign your **potassium** or **magnesium** levels have dipped.",
+      "**Slow-healing cuts and scrapes** – your skin needs **vitamin C** and **zinc** to rebuild collagen and close wounds efficiently.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Small daily swaps can add up fast. Beets are loaded with natural nitrates that your body converts into nitric oxide, which relaxes and widens blood vessels so blood flows easier — that's why blood pressure often drops within days of eating them regularly. Oats work differently: their beta-glucan fiber forms a gel in your gut that binds to cholesterol-rich bile acids and carries them out, forcing your liver to pull more cholesterol from your blood to make new bile. And pumpkin seeds are one of the richest natural sources of magnesium, a mineral that helps calm an overactive nervous system, which is why sleep quality tends to improve after a couple of weeks. Everyone's body responds a little differently, so listen to yours.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these signs deserve extra attention. Cracked corners of your mouth aren't just from cold weather — low riboflavin or iron disrupts how your skin cells regenerate, so tiny cracks stop healing normally. Restless legs at night is another sneaky one: iron plays a direct role in dopamine production, and when levels drop, that nerve signaling gets glitchy, leading to that itchy, must-move feeling right when you're trying to sleep. And those white spots on your nails? Zinc is essential for the protein that builds your nail bed, so even a mild dip can show up as visible marks weeks later. Everyone's body is different, so treat these as clues to look into, not a diagnosis.\n\n@smarthealthfix is all about connecting the dots between nutrition, common symptoms, your organs, and the small daily habits that quietly shape your health. Our mission is to help you notice what your body is already telling you, so you can make small, realistic changes instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#healthtips",
-      "#wellness",
-      "#guthealth",
-      "#bloodpressure",
+      "#nutrientdeficiency",
+      "#vitamindeficiency",
+      "#irondeficiency",
+      "#zincdeficiency",
+      "#vitaminc",
+      "#magnesiumdeficiency",
+      "#healthsigns",
+      "#wellnesstips",
       "#nutritionfacts",
-      "#antiinflammatory",
-      "#healthyhabits",
-      "#foodismedicine",
-      "#beets",
-      "#oats",
-      "#betterhealth"
+      "#healthawareness"
     ],
     "extra_keywords": [
-      "naturalhealing",
+      "nutrientgaps",
+      "healthsymptoms",
       "wellnessjourney",
-      "cleaneating",
-      "healthyliving"
+      "bodysignals",
+      "micronutrients"
     ]
   },
-  "shape": "conditional_transformation",
-  "caption": "Small daily swaps can add up fast. Beets are loaded with natural nitrates that your body converts into nitric oxide, which relaxes and widens blood vessels so blood flows easier — that's why blood pressure often drops within days of eating them regularly. Oats work differently: their beta-glucan fiber forms a gel in your gut that binds to cholesterol-rich bile acids and carries them out, forcing your liver to pull more cholesterol from your blood to make new bile. And pumpkin seeds are one of the richest natural sources of magnesium, a mineral that helps calm an overactive nervous system, which is why sleep quality tends to improve after a couple of weeks. Everyone's body responds a little differently, so listen to yours.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #bloodpressure #nutritionfacts #antiinflammatory #healthyhabits #foodismedicine #beets #oats #betterhealth naturalhealing wellnessjourney cleaneating healthyliving"
+  "shape": "symptom_list",
+  "caption": "A few of these signs deserve extra attention. Cracked corners of your mouth aren't just from cold weather — low riboflavin or iron disrupts how your skin cells regenerate, so tiny cracks stop healing normally. Restless legs at night is another sneaky one: iron plays a direct role in dopamine production, and when levels drop, that nerve signaling gets glitchy, leading to that itchy, must-move feeling right when you're trying to sleep. And those white spots on your nails? Zinc is essential for the protein that builds your nail bed, so even a mild dip can show up as visible marks weeks later. Everyone's body is different, so treat these as clues to look into, not a diagnosis.\n\n@smarthealthfix is all about connecting the dots between nutrition, common symptoms, your organs, and the small daily habits that quietly shape your health. Our mission is to help you notice what your body is already telling you, so you can make small, realistic changes instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #vitamindeficiency #irondeficiency #zincdeficiency #vitaminc #magnesiumdeficiency #healthsigns #wellnesstips #nutritionfacts #healthawareness nutrientgaps healthsymptoms wellnessjourney bodysignals micronutrients"
 }
