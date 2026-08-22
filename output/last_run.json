@@ -1,41 +1,42 @@
 {
-  "png": "output/reel_20260822_153051.png",
-  "mp4": "output/reel_20260822_153051.mp4",
-  "cover": "output/cover_20260822_153051.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260822_202233.png",
+  "mp4": "output/reel_20260822_202233.mp4",
+  "cover": "output/cover_20260822_202233.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE TINY HABIT THAT DOCTORS SNEAK INTO THEIR OWN ROUTINE",
+    "title": "WHAT DOCTORS DO {{RIGHT BEFORE BED}} THAT YOU'D NEVER GUESS",
     "facts": [
-      "**Chew each bite 20 times** — this slows digestion enough for your gut to release satiety hormones before you overeat.",
-      "**Splash your face with cold water** for 20 seconds each morning — it kickstarts circulation and shocks your nervous system into alertness without caffeine.",
-      "**Walk barefoot on grass for 5 minutes** — the uneven texture wakes up nerve endings in your feet that improve balance over time.",
-      "**Breathe out longer than you breathe in** (4 seconds in, 8 seconds out) — this single pattern lowers your heart rate within minutes.",
-      "**Write down 1 thing before bed** you're looking forward to tomorrow — this quiets the racing-thoughts loop that delays sleep.",
-      "**Open your curtains within 10 minutes of waking** — early light exposure sets your internal clock and makes falling asleep easier that night.",
-      "**Hum for 60 seconds** — the vibration stimulates your vagus nerve, which helps shift your body out of stress mode.",
+      "**Fruit juice instead of whole fruit** -> spikes blood sugar faster than a candy bar because the fiber that slows absorption is gone.",
+      "**Sleeping in on weekends** -> shifts your internal clock like mini jet lag, making Monday mornings harder.",
+      "**Wearing sunglasses all day, even when it's mild out** -> can confuse your body's light-based wake-up signal if overused.",
+      "**Taking a hot shower right before bed** -> feels relaxing but can delay sleep onset if it's too close to lights-out, since your core temp needs to drop first.",
+      "**Snacking on almonds straight from a big bag** -> a 'healthy' fat can turn into a calorie surplus fast without noticing portions.",
+      "**Using mouthwash right after brushing** -> can rinse away the concentrated fluoride your toothpaste just left behind.",
+      "**Stretching cold muscles before a run** -> may loosen joints too much and slightly raise injury risk instead of preventing it.",
+      "**Cracking your knuckles out of habit** -> won't cause arthritis, but repeated force over years can slightly loosen the joint capsule.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Small habits sound almost too simple, but the mechanisms behind them are real. Take chewing — when you slow down to 20 chews per bite, your stomach has time to signal fullness through hormones like leptin, so you naturally stop eating sooner instead of overshooting. The cold water splash works differently: the sudden temperature change activates your sympathetic nervous system, giving you an alertness boost similar to a light workout. And humming isn't just relaxing — the vibration directly stimulates the vagus nerve, which is one of the main pathways your body uses to switch from 'fight or flight' into 'rest and digest.' Everyone's body responds a little differently, so notice what actually shifts something for you.\n\nAt @smarthealthfix, we cover everything from nutrition and organ function to everyday symptoms and the small daily habits that quietly shape your health. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs a little reset today.",
+    "caption": "Let's talk about a few of these. Fruit juice loses almost all its fiber during processing, so the natural sugars hit your bloodstream in one quick wave instead of a slow release, which is why juice can spike blood sugar more than people expect. Mouthwash right after brushing might feel extra clean, but it washes away the concentrated fluoride layer your toothpaste just deposited, so it actually works better used at a different time of day. And that hot pre-bed shower isn't bad, timing just matters: your body needs a slight core temperature drop to trigger sleepiness, so showering too close to bedtime can briefly delay that signal. Everyone's routine is different, so notice what actually changes how you feel.\n\nAt @smarthealthfix we dig into nutrition, everyday habits, common symptoms, and how your organs quietly react to daily choices most people never question. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
-      "#dailyhabits",
-      "#wellnessroutine",
-      "#nervoussystem",
-      "#betterbreathing",
-      "#morningroutine",
+      "#wellness",
       "#sleeptips",
-      "#vagusnerve",
-      "#mindfuleating",
-      "#wellness"
+      "#guthealth",
+      "#dentalhealth",
+      "#healthyhabits",
+      "#biohacking",
+      "#nutritionfacts",
+      "#bodyawareness",
+      "#morningroutine"
     ],
     "extra_keywords": [
-      "healthyhabits",
+      "dailyhabits",
       "wellnessjourney",
-      "naturalhealing",
-      "selfcaretips"
+      "healthawareness",
+      "smallhabitsbigchanges"
     ]
   },
-  "shape": "numbered_explainer",
-  "caption": "Small habits sound almost too simple, but the mechanisms behind them are real. Take chewing — when you slow down to 20 chews per bite, your stomach has time to signal fullness through hormones like leptin, so you naturally stop eating sooner instead of overshooting. The cold water splash works differently: the sudden temperature change activates your sympathetic nervous system, giving you an alertness boost similar to a light workout. And humming isn't just relaxing — the vibration directly stimulates the vagus nerve, which is one of the main pathways your body uses to switch from 'fight or flight' into 'rest and digest.' Everyone's body responds a little differently, so notice what actually shifts something for you.\n\nAt @smarthealthfix, we cover everything from nutrition and organ function to everyday symptoms and the small daily habits that quietly shape your health. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs a little reset today.\n\n#healthtips #dailyhabits #wellnessroutine #nervoussystem #betterbreathing #morningroutine #sleeptips #vagusnerve #mindfuleating #wellness healthyhabits wellnessjourney naturalhealing selfcaretips"
+  "shape": "habit_harm_reveal",
+  "caption": "Let's talk about a few of these. Fruit juice loses almost all its fiber during processing, so the natural sugars hit your bloodstream in one quick wave instead of a slow release, which is why juice can spike blood sugar more than people expect. Mouthwash right after brushing might feel extra clean, but it washes away the concentrated fluoride layer your toothpaste just deposited, so it actually works better used at a different time of day. And that hot pre-bed shower isn't bad, timing just matters: your body needs a slight core temperature drop to trigger sleepiness, so showering too close to bedtime can briefly delay that signal. Everyone's routine is different, so notice what actually changes how you feel.\n\nAt @smarthealthfix we dig into nutrition, everyday habits, common symptoms, and how your organs quietly react to daily choices most people never question. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #sleeptips #guthealth #dentalhealth #healthyhabits #biohacking #nutritionfacts #bodyawareness #morningroutine dailyhabits wellnessjourney healthawareness smallhabitsbigchanges"
 }
