@@ -1,41 +1,43 @@
 {
-  "png": "output/reel_20260821_202537.png",
-  "mp4": "output/reel_20260821_202537.mp4",
-  "cover": "output/cover_20260821_202537.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260822_102706.png",
+  "mp4": "output/reel_20260822_102706.mp4",
+  "cover": "output/cover_20260822_102706.png",
+  "cover_bg": "green",
   "content": {
-    "title": "DESK JOB RULES FOR ANYONE SITTING 8+ HOURS A DAY",
+    "title": "WHAT THE FOOD INDUSTRY DOESN'T WARN YOU ABOUT {{STORAGE}} MISTAKES",
     "facts": [
-      "**Stand every 30 minutes** – set a timer, even 60 seconds of standing wakes up your circulation and eases pressure on your spine.",
-      "**Move your screen up** – position it at eye level to stop the forward head tilt that strains your neck and shoulders all day.",
-      "**Roll your ankles** – do 10 circles each side hourly, it keeps blood from pooling in your lower legs while you're seated.",
-      "**Drink 1 glass of water** – every time you refill, you're forced to get up and walk, which breaks long stretches of stillness.",
-      "**Sit on your sit bones** – not your tailbone, this small shift protects your lower back from hours of slouched pressure.",
-      "**Stretch your hip flexors** – do a 20-second lunge stretch at lunch, sitting all day shortens them and can pull on your lower back.",
-      "**Take calls walking** – pace around during phone calls instead of sitting, it's an easy way to sneak in extra steps.",
+      "**Mushrooms** – Storing them sealed in plastic (traps moisture and speeds bacterial growth, causing fast sliminess and spoilage).",
+      "**Eggs** – Keeping them in the fridge door (temperature swings from opening/closing speed up bacterial growth vs. the colder, stable interior shelves).",
+      "**Melon** – Leaving cut melon out for hours at a party (moist, low-acid flesh is a known ground for Listeria and Salmonella growth at room temp).",
+      "**Garlic-in-oil** – Making homemade garlic oil and storing it at room temperature (low-oxygen environment can allow Clostridium botulinum growth without refrigeration).",
+      "**Leftover pasta or grains** – Cooling them slowly on the counter before fridge storage (the slow cool-down window lets Bacillus cereus spores multiply).",
+      "**Raw sprouts** – Eating them without cooking, especially alfalfa or bean sprouts (warm, humid sprouting conditions are a known source of Salmonella and E. coli outbreaks).",
+      "**Deli meats** – Assuming they're safe straight from the package for weeks (Listeria can grow even under refrigeration once the pack is opened).",
+      "**Thawed fish** – Refreezing it after it's been thawed on the counter (each thaw cycle at unsafe temps gives bacteria another window to multiply).",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "If you sit for most of your workday, small habits matter more than one big workout after hours. Standing every 30 minutes isn't just about burning a few extra calories — brief movement resets blood flow to your legs and helps prevent the sluggish, heavy feeling that builds up after long stretches of sitting. Rolling your ankles hourly works the same way: it activates the calf muscles that act like a pump, pushing blood back up toward your heart instead of letting it settle in your lower legs. And that hip flexor stretch at lunch matters more than people think — sitting keeps those muscles in a shortened position for hours, and over time that tightness quietly pulls on your lower back and changes how you stand. Everyone's body holds tension differently, so notice where yours tends to stiffen first.\n\nAt @smarthealthfix, we cover nutrition, common health issues, organs and body functions, and small daily habits that actually fit into a busy schedule. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who sits at a desk all day.",
+    "caption": "A few of these are easy to miss, so let's break them down. Melon feels harmless because it's fruit, but its flesh has a neutral pH and high water content once cut, which is exactly the environment Listeria thrives in if it sits out at a party for hours. Garlic-in-oil is a sneaky one too — garlic naturally carries Clostridium botulinum spores from the soil, and without refrigeration or acid (like vinegar), the oil creates a low-oxygen pocket that lets the bacteria produce toxin without any obvious smell or taste change. And with leftover pasta or grains, it's not really about reheating — it's that slow cooldown period on the counter where Bacillus cereus spores germinate and multiply fastest, long before you ever put the container in the fridge. Everyone's kitchen habits are a little different, so it's worth double-checking your own routine against these.\n\n@smarthealthfix is all about the small stuff people overlook — nutrition, everyday symptoms, how your organs actually function, and the tiny daily habits that add up. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#deskjob",
-      "#officehealth",
-      "#posturecorrection",
-      "#sedentarylifestyle",
-      "#backpain",
-      "#wellnessatwork",
+      "#foodsafety",
+      "#kitchenmistakes",
       "#healthtips",
-      "#dailyhabits",
-      "#workfromhome",
-      "#circulation"
+      "#foodstorage",
+      "#leftovers101",
+      "#foodpoisoningprevention",
+      "#wellness",
+      "#healthyhabits",
+      "#kitchenhacks",
+      "#eatclean"
     ],
     "extra_keywords": [
-      "desklife",
-      "movementmatters",
-      "healthyhabits",
-      "posturefix"
+      "foodsafetytips",
+      "kitchenmistakes",
+      "wellnessjourney",
+      "healthyliving",
+      "naturalhealing"
     ]
   },
-  "shape": "imperative_advice_list",
-  "caption": "If you sit for most of your workday, small habits matter more than one big workout after hours. Standing every 30 minutes isn't just about burning a few extra calories — brief movement resets blood flow to your legs and helps prevent the sluggish, heavy feeling that builds up after long stretches of sitting. Rolling your ankles hourly works the same way: it activates the calf muscles that act like a pump, pushing blood back up toward your heart instead of letting it settle in your lower legs. And that hip flexor stretch at lunch matters more than people think — sitting keeps those muscles in a shortened position for hours, and over time that tightness quietly pulls on your lower back and changes how you stand. Everyone's body holds tension differently, so notice where yours tends to stiffen first.\n\nAt @smarthealthfix, we cover nutrition, common health issues, organs and body functions, and small daily habits that actually fit into a busy schedule. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who sits at a desk all day.\n\n#deskjob #officehealth #posturecorrection #sedentarylifestyle #backpain #wellnessatwork #healthtips #dailyhabits #workfromhome #circulation desklife movementmatters healthyhabits posturefix"
+  "shape": "food_safety_mistake",
+  "caption": "A few of these are easy to miss, so let's break them down. Melon feels harmless because it's fruit, but its flesh has a neutral pH and high water content once cut, which is exactly the environment Listeria thrives in if it sits out at a party for hours. Garlic-in-oil is a sneaky one too — garlic naturally carries Clostridium botulinum spores from the soil, and without refrigeration or acid (like vinegar), the oil creates a low-oxygen pocket that lets the bacteria produce toxin without any obvious smell or taste change. And with leftover pasta or grains, it's not really about reheating — it's that slow cooldown period on the counter where Bacillus cereus spores germinate and multiply fastest, long before you ever put the container in the fridge. Everyone's kitchen habits are a little different, so it's worth double-checking your own routine against these.\n\n@smarthealthfix is all about the small stuff people overlook — nutrition, everyday symptoms, how your organs actually function, and the tiny daily habits that add up. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodsafety #kitchenmistakes #healthtips #foodstorage #leftovers101 #foodpoisoningprevention #wellness #healthyhabits #kitchenhacks #eatclean foodsafetytips kitchenmistakes wellnessjourney healthyliving naturalhealing"
 }
