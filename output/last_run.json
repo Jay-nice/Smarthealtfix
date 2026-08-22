@@ -1,43 +1,41 @@
 {
-  "png": "output/reel_20260822_102706.png",
-  "mp4": "output/reel_20260822_102706.mp4",
-  "cover": "output/cover_20260822_102706.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260822_153051.png",
+  "mp4": "output/reel_20260822_153051.mp4",
+  "cover": "output/cover_20260822_153051.png",
+  "cover_bg": "white",
   "content": {
-    "title": "WHAT THE FOOD INDUSTRY DOESN'T WARN YOU ABOUT {{STORAGE}} MISTAKES",
+    "title": "THE TINY HABIT THAT DOCTORS SNEAK INTO THEIR OWN ROUTINE",
     "facts": [
-      "**Mushrooms** – Storing them sealed in plastic (traps moisture and speeds bacterial growth, causing fast sliminess and spoilage).",
-      "**Eggs** – Keeping them in the fridge door (temperature swings from opening/closing speed up bacterial growth vs. the colder, stable interior shelves).",
-      "**Melon** – Leaving cut melon out for hours at a party (moist, low-acid flesh is a known ground for Listeria and Salmonella growth at room temp).",
-      "**Garlic-in-oil** – Making homemade garlic oil and storing it at room temperature (low-oxygen environment can allow Clostridium botulinum growth without refrigeration).",
-      "**Leftover pasta or grains** – Cooling them slowly on the counter before fridge storage (the slow cool-down window lets Bacillus cereus spores multiply).",
-      "**Raw sprouts** – Eating them without cooking, especially alfalfa or bean sprouts (warm, humid sprouting conditions are a known source of Salmonella and E. coli outbreaks).",
-      "**Deli meats** – Assuming they're safe straight from the package for weeks (Listeria can grow even under refrigeration once the pack is opened).",
-      "**Thawed fish** – Refreezing it after it's been thawed on the counter (each thaw cycle at unsafe temps gives bacteria another window to multiply).",
+      "**Chew each bite 20 times** — this slows digestion enough for your gut to release satiety hormones before you overeat.",
+      "**Splash your face with cold water** for 20 seconds each morning — it kickstarts circulation and shocks your nervous system into alertness without caffeine.",
+      "**Walk barefoot on grass for 5 minutes** — the uneven texture wakes up nerve endings in your feet that improve balance over time.",
+      "**Breathe out longer than you breathe in** (4 seconds in, 8 seconds out) — this single pattern lowers your heart rate within minutes.",
+      "**Write down 1 thing before bed** you're looking forward to tomorrow — this quiets the racing-thoughts loop that delays sleep.",
+      "**Open your curtains within 10 minutes of waking** — early light exposure sets your internal clock and makes falling asleep easier that night.",
+      "**Hum for 60 seconds** — the vibration stimulates your vagus nerve, which helps shift your body out of stress mode.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are easy to miss, so let's break them down. Melon feels harmless because it's fruit, but its flesh has a neutral pH and high water content once cut, which is exactly the environment Listeria thrives in if it sits out at a party for hours. Garlic-in-oil is a sneaky one too — garlic naturally carries Clostridium botulinum spores from the soil, and without refrigeration or acid (like vinegar), the oil creates a low-oxygen pocket that lets the bacteria produce toxin without any obvious smell or taste change. And with leftover pasta or grains, it's not really about reheating — it's that slow cooldown period on the counter where Bacillus cereus spores germinate and multiply fastest, long before you ever put the container in the fridge. Everyone's kitchen habits are a little different, so it's worth double-checking your own routine against these.\n\n@smarthealthfix is all about the small stuff people overlook — nutrition, everyday symptoms, how your organs actually function, and the tiny daily habits that add up. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Small habits sound almost too simple, but the mechanisms behind them are real. Take chewing — when you slow down to 20 chews per bite, your stomach has time to signal fullness through hormones like leptin, so you naturally stop eating sooner instead of overshooting. The cold water splash works differently: the sudden temperature change activates your sympathetic nervous system, giving you an alertness boost similar to a light workout. And humming isn't just relaxing — the vibration directly stimulates the vagus nerve, which is one of the main pathways your body uses to switch from 'fight or flight' into 'rest and digest.' Everyone's body responds a little differently, so notice what actually shifts something for you.\n\nAt @smarthealthfix, we cover everything from nutrition and organ function to everyday symptoms and the small daily habits that quietly shape your health. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs a little reset today.",
     "hashtags": [
-      "#foodsafety",
-      "#kitchenmistakes",
       "#healthtips",
-      "#foodstorage",
-      "#leftovers101",
-      "#foodpoisoningprevention",
-      "#wellness",
-      "#healthyhabits",
-      "#kitchenhacks",
-      "#eatclean"
+      "#dailyhabits",
+      "#wellnessroutine",
+      "#nervoussystem",
+      "#betterbreathing",
+      "#morningroutine",
+      "#sleeptips",
+      "#vagusnerve",
+      "#mindfuleating",
+      "#wellness"
     ],
     "extra_keywords": [
-      "foodsafetytips",
-      "kitchenmistakes",
+      "healthyhabits",
       "wellnessjourney",
-      "healthyliving",
-      "naturalhealing"
+      "naturalhealing",
+      "selfcaretips"
     ]
   },
-  "shape": "food_safety_mistake",
-  "caption": "A few of these are easy to miss, so let's break them down. Melon feels harmless because it's fruit, but its flesh has a neutral pH and high water content once cut, which is exactly the environment Listeria thrives in if it sits out at a party for hours. Garlic-in-oil is a sneaky one too — garlic naturally carries Clostridium botulinum spores from the soil, and without refrigeration or acid (like vinegar), the oil creates a low-oxygen pocket that lets the bacteria produce toxin without any obvious smell or taste change. And with leftover pasta or grains, it's not really about reheating — it's that slow cooldown period on the counter where Bacillus cereus spores germinate and multiply fastest, long before you ever put the container in the fridge. Everyone's kitchen habits are a little different, so it's worth double-checking your own routine against these.\n\n@smarthealthfix is all about the small stuff people overlook — nutrition, everyday symptoms, how your organs actually function, and the tiny daily habits that add up. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodsafety #kitchenmistakes #healthtips #foodstorage #leftovers101 #foodpoisoningprevention #wellness #healthyhabits #kitchenhacks #eatclean foodsafetytips kitchenmistakes wellnessjourney healthyliving naturalhealing"
+  "shape": "numbered_explainer",
+  "caption": "Small habits sound almost too simple, but the mechanisms behind them are real. Take chewing — when you slow down to 20 chews per bite, your stomach has time to signal fullness through hormones like leptin, so you naturally stop eating sooner instead of overshooting. The cold water splash works differently: the sudden temperature change activates your sympathetic nervous system, giving you an alertness boost similar to a light workout. And humming isn't just relaxing — the vibration directly stimulates the vagus nerve, which is one of the main pathways your body uses to switch from 'fight or flight' into 'rest and digest.' Everyone's body responds a little differently, so notice what actually shifts something for you.\n\nAt @smarthealthfix, we cover everything from nutrition and organ function to everyday symptoms and the small daily habits that quietly shape your health. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs a little reset today.\n\n#healthtips #dailyhabits #wellnessroutine #nervoussystem #betterbreathing #morningroutine #sleeptips #vagusnerve #mindfuleating #wellness healthyhabits wellnessjourney naturalhealing selfcaretips"
 }
