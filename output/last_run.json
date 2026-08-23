@@ -1,42 +1,42 @@
 {
-  "png": "output/reel_20260822_202233.png",
-  "mp4": "output/reel_20260822_202233.mp4",
-  "cover": "output/cover_20260822_202233.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260823_102732.png",
+  "mp4": "output/reel_20260823_102732.mp4",
+  "cover": "output/cover_20260823_102732.png",
+  "cover_bg": "white",
   "content": {
-    "title": "WHAT DOCTORS DO {{RIGHT BEFORE BED}} THAT YOU'D NEVER GUESS",
+    "title": "RULES NEW PARENTS SKIP THAT {{DOCTORS}} NEVER WOULD",
     "facts": [
-      "**Fruit juice instead of whole fruit** -> spikes blood sugar faster than a candy bar because the fiber that slows absorption is gone.",
-      "**Sleeping in on weekends** -> shifts your internal clock like mini jet lag, making Monday mornings harder.",
-      "**Wearing sunglasses all day, even when it's mild out** -> can confuse your body's light-based wake-up signal if overused.",
-      "**Taking a hot shower right before bed** -> feels relaxing but can delay sleep onset if it's too close to lights-out, since your core temp needs to drop first.",
-      "**Snacking on almonds straight from a big bag** -> a 'healthy' fat can turn into a calorie surplus fast without noticing portions.",
-      "**Using mouthwash right after brushing** -> can rinse away the concentrated fluoride your toothpaste just left behind.",
-      "**Stretching cold muscles before a run** -> may loosen joints too much and slightly raise injury risk instead of preventing it.",
-      "**Cracking your knuckles out of habit** -> won't cause arthritis, but repeated force over years can slightly loosen the joint capsule.",
+      "**Eat standing at the counter is fine** – a rushed 5-minute meal with protein beats skipping food for 6 hours straight.",
+      "**Batch your water** – fill a 1L bottle each morning and finish it by dinner; dehydration mimics exhaustion fast when you're sleep-deprived.",
+      "**Nap when the baby naps once a day, not every time** – use the other naps for a 10-minute shower or food, your nervous system needs both rest and basic care.",
+      "**Keep protein bars in the diaper bag** – blood sugar crashes make new parents shakier and more irritable than the sleep loss itself.",
+      "**Ask for a 2-hour solo block weekly** – even short stretches of alone time lower stress hormones measurably more than people expect.",
+      "**Skip the nursery Pinterest project** – perfectionism at month one steals hours you need for recovery, it can wait until month six.",
+      "**Take your own vitamin D** – it's easy to hand every ounce of care to the baby and forget your own basic nutrients for weeks.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Let's talk about a few of these. Fruit juice loses almost all its fiber during processing, so the natural sugars hit your bloodstream in one quick wave instead of a slow release, which is why juice can spike blood sugar more than people expect. Mouthwash right after brushing might feel extra clean, but it washes away the concentrated fluoride layer your toothpaste just deposited, so it actually works better used at a different time of day. And that hot pre-bed shower isn't bad, timing just matters: your body needs a slight core temperature drop to trigger sleepiness, so showering too close to bedtime can briefly delay that signal. Everyone's routine is different, so notice what actually changes how you feel.\n\nAt @smarthealthfix we dig into nutrition, everyday habits, common symptoms, and how your organs quietly react to daily choices most people never question. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "The first few weeks with a new baby quietly wreck a parent's own basics, and a few small swaps make a real difference. Protein bars in the diaper bag work because blood sugar dips don't just make you tired, they spike cortisol and make the crying, the noise, and the lack of sleep feel far more overwhelming than they actually are. Batching your water into one bottle matters more than it sounds like it should, because mild dehydration alone can lower mood and focus almost as much as a bad night's sleep does. And taking your own vitamin D isn't vanity — new parents who stay indoors for weeks often see their levels drop fast, which is linked to lower energy and flatter mood right when you need both the most. Everyone's recovery looks different, so adjust to what your body and schedule actually allow.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing perfect fixes that don't survive real life.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#newparents",
+      "#postpartumhealth",
+      "#parentingtips",
       "#healthtips",
+      "#momlife",
+      "#dadlife",
+      "#selfcare",
       "#wellness",
-      "#sleeptips",
-      "#guthealth",
-      "#dentalhealth",
-      "#healthyhabits",
-      "#biohacking",
-      "#nutritionfacts",
-      "#bodyawareness",
-      "#morningroutine"
+      "#exhaustedparent",
+      "#babyandme"
     ],
     "extra_keywords": [
-      "dailyhabits",
-      "wellnessjourney",
-      "healthawareness",
-      "smallhabitsbigchanges"
+      "newparenttips",
+      "postpartumrecovery",
+      "parentwellness",
+      "sleepdeprivedparent",
+      "smallhabits"
     ]
   },
-  "shape": "habit_harm_reveal",
-  "caption": "Let's talk about a few of these. Fruit juice loses almost all its fiber during processing, so the natural sugars hit your bloodstream in one quick wave instead of a slow release, which is why juice can spike blood sugar more than people expect. Mouthwash right after brushing might feel extra clean, but it washes away the concentrated fluoride layer your toothpaste just deposited, so it actually works better used at a different time of day. And that hot pre-bed shower isn't bad, timing just matters: your body needs a slight core temperature drop to trigger sleepiness, so showering too close to bedtime can briefly delay that signal. Everyone's routine is different, so notice what actually changes how you feel.\n\nAt @smarthealthfix we dig into nutrition, everyday habits, common symptoms, and how your organs quietly react to daily choices most people never question. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #sleeptips #guthealth #dentalhealth #healthyhabits #biohacking #nutritionfacts #bodyawareness #morningroutine dailyhabits wellnessjourney healthawareness smallhabitsbigchanges"
+  "shape": "imperative_advice_list",
+  "caption": "The first few weeks with a new baby quietly wreck a parent's own basics, and a few small swaps make a real difference. Protein bars in the diaper bag work because blood sugar dips don't just make you tired, they spike cortisol and make the crying, the noise, and the lack of sleep feel far more overwhelming than they actually are. Batching your water into one bottle matters more than it sounds like it should, because mild dehydration alone can lower mood and focus almost as much as a bad night's sleep does. And taking your own vitamin D isn't vanity — new parents who stay indoors for weeks often see their levels drop fast, which is linked to lower energy and flatter mood right when you need both the most. Everyone's recovery looks different, so adjust to what your body and schedule actually allow.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing perfect fixes that don't survive real life.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#newparents #postpartumhealth #parentingtips #healthtips #momlife #dadlife #selfcare #wellness #exhaustedparent #babyandme newparenttips postpartumrecovery parentwellness sleepdeprivedparent smallhabits"
 }
