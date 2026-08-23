@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20260823_102732.png",
-  "mp4": "output/reel_20260823_102732.mp4",
-  "cover": "output/cover_20260823_102732.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260823_153146.png",
+  "mp4": "output/reel_20260823_153146.mp4",
+  "cover": "output/cover_20260823_153146.png",
+  "cover_bg": "green",
   "content": {
-    "title": "RULES NEW PARENTS SKIP THAT {{DOCTORS}} NEVER WOULD",
+    "title": "WHY YOUR 'HEALTHY' MEALS AREN'T ACTUALLY WORKING",
     "facts": [
-      "**Eat standing at the counter is fine** – a rushed 5-minute meal with protein beats skipping food for 6 hours straight.",
-      "**Batch your water** – fill a 1L bottle each morning and finish it by dinner; dehydration mimics exhaustion fast when you're sleep-deprived.",
-      "**Nap when the baby naps once a day, not every time** – use the other naps for a 10-minute shower or food, your nervous system needs both rest and basic care.",
-      "**Keep protein bars in the diaper bag** – blood sugar crashes make new parents shakier and more irritable than the sleep loss itself.",
-      "**Ask for a 2-hour solo block weekly** – even short stretches of alone time lower stress hormones measurably more than people expect.",
-      "**Skip the nursery Pinterest project** – perfectionism at month one steals hours you need for recovery, it can wait until month six.",
-      "**Take your own vitamin D** – it's easy to hand every ounce of care to the baby and forget your own basic nutrients for weeks.",
+      "**Boiling vegetables** – This dumps most of the water-soluble vitamins straight into the drain; steaming or roasting keeps far more nutrients intact.",
+      "**Low-fat dressing** – Skipping oil on salads means your body can't absorb the fat-soluble vitamins (A, D, E, K) locked in those veggies; add 1 tbsp olive oil.",
+      "**Overcooking chicken breast** – Cooking 'to be safe' well past 165°F just dries out the protein and doesn't add any extra safety.",
+      "**Rinsing canned beans quickly** – A 5-second rinse leaves behind sodium-heavy liquid; 30 seconds under running water cuts sodium significantly.",
+      "**Blending smoothies with juice** – Using juice instead of whole fruit or milk spikes the sugar content while stripping out fiber.",
+      "**Salting pasta water lightly** – Under-salting means the pasta itself stays bland, so people reach for extra sauce or cheese to compensate.",
+      "**Microwaving in the same container** – Reheating meals in thin plastic takeout containers can leach chemicals into food, especially with fatty sauces.",
+      "**Adding salt too early** – Salting meat right before it hits the pan pulls out moisture and prevents a proper sear, leading to tougher, drier results.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "The first few weeks with a new baby quietly wreck a parent's own basics, and a few small swaps make a real difference. Protein bars in the diaper bag work because blood sugar dips don't just make you tired, they spike cortisol and make the crying, the noise, and the lack of sleep feel far more overwhelming than they actually are. Batching your water into one bottle matters more than it sounds like it should, because mild dehydration alone can lower mood and focus almost as much as a bad night's sleep does. And taking your own vitamin D isn't vanity — new parents who stay indoors for weeks often see their levels drop fast, which is linked to lower energy and flatter mood right when you need both the most. Everyone's recovery looks different, so adjust to what your body and schedule actually allow.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing perfect fixes that don't survive real life.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these cooking habits quietly cancel out the effort you're putting into eating well. Take boiling vegetables — the moment you drop broccoli or spinach into hot water, vitamin C and B vitamins start dissolving out into the liquid, so unless you're drinking that water, you're pouring nutrients down the sink. Low-fat dressing is another sneaky one: vitamins A, D, E, and K are fat-soluble, meaning your gut literally needs dietary fat present to absorb them, so a 'dry' salad can leave those nutrients passing right through you unused. And rinsing canned beans for just a couple seconds barely touches the starchy, sodium-packed liquid clinging to them — a real 30-second rinse under running water makes a noticeable difference. Everyone's kitchen habits are a little different, so start with whichever one feels easiest to fix first.\n\nAt @smarthealthfix, we cover the small stuff that actually moves the needle — nutrition, common symptoms, how your organs work, and the tiny daily habits that add up over time. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#newparents",
-      "#postpartumhealth",
-      "#parentingtips",
-      "#healthtips",
-      "#momlife",
-      "#dadlife",
-      "#selfcare",
+      "#healthyeating",
+      "#cookingtips",
+      "#nutritionfacts",
+      "#mealprep",
+      "#kitchenhacks",
       "#wellness",
-      "#exhaustedparent",
-      "#babyandme"
+      "#healthtips",
+      "#eatclean",
+      "#foodscience",
+      "#nutritionmyths"
     ],
     "extra_keywords": [
-      "newparenttips",
-      "postpartumrecovery",
-      "parentwellness",
-      "sleepdeprivedparent",
-      "smallhabits"
+      "healthycooking",
+      "nutritiontips",
+      "cookingmistakes",
+      "wellnessjourney",
+      "foodfacts"
     ]
   },
-  "shape": "imperative_advice_list",
-  "caption": "The first few weeks with a new baby quietly wreck a parent's own basics, and a few small swaps make a real difference. Protein bars in the diaper bag work because blood sugar dips don't just make you tired, they spike cortisol and make the crying, the noise, and the lack of sleep feel far more overwhelming than they actually are. Batching your water into one bottle matters more than it sounds like it should, because mild dehydration alone can lower mood and focus almost as much as a bad night's sleep does. And taking your own vitamin D isn't vanity — new parents who stay indoors for weeks often see their levels drop fast, which is linked to lower energy and flatter mood right when you need both the most. Everyone's recovery looks different, so adjust to what your body and schedule actually allow.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing perfect fixes that don't survive real life.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#newparents #postpartumhealth #parentingtips #healthtips #momlife #dadlife #selfcare #wellness #exhaustedparent #babyandme newparenttips postpartumrecovery parentwellness sleepdeprivedparent smallhabits"
+  "shape": "myth_bust",
+  "caption": "A few of these cooking habits quietly cancel out the effort you're putting into eating well. Take boiling vegetables — the moment you drop broccoli or spinach into hot water, vitamin C and B vitamins start dissolving out into the liquid, so unless you're drinking that water, you're pouring nutrients down the sink. Low-fat dressing is another sneaky one: vitamins A, D, E, and K are fat-soluble, meaning your gut literally needs dietary fat present to absorb them, so a 'dry' salad can leave those nutrients passing right through you unused. And rinsing canned beans for just a couple seconds barely touches the starchy, sodium-packed liquid clinging to them — a real 30-second rinse under running water makes a noticeable difference. Everyone's kitchen habits are a little different, so start with whichever one feels easiest to fix first.\n\nAt @smarthealthfix, we cover the small stuff that actually moves the needle — nutrition, common symptoms, how your organs work, and the tiny daily habits that add up over time. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthyeating #cookingtips #nutritionfacts #mealprep #kitchenhacks #wellness #healthtips #eatclean #foodscience #nutritionmyths healthycooking nutritiontips cookingmistakes wellnessjourney foodfacts"
 }
