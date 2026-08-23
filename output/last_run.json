@@ -1,43 +1,43 @@
 {
-  "png": "output/reel_20260823_153146.png",
-  "mp4": "output/reel_20260823_153146.mp4",
-  "cover": "output/cover_20260823_153146.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260823_202239.png",
+  "mp4": "output/reel_20260823_202239.mp4",
+  "cover": "output/cover_20260823_202239.png",
+  "cover_bg": "white",
   "content": {
-    "title": "WHY YOUR 'HEALTHY' MEALS AREN'T ACTUALLY WORKING",
+    "title": "WHAT DOCTORS DON'T WANT YOU TO KNOW ABOUT YOUR {{DAILY}} ROUTINE",
     "facts": [
-      "**Boiling vegetables** – This dumps most of the water-soluble vitamins straight into the drain; steaming or roasting keeps far more nutrients intact.",
-      "**Low-fat dressing** – Skipping oil on salads means your body can't absorb the fat-soluble vitamins (A, D, E, K) locked in those veggies; add 1 tbsp olive oil.",
-      "**Overcooking chicken breast** – Cooking 'to be safe' well past 165°F just dries out the protein and doesn't add any extra safety.",
-      "**Rinsing canned beans quickly** – A 5-second rinse leaves behind sodium-heavy liquid; 30 seconds under running water cuts sodium significantly.",
-      "**Blending smoothies with juice** – Using juice instead of whole fruit or milk spikes the sugar content while stripping out fiber.",
-      "**Salting pasta water lightly** – Under-salting means the pasta itself stays bland, so people reach for extra sauce or cheese to compensate.",
-      "**Microwaving in the same container** – Reheating meals in thin plastic takeout containers can leach chemicals into food, especially with fatty sauces.",
-      "**Adding salt too early** – Salting meat right before it hits the pan pulls out moisture and prevents a proper sear, leading to tougher, drier results.",
-      "**Follow along** – for more daily health tips like this."
+      "**Cold plunge** -> 2 minutes at 15°C, 3x/week -> Lower stress hormones",
+      "**Lentils** -> 1/2 cup/day -> Steady blood sugar",
+      "**Sunlight walk** -> 20 minutes at midday -> Better mood",
+      "**Deep squats** -> 5 reps, held 30 sec, daily -> Looser hips",
+      "**Pumpkin seeds** -> 1 oz/day -> More magnesium",
+      "**Silence** -> 10 minutes, no phone, daily -> Calmer nervous system",
+      "**Sleep window** -> Same bedtime within 30 min, nightly -> Deeper sleep",
+      "**Ginger tea** -> 1 cup after meals -> Eases bloating",
+      "**Gratitude note** -> 3 things, written nightly -> Less anxious thinking",
+      "**Follow along** -> for more daily health tips like this -> Stay consistent"
     ],
     "claims": [],
-    "caption": "A few of these cooking habits quietly cancel out the effort you're putting into eating well. Take boiling vegetables — the moment you drop broccoli or spinach into hot water, vitamin C and B vitamins start dissolving out into the liquid, so unless you're drinking that water, you're pouring nutrients down the sink. Low-fat dressing is another sneaky one: vitamins A, D, E, and K are fat-soluble, meaning your gut literally needs dietary fat present to absorb them, so a 'dry' salad can leave those nutrients passing right through you unused. And rinsing canned beans for just a couple seconds barely touches the starchy, sodium-packed liquid clinging to them — a real 30-second rinse under running water makes a noticeable difference. Everyone's kitchen habits are a little different, so start with whichever one feels easiest to fix first.\n\nAt @smarthealthfix, we cover the small stuff that actually moves the needle — nutrition, common symptoms, how your organs work, and the tiny daily habits that add up over time. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of today's picks deserve a closer look. Lentils are packed with soluble fiber, which slows down how fast sugar hits your bloodstream, so you avoid that mid-afternoon energy crash people blame on \"just getting older.\" The cold plunge habit isn't just a trend — brief cold exposure trains your vagus nerve to calm down faster after stress, which is why people who do it regularly report feeling less reactive during a hard day. And pumpkin seeds are one of the few everyday foods genuinely rich in magnesium, a mineral most people are quietly low on, which plays a direct role in muscle relaxation and sleep quality. Of course, everyone's body responds differently, so treat these as a starting point, not a rulebook.\n\nAt @smarthealthfix we focus on the everyday building blocks of health — nutrition, common symptoms, how your organs actually function, and the small daily habits that quietly shape all of it. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#healthyeating",
-      "#cookingtips",
-      "#nutritionfacts",
-      "#mealprep",
-      "#kitchenhacks",
-      "#wellness",
       "#healthtips",
-      "#eatclean",
-      "#foodscience",
-      "#nutritionmyths"
+      "#wellness",
+      "#dailyhabits",
+      "#magnesium",
+      "#bloodsugar",
+      "#stressrelief",
+      "#coldplunge",
+      "#guthealth",
+      "#betterlife",
+      "#sleepbetter"
     ],
     "extra_keywords": [
-      "healthycooking",
-      "nutritiontips",
-      "cookingmistakes",
       "wellnessjourney",
-      "foodfacts"
+      "naturalhealing",
+      "healthyhabits",
+      "mindbodyhealth"
     ]
   },
-  "shape": "myth_bust",
-  "caption": "A few of these cooking habits quietly cancel out the effort you're putting into eating well. Take boiling vegetables — the moment you drop broccoli or spinach into hot water, vitamin C and B vitamins start dissolving out into the liquid, so unless you're drinking that water, you're pouring nutrients down the sink. Low-fat dressing is another sneaky one: vitamins A, D, E, and K are fat-soluble, meaning your gut literally needs dietary fat present to absorb them, so a 'dry' salad can leave those nutrients passing right through you unused. And rinsing canned beans for just a couple seconds barely touches the starchy, sodium-packed liquid clinging to them — a real 30-second rinse under running water makes a noticeable difference. Everyone's kitchen habits are a little different, so start with whichever one feels easiest to fix first.\n\nAt @smarthealthfix, we cover the small stuff that actually moves the needle — nutrition, common symptoms, how your organs work, and the tiny daily habits that add up over time. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthyeating #cookingtips #nutritionfacts #mealprep #kitchenhacks #wellness #healthtips #eatclean #foodscience #nutritionmyths healthycooking nutritiontips cookingmistakes wellnessjourney foodfacts"
+  "shape": "daily_dose_habit",
+  "caption": "A few of today's picks deserve a closer look. Lentils are packed with soluble fiber, which slows down how fast sugar hits your bloodstream, so you avoid that mid-afternoon energy crash people blame on \"just getting older.\" The cold plunge habit isn't just a trend — brief cold exposure trains your vagus nerve to calm down faster after stress, which is why people who do it regularly report feeling less reactive during a hard day. And pumpkin seeds are one of the few everyday foods genuinely rich in magnesium, a mineral most people are quietly low on, which plays a direct role in muscle relaxation and sleep quality. Of course, everyone's body responds differently, so treat these as a starting point, not a rulebook.\n\nAt @smarthealthfix we focus on the everyday building blocks of health — nutrition, common symptoms, how your organs actually function, and the small daily habits that quietly shape all of it. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #dailyhabits #magnesium #bloodsugar #stressrelief #coldplunge #guthealth #betterlife #sleepbetter wellnessjourney naturalhealing healthyhabits mindbodyhealth"
 }
