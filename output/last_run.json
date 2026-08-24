@@ -1,42 +1,42 @@
 {
-  "png": "output/reel_20260824_155132.png",
-  "mp4": "output/reel_20260824_155132.mp4",
-  "cover": "output/cover_20260824_155132.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260824_203035.png",
+  "mp4": "output/reel_20260824_203035.mp4",
+  "cover": "output/cover_20260824_203035.png",
+  "cover_bg": "green",
   "content": {
-    "title": "WHAT HAPPENS TO YOUR BODY WHEN YOU EAT THE {{SAME FOOD}} EVERY DAY",
+    "title": "THE COLLEGE DORM CHEAT SHEET FOR ACTUALLY FEELING GOOD",
     "facts": [
-      "If you ate **beets** every day for 2 weeks, your blood pressure would drop slightly and your endurance during workouts would noticeably improve.",
-      "If you ate **oats** every day for 30 days, your LDL cholesterol would start trending down as the soluble fiber binds to it and carries it out.",
-      "If you ate **sardines** every day for 3 weeks, your joints would feel less stiff thanks to the steady dose of omega-3s reducing inflammation.",
-      "If you ate **kimchi** every day for 2 weeks, your digestion would feel smoother as the live bacteria repopulate your gut lining.",
-      "If you ate **walnuts** every day for 1 month, your skin would look slightly less dry and inflamed thanks to the plant-based fats.",
-      "If you ate **liver** once a week for 4 weeks, your energy levels would rise as your iron stores quietly rebuild.",
-      "If you ate **chia seeds** every day for 10 days, your bathroom habits would become more regular as the gel-forming fiber softens things.",
+      "**Instant oats + peanut butter** -> a 3am dorm snack that won't spike then crash your blood sugar like chips or cereal.",
+      "**Study naps** -> cap them at 20 minutes, longer naps drag you into deep sleep and leave you groggier than before.",
+      "**Free campus gym windows** -> 20 minutes lifting 3x/week protects your metabolism way more than an hour of scrolling on the treadmill.",
+      "**Dorm room plant or window seat** -> 10 minutes near natural light between classes resets your circadian rhythm better than another coffee.",
+      "**Electrolyte packets** -> keep a few in your backpack, dehydration mimics anxiety and fatigue almost exactly during finals week.",
+      "**Communal bathroom flip-flops** -> non-negotiable, dorm showers are a breeding ground for fungal infections that spread fast.",
+      "**Frozen mixed vegetables** -> cheaper and just as nutritious as fresh, keep a bag in the mini fridge for instant stir-fry additions.",
+      "**Late-night vending machine runs** -> swap for a stashed protein source in your room, decision fatigue at midnight always picks the candy bar.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Beets are one of the few foods that actually contain natural nitrates, which your body converts into nitric oxide — that's the compound that relaxes and widens your blood vessels, which is why blood pressure and stamina both respond so fast. Oats work differently: the beta-glucan fiber inside them forms a gel in your gut that physically traps cholesterol and bile acids before they get reabsorbed, forcing your liver to pull more cholesterol out of your blood to compensate. And kimchi isn't just fermented cabbage — the live Lactobacillus strains it carries can shift your gut microbiome balance within days, which is why bloating and sluggish digestion often ease up so quickly. Everyone's gut and body chemistry is a little different, so give it time and listen to how you personally respond.\n\n@smarthealthfix is all about the small, daily building blocks of health — nutrition, common symptoms, how your organs actually work, and tiny habits that add up. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these dorm swaps actually make a difference beyond just sounding smart. Instant oats with peanut butter work because the fat and fiber combo slows down how fast sugar hits your bloodstream, which is exactly why a bowl of cereal at 3am leaves you crashing an hour later. Capping naps at 20 minutes matters because after that your brain slips into deep sleep, and waking up mid-cycle is what causes that heavy, groggy feeling instead of the quick reset you wanted. Electrolyte packets aren't just for athletes either — mild dehydration alone can mimic brain fog and anxiety, which gets misread as stress during finals when it's really just fluid balance. Everyone's body responds a little differently, so pay attention to what actually works for you.\n\nAt @smarthealthfix we focus on the real pillars of health: nutrition, common symptoms people brush off, how your organs actually function, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#healthtips",
-      "#wellness",
-      "#guthealth",
-      "#nutritionfacts",
-      "#beets",
-      "#oats",
-      "#fermentedfoods",
-      "#antiinflammatory",
+      "#collegehealth",
+      "#studenttips",
+      "#dormlife",
       "#healthyhabits",
-      "#nutritionscience"
+      "#wellness",
+      "#healthtips",
+      "#finalsweek",
+      "#nutritiontips",
+      "#studentlife",
+      "#sleeptips"
     ],
     "extra_keywords": [
-      "wellnessjourney",
-      "foodismedicine",
-      "healthyeatinghabits",
-      "guttips",
-      "naturalhealing"
+      "collegewellness",
+      "healthyroutine",
+      "studenthealth",
+      "dormsurvival"
     ]
   },
-  "shape": "conditional_transformation",
-  "caption": "Beets are one of the few foods that actually contain natural nitrates, which your body converts into nitric oxide — that's the compound that relaxes and widens your blood vessels, which is why blood pressure and stamina both respond so fast. Oats work differently: the beta-glucan fiber inside them forms a gel in your gut that physically traps cholesterol and bile acids before they get reabsorbed, forcing your liver to pull more cholesterol out of your blood to compensate. And kimchi isn't just fermented cabbage — the live Lactobacillus strains it carries can shift your gut microbiome balance within days, which is why bloating and sluggish digestion often ease up so quickly. Everyone's gut and body chemistry is a little different, so give it time and listen to how you personally respond.\n\n@smarthealthfix is all about the small, daily building blocks of health — nutrition, common symptoms, how your organs actually work, and tiny habits that add up. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #nutritionfacts #beets #oats #fermentedfoods #antiinflammatory #healthyhabits #nutritionscience wellnessjourney foodismedicine healthyeatinghabits guttips naturalhealing"
+  "shape": "imperative_advice_list",
+  "caption": "A few of these dorm swaps actually make a difference beyond just sounding smart. Instant oats with peanut butter work because the fat and fiber combo slows down how fast sugar hits your bloodstream, which is exactly why a bowl of cereal at 3am leaves you crashing an hour later. Capping naps at 20 minutes matters because after that your brain slips into deep sleep, and waking up mid-cycle is what causes that heavy, groggy feeling instead of the quick reset you wanted. Electrolyte packets aren't just for athletes either — mild dehydration alone can mimic brain fog and anxiety, which gets misread as stress during finals when it's really just fluid balance. Everyone's body responds a little differently, so pay attention to what actually works for you.\n\nAt @smarthealthfix we focus on the real pillars of health: nutrition, common symptoms people brush off, how your organs actually function, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#collegehealth #studenttips #dormlife #healthyhabits #wellness #healthtips #finalsweek #nutritiontips #studentlife #sleeptips collegewellness healthyroutine studenthealth dormsurvival"
 }
