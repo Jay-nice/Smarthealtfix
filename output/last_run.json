@@ -1,41 +1,42 @@
 {
-  "png": "output/reel_20260824_104028.png",
-  "mp4": "output/reel_20260824_104028.mp4",
-  "cover": "output/cover_20260824_104028.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260824_155132.png",
+  "mp4": "output/reel_20260824_155132.mp4",
+  "cover": "output/cover_20260824_155132.png",
+  "cover_bg": "white",
   "content": {
-    "title": "DOCTORS DON'T WANT YOU TO KNOW THIS ABOUT {{BLOATING}}",
+    "title": "WHAT HAPPENS TO YOUR BODY WHEN YOU EAT THE {{SAME FOOD}} EVERY DAY",
     "facts": [
-      "**Fennel seeds** -> chew 1 tsp after a meal, they relax gut muscles and push trapped gas through faster.",
-      "**Papaya** -> contains papain, an enzyme that breaks down protein so your stomach doesn't sit there fermenting it.",
-      "**Peppermint tea** -> 1 cup after eating calms intestinal spasms behind that tight, swollen feeling.",
-      "**Cucumber** -> its high water content flushes out excess sodium that makes you puff up.",
-      "**Bananas** -> 1 a day balances potassium against salt, easing water retention in the belly.",
-      "**Buttermilk** -> a small glass after a heavy meal delivers probiotics that calm an irritated gut.",
-      "**Caraway seeds** -> steeped in hot water, they cut down gas-forming bacteria in the intestines.",
+      "If you ate **beets** every day for 2 weeks, your blood pressure would drop slightly and your endurance during workouts would noticeably improve.",
+      "If you ate **oats** every day for 30 days, your LDL cholesterol would start trending down as the soluble fiber binds to it and carries it out.",
+      "If you ate **sardines** every day for 3 weeks, your joints would feel less stiff thanks to the steady dose of omega-3s reducing inflammation.",
+      "If you ate **kimchi** every day for 2 weeks, your digestion would feel smoother as the live bacteria repopulate your gut lining.",
+      "If you ate **walnuts** every day for 1 month, your skin would look slightly less dry and inflamed thanks to the plant-based fats.",
+      "If you ate **liver** once a week for 4 weeks, your energy levels would rise as your iron stores quietly rebuild.",
+      "If you ate **chia seeds** every day for 10 days, your bathroom habits would become more regular as the gel-forming fiber softens things.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Bloating hits almost everyone after a big meal, but a few kitchen staples can quiet it down fast. Fennel seeds work because they relax the smooth muscle lining your gut wall, which lets trapped air move through instead of sitting there causing pressure. Papaya's papain enzyme goes to work breaking down protein-heavy meals before they have a chance to sit and ferment, which is often what causes that heavy, gassy feeling. Peppermint tea contains menthol, which has an antispasmodic effect on the digestive tract, easing cramping and that tight, stretched sensation. Everyone's gut reacts a little differently, so pay attention to what settles yours best.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and small daily habits that actually make a difference. Our mission is to help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who deals with bloating more than they'd like to admit.",
+    "caption": "Beets are one of the few foods that actually contain natural nitrates, which your body converts into nitric oxide — that's the compound that relaxes and widens your blood vessels, which is why blood pressure and stamina both respond so fast. Oats work differently: the beta-glucan fiber inside them forms a gel in your gut that physically traps cholesterol and bile acids before they get reabsorbed, forcing your liver to pull more cholesterol out of your blood to compensate. And kimchi isn't just fermented cabbage — the live Lactobacillus strains it carries can shift your gut microbiome balance within days, which is why bloating and sluggish digestion often ease up so quickly. Everyone's gut and body chemistry is a little different, so give it time and listen to how you personally respond.\n\n@smarthealthfix is all about the small, daily building blocks of health — nutrition, common symptoms, how your organs actually work, and tiny habits that add up. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#bloatingrelief",
-      "#guthealth",
-      "#digestivehealth",
       "#healthtips",
       "#wellness",
-      "#fennelseeds",
-      "#naturalremedies",
-      "#bellybloat",
-      "#healthyliving",
-      "#digestion"
+      "#guthealth",
+      "#nutritionfacts",
+      "#beets",
+      "#oats",
+      "#fermentedfoods",
+      "#antiinflammatory",
+      "#healthyhabits",
+      "#nutritionscience"
     ],
     "extra_keywords": [
-      "guthealing",
-      "bloatfree",
-      "naturalhealing",
-      "digestivetips"
+      "wellnessjourney",
+      "foodismedicine",
+      "healthyeatinghabits",
+      "guttips",
+      "naturalhealing"
     ]
   },
-  "shape": "problem_food_mapping",
-  "caption": "Bloating hits almost everyone after a big meal, but a few kitchen staples can quiet it down fast. Fennel seeds work because they relax the smooth muscle lining your gut wall, which lets trapped air move through instead of sitting there causing pressure. Papaya's papain enzyme goes to work breaking down protein-heavy meals before they have a chance to sit and ferment, which is often what causes that heavy, gassy feeling. Peppermint tea contains menthol, which has an antispasmodic effect on the digestive tract, easing cramping and that tight, stretched sensation. Everyone's gut reacts a little differently, so pay attention to what settles yours best.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and small daily habits that actually make a difference. Our mission is to help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who deals with bloating more than they'd like to admit.\n\n#bloatingrelief #guthealth #digestivehealth #healthtips #wellness #fennelseeds #naturalremedies #bellybloat #healthyliving #digestion guthealing bloatfree naturalhealing digestivetips"
+  "shape": "conditional_transformation",
+  "caption": "Beets are one of the few foods that actually contain natural nitrates, which your body converts into nitric oxide — that's the compound that relaxes and widens your blood vessels, which is why blood pressure and stamina both respond so fast. Oats work differently: the beta-glucan fiber inside them forms a gel in your gut that physically traps cholesterol and bile acids before they get reabsorbed, forcing your liver to pull more cholesterol out of your blood to compensate. And kimchi isn't just fermented cabbage — the live Lactobacillus strains it carries can shift your gut microbiome balance within days, which is why bloating and sluggish digestion often ease up so quickly. Everyone's gut and body chemistry is a little different, so give it time and listen to how you personally respond.\n\n@smarthealthfix is all about the small, daily building blocks of health — nutrition, common symptoms, how your organs actually work, and tiny habits that add up. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #nutritionfacts #beets #oats #fermentedfoods #antiinflammatory #healthyhabits #nutritionscience wellnessjourney foodismedicine healthyeatinghabits guttips naturalhealing"
 }
