@@ -1,43 +1,41 @@
 {
-  "png": "output/reel_20260823_202239.png",
-  "mp4": "output/reel_20260823_202239.mp4",
-  "cover": "output/cover_20260823_202239.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260824_104028.png",
+  "mp4": "output/reel_20260824_104028.mp4",
+  "cover": "output/cover_20260824_104028.png",
+  "cover_bg": "green",
   "content": {
-    "title": "WHAT DOCTORS DON'T WANT YOU TO KNOW ABOUT YOUR {{DAILY}} ROUTINE",
+    "title": "DOCTORS DON'T WANT YOU TO KNOW THIS ABOUT {{BLOATING}}",
     "facts": [
-      "**Cold plunge** -> 2 minutes at 15°C, 3x/week -> Lower stress hormones",
-      "**Lentils** -> 1/2 cup/day -> Steady blood sugar",
-      "**Sunlight walk** -> 20 minutes at midday -> Better mood",
-      "**Deep squats** -> 5 reps, held 30 sec, daily -> Looser hips",
-      "**Pumpkin seeds** -> 1 oz/day -> More magnesium",
-      "**Silence** -> 10 minutes, no phone, daily -> Calmer nervous system",
-      "**Sleep window** -> Same bedtime within 30 min, nightly -> Deeper sleep",
-      "**Ginger tea** -> 1 cup after meals -> Eases bloating",
-      "**Gratitude note** -> 3 things, written nightly -> Less anxious thinking",
-      "**Follow along** -> for more daily health tips like this -> Stay consistent"
+      "**Fennel seeds** -> chew 1 tsp after a meal, they relax gut muscles and push trapped gas through faster.",
+      "**Papaya** -> contains papain, an enzyme that breaks down protein so your stomach doesn't sit there fermenting it.",
+      "**Peppermint tea** -> 1 cup after eating calms intestinal spasms behind that tight, swollen feeling.",
+      "**Cucumber** -> its high water content flushes out excess sodium that makes you puff up.",
+      "**Bananas** -> 1 a day balances potassium against salt, easing water retention in the belly.",
+      "**Buttermilk** -> a small glass after a heavy meal delivers probiotics that calm an irritated gut.",
+      "**Caraway seeds** -> steeped in hot water, they cut down gas-forming bacteria in the intestines.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of today's picks deserve a closer look. Lentils are packed with soluble fiber, which slows down how fast sugar hits your bloodstream, so you avoid that mid-afternoon energy crash people blame on \"just getting older.\" The cold plunge habit isn't just a trend — brief cold exposure trains your vagus nerve to calm down faster after stress, which is why people who do it regularly report feeling less reactive during a hard day. And pumpkin seeds are one of the few everyday foods genuinely rich in magnesium, a mineral most people are quietly low on, which plays a direct role in muscle relaxation and sleep quality. Of course, everyone's body responds differently, so treat these as a starting point, not a rulebook.\n\nAt @smarthealthfix we focus on the everyday building blocks of health — nutrition, common symptoms, how your organs actually function, and the small daily habits that quietly shape all of it. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Bloating hits almost everyone after a big meal, but a few kitchen staples can quiet it down fast. Fennel seeds work because they relax the smooth muscle lining your gut wall, which lets trapped air move through instead of sitting there causing pressure. Papaya's papain enzyme goes to work breaking down protein-heavy meals before they have a chance to sit and ferment, which is often what causes that heavy, gassy feeling. Peppermint tea contains menthol, which has an antispasmodic effect on the digestive tract, easing cramping and that tight, stretched sensation. Everyone's gut reacts a little differently, so pay attention to what settles yours best.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and small daily habits that actually make a difference. Our mission is to help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who deals with bloating more than they'd like to admit.",
     "hashtags": [
+      "#bloatingrelief",
+      "#guthealth",
+      "#digestivehealth",
       "#healthtips",
       "#wellness",
-      "#dailyhabits",
-      "#magnesium",
-      "#bloodsugar",
-      "#stressrelief",
-      "#coldplunge",
-      "#guthealth",
-      "#betterlife",
-      "#sleepbetter"
+      "#fennelseeds",
+      "#naturalremedies",
+      "#bellybloat",
+      "#healthyliving",
+      "#digestion"
     ],
     "extra_keywords": [
-      "wellnessjourney",
+      "guthealing",
+      "bloatfree",
       "naturalhealing",
-      "healthyhabits",
-      "mindbodyhealth"
+      "digestivetips"
     ]
   },
-  "shape": "daily_dose_habit",
-  "caption": "A few of today's picks deserve a closer look. Lentils are packed with soluble fiber, which slows down how fast sugar hits your bloodstream, so you avoid that mid-afternoon energy crash people blame on \"just getting older.\" The cold plunge habit isn't just a trend — brief cold exposure trains your vagus nerve to calm down faster after stress, which is why people who do it regularly report feeling less reactive during a hard day. And pumpkin seeds are one of the few everyday foods genuinely rich in magnesium, a mineral most people are quietly low on, which plays a direct role in muscle relaxation and sleep quality. Of course, everyone's body responds differently, so treat these as a starting point, not a rulebook.\n\nAt @smarthealthfix we focus on the everyday building blocks of health — nutrition, common symptoms, how your organs actually function, and the small daily habits that quietly shape all of it. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #dailyhabits #magnesium #bloodsugar #stressrelief #coldplunge #guthealth #betterlife #sleepbetter wellnessjourney naturalhealing healthyhabits mindbodyhealth"
+  "shape": "problem_food_mapping",
+  "caption": "Bloating hits almost everyone after a big meal, but a few kitchen staples can quiet it down fast. Fennel seeds work because they relax the smooth muscle lining your gut wall, which lets trapped air move through instead of sitting there causing pressure. Papaya's papain enzyme goes to work breaking down protein-heavy meals before they have a chance to sit and ferment, which is often what causes that heavy, gassy feeling. Peppermint tea contains menthol, which has an antispasmodic effect on the digestive tract, easing cramping and that tight, stretched sensation. Everyone's gut reacts a little differently, so pay attention to what settles yours best.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and small daily habits that actually make a difference. Our mission is to help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who deals with bloating more than they'd like to admit.\n\n#bloatingrelief #guthealth #digestivehealth #healthtips #wellness #fennelseeds #naturalremedies #bellybloat #healthyliving #digestion guthealing bloatfree naturalhealing digestivetips"
 }
