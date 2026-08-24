@@ -9,6 +9,7 @@ account, dit is los, betaald per gebruik).
 """
 
 import os
+import re
 import json
 import requests
 from dotenv import load_dotenv
@@ -19,6 +20,48 @@ load_dotenv()
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
 ANTHROPIC_MODEL = "claude-sonnet-5"
+
+# Herkent welke titel-hook-familie een titel gebruikt, puur op basis van de tekst
+# zelf (geen aparte opslag nodig - werkt met de titels die toch al in history.json
+# staan). Dit is NIET aan de AI's eigen inschatting overgelaten: generate_and_check()
+# hieronder gebruikt dit om de "autoriteit verzwijgt iets"-hook hard te verbieden
+# zodra die recent al (te) vaak gebruikt is, zodat het profielgrid niet steeds
+# dezelfde donkere/wantrouwende toon krijgt (zie ook de TITEL-instructie hieronder).
+HOOK_PATTERNS = [
+    # Brede familie: elke titel die suggereert dat een autoriteit iets verzwijgt/
+    # ontraadt/waarschuwt, OF dat iets wat je vertrouwt je stiekem in de weg zit -
+    # dit is precies de "donkere/wantrouwende" toon waar het profielgrid te veel
+    # van kreeg, dus bewust ruim gedefinieerd i.p.v. alleen de letterlijke zin.
+    ("authority_hides", re.compile(
+        r"DOESN'?T WANT YOU TO KNOW|DOES NOT WANT YOU TO KNOW|"
+        r"WON'?T TELL YOU|WILL NOT TELL YOU|"
+        r"DON'?T WANT YOU TO KNOW|DO NOT WANT YOU TO KNOW|"
+        r"DOESN'?T WARN YOU|WON'?T WARN YOU|AREN'?T TELLING YOU|"
+        r"NEVER TELL YOU|SKIP THAT.*NEVER WOULD|"
+        r"AREN'?T ACTUALLY WORKING|ISN'?T ACTUALLY WORKING|"
+        r"SECRETLY (HARMING|RUINING|SABOTAGING)|QUIETLY (RUINING|HARMING)",
+        re.I,
+    )),
+    # De geruststellende/positieve omdraai - dit is NIET de donkere familie en mag
+    # dus vrij vaak, dat is juist de gewenste tegenhanger.
+    ("reversal_positive", re.compile(
+        r"SIGNS? YOU'?RE ACTUALLY (HEALTHY|HEALTHIER)|"
+        r"SIGNALS? YOU'?RE ACTUALLY (HEALTHY|HEALTHIER)|"
+        r"ACTUALLY HEALTHIER THAN YOU THINK",
+        re.I,
+    )),
+]
+
+
+def classify_hook(title):
+    """Geeft de hook-familie van een titel terug ('authority_hides',
+    'reversal_positive', of 'other') puur op basis van patroon-herkenning."""
+    if not title:
+        return "other"
+    for tag, pattern in HOOK_PATTERNS:
+        if pattern.search(title):
+            return tag
+    return "other"
 
 TEMPLATE_SHAPES = {
     "numbered_explainer": {
@@ -180,10 +223,18 @@ merkstijl van het account, ongeacht in welke taal dit verzoek zelf gesteld is.
 TITEL: maak 'm NIEUWSGIERIG-MAKEND, geen platte samenvatting die de hele inhoud al
 weggeeft. Kies uit dit soort hooks, wat het beste past bij het onderwerp. De eerste
 twee hieronder ("autoriteit verzwijgt iets" en "dit klinkt slecht maar is eigenlijk
-goed") zijn bij vergelijkbare accounts BIJ VERRE de sterkste performers qua views
-(soms 3-10x meer views dan een neutrale/beschrijvende titel over hetzelfde onderwerp)
-- gebruik die twee dus vaker dan de rest (ruim de helft van de keren), en wissel de
-andere helft af met de overige patronen zodat het niet elke keer identiek aanvoelt:
+goed") zijn bij vergelijkbare accounts sterke performers qua views - gebruik ze dus
+geregeld, maar BELANGRIJK: niet allebei dezelfde donkere/wantrouwende toon, en niet te
+vaak achter elkaar. Vooral de "autoriteit verzwijgt iets"-hook (doctors/big pharma/de
+food industry verzwijgt of ontraadt iets) mag je hoogstens ongeveer 1 op de 3 reels
+gebruiken, NOOIT twee keer op rij. Reden: als een paar reels achter elkaar allemaal
+"DOCTORS DON'T WANT YOU TO KNOW..." of een variant daarvan zijn, voelt het hele
+profielgrid eenzijdig alarmerend/wantrouwend aan in plaats van gevarieerd - dat werkt
+op de lange termijn tegen je. Wissel 'm dus bewust af met de reversal-hook ("SIGNS
+YOU'RE ACTUALLY...") en met de lichtere/neutralere patronen verderop in de lijst, ook
+als die net iets minder "spannend" lijken - variatie in TOON over de reeks reels heen
+(nieuwsgierig, geruststellend/positief, tegendraads) is minstens zo belangrijk voor het
+profiel als de kracht van 1 losse titel:
 - "WHAT {{AUTORITEIT}} DOESN'T WANT YOU TO KNOW" / "{{ONDERWERP}} DOCTORS WON'T TELL YOU" /
   "DOCTORS DON'T WANT YOU TO KNOW THIS" (wantrouwen richting een gevestigde autoriteit zoals
   "big pharma", "doctors", "the food industry" - suggereert verzwegen/onderbelichte info)
@@ -400,6 +451,27 @@ def generate_and_check(shape_key, topic_hint, audience="algemeen", recent_titles
             f"kies een merkbaar andere invalshoek (niet gewoon een synoniem van "
             f"hetzelfde idee):\n{titles_list}"
         )
+
+        # Code-enforced hook-variatie (niet aan AI-inschatting overgelaten, zelfde
+        # aanpak als de deterministische nummering elders): tel hoe vaak de
+        # "autoriteit verzwijgt iets"-hook recent al gebruikt is en verbied 'm hard
+        # voor deze titel als dat te vaak/net al zo was - dit is precies wat het
+        # profielgrid te donker/eenzijdig maakte.
+        recent_hooks = [classify_hook(t) for t in recent_titles]
+        last_hook = recent_hooks[-1] if recent_hooks else None
+        authority_count = recent_hooks.count("authority_hides")
+        if last_hook == "authority_hides" or authority_count >= 2:
+            user_prompt += (
+                "\n\nVERPLICHT voor deze titel: gebruik NIET de 'WHAT [AUTORITEIT] "
+                "DOESN'T WANT YOU TO KNOW' / 'DOCTORS WON'T TELL YOU' / 'RULES "
+                "[X] SKIP THAT DOCTORS NEVER WOULD'-hook (of een andere variant "
+                "van 'een autoriteit verzwijgt/ontraadt iets') - die is recent al "
+                "(te) vaak gebruikt en het profielgrid wordt daardoor te donker/"
+                "wantrouwend van toon. Kies bewust een van de andere, lichtere "
+                "hooks (bijv. 'SIGNS YOU'RE ACTUALLY...', 'WHAT HAPPENS TO YOUR "
+                "BODY WHEN...', 'CHEAT SHEET', een belofte-hook, of 'WHY...') die "
+                "WEL bij dit onderwerp past."
+            )
     if recent_items:
         items_list = ", ".join(recent_items)
         user_prompt += (
