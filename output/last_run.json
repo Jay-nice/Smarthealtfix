@@ -1,43 +1,42 @@
 {
-  "png": "output/reel_20260825_103753.png",
-  "mp4": "output/reel_20260825_103753.mp4",
-  "cover": "output/cover_20260825_103753.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260825_155549.png",
+  "mp4": "output/reel_20260825_155549.mp4",
+  "cover": "output/cover_20260825_155549.png",
+  "cover_bg": "green",
   "content": {
-    "title": "AN ORGAN-BY-ORGAN CHEAT SHEET FOR YOUR PLATE",
+    "title": "FOOD FACTS SO STRANGE THEY SOUND {{FAKE}} (BUT AREN'T)",
     "facts": [
-      "**Beets... wait, no** — **artichokes** kickstart bile flow, helping your **LIVER** break down fat instead of storing it.",
-      "**Buckwheat** is loaded with rutin, which strengthens vein walls and helps your **CIRCULATION** push blood back up from your legs.",
-      "**Brazil nuts** – just 2/day give you enough selenium to help your **THYROID** convert hormones properly.",
-      "**Asparagus** acts as a natural diuretic, easing the load on your **KIDNEYS** by helping flush excess sodium.",
-      "**Turkey breast** is rich in tryptophan, which your **BRAIN** converts into serotonin for a calmer mood.",
-      "**Collard greens** – 1 cup cooked delivers a big dose of vitamin K, guiding calcium straight into your **BONES** instead of your arteries.",
-      "**Mussels** pack B12 and iron together, giving your **NERVOUS SYSTEM** the raw material it needs to insulate nerve fibers.",
-      "**Pomegranate seeds** contain punicalagins that relax blood vessels, easing pressure on your **HEART**.",
-      "**Follow along** – for more daily health tips like this."
+      "**Cashews** never grow inside a shell you can crack normally — each nut hangs beneath a fruit called a 'cashew apple,' and the shell contains a caustic resin that must be roasted off before it's safe to touch.",
+      "**Almonds** are technically not a nut — they're the seed found inside a fruit closely related to a peach, and the fuzzy fruit around it gets thrown away by farmers.",
+      "**Nutmeg** contains a natural compound that can cause hallucinations and rapid heartbeat in doses as small as 2 whole nutmegs — the same spice sitting in your kitchen cabinet.",
+      "**Strawberries** aren't berries in the botanical sense, but bananas are — the seeds on the outside of a strawberry are actually its true fruit, hundreds of them per strawberry.",
+      "**Celery** requires more energy for your body to chew and digest than the celery itself contains in calories, making it one of the only foods that's genuinely close to 'negative calorie.'",
+      "**Carrots** were originally purple, not orange — the orange variety was bred in the Netherlands centuries ago, and wild purple carrots still exist today.",
+      "**Rhubarb** stalks are a common dessert ingredient, but its leaves contain enough oxalic acid to be genuinely toxic if eaten in quantity.",
+      "**Pineapples** contain an enzyme called bromelain so strong it actively digests proteins — which is why raw pineapple can make your tongue feel sore after eating too much.",
+      "**Follow along** – for more surprising, verified food facts like this."
     ],
     "claims": [],
-    "caption": "Let's break down a few of these: **artichokes** contain cynarin, a compound that specifically stimulates bile production in the liver, which is what your body uses to emulsify and clear dietary fat — that's why they're often used as a traditional after-meal digestive. **Buckwheat** isn't a grain at all, it's a seed, and the rutin inside it doesn't just support veins, it also has a mild anti-inflammatory effect that can ease that heavy-legs feeling after a long day standing. And **Brazil nuts** are so selenium-dense that just two a day can meet your full daily need — more than that and you're not getting extra benefit, just extra risk, so portion really matters here. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, the organs and body functions behind them, and small daily habits that actually stick. Our mission is to help you understand your body a little better every day, one simple swap at a time.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these deserve extra context. Cashews go through a roasting process specifically because the raw shell contains urushiol, a relative of the compound in poison ivy — that's the real reason you almost never see raw-in-shell cashews sold anywhere. Nutmeg's hallucinogenic effect comes from a compound called myristicin, which your liver converts into something chemically similar to amphetamine when eaten in large amounts — fascinating, but not something to test at home. And that bromelain in pineapple isn't just a fun fact — it's actually used commercially as a meat tenderizer because it breaks down muscle protein almost like a mild acid. Everyone's body reacts a little differently, so treat these as curiosities, not experiments.\n\nThis is the kind of thing we love digging into at @smarthealthfix — alongside nutrition, common symptoms, organ function, and the small daily habits that actually move the needle. Our mission is to make health feel less confusing and more like small, doable steps.\n\nSave this post so you don't lose it, and share it with someone who loves weird facts as much as you do.",
     "hashtags": [
-      "#organhealth",
-      "#liverhealth",
-      "#thyroidhealth",
-      "#hearthealth",
-      "#kidneyhealth",
-      "#nutritiontips",
-      "#healthyeating",
-      "#wellness",
+      "#foodfacts",
+      "#nutritionfacts",
       "#healthtips",
-      "#foodismedicine"
+      "#didyouknow",
+      "#wellness",
+      "#healthyeating",
+      "#foodscience",
+      "#nutritionknowledge",
+      "#surprisingfacts",
+      "#healthyliving"
     ],
     "extra_keywords": [
-      "organhealthtips",
-      "nutritionfacts",
-      "healthyhabits",
+      "foodtrivia",
+      "nutritionmyths",
       "wellnessjourney",
-      "eatforyourorgans"
+      "healthfacts"
     ]
   },
-  "shape": "allcaps_benefit",
-  "caption": "Let's break down a few of these: **artichokes** contain cynarin, a compound that specifically stimulates bile production in the liver, which is what your body uses to emulsify and clear dietary fat — that's why they're often used as a traditional after-meal digestive. **Buckwheat** isn't a grain at all, it's a seed, and the rutin inside it doesn't just support veins, it also has a mild anti-inflammatory effect that can ease that heavy-legs feeling after a long day standing. And **Brazil nuts** are so selenium-dense that just two a day can meet your full daily need — more than that and you're not getting extra benefit, just extra risk, so portion really matters here. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, the organs and body functions behind them, and small daily habits that actually stick. Our mission is to help you understand your body a little better every day, one simple swap at a time.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #liverhealth #thyroidhealth #hearthealth #kidneyhealth #nutritiontips #healthyeating #wellness #healthtips #foodismedicine organhealthtips nutritionfacts healthyhabits wellnessjourney eatforyourorgans"
+  "shape": "surprising_true_fact",
+  "caption": "A few of these deserve extra context. Cashews go through a roasting process specifically because the raw shell contains urushiol, a relative of the compound in poison ivy — that's the real reason you almost never see raw-in-shell cashews sold anywhere. Nutmeg's hallucinogenic effect comes from a compound called myristicin, which your liver converts into something chemically similar to amphetamine when eaten in large amounts — fascinating, but not something to test at home. And that bromelain in pineapple isn't just a fun fact — it's actually used commercially as a meat tenderizer because it breaks down muscle protein almost like a mild acid. Everyone's body reacts a little differently, so treat these as curiosities, not experiments.\n\nThis is the kind of thing we love digging into at @smarthealthfix — alongside nutrition, common symptoms, organ function, and the small daily habits that actually move the needle. Our mission is to make health feel less confusing and more like small, doable steps.\n\nSave this post so you don't lose it, and share it with someone who loves weird facts as much as you do.\n\n#foodfacts #nutritionfacts #healthtips #didyouknow #wellness #healthyeating #foodscience #nutritionknowledge #surprisingfacts #healthyliving foodtrivia nutritionmyths wellnessjourney healthfacts"
 }
