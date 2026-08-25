@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20260824_203035.png",
-  "mp4": "output/reel_20260824_203035.mp4",
-  "cover": "output/cover_20260824_203035.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260825_103753.png",
+  "mp4": "output/reel_20260825_103753.mp4",
+  "cover": "output/cover_20260825_103753.png",
+  "cover_bg": "white",
   "content": {
-    "title": "THE COLLEGE DORM CHEAT SHEET FOR ACTUALLY FEELING GOOD",
+    "title": "AN ORGAN-BY-ORGAN CHEAT SHEET FOR YOUR PLATE",
     "facts": [
-      "**Instant oats + peanut butter** -> a 3am dorm snack that won't spike then crash your blood sugar like chips or cereal.",
-      "**Study naps** -> cap them at 20 minutes, longer naps drag you into deep sleep and leave you groggier than before.",
-      "**Free campus gym windows** -> 20 minutes lifting 3x/week protects your metabolism way more than an hour of scrolling on the treadmill.",
-      "**Dorm room plant or window seat** -> 10 minutes near natural light between classes resets your circadian rhythm better than another coffee.",
-      "**Electrolyte packets** -> keep a few in your backpack, dehydration mimics anxiety and fatigue almost exactly during finals week.",
-      "**Communal bathroom flip-flops** -> non-negotiable, dorm showers are a breeding ground for fungal infections that spread fast.",
-      "**Frozen mixed vegetables** -> cheaper and just as nutritious as fresh, keep a bag in the mini fridge for instant stir-fry additions.",
-      "**Late-night vending machine runs** -> swap for a stashed protein source in your room, decision fatigue at midnight always picks the candy bar.",
+      "**Beets... wait, no** — **artichokes** kickstart bile flow, helping your **LIVER** break down fat instead of storing it.",
+      "**Buckwheat** is loaded with rutin, which strengthens vein walls and helps your **CIRCULATION** push blood back up from your legs.",
+      "**Brazil nuts** – just 2/day give you enough selenium to help your **THYROID** convert hormones properly.",
+      "**Asparagus** acts as a natural diuretic, easing the load on your **KIDNEYS** by helping flush excess sodium.",
+      "**Turkey breast** is rich in tryptophan, which your **BRAIN** converts into serotonin for a calmer mood.",
+      "**Collard greens** – 1 cup cooked delivers a big dose of vitamin K, guiding calcium straight into your **BONES** instead of your arteries.",
+      "**Mussels** pack B12 and iron together, giving your **NERVOUS SYSTEM** the raw material it needs to insulate nerve fibers.",
+      "**Pomegranate seeds** contain punicalagins that relax blood vessels, easing pressure on your **HEART**.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these dorm swaps actually make a difference beyond just sounding smart. Instant oats with peanut butter work because the fat and fiber combo slows down how fast sugar hits your bloodstream, which is exactly why a bowl of cereal at 3am leaves you crashing an hour later. Capping naps at 20 minutes matters because after that your brain slips into deep sleep, and waking up mid-cycle is what causes that heavy, groggy feeling instead of the quick reset you wanted. Electrolyte packets aren't just for athletes either — mild dehydration alone can mimic brain fog and anxiety, which gets misread as stress during finals when it's really just fluid balance. Everyone's body responds a little differently, so pay attention to what actually works for you.\n\nAt @smarthealthfix we focus on the real pillars of health: nutrition, common symptoms people brush off, how your organs actually function, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Let's break down a few of these: **artichokes** contain cynarin, a compound that specifically stimulates bile production in the liver, which is what your body uses to emulsify and clear dietary fat — that's why they're often used as a traditional after-meal digestive. **Buckwheat** isn't a grain at all, it's a seed, and the rutin inside it doesn't just support veins, it also has a mild anti-inflammatory effect that can ease that heavy-legs feeling after a long day standing. And **Brazil nuts** are so selenium-dense that just two a day can meet your full daily need — more than that and you're not getting extra benefit, just extra risk, so portion really matters here. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, the organs and body functions behind them, and small daily habits that actually stick. Our mission is to help you understand your body a little better every day, one simple swap at a time.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#collegehealth",
-      "#studenttips",
-      "#dormlife",
-      "#healthyhabits",
+      "#organhealth",
+      "#liverhealth",
+      "#thyroidhealth",
+      "#hearthealth",
+      "#kidneyhealth",
+      "#nutritiontips",
+      "#healthyeating",
       "#wellness",
       "#healthtips",
-      "#finalsweek",
-      "#nutritiontips",
-      "#studentlife",
-      "#sleeptips"
+      "#foodismedicine"
     ],
     "extra_keywords": [
-      "collegewellness",
-      "healthyroutine",
-      "studenthealth",
-      "dormsurvival"
+      "organhealthtips",
+      "nutritionfacts",
+      "healthyhabits",
+      "wellnessjourney",
+      "eatforyourorgans"
     ]
   },
-  "shape": "imperative_advice_list",
-  "caption": "A few of these dorm swaps actually make a difference beyond just sounding smart. Instant oats with peanut butter work because the fat and fiber combo slows down how fast sugar hits your bloodstream, which is exactly why a bowl of cereal at 3am leaves you crashing an hour later. Capping naps at 20 minutes matters because after that your brain slips into deep sleep, and waking up mid-cycle is what causes that heavy, groggy feeling instead of the quick reset you wanted. Electrolyte packets aren't just for athletes either — mild dehydration alone can mimic brain fog and anxiety, which gets misread as stress during finals when it's really just fluid balance. Everyone's body responds a little differently, so pay attention to what actually works for you.\n\nAt @smarthealthfix we focus on the real pillars of health: nutrition, common symptoms people brush off, how your organs actually function, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#collegehealth #studenttips #dormlife #healthyhabits #wellness #healthtips #finalsweek #nutritiontips #studentlife #sleeptips collegewellness healthyroutine studenthealth dormsurvival"
+  "shape": "allcaps_benefit",
+  "caption": "Let's break down a few of these: **artichokes** contain cynarin, a compound that specifically stimulates bile production in the liver, which is what your body uses to emulsify and clear dietary fat — that's why they're often used as a traditional after-meal digestive. **Buckwheat** isn't a grain at all, it's a seed, and the rutin inside it doesn't just support veins, it also has a mild anti-inflammatory effect that can ease that heavy-legs feeling after a long day standing. And **Brazil nuts** are so selenium-dense that just two a day can meet your full daily need — more than that and you're not getting extra benefit, just extra risk, so portion really matters here. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, the organs and body functions behind them, and small daily habits that actually stick. Our mission is to help you understand your body a little better every day, one simple swap at a time.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #liverhealth #thyroidhealth #hearthealth #kidneyhealth #nutritiontips #healthyeating #wellness #healthtips #foodismedicine organhealthtips nutritionfacts healthyhabits wellnessjourney eatforyourorgans"
 }
