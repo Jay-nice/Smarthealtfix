@@ -1,42 +1,41 @@
 {
-  "png": "output/reel_20260825_202847.png",
-  "mp4": "output/reel_20260825_202847.mp4",
-  "cover": "output/cover_20260825_202847.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260826_103821.png",
+  "mp4": "output/reel_20260826_103821.mp4",
+  "cover": "output/cover_20260826_103821.png",
+  "cover_bg": "green",
   "content": {
-    "title": "WHY YOUR 'HEALTHY' MEALS AREN'T ACTUALLY WORKING FOR YOU",
+    "title": "SIGNS YOUR BODY IS QUIETLY RUNNING LOW ON {{SOMETHING}}",
     "facts": [
-      "**Boiling broccoli** – This drains most of its vitamin C and antioxidants straight into the water; steam it for 5 minutes instead to keep nutrients intact.",
-      "**Salad first** – Eating raw vegetables before any fat or protein means less absorption of vitamins A, E, and K, since they're fat-soluble and need oil to be absorbed.",
-      "**Rinsing canned beans** – Skipping this step leaves excess sodium on the beans; a quick 30-second rinse cuts the sodium content significantly.",
-      "**Microwaving in plastic** – Even 'microwave-safe' containers can leach chemicals into food when heated; transfer to glass or ceramic first.",
-      "**Overcooking eggs** – Yolks cooked too long at high heat lose more of their choline and healthy fats; soft-scrambled or poached preserves more.",
-      "**Adding oil too early** – Pouring olive oil into a hot pan before sautéing breaks it down and creates harmful compounds; add it after the pan has cooled slightly or at the end.",
-      "**Skipping the resting time** – Cutting grilled chicken or meat immediately releases most of the juices and nutrients onto the cutting board; wait 5-10 minutes first.",
-      "**Overwashing mushrooms** – Soaking them in water makes them absorb liquid like a sponge, diluting flavor and nutrients; wipe with a damp cloth instead.",
+      "**Iodine** – Feeling cold all the time, unexplained weight gain, dry skin, and a swollen neck.",
+      "**Potassium** – Muscle cramps at night, heart palpitations, and constant fatigue.",
+      "**Vitamin E** – Blurry vision, muscle weakness, and numbness or tingling in your limbs.",
+      "**Folate** – Mouth sores, pale skin, brain fog, and feeling short of breath on light activity.",
+      "**Vitamin A** – Trouble seeing in dim light, dry itchy eyes, and frequent colds.",
+      "**Zinc** – Slow-healing cuts, hair thinning, and losing your sense of taste or smell.",
+      "**Omega-3** – Dry, flaky skin, joint stiffness, and trouble focusing on simple tasks.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these mistakes are more sneaky than people realize. Take broccoli — the vitamin C in it is water-soluble, meaning it literally dissolves and leaches out the moment it hits boiling water, so steaming preserves far more of it. Then there's the salad-first habit: your body needs dietary fat present in the digestive tract to actually absorb vitamins A, E, D, and K from those leafy greens, so a salad with zero dressing or protein is doing a lot less for you than it seems. And with canned beans, that starchy liquid they sit in (sometimes called aquafaba) carries a surprising amount of added sodium that a quick rinse under the tap washes right off. Everyone's kitchen habits are a little different, so start with the one that feels easiest to fix first.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you build small, realistic routines instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "If you've been feeling cold, foggy, or just 'off' lately, your body might be flagging a shortage rather than just stress or bad sleep. Take iodine — it's what your thyroid uses to make the hormones that control your body temperature and metabolism, so low levels can leave you feeling sluggish and freezing even in a warm room. Folate works differently: it's needed to build new red blood cells, so a shortage means less oxygen gets carried around your body, which shows up as breathlessness and that heavy brain fog feeling. And zinc plays a quiet but huge role in skin repair and immune signaling, which is exactly why cuts heal slower and colds hit harder when you're running low. Everyone's body is different, so these signs are worth noticing, not panicking over.\n\nAt @smarthealthfix, we break down nutrition, common health issues, your organs, and small daily habits so you can actually understand your body instead of guessing. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#healthyeating",
-      "#nutritiontips",
-      "#mealprep",
-      "#cookingtips",
-      "#foodfacts",
-      "#wellness",
+      "#nutrientdeficiency",
+      "#iodine",
+      "#potassium",
+      "#vitaminE",
+      "#folate",
+      "#vitaminA",
+      "#zincbenefits",
+      "#omega3",
       "#healthtips",
-      "#kitchenhacks",
-      "#eatclean",
-      "#nutritionfacts"
+      "#wellness"
     ],
     "extra_keywords": [
-      "healthycooking",
-      "nutritionmistakes",
+      "nutritiontips",
       "wellnessjourney",
-      "cookingsmarter"
+      "healthyhabits",
+      "bodysignals"
     ]
   },
-  "shape": "myth_bust",
-  "caption": "A few of these mistakes are more sneaky than people realize. Take broccoli — the vitamin C in it is water-soluble, meaning it literally dissolves and leaches out the moment it hits boiling water, so steaming preserves far more of it. Then there's the salad-first habit: your body needs dietary fat present in the digestive tract to actually absorb vitamins A, E, D, and K from those leafy greens, so a salad with zero dressing or protein is doing a lot less for you than it seems. And with canned beans, that starchy liquid they sit in (sometimes called aquafaba) carries a surprising amount of added sodium that a quick rinse under the tap washes right off. Everyone's kitchen habits are a little different, so start with the one that feels easiest to fix first.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you build small, realistic routines instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthyeating #nutritiontips #mealprep #cookingtips #foodfacts #wellness #healthtips #kitchenhacks #eatclean #nutritionfacts healthycooking nutritionmistakes wellnessjourney cookingsmarter"
+  "shape": "symptom_list",
+  "caption": "If you've been feeling cold, foggy, or just 'off' lately, your body might be flagging a shortage rather than just stress or bad sleep. Take iodine — it's what your thyroid uses to make the hormones that control your body temperature and metabolism, so low levels can leave you feeling sluggish and freezing even in a warm room. Folate works differently: it's needed to build new red blood cells, so a shortage means less oxygen gets carried around your body, which shows up as breathlessness and that heavy brain fog feeling. And zinc plays a quiet but huge role in skin repair and immune signaling, which is exactly why cuts heal slower and colds hit harder when you're running low. Everyone's body is different, so these signs are worth noticing, not panicking over.\n\nAt @smarthealthfix, we break down nutrition, common health issues, your organs, and small daily habits so you can actually understand your body instead of guessing. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #iodine #potassium #vitaminE #folate #vitaminA #zincbenefits #omega3 #healthtips #wellness nutritiontips wellnessjourney healthyhabits bodysignals"
 }
