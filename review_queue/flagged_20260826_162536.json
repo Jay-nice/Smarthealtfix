@@ -1,0 +1,199 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "GROCERY STORE SWAPS THAT QUIETLY BEAT THE {{POPULAR}} CHOICE",
+    "facts": [
+      "**Guava** has nearly five times more vitamin C than an orange, making it one of the most overlooked fruits at the store.",
+      "**White beans** pack more potassium per cup than a banana, yet almost nobody reaches for them.",
+      "**Sardines** contain more calcium than a glass of milk when you eat them with the bones in.",
+      "**Swiss chard** has more magnesium than a serving of spinach, gram for gram.",
+      "**Mussels** deliver more iron than a beef steak of the same size.",
+      "**Sunflower seeds** carry more vitamin K than a stalk of celery.",
+      "**Oysters** hold far more zinc than any cut of red meat you'll find in the aisle.",
+      "**Chia seeds** have more omega-3 ALA than a spoonful of walnuts.",
+      "**Mushrooms left in sunlight** for a few hours can rival a glass of fortified milk in vitamin D.",
+      "**Follow along** – for more daily health tips like this."
+    ],
+    "claims": [
+      {
+        "food_a": "Guava",
+        "food_b": "Orange",
+        "nutrient_key": "vitamin_c"
+      },
+      {
+        "food_a": "White beans",
+        "food_b": "Banana",
+        "nutrient_key": "potassium"
+      },
+      {
+        "food_a": "Sardines",
+        "food_b": "Milk",
+        "nutrient_key": "calcium"
+      },
+      {
+        "food_a": "Swiss chard",
+        "food_b": "Spinach",
+        "nutrient_key": "magnesium"
+      },
+      {
+        "food_a": "Mussels",
+        "food_b": "Beef",
+        "nutrient_key": "iron"
+      },
+      {
+        "food_a": "Sunflower seeds",
+        "food_b": "Celery",
+        "nutrient_key": "vitamin_k"
+      },
+      {
+        "food_a": "Oysters",
+        "food_b": "Red meat",
+        "nutrient_key": "zinc"
+      },
+      {
+        "food_a": "Chia seeds",
+        "food_b": "Walnuts",
+        "nutrient_key": "omega3_ala"
+      },
+      {
+        "food_a": "Sun-exposed mushrooms",
+        "food_b": "Fortified milk",
+        "nutrient_key": "vitamin_d"
+      }
+    ],
+    "caption": "A few of these swaps are worth slowing down on. Guava's vitamin C content works so well because it's paired with fiber, which helps your body absorb and use it more steadily instead of flushing it out fast like a supplement can. Swiss chard's magnesium matters more than people realize since magnesium helps your muscles actually relax after they contract, which is part of why low intake shows up as cramping or restless legs. And mussels being so rich in iron is a big deal for anyone who feels tired for no clear reason, since iron is what lets your red blood cells carry oxygen efficiently in the first place. Everyone's body and needs are different, so it's worth paying attention to how you personally feel.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organ function, and the small daily habits that tie it all together. Our mission is to make real nutrition science easy to actually use, instead of chasing trends that fade in a month.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "hashtags": [
+      "#nutritionfacts",
+      "#vitaminc",
+      "#magnesium",
+      "#ironrich",
+      "#zincfoods",
+      "#omega3",
+      "#vitamind",
+      "#healthyswaps",
+      "#wellnesstips",
+      "#nutrientdense"
+    ],
+    "extra_keywords": [
+      "nutritiontips",
+      "healthyeating",
+      "foodfacts",
+      "wellnessjourney",
+      "eatsmart"
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 9,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "Guava",
+          "food_b": "Orange",
+          "nutrient_key": "vitamin_c"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "White beans",
+          "food_b": "Banana",
+          "nutrient_key": "potassium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Sardines",
+          "food_b": "Milk",
+          "nutrient_key": "calcium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Swiss chard",
+          "food_b": "Spinach",
+          "nutrient_key": "magnesium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Mussels",
+          "food_b": "Beef",
+          "nutrient_key": "iron"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Sunflower seeds",
+          "food_b": "Celery",
+          "nutrient_key": "vitamin_k"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Oysters",
+          "food_b": "Red meat",
+          "nutrient_key": "zinc"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Chia seeds",
+          "food_b": "Walnuts",
+          "nutrient_key": "omega3_ala"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Sun-exposed mushrooms",
+          "food_b": "Fortified milk",
+          "nutrient_key": "vitamin_d"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      }
+    ]
+  }
+}
