@@ -1,41 +1,40 @@
 {
-  "png": "output/reel_20260826_103821.png",
-  "mp4": "output/reel_20260826_103821.mp4",
-  "cover": "output/cover_20260826_103821.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260826_224633.png",
+  "mp4": "output/reel_20260826_224633.mp4",
+  "cover": "output/cover_20260826_224633.png",
+  "cover_bg": "white",
   "content": {
-    "title": "SIGNS YOUR BODY IS QUIETLY RUNNING LOW ON {{SOMETHING}}",
+    "title": "THE MINERAL YOUR THYROID IS SILENTLY {{BEGGING}} FOR",
     "facts": [
-      "**Iodine** – Feeling cold all the time, unexplained weight gain, dry skin, and a swollen neck.",
-      "**Potassium** – Muscle cramps at night, heart palpitations, and constant fatigue.",
-      "**Vitamin E** – Blurry vision, muscle weakness, and numbness or tingling in your limbs.",
-      "**Folate** – Mouth sores, pale skin, brain fog, and feeling short of breath on light activity.",
-      "**Vitamin A** – Trouble seeing in dim light, dry itchy eyes, and frequent colds.",
-      "**Zinc** – Slow-healing cuts, hair thinning, and losing your sense of taste or smell.",
-      "**Omega-3** – Dry, flaky skin, joint stiffness, and trouble focusing on simple tasks.",
+      "**Copper** (Collagen Builder) — Cashew Alternative: Sesame Seeds | Lentils | Dark Leafy Greens | Shiitake Mushrooms",
+      "**Manganese** (Bone & Joint Support) — Mussels | Pineapple Alternative: Brown Rice | Chickpeas | Pecans",
+      "**Selenium** (Thyroid Protector) — Sunflower Seeds | Eggs | Sardines | Whole Wheat Bread",
+      "**Chromium** (Blood Sugar Balancer) — Broccoli | Grape Juice | Whole Grain Oats | Green Beans",
+      "**Phosphorus** (Energy Converter) — Pumpkin Seeds | Salmon | Lentils | Greek Yogurt",
+      "**Molybdenum** (Detox Enzyme Helper) — Black-Eyed Peas | Lentils | Oats | Sunflower Seeds",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "If you've been feeling cold, foggy, or just 'off' lately, your body might be flagging a shortage rather than just stress or bad sleep. Take iodine — it's what your thyroid uses to make the hormones that control your body temperature and metabolism, so low levels can leave you feeling sluggish and freezing even in a warm room. Folate works differently: it's needed to build new red blood cells, so a shortage means less oxygen gets carried around your body, which shows up as breathlessness and that heavy brain fog feeling. And zinc plays a quiet but huge role in skin repair and immune signaling, which is exactly why cuts heal slower and colds hit harder when you're running low. Everyone's body is different, so these signs are worth noticing, not panicking over.\n\nAt @smarthealthfix, we break down nutrition, common health issues, your organs, and small daily habits so you can actually understand your body instead of guessing. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Copper doesn't just build collagen for skin, it actually helps your body absorb and use iron properly, so a hidden copper shortage can quietly mimic iron-deficiency fatigue. Selenium works as a building block for enzymes that protect your thyroid gland from oxidative stress, which is why low levels are linked to sluggish thyroid function over time. Chromium plays a role in helping insulin do its job more efficiently, so it can support steadier energy levels between meals instead of the crash-and-craving cycle. That said, everyone's body is different, so pay attention to how you personally feel and adjust from there.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits into simple, practical posts you can actually use. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#nutrientdeficiency",
-      "#iodine",
-      "#potassium",
-      "#vitaminE",
-      "#folate",
-      "#vitaminA",
-      "#zincbenefits",
-      "#omega3",
+      "#copper",
+      "#selenium",
+      "#manganese",
+      "#chromium",
+      "#thyroidhealth",
+      "#mineraldeficiency",
       "#healthtips",
-      "#wellness"
+      "#nutritionfacts",
+      "#wellnessjourney",
+      "#guttips"
     ],
     "extra_keywords": [
-      "nutritiontips",
-      "wellnessjourney",
-      "healthyhabits",
-      "bodysignals"
+      "naturalhealing",
+      "wellnesstips",
+      "mineralbalance",
+      "healthyeatinghabits"
     ]
   },
-  "shape": "symptom_list",
-  "caption": "If you've been feeling cold, foggy, or just 'off' lately, your body might be flagging a shortage rather than just stress or bad sleep. Take iodine — it's what your thyroid uses to make the hormones that control your body temperature and metabolism, so low levels can leave you feeling sluggish and freezing even in a warm room. Folate works differently: it's needed to build new red blood cells, so a shortage means less oxygen gets carried around your body, which shows up as breathlessness and that heavy brain fog feeling. And zinc plays a quiet but huge role in skin repair and immune signaling, which is exactly why cuts heal slower and colds hit harder when you're running low. Everyone's body is different, so these signs are worth noticing, not panicking over.\n\nAt @smarthealthfix, we break down nutrition, common health issues, your organs, and small daily habits so you can actually understand your body instead of guessing. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #iodine #potassium #vitaminE #folate #vitaminA #zincbenefits #omega3 #healthtips #wellness nutritiontips wellnessjourney healthyhabits bodysignals"
+  "shape": "mineral_sources",
+  "caption": "Copper doesn't just build collagen for skin, it actually helps your body absorb and use iron properly, so a hidden copper shortage can quietly mimic iron-deficiency fatigue. Selenium works as a building block for enzymes that protect your thyroid gland from oxidative stress, which is why low levels are linked to sluggish thyroid function over time. Chromium plays a role in helping insulin do its job more efficiently, so it can support steadier energy levels between meals instead of the crash-and-craving cycle. That said, everyone's body is different, so pay attention to how you personally feel and adjust from there.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits into simple, practical posts you can actually use. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#copper #selenium #manganese #chromium #thyroidhealth #mineraldeficiency #healthtips #nutritionfacts #wellnessjourney #guttips naturalhealing wellnesstips mineralbalance healthyeatinghabits"
 }
