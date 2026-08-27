@@ -1,40 +1,41 @@
 {
-  "png": "output/reel_20260826_224633.png",
-  "mp4": "output/reel_20260826_224633.mp4",
-  "cover": "output/cover_20260826_224633.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260827_201259.png",
+  "mp4": "output/reel_20260827_201259.mp4",
+  "cover": "output/cover_20260827_201259.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE MINERAL YOUR THYROID IS SILENTLY {{BEGGING}} FOR",
+    "title": "WHY YOUR {{PANCREAS}} IS BEGGING YOU TO STOP SKIPPING BREAKFAST",
     "facts": [
-      "**Copper** (Collagen Builder) — Cashew Alternative: Sesame Seeds | Lentils | Dark Leafy Greens | Shiitake Mushrooms",
-      "**Manganese** (Bone & Joint Support) — Mussels | Pineapple Alternative: Brown Rice | Chickpeas | Pecans",
-      "**Selenium** (Thyroid Protector) — Sunflower Seeds | Eggs | Sardines | Whole Wheat Bread",
-      "**Chromium** (Blood Sugar Balancer) — Broccoli | Grape Juice | Whole Grain Oats | Green Beans",
-      "**Phosphorus** (Energy Converter) — Pumpkin Seeds | Salmon | Lentils | Greek Yogurt",
-      "**Molybdenum** (Detox Enzyme Helper) — Black-Eyed Peas | Lentils | Oats | Sunflower Seeds",
+      "**Pancreas** - Oats, Bitter melon, Spinach steady out blood sugar swings that keep this organ pumping insulin nonstop.",
+      "**Bladder** - Cranberries, Cucumber, Watermelon flush out bacteria before they get a chance to settle in.",
+      "**Liver** - Beets, Turmeric, Walnuts help the liver break down toxins and keep bile flowing smoothly.",
+      "**Thyroid** - Brazil nuts, Seaweed, Eggs give this gland the raw material it needs to make hormones properly.",
+      "**Joints** - Sardines, Cherries, Olive oil calm inflammation that stiffens up cartilage over time.",
+      "**Bone marrow** - Beef liver, Lentils, Pumpkin seeds supply the iron and B12 needed to keep churning out fresh blood cells.",
+      "**Adrenal glands** - Avocado, Sunflower seeds, Dark chocolate help regulate cortisol so you don't crash by 3pm.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Copper doesn't just build collagen for skin, it actually helps your body absorb and use iron properly, so a hidden copper shortage can quietly mimic iron-deficiency fatigue. Selenium works as a building block for enzymes that protect your thyroid gland from oxidative stress, which is why low levels are linked to sluggish thyroid function over time. Chromium plays a role in helping insulin do its job more efficiently, so it can support steadier energy levels between meals instead of the crash-and-craving cycle. That said, everyone's body is different, so pay attention to how you personally feel and adjust from there.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits into simple, practical posts you can actually use. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "The pancreas honestly doesn't get enough credit, and oats are one of its quiet favorites since the slow-digesting fiber prevents the sharp blood sugar spikes that force it to overwork. The bladder benefits massively from cranberries too, not just as an old wives' tale, the compounds in them actually stop bacteria from sticking to its walls in the first place. And don't underestimate walnuts for the liver, they're rich in compounds that support the enzymes your liver uses to neutralize everyday toxins from food and air. Obviously everyone's body responds a little differently, so pay attention to what works for you.\n\nThis is what @smarthealthfix is all about: breaking down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#copper",
-      "#selenium",
-      "#manganese",
-      "#chromium",
+      "#pancreashealth",
+      "#liverhealth",
       "#thyroidhealth",
-      "#mineraldeficiency",
+      "#bladderhealth",
+      "#jointpain",
       "#healthtips",
+      "#organhealth",
+      "#wellness",
       "#nutritionfacts",
-      "#wellnessjourney",
-      "#guttips"
+      "#guthealth"
     ],
     "extra_keywords": [
       "naturalhealing",
-      "wellnesstips",
-      "mineralbalance",
-      "healthyeatinghabits"
+      "wellnessjourney",
+      "organhealth",
+      "healthyeating"
     ]
   },
-  "shape": "mineral_sources",
-  "caption": "Copper doesn't just build collagen for skin, it actually helps your body absorb and use iron properly, so a hidden copper shortage can quietly mimic iron-deficiency fatigue. Selenium works as a building block for enzymes that protect your thyroid gland from oxidative stress, which is why low levels are linked to sluggish thyroid function over time. Chromium plays a role in helping insulin do its job more efficiently, so it can support steadier energy levels between meals instead of the crash-and-craving cycle. That said, everyone's body is different, so pay attention to how you personally feel and adjust from there.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits into simple, practical posts you can actually use. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#copper #selenium #manganese #chromium #thyroidhealth #mineraldeficiency #healthtips #nutritionfacts #wellnessjourney #guttips naturalhealing wellnesstips mineralbalance healthyeatinghabits"
+  "shape": "organ_food_list",
+  "caption": "The pancreas honestly doesn't get enough credit, and oats are one of its quiet favorites since the slow-digesting fiber prevents the sharp blood sugar spikes that force it to overwork. The bladder benefits massively from cranberries too, not just as an old wives' tale, the compounds in them actually stop bacteria from sticking to its walls in the first place. And don't underestimate walnuts for the liver, they're rich in compounds that support the enzymes your liver uses to neutralize everyday toxins from food and air. Obviously everyone's body responds a little differently, so pay attention to what works for you.\n\nThis is what @smarthealthfix is all about: breaking down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#pancreashealth #liverhealth #thyroidhealth #bladderhealth #jointpain #healthtips #organhealth #wellness #nutritionfacts #guthealth naturalhealing wellnessjourney organhealth healthyeating"
 }
