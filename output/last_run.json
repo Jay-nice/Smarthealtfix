@@ -1,41 +1,41 @@
 {
-  "png": "output/reel_20260827_201259.png",
-  "mp4": "output/reel_20260827_201259.mp4",
-  "cover": "output/cover_20260827_201259.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260828_002222.png",
+  "mp4": "output/reel_20260828_002222.mp4",
+  "cover": "output/cover_20260828_002222.png",
+  "cover_bg": "white",
   "content": {
-    "title": "WHY YOUR {{PANCREAS}} IS BEGGING YOU TO STOP SKIPPING BREAKFAST",
+    "title": "THE KITCHEN MISTAKES {{QUIETLY MAKING}} YOUR FOOD RISKIER",
     "facts": [
-      "**Pancreas** - Oats, Bitter melon, Spinach steady out blood sugar swings that keep this organ pumping insulin nonstop.",
-      "**Bladder** - Cranberries, Cucumber, Watermelon flush out bacteria before they get a chance to settle in.",
-      "**Liver** - Beets, Turmeric, Walnuts help the liver break down toxins and keep bile flowing smoothly.",
-      "**Thyroid** - Brazil nuts, Seaweed, Eggs give this gland the raw material it needs to make hormones properly.",
-      "**Joints** - Sardines, Cherries, Olive oil calm inflammation that stiffens up cartilage over time.",
-      "**Bone marrow** - Beef liver, Lentils, Pumpkin seeds supply the iron and B12 needed to keep churning out fresh blood cells.",
-      "**Adrenal glands** - Avocado, Sunflower seeds, Dark chocolate help regulate cortisol so you don't crash by 3pm.",
-      "**Follow along** – for more daily health tips like this."
+      "**Leftover pasta** – Cooling it too slowly on the counter (Bacillus cereus spores can survive cooking and multiply fast between 4-60°C).",
+      "**Chicken** – Washing it in the sink before cooking (splashes spread Campylobacter and Salmonella onto counters, faucets and towels).",
+      "**Melons** – Leaving a cut melon at room temp for hours (moist, low-acid flesh is a prime spot for Listeria and Salmonella growth).",
+      "**Garlic-in-oil** – Making homemade infused oil and storing it at room temperature (low-oxygen environment can let Clostridium botulinum grow).",
+      "**Eggs** – Storing them in the fridge door instead of the main shelf (door temps swing every time it opens, speeding bacterial growth).",
+      "**Ground meat** – Thawing it on the counter overnight (the outer layer sits in the danger zone long before the center defrosts).",
+      "**Sprouts** – Eating them raw straight from the packet (warm, humid growing conditions make them a known Salmonella and E. coli risk).",
+      "**Follow along** – for more daily food safety tips like this."
     ],
     "claims": [],
-    "caption": "The pancreas honestly doesn't get enough credit, and oats are one of its quiet favorites since the slow-digesting fiber prevents the sharp blood sugar spikes that force it to overwork. The bladder benefits massively from cranberries too, not just as an old wives' tale, the compounds in them actually stop bacteria from sticking to its walls in the first place. And don't underestimate walnuts for the liver, they're rich in compounds that support the enzymes your liver uses to neutralize everyday toxins from food and air. Obviously everyone's body responds a little differently, so pay attention to what works for you.\n\nThis is what @smarthealthfix is all about: breaking down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Let's talk about a few of these in more detail. Leftover pasta feels harmless, but Bacillus cereus spores actually survive the boiling water — they just stay dormant until the pasta cools slowly on the counter, giving them the exact warm window they need to multiply and produce toxins that reheating won't destroy. With chicken, washing it under the tap doesn't remove bacteria the way people assume — it actually aerosolizes water droplets that can travel over a meter, landing Campylobacter on your sponge, dish rack and countertop. And garlic-in-oil is sneaky: garlic looks dry, but it holds enough moisture that once it's sealed in oil at room temperature, it creates a low-oxygen pocket that's perfect for Clostridium botulinum to grow silently, without changing the smell or taste.\n\nThis is exactly what @smarthealthfix is here for — breaking down nutrition, common health issues, organs and body functions, and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#pancreashealth",
-      "#liverhealth",
-      "#thyroidhealth",
-      "#bladderhealth",
-      "#jointpain",
+      "#foodsafety",
+      "#kitchenmistakes",
       "#healthtips",
-      "#organhealth",
+      "#foodpoisoningprevention",
+      "#leftoverstips",
+      "#raweggs",
+      "#mealprep101",
       "#wellness",
-      "#nutritionfacts",
-      "#guthealth"
+      "#healthyhabits"
     ],
     "extra_keywords": [
-      "naturalhealing",
+      "foodsafetytips",
+      "kitchenhacks",
+      "cookingmistakes",
       "wellnessjourney",
-      "organhealth",
-      "healthyeating"
+      "healthyhabits"
     ]
   },
-  "shape": "organ_food_list",
-  "caption": "The pancreas honestly doesn't get enough credit, and oats are one of its quiet favorites since the slow-digesting fiber prevents the sharp blood sugar spikes that force it to overwork. The bladder benefits massively from cranberries too, not just as an old wives' tale, the compounds in them actually stop bacteria from sticking to its walls in the first place. And don't underestimate walnuts for the liver, they're rich in compounds that support the enzymes your liver uses to neutralize everyday toxins from food and air. Obviously everyone's body responds a little differently, so pay attention to what works for you.\n\nThis is what @smarthealthfix is all about: breaking down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#pancreashealth #liverhealth #thyroidhealth #bladderhealth #jointpain #healthtips #organhealth #wellness #nutritionfacts #guthealth naturalhealing wellnessjourney organhealth healthyeating"
+  "shape": "food_safety_mistake",
+  "caption": "Let's talk about a few of these in more detail. Leftover pasta feels harmless, but Bacillus cereus spores actually survive the boiling water — they just stay dormant until the pasta cools slowly on the counter, giving them the exact warm window they need to multiply and produce toxins that reheating won't destroy. With chicken, washing it under the tap doesn't remove bacteria the way people assume — it actually aerosolizes water droplets that can travel over a meter, landing Campylobacter on your sponge, dish rack and countertop. And garlic-in-oil is sneaky: garlic looks dry, but it holds enough moisture that once it's sealed in oil at room temperature, it creates a low-oxygen pocket that's perfect for Clostridium botulinum to grow silently, without changing the smell or taste.\n\nThis is exactly what @smarthealthfix is here for — breaking down nutrition, common health issues, organs and body functions, and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodsafety #kitchenmistakes #healthtips #foodpoisoningprevention #leftoverstips #raweggs #mealprep101 #wellness #healthyhabits foodsafetytips kitchenhacks cookingmistakes wellnessjourney healthyhabits"
 }
