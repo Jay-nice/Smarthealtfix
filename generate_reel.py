@@ -151,6 +151,29 @@ def render_slide(config, out_path):
 
     # parse {{highlight}} in de titel -> los als bold-run met groene kleur
     raw_title = config["title"].upper()
+
+    if "{{" not in raw_title:
+        # Code-gegarandeerd (niet afhankelijk van of de AI - of iemand die zelf
+        # een titel typt, zoals in een test - er wel aan denkt om {{...}} toe te
+        # voegen): staat er GEEN accentwoord in de titel, dan kiezen we er zelf
+        # één - het langste "inhoudelijke" woord, met een korte stopwoordenlijst
+        # zodat we niet per ongeluk "YOUR"/"THIS"/"FOR" oppakken. Zo staat er
+        # ALTIJD minstens 1 groen woord in elke titel.
+        _skip_words = {
+            "THE", "A", "AN", "TO", "OF", "FOR", "AND", "OR", "IS", "ARE",
+            "YOU", "YOUR", "THIS", "THAT", "THESE", "THOSE", "IN", "ON", "AT",
+            "WHY", "WHAT", "HOW", "IF", "EVERY", "WHICH", "WHEN", "WHO",
+            "WILL", "WON'T", "DON'T", "DOESN'T", "NEVER", "ALWAYS", "BE",
+            "DO", "IT", "WITH", "FROM", "BUT", "NOT", "SO", "CAN", "ACTUALLY",
+        }
+        candidates = [
+            w for w in re.findall(r"[A-Z']+", raw_title)
+            if w not in _skip_words and len(w) > 2
+        ]
+        if candidates:
+            pick = max(candidates, key=len)
+            raw_title = re.sub(rf"\b{re.escape(pick)}\b", f"{{{{{pick}}}}}", raw_title, count=1)
+
     title_runs = []
     for part in re.split(r"(\{\{[^}]+\}\})", raw_title):
         if not part:
