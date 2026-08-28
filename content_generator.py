@@ -194,6 +194,22 @@ TEMPLATE_SHAPES = {
         "has_nutrient_claims": False,
         "numbered": True,
     },
+    "signal_cause_list": {
+        "description": "Genummerd, EXACT '[kort lichaamssignaal] – [meest waarschijnlijke oorzaak/"
+                       "betekenis]', ELK item als ÉÉN korte regel (geen aparte zin erna, geen "
+                       "toelichting) - bijv. 'Craving salt obsessively – Adrenal fatigue sign.' Dit is "
+                       "een andere opbouw dan de 'symptom_list'-vorm hierboven (die is 1 klacht met "
+                       "MEERDERE symptomen erbij; dit is een lijst van VEEL verschillende signalen, elk "
+                       "met zijn EIGEN korte oorzaak). Blijf bij oorzaken die breed erkend/verklaarbaar "
+                       "zijn (bijv. bekende tekorten, uitdroging, bloedsomloop, bloedsuiker) - vermijd "
+                       "alternatieve-geneeskunde-achtige claims zonder brede wetenschappelijke basis "
+                       "(bijv. orgaan-kloklogica zoals 'wakker tussen 2-4u = lever overload', dat is "
+                       "TCM-folklore, geen gevestigde medische uitleg). Omdat elk item maar 1 korte regel "
+                       "is, mag deze vorm ALTIJD extra veel items hebben (zie AANTAL ITEMS hieronder).",
+        "example": "Craving salt obsessively – Can point to adrenal stress or low electrolytes.",
+        "has_nutrient_claims": False,
+        "numbered": True,
+    },
 }
 
 
@@ -273,13 +289,17 @@ laat 'm een vraag oproepen die iemand alleen kan beantwoorden door de lijst te l
 AANTAL ITEMS IN "facts": er is geen vast aantal - bepaal het aantal items op basis van
 hoeveel uitleg elk item nodig heeft, met als doel dat de TOTALE hoeveelheid tekst op de
 afbeelding behapbaar blijft (denk ongeveer een vast "tekstbudget" per reel, niet een
-vast aantal items). Twee richtlijnen die je tegen elkaar afweegt:
-- Items met een korte, kernachtige zin (bijv. "**Kernwoord** -> kort gevolg", weinig
-  woorden per item): dan mag je MEER items gebruiken, tot 10-13.
+vast aantal items). Drie richtlijnen die je tegen elkaar afweegt:
+- Items die maar ÉÉN korte regel zijn, zonder aparte toelichtingszin erna (bijv. de
+  "signal_cause_list"- of "problem_food_mapping"-vorm: "**Kernwoord** – kort gevolg",
+  echt maar een paar woorden): dan mag je VEEL items gebruiken, tot 15-20 - dit is
+  bewezen goed te werken bij vergelijkbare accounts, zolang elke regel echt kort blijft.
+- Items met een korte, kernachtige zin maar wel iets meer body (bijv. "**Kernwoord** ->
+  kort gevolg" met een paar woorden extra): dan mag je MEER items gebruiken, tot 10-13.
 - Items met een langere, uitleggende zin per stuk (bijv. "If you ate X every day for Y
   weeks, [uitgebreid gevolg + mechanisme]"): houd het dan bij MINDER items, 6-8, anders
   wordt de tekst te dicht en te klein om prettig te lezen.
-Nooit minder dan 5 items, nooit meer dan 13. Niemand heeft zin om op Instagram een heel
+Nooit minder dan 5 items, nooit meer dan 20. Niemand heeft zin om op Instagram een heel
 boek te lezen — kort en pakkend per item werkt beter dan een uitgebreid essay per item,
 ongeacht hoeveel items je kiest. Het ALLERLAATSTE item in "facts" is ALTIJD een
 follow-oproep, in EXACT dezelfde stijl en
@@ -441,7 +461,7 @@ def fact_check_content(content, shape_key):
 
 
 def generate_and_check(shape_key, topic_hint, audience="algemeen", recent_titles=None,
-                        recent_items=None, handle="@smarthealthfix"):
+                        recent_items=None, recent_openers=None, handle="@smarthealthfix"):
     system_prompt = build_system_prompt(shape_key, audience, handle=handle)
     user_prompt = f"Onderwerp/invalshoek: {topic_hint}\n\nSchrijf nu de content volgens het schema."
     if recent_titles:
@@ -480,6 +500,19 @@ def generate_and_check(shape_key, topic_hint, audience="algemeen", recent_titles
             f"reels heen, ongeacht de vorm). Vermijd ze zoveel mogelijk en kies "
             f"echt andere, ook minder voor de hand liggende opties - niet steeds "
             f"dezelfde 'bekendste' 5-6 terugpakken:\n{items_list}"
+        )
+    if recent_openers:
+        # Apart en HARDER dan de algemene recent_items-regel hierboven: het
+        # EERSTE item van de lijst valt de kijker het meest op, dus een
+        # terugkerend openingsitem (bijv. steeds weer "beets") is zichtbaarder
+        # dan herhaling verderop. Vandaar een expliciete, positie-specifieke regel.
+        openers_list = ", ".join(recent_openers)
+        user_prompt += (
+            f"\n\nVERPLICHT voor het EERSTE item van je lijst (facts[0]): mag NIET "
+            f"gaan over een van deze onderwerpen, want die zijn recent al als "
+            f"OPENER (item 1) gebruikt:\n{openers_list}\n"
+            f"Ook als zo'n onderwerp verderop in de lijst nog wel zou mogen, begin "
+            f"NIET met deze - kies een echt ander startpunt voor item 1."
         )
     content = call_claude(system_prompt, user_prompt)
     approved, report = fact_check_content(content, shape_key)
