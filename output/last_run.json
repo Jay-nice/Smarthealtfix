@@ -1,41 +1,44 @@
 {
-  "png": "output/reel_20260828_002222.png",
-  "mp4": "output/reel_20260828_002222.mp4",
-  "cover": "output/cover_20260828_002222.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260828_040439.png",
+  "mp4": "output/reel_20260828_040439.mp4",
+  "cover": "output/cover_20260828_040439.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE KITCHEN MISTAKES {{QUIETLY MAKING}} YOUR FOOD RISKIER",
+    "title": "SIGNS YOU'RE ACTUALLY HEALTHIER THAN YOU {{THINK}}",
     "facts": [
-      "**Leftover pasta** – Cooling it too slowly on the counter (Bacillus cereus spores can survive cooking and multiply fast between 4-60°C).",
-      "**Chicken** – Washing it in the sink before cooking (splashes spread Campylobacter and Salmonella onto counters, faucets and towels).",
-      "**Melons** – Leaving a cut melon at room temp for hours (moist, low-acid flesh is a prime spot for Listeria and Salmonella growth).",
-      "**Garlic-in-oil** – Making homemade infused oil and storing it at room temperature (low-oxygen environment can let Clostridium botulinum grow).",
-      "**Eggs** – Storing them in the fridge door instead of the main shelf (door temps swing every time it opens, speeding bacterial growth).",
-      "**Ground meat** – Thawing it on the counter overnight (the outer layer sits in the danger zone long before the center defrosts).",
-      "**Sprouts** – Eating them raw straight from the packet (warm, humid growing conditions make them a known Salmonella and E. coli risk).",
-      "**Follow along** – for more daily food safety tips like this."
+      "**Loud stomach growling** -> your gut's migrating motor complex is sweeping leftover debris through your intestines between meals, a sign of a well-functioning digestive system.",
+      "**Waking up before your alarm** -> your circadian rhythm is strong and well-calibrated, so cortisol rises naturally to nudge you awake.",
+      "**Sneezing multiple times in a row** -> your nasal reflexes are sharp and efficiently clearing irritants before they reach your lungs.",
+      "**Getting cold easily in mild weather** -> can mean your body fat percentage is low and your metabolism is efficient at directing blood to your core.",
+      "**Vivid, memorable dreams** -> a sign you're reaching deep REM sleep, the stage tied to memory consolidation and emotional processing.",
+      "**Feeling intensely thirsty after salty food** -> your kidneys and hormonal signals are working correctly to restore fluid balance fast.",
+      "**Skin flushing red after a hot shower** -> healthy blood vessels dilating quickly to release heat, a sign of good vascular responsiveness.",
+      "**Yawning when someone else does** -> linked to strong empathy circuits and healthy social-emotional wiring in the brain.",
+      "**Sweating fast at the start of a workout** -> your body's cooling system is well-trained and kicks in early to prevent overheating.",
+      "**Needing to pee within 20 minutes of drinking water** -> your kidneys are processing fluids efficiently instead of holding onto excess.",
+      "**Follow along** -> for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Let's talk about a few of these in more detail. Leftover pasta feels harmless, but Bacillus cereus spores actually survive the boiling water — they just stay dormant until the pasta cools slowly on the counter, giving them the exact warm window they need to multiply and produce toxins that reheating won't destroy. With chicken, washing it under the tap doesn't remove bacteria the way people assume — it actually aerosolizes water droplets that can travel over a meter, landing Campylobacter on your sponge, dish rack and countertop. And garlic-in-oil is sneaky: garlic looks dry, but it holds enough moisture that once it's sealed in oil at room temperature, it creates a low-oxygen pocket that's perfect for Clostridium botulinum to grow silently, without changing the smell or taste.\n\nThis is exactly what @smarthealthfix is here for — breaking down nutrition, common health issues, organs and body functions, and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A lot of these get mistaken for something being wrong, when it's usually the opposite. Take that loud stomach growling — that's your migrating motor complex, a wave of muscle contractions that sweeps through your gut between meals to clear out leftover food and bacteria, basically your body's own housekeeping crew. Or take vivid dreams: they show up during deep REM sleep, the stage where your brain sorts memories and processes emotions, so remembering your dreams often means you're actually cycling through sleep stages well. And that fast sweating at the start of a workout? It means your thermoregulation kicked in early, so your core temperature stays stable instead of spiking, which is a marker of good cardiovascular conditioning. Everyone's body is different, so use these as gentle clues, not diagnoses.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organs, and small daily habits to help you actually understand your body instead of just guessing. Our mission is to help you feel more in control of your health with small, realistic changes instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#foodsafety",
-      "#kitchenmistakes",
       "#healthtips",
-      "#foodpoisoningprevention",
-      "#leftoverstips",
-      "#raweggs",
-      "#mealprep101",
-      "#wellness",
-      "#healthyhabits"
+      "#bodysignals",
+      "#guthealth",
+      "#sleepscience",
+      "#circulation",
+      "#wellnessjourney",
+      "#healthfacts",
+      "#listentoyourbody",
+      "#metabolism",
+      "#selfcare"
     ],
     "extra_keywords": [
-      "foodsafetytips",
-      "kitchenhacks",
-      "cookingmistakes",
-      "wellnessjourney",
-      "healthyhabits"
+      "naturalhealing",
+      "bodyawareness",
+      "healthmyths",
+      "wellnesstips"
     ]
   },
-  "shape": "food_safety_mistake",
-  "caption": "Let's talk about a few of these in more detail. Leftover pasta feels harmless, but Bacillus cereus spores actually survive the boiling water — they just stay dormant until the pasta cools slowly on the counter, giving them the exact warm window they need to multiply and produce toxins that reheating won't destroy. With chicken, washing it under the tap doesn't remove bacteria the way people assume — it actually aerosolizes water droplets that can travel over a meter, landing Campylobacter on your sponge, dish rack and countertop. And garlic-in-oil is sneaky: garlic looks dry, but it holds enough moisture that once it's sealed in oil at room temperature, it creates a low-oxygen pocket that's perfect for Clostridium botulinum to grow silently, without changing the smell or taste.\n\nThis is exactly what @smarthealthfix is here for — breaking down nutrition, common health issues, organs and body functions, and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodsafety #kitchenmistakes #healthtips #foodpoisoningprevention #leftoverstips #raweggs #mealprep101 #wellness #healthyhabits foodsafetytips kitchenhacks cookingmistakes wellnessjourney healthyhabits"
+  "shape": "counterintuitive_healthy_sign",
+  "caption": "A lot of these get mistaken for something being wrong, when it's usually the opposite. Take that loud stomach growling — that's your migrating motor complex, a wave of muscle contractions that sweeps through your gut between meals to clear out leftover food and bacteria, basically your body's own housekeeping crew. Or take vivid dreams: they show up during deep REM sleep, the stage where your brain sorts memories and processes emotions, so remembering your dreams often means you're actually cycling through sleep stages well. And that fast sweating at the start of a workout? It means your thermoregulation kicked in early, so your core temperature stays stable instead of spiking, which is a marker of good cardiovascular conditioning. Everyone's body is different, so use these as gentle clues, not diagnoses.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organs, and small daily habits to help you actually understand your body instead of just guessing. Our mission is to help you feel more in control of your health with small, realistic changes instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #bodysignals #guthealth #sleepscience #circulation #wellnessjourney #healthfacts #listentoyourbody #metabolism #selfcare naturalhealing bodyawareness healthmyths wellnesstips"
 }
