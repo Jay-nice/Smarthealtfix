@@ -1,42 +1,41 @@
 {
-  "png": "output/reel_20260829_182203.png",
-  "mp4": "output/reel_20260829_182203.mp4",
-  "cover": "output/cover_20260829_182203.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260829_185153.png",
+  "mp4": "output/reel_20260829_185153.mp4",
+  "cover": "output/cover_20260829_185153.png",
+  "cover_bg": "white",
   "content": {
-    "title": "HABITS THAT LOOK HEALTHY BUT ARE QUIETLY WORKING AGAINST {{YOU}}",
+    "title": "THE BODY PARTS YOUR {{GROCERY LIST}} IS SECRETLY REBUILDING",
     "facts": [
-      "**Drinking a gallon of water a day** -> can flush out sodium and leave you feeling foggy and fatigued, even 'perfect' hydration has a ceiling",
-      "**Running on an empty stomach** -> pushes your body to break down muscle tissue for fuel faster than fat once glycogen runs low",
-      "**Stretching hard before a workout** -> temporarily loosens tendons so much it can actually reduce power output and raise injury risk",
-      "**Showering with very hot water every night** -> strips natural oils from skin, leaving it drier and more prone to irritation over time",
-      "**Sleeping in on weekends to 'catch up'** -> shifts your internal clock like mini jet lag, making Monday mornings feel worse, not better",
-      "**Snacking on nuts straight from the bag** -> easy to double or triple a healthy portion size without noticing, since they're calorie-dense",
-      "**Using mouthwash right after brushing** -> can rinse away the concentrated fluoride your toothpaste just left behind",
-      "**Taking the stairs two at a time daily** -> puts extra strain on knee cartilage over years, especially without strengthening the muscles around it",
-      "**Follow along** – for more daily health tips like this."
+      "**Gallbladder** - Beets, Olive oil, Radishes",
+      "**Spleen** - Pomegranate, Pumpkin, Dates",
+      "**Bladder-adjacent kidneys** - Cranberries, Parsley, Cucumber",
+      "**Tongue & taste buds** - Zinc-rich pepitas, Oranges, Kiwi",
+      "**Thyroid** - Brazil nuts, Seaweed, Yogurt",
+      "**Cartilage** - Bone broth, Bell peppers, Citrus",
+      "**Follow along** - for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these deserve a closer look. Drinking huge amounts of water sounds like the safest habit on earth, but your kidneys can only process so much fluid per hour — go past that and sodium gets diluted, which is why marathon runners sometimes end up in the medical tent from overhydration, not dehydration. Fasted running feels virtuous, but once your glycogen stores dip, your body starts pulling amino acids from muscle to keep blood sugar stable, which works against the exact goal most people have. And that pre-workout mouthwash rinse? Toothpaste leaves a thin fluoride film on your teeth on purpose — washing it away right after basically undoes part of the brushing. Everyone's body responds a little differently, so pay attention to how yours reacts rather than assuming more is always better.\n\nAt @smarthealthfix we dig into nutrition, common symptoms, the organs behind them, and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic routines instead of chasing quick fixes or extremes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Your gallbladder relies on healthy fat and bitter compounds to keep bile flowing smoothly, which is exactly why beets show up on this list - their natural pigments help thin bile and ease digestion of fats. Radishes work in a similar way, stimulating bile production so fat-soluble vitamins actually get absorbed instead of sitting heavy in your stomach. Your kidneys, meanwhile, are constantly filtering waste from your blood, and parsley acts as a gentle natural diuretic that helps flush excess sodium and supports that filtering process without overworking the organ. Cranberries add another layer of support by making it harder for bacteria to cling to the urinary tract walls. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our goal is simple: help you build small, realistic changes instead of chasing quick fixes that never last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#organhealth",
+      "#guttips",
+      "#kidneyhealth",
+      "#healthyfood",
+      "#nutritionfacts",
+      "#wellnessjourney",
       "#healthtips",
-      "#wellness",
-      "#hydration",
-      "#skincare",
-      "#sleephygiene",
-      "#fitnessmyths",
-      "#dentalhealth",
-      "#kneehealth",
-      "#healthyhabits",
-      "#bodyawareness"
+      "#foodismedicine",
+      "#thyroidhealth",
+      "#digestivehealth"
     ],
     "extra_keywords": [
-      "dailyhabits",
-      "wellnessjourney",
-      "healthmyths",
-      "selfcaretips"
+      "naturalhealing",
+      "wholefoods",
+      "bodyfunctions",
+      "healthhabits",
+      "nutrienttiming"
     ]
   },
-  "shape": "habit_harm_reveal",
-  "caption": "A few of these deserve a closer look. Drinking huge amounts of water sounds like the safest habit on earth, but your kidneys can only process so much fluid per hour — go past that and sodium gets diluted, which is why marathon runners sometimes end up in the medical tent from overhydration, not dehydration. Fasted running feels virtuous, but once your glycogen stores dip, your body starts pulling amino acids from muscle to keep blood sugar stable, which works against the exact goal most people have. And that pre-workout mouthwash rinse? Toothpaste leaves a thin fluoride film on your teeth on purpose — washing it away right after basically undoes part of the brushing. Everyone's body responds a little differently, so pay attention to how yours reacts rather than assuming more is always better.\n\nAt @smarthealthfix we dig into nutrition, common symptoms, the organs behind them, and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic routines instead of chasing quick fixes or extremes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #hydration #skincare #sleephygiene #fitnessmyths #dentalhealth #kneehealth #healthyhabits #bodyawareness dailyhabits wellnessjourney healthmyths selfcaretips"
+  "shape": "organ_food_list",
+  "caption": "Your gallbladder relies on healthy fat and bitter compounds to keep bile flowing smoothly, which is exactly why beets show up on this list - their natural pigments help thin bile and ease digestion of fats. Radishes work in a similar way, stimulating bile production so fat-soluble vitamins actually get absorbed instead of sitting heavy in your stomach. Your kidneys, meanwhile, are constantly filtering waste from your blood, and parsley acts as a gentle natural diuretic that helps flush excess sodium and supports that filtering process without overworking the organ. Cranberries add another layer of support by making it harder for bacteria to cling to the urinary tract walls. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our goal is simple: help you build small, realistic changes instead of chasing quick fixes that never last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #guttips #kidneyhealth #healthyfood #nutritionfacts #wellnessjourney #healthtips #foodismedicine #thyroidhealth #digestivehealth naturalhealing wholefoods bodyfunctions healthhabits nutrienttiming"
 }
