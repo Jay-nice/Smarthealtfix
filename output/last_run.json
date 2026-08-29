@@ -1,42 +1,42 @@
 {
-  "png": "output/reel_20260828_210836.png",
-  "mp4": "output/reel_20260828_210836.mp4",
-  "cover": "output/cover_20260828_210836.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260829_182203.png",
+  "mp4": "output/reel_20260829_182203.mp4",
+  "cover": "output/cover_20260829_182203.png",
+  "cover_bg": "green",
   "content": {
-    "title": "IF YOU EAT THIS FOR {{14 DAYS}}... YOUR BODY WILL SURPRISE YOU",
+    "title": "HABITS THAT LOOK HEALTHY BUT ARE QUIETLY WORKING AGAINST {{YOU}}",
     "facts": [
-      "If you ate **beets** every day for 2 weeks, your blood pressure would likely drop and your gym stamina would noticeably improve thanks to nitrates that widen blood vessels.",
-      "If you ate **oats** every day for 30 days, your cholesterol numbers would start shifting lower as the beta-glucan fiber binds to it and pulls it out of your system.",
-      "If you ate **walnuts** every day for 3 weeks, your memory and focus would sharpen slightly as the omega-3s support the fatty layer around your brain cells.",
-      "If you ate **fermented yogurt** every day for 10 days, your bloating would ease and bathroom habits would become more regular as gut bacteria rebalance.",
-      "If you ate **pumpkin seeds** every day for 2 weeks, your sleep would deepen as magnesium and tryptophan help your nervous system wind down at night.",
-      "If you ate **blueberries** every day for a week, your skin's fine lines would look slightly softer thanks to antioxidants fighting collagen breakdown.",
-      "If you ate **lentils** every day for 21 days, your energy would feel steadier through the afternoon instead of crashing, since the fiber slows sugar absorption.",
-      "If you ate **fatty fish like sardines** every day for a month, your joints would feel less stiff in the morning as omega-3s calm low-grade inflammation.",
+      "**Drinking a gallon of water a day** -> can flush out sodium and leave you feeling foggy and fatigued, even 'perfect' hydration has a ceiling",
+      "**Running on an empty stomach** -> pushes your body to break down muscle tissue for fuel faster than fat once glycogen runs low",
+      "**Stretching hard before a workout** -> temporarily loosens tendons so much it can actually reduce power output and raise injury risk",
+      "**Showering with very hot water every night** -> strips natural oils from skin, leaving it drier and more prone to irritation over time",
+      "**Sleeping in on weekends to 'catch up'** -> shifts your internal clock like mini jet lag, making Monday mornings feel worse, not better",
+      "**Snacking on nuts straight from the bag** -> easy to double or triple a healthy portion size without noticing, since they're calorie-dense",
+      "**Using mouthwash right after brushing** -> can rinse away the concentrated fluoride your toothpaste just left behind",
+      "**Taking the stairs two at a time daily** -> puts extra strain on knee cartilage over years, especially without strengthening the muscles around it",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Beets are one of the few foods with a near-immediate effect: the nitrates convert into nitric oxide in your body, which relaxes blood vessels and can lower blood pressure within days. Oats work differently — the beta-glucan fiber forms a gel in your gut that literally traps cholesterol and drags it out before it's absorbed. And pumpkin seeds are an underrated sleep tool: they're one of the richest natural sources of magnesium, a mineral that helps activate your parasympathetic (rest and digest) nervous system at night. Everyone's body responds a little differently, so pay attention to how yours reacts.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these deserve a closer look. Drinking huge amounts of water sounds like the safest habit on earth, but your kidneys can only process so much fluid per hour — go past that and sodium gets diluted, which is why marathon runners sometimes end up in the medical tent from overhydration, not dehydration. Fasted running feels virtuous, but once your glycogen stores dip, your body starts pulling amino acids from muscle to keep blood sugar stable, which works against the exact goal most people have. And that pre-workout mouthwash rinse? Toothpaste leaves a thin fluoride film on your teeth on purpose — washing it away right after basically undoes part of the brushing. Everyone's body responds a little differently, so pay attention to how yours reacts rather than assuming more is always better.\n\nAt @smarthealthfix we dig into nutrition, common symptoms, the organs behind them, and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic routines instead of chasing quick fixes or extremes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
       "#wellness",
-      "#guthealth",
-      "#antiinflammatory",
-      "#nutritionfacts",
-      "#hearthealth",
-      "#sleepbetter",
-      "#brainhealth",
-      "#foodismedicine",
-      "#healthyhabits"
+      "#hydration",
+      "#skincare",
+      "#sleephygiene",
+      "#fitnessmyths",
+      "#dentalhealth",
+      "#kneehealth",
+      "#healthyhabits",
+      "#bodyawareness"
     ],
     "extra_keywords": [
+      "dailyhabits",
       "wellnessjourney",
-      "naturalhealing",
-      "nutritiontips",
-      "cleaneating"
+      "healthmyths",
+      "selfcaretips"
     ]
   },
-  "shape": "conditional_transformation",
-  "caption": "Beets are one of the few foods with a near-immediate effect: the nitrates convert into nitric oxide in your body, which relaxes blood vessels and can lower blood pressure within days. Oats work differently — the beta-glucan fiber forms a gel in your gut that literally traps cholesterol and drags it out before it's absorbed. And pumpkin seeds are an underrated sleep tool: they're one of the richest natural sources of magnesium, a mineral that helps activate your parasympathetic (rest and digest) nervous system at night. Everyone's body responds a little differently, so pay attention to how yours reacts.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #antiinflammatory #nutritionfacts #hearthealth #sleepbetter #brainhealth #foodismedicine #healthyhabits wellnessjourney naturalhealing nutritiontips cleaneating"
+  "shape": "habit_harm_reveal",
+  "caption": "A few of these deserve a closer look. Drinking huge amounts of water sounds like the safest habit on earth, but your kidneys can only process so much fluid per hour — go past that and sodium gets diluted, which is why marathon runners sometimes end up in the medical tent from overhydration, not dehydration. Fasted running feels virtuous, but once your glycogen stores dip, your body starts pulling amino acids from muscle to keep blood sugar stable, which works against the exact goal most people have. And that pre-workout mouthwash rinse? Toothpaste leaves a thin fluoride film on your teeth on purpose — washing it away right after basically undoes part of the brushing. Everyone's body responds a little differently, so pay attention to how yours reacts rather than assuming more is always better.\n\nAt @smarthealthfix we dig into nutrition, common symptoms, the organs behind them, and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic routines instead of chasing quick fixes or extremes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #hydration #skincare #sleephygiene #fitnessmyths #dentalhealth #kneehealth #healthyhabits #bodyawareness dailyhabits wellnessjourney healthmyths selfcaretips"
 }
