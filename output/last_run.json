@@ -1,41 +1,41 @@
 {
-  "png": "output/reel_20260829_185153.png",
-  "mp4": "output/reel_20260829_185153.mp4",
-  "cover": "output/cover_20260829_185153.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260829_222517.png",
+  "mp4": "output/reel_20260829_222517.mp4",
+  "cover": "output/cover_20260829_222517.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE BODY PARTS YOUR {{GROCERY LIST}} IS SECRETLY REBUILDING",
+    "title": "THE 60-SECOND {{HABITS}} DOCTORS QUIETLY WISH EVERYONE HAD",
     "facts": [
-      "**Gallbladder** - Beets, Olive oil, Radishes",
-      "**Spleen** - Pomegranate, Pumpkin, Dates",
-      "**Bladder-adjacent kidneys** - Cranberries, Parsley, Cucumber",
-      "**Tongue & taste buds** - Zinc-rich pepitas, Oranges, Kiwi",
-      "**Thyroid** - Brazil nuts, Seaweed, Yogurt",
-      "**Cartilage** - Bone broth, Bell peppers, Citrus",
-      "**Follow along** - for more daily health tips like this."
+      "**Cold water splash** – Splash cold water on your face for 20 seconds each morning and your vagus nerve fires up, slowing your heart rate and sharpening focus almost instantly.",
+      "**Tongue scraping** – Scrape your tongue once a day and you clear off bacteria buildup that dulls taste and contributes to morning breath.",
+      "**Nasal breathing** – Breathe through your nose instead of your mouth during the day and your body filters and humidifies air better, easing strain on your lungs.",
+      "**Walking after meals** – Walk for 10 minutes after eating and your muscles pull glucose from your blood, blunting the sugar spike that follows a big meal.",
+      "**Shoulder rolls** – Roll your shoulders back 10 times every couple hours at a desk and you loosen tight neck muscles before they turn into tension headaches.",
+      "**Light before screens** – Get 5 minutes of natural light before checking your phone and you help set your internal clock, making it easier to fall asleep on time.",
+      "**Deep exhale** – Exhale twice as long as you inhale for one minute when stressed and you calm your nervous system faster than any other single breathing trick.",
+      "**Follow along** – for more small daily habits with a real, concrete payoff."
     ],
     "claims": [],
-    "caption": "Your gallbladder relies on healthy fat and bitter compounds to keep bile flowing smoothly, which is exactly why beets show up on this list - their natural pigments help thin bile and ease digestion of fats. Radishes work in a similar way, stimulating bile production so fat-soluble vitamins actually get absorbed instead of sitting heavy in your stomach. Your kidneys, meanwhile, are constantly filtering waste from your blood, and parsley acts as a gentle natural diuretic that helps flush excess sodium and supports that filtering process without overworking the organ. Cranberries add another layer of support by making it harder for bacteria to cling to the urinary tract walls. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our goal is simple: help you build small, realistic changes instead of chasing quick fixes that never last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these are worth slowing down on. Tongue scraping isn't just about fresher breath — your tongue holds onto bacteria overnight, and clearing it each morning can actually sharpen how well you taste food. Walking after meals works because moving muscles act almost like a sponge for glucose, soaking it up from your bloodstream before it causes a sharp spike and crash. And that cold water splash isn't a gimmick either — it stimulates the vagus nerve, which is directly tied to your heart rate and how calm or wired you feel within minutes. Everyone responds a little differently, so notice what actually shifts how you feel.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs, and the small daily habits that quietly shape all three. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a few new habits worth trying today.",
     "hashtags": [
-      "#organhealth",
-      "#guttips",
-      "#kidneyhealth",
-      "#healthyfood",
-      "#nutritionfacts",
-      "#wellnessjourney",
       "#healthtips",
-      "#foodismedicine",
-      "#thyroidhealth",
-      "#digestivehealth"
+      "#dailyhabits",
+      "#wellness",
+      "#guthealth",
+      "#bloodsugar",
+      "#morningroutine",
+      "#nervoussystem",
+      "#healthyliving",
+      "#smallhabits",
+      "#biohacking"
     ],
     "extra_keywords": [
       "naturalhealing",
-      "wholefoods",
-      "bodyfunctions",
-      "healthhabits",
-      "nutrienttiming"
+      "wellnessjourney",
+      "healthyhabits",
+      "habitstacking"
     ]
   },
-  "shape": "organ_food_list",
-  "caption": "Your gallbladder relies on healthy fat and bitter compounds to keep bile flowing smoothly, which is exactly why beets show up on this list - their natural pigments help thin bile and ease digestion of fats. Radishes work in a similar way, stimulating bile production so fat-soluble vitamins actually get absorbed instead of sitting heavy in your stomach. Your kidneys, meanwhile, are constantly filtering waste from your blood, and parsley acts as a gentle natural diuretic that helps flush excess sodium and supports that filtering process without overworking the organ. Cranberries add another layer of support by making it harder for bacteria to cling to the urinary tract walls. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our goal is simple: help you build small, realistic changes instead of chasing quick fixes that never last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #guttips #kidneyhealth #healthyfood #nutritionfacts #wellnessjourney #healthtips #foodismedicine #thyroidhealth #digestivehealth naturalhealing wholefoods bodyfunctions healthhabits nutrienttiming"
+  "shape": "numbered_explainer",
+  "caption": "A few of these are worth slowing down on. Tongue scraping isn't just about fresher breath — your tongue holds onto bacteria overnight, and clearing it each morning can actually sharpen how well you taste food. Walking after meals works because moving muscles act almost like a sponge for glucose, soaking it up from your bloodstream before it causes a sharp spike and crash. And that cold water splash isn't a gimmick either — it stimulates the vagus nerve, which is directly tied to your heart rate and how calm or wired you feel within minutes. Everyone responds a little differently, so notice what actually shifts how you feel.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs, and the small daily habits that quietly shape all three. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a few new habits worth trying today.\n\n#healthtips #dailyhabits #wellness #guthealth #bloodsugar #morningroutine #nervoussystem #healthyliving #smallhabits #biohacking naturalhealing wellnessjourney healthyhabits habitstacking"
 }
