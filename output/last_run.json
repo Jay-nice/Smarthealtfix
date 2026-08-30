@@ -1,44 +1,42 @@
 {
-  "png": "output/reel_20260830_144414.png",
-  "mp4": "output/reel_20260830_144414.mp4",
-  "cover": "output/cover_20260830_144414.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260830_222634.png",
+  "mp4": "output/reel_20260830_222634.mp4",
+  "cover": "output/cover_20260830_222634.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE DAILY {{MICRO-DOSES}} CHEAT SHEET",
+    "title": "THE {{KITCHEN MISTAKES}} MOST PEOPLE ARE STILL MAKING",
     "facts": [
-      "**Cold plunge** -> 30 sec cold shower finish -> Sharper mood instantly",
-      "**Sunlight** -> 10 min before 9am -> Better sleep tonight",
-      "**Grip work** -> 1 min dead hang/day -> Stronger shoulders, less pain",
-      "**Chewing** -> 20 chews per bite -> Less bloating after meals",
-      "**Silence** -> 5 min no audio/day -> Calmer nervous system",
-      "**Squats** -> 10 bodyweight, hourly -> Less afternoon stiffness",
-      "**Journaling** -> 3 lines before bed -> Quieter racing thoughts",
-      "**Garlic** -> 1 clove crushed/day -> Supports healthy circulation",
-      "**Barefoot time** -> 10 min on grass -> Calms overstimulated feet",
-      "**Naps** -> 1 nap, under 20 min -> Sharper focus, no grogginess",
-      "**Follow along** -> for more daily micro-habits like this -> Small wins, real results"
+      "**Chicken** – Washing it in the sink before cooking (splashes bacteria like Campylobacter onto counters, sponges, and utensils).",
+      "**Melon** – Leaving cut cantaloupe or honeydew out on the counter for hours (moist, low-acid flesh lets Listeria and Salmonella multiply fast).",
+      "**Leftover pasta** – Cooling it slowly on the stove instead of the fridge (Bacillus cereus spores can survive cooking and grow at room temp).",
+      "**Eggs** – Storing them in the fridge door instead of the main shelves (door temps swing every time it opens, speeding up bacterial growth).",
+      "**Garlic-in-oil** – Making a jar and keeping it at room temperature (low-oxygen environment is a known risk for Clostridium botulinum).",
+      "**Ground beef** – Judging doneness by color alone instead of using a thermometer (pink meat can be safe and brown meat can still be undercooked).",
+      "**Berries** – Rinsing them right after buying instead of right before eating (extra moisture speeds up mold growth in the fridge).",
+      "**Canned goods** – Ignoring a bulging or dented can because it 'still smells fine' (a swollen lid can signal gas from harmful bacteria growth).",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these deserve more context. Cold exposure like a 30-second cold shower finish triggers a spike in norepinephrine, which is why your mood and alertness shift almost immediately afterward - it's not just \"waking you up,\" it's a real chemical shift. Garlic, when crushed and left to sit for a few minutes before eating, releases allicin, a compound linked to healthy blood vessel function - which is why timing and prep actually matter here. And grip work, like a simple dead hang, doesn't just build forearm strength - it decompresses the spine and can quietly relieve shoulder and upper back tension that builds up from a full day at a desk. Everyone's body responds a little differently, so listen to yours as you try these.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a little reset today.",
+    "caption": "A few of these are easy to overlook. Chicken feels 'cleaner' after a rinse, but that quick splash under the tap can send bacteria-laden water droplets up to three feet across your sink and counters, landing on anything nearby. Leftover pasta is another sneaky one — letting a big pot cool slowly on the stove keeps it in the temperature danger zone for too long, giving Bacillus cereus spores (which can survive the original cooking) time to multiply before you even put it away. And that homemade garlic-in-oil trend? Garlic stored in oil at room temperature creates exactly the low-oxygen, low-acid conditions Clostridium botulinum needs to grow, which is why it should always be refrigerated and used quickly. Everyone's kitchen habits are a little different, so it's worth double-checking your own routine against these.\n\nThis is what we do at @smarthealthfix — breaking down nutrition, common health issues, organs and body functions, and small daily habits into things you can actually use. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#foodsafety",
+      "#kitchenhacks",
       "#healthtips",
-      "#dailyhabits",
       "#wellness",
-      "#microhabits",
-      "#coldshower",
-      "#morningroutine",
-      "#gripstrength",
-      "#stressrelief",
-      "#betterhealth",
-      "#healthyhabits"
+      "#mealprep",
+      "#foodpoisoningprevention",
+      "#kitchentips",
+      "#healthyhabits",
+      "#cookingtips",
+      "#foodstorage"
     ],
     "extra_keywords": [
-      "naturalhealing",
+      "foodsafetytips",
+      "kitchenmistakes",
       "wellnessjourney",
-      "habitstacking",
-      "smallhabitsbigchanges"
+      "healthyliving"
     ]
   },
-  "shape": "daily_dose_habit",
-  "caption": "A few of these deserve more context. Cold exposure like a 30-second cold shower finish triggers a spike in norepinephrine, which is why your mood and alertness shift almost immediately afterward - it's not just \"waking you up,\" it's a real chemical shift. Garlic, when crushed and left to sit for a few minutes before eating, releases allicin, a compound linked to healthy blood vessel function - which is why timing and prep actually matter here. And grip work, like a simple dead hang, doesn't just build forearm strength - it decompresses the spine and can quietly relieve shoulder and upper back tension that builds up from a full day at a desk. Everyone's body responds a little differently, so listen to yours as you try these.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a little reset today.\n\n#healthtips #dailyhabits #wellness #microhabits #coldshower #morningroutine #gripstrength #stressrelief #betterhealth #healthyhabits naturalhealing wellnessjourney habitstacking smallhabitsbigchanges"
+  "shape": "food_safety_mistake",
+  "caption": "A few of these are easy to overlook. Chicken feels 'cleaner' after a rinse, but that quick splash under the tap can send bacteria-laden water droplets up to three feet across your sink and counters, landing on anything nearby. Leftover pasta is another sneaky one — letting a big pot cool slowly on the stove keeps it in the temperature danger zone for too long, giving Bacillus cereus spores (which can survive the original cooking) time to multiply before you even put it away. And that homemade garlic-in-oil trend? Garlic stored in oil at room temperature creates exactly the low-oxygen, low-acid conditions Clostridium botulinum needs to grow, which is why it should always be refrigerated and used quickly. Everyone's kitchen habits are a little different, so it's worth double-checking your own routine against these.\n\nThis is what we do at @smarthealthfix — breaking down nutrition, common health issues, organs and body functions, and small daily habits into things you can actually use. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodsafety #kitchenhacks #healthtips #wellness #mealprep #foodpoisoningprevention #kitchentips #healthyhabits #cookingtips #foodstorage foodsafetytips kitchenmistakes wellnessjourney healthyliving"
 }
