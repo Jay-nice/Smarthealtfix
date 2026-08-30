@@ -1,0 +1,181 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "WHY YOUR GROCERY LIST IS LYING TO YOU ABOUT WHAT'S {{ACTUALLY}} HEALTHY",
+    "facts": [
+      "**Bananas vs. potatoes**: a medium potato actually has more potassium than a banana — nearly 900 mg versus banana's 420 mg, but potatoes rarely get the credit.",
+      "**Bell peppers vs. oranges**: a red bell pepper has nearly three times more vitamin C than an orange, yet oranges keep the reputation.",
+      "**Swiss chard vs. milk**: one cooked cup of swiss chard delivers more bone-supporting vitamin K than a full glass of milk, though milk gets all the 'strong bones' marketing.",
+      "**Dried figs vs. dairy**: dried figs pack more calcium per serving than most people expect from a fruit — close to what you'd get from a small glass of milk.",
+      "**Brazil nuts vs. multivitamins**: just 2 brazil nuts a day can cover your entire selenium need, no pill required.",
+      "**Lentils vs. steak**: a cup of cooked lentils has more iron than many think, and pairing it with vitamin C-rich veggies helps your body actually absorb it.",
+      "**Chickpeas vs. energy drinks**: a cup of chickpeas has more muscle-supporting magnesium than most people get from a whole day of snacking.",
+      "**Mushrooms vs. sunlight**: mushrooms left in sunlight for even 30 minutes can develop meaningful amounts of vitamin D, one of the only plant sources that actually works.",
+      "**Green peas vs. bread**: a cup of green peas has more fiber than two slices of whole wheat bread, quietly working while bread gets the 'fiber food' spotlight.",
+      "**Follow along** – for more daily health tips like this."
+    ],
+    "claims": [
+      {
+        "food_a": "Potato",
+        "food_b": "Banana",
+        "nutrient_key": "potassium"
+      },
+      {
+        "food_a": "Red bell pepper",
+        "food_b": "Orange",
+        "nutrient_key": "vitamin_c"
+      },
+      {
+        "food_a": "Swiss chard",
+        "food_b": "Milk",
+        "nutrient_key": "vitamin_k"
+      },
+      {
+        "food_a": "Dried figs",
+        "food_b": "Milk",
+        "nutrient_key": "calcium"
+      },
+      {
+        "food_a": "Brazil nuts",
+        "food_b": "Multivitamin",
+        "nutrient_key": "selenium"
+      },
+      {
+        "food_a": "Lentils",
+        "food_b": "Steak",
+        "nutrient_key": "iron"
+      },
+      {
+        "food_a": "Chickpeas",
+        "food_b": "Energy drink",
+        "nutrient_key": "magnesium"
+      },
+      {
+        "food_a": "Green peas",
+        "food_b": "Whole wheat bread",
+        "nutrient_key": "fiber"
+      }
+    ],
+    "caption": "A few of these deserve more than a passing glance. Bell peppers beat oranges on vitamin C by a wide margin because peppers hold onto their nutrients well even when raw and crunchy, and vitamin C itself helps your body absorb iron from plant foods later in the same meal. Brazil nuts are wild for selenium — this mineral supports your thyroid's hormone production, and because your body only needs a tiny amount, just 2 nuts a day can quietly cover you without any supplement aisle involved. And lentils pack more iron than people assume, but here's the trick: iron from plants isn't absorbed as easily as iron from meat, so pairing lentils with something like those same bell peppers actually boosts how much your body takes in. Everyone's body and needs are a little different, so treat these as a starting point, not a strict rule.\n\nAt @smarthealthfix, we like to zoom out and connect the dots between nutrition, common health issues, your organs, and the small daily habits that shape how you feel. Our mission is to make real, boring-but-effective nutrition science feel simple enough to actually use.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "hashtags": [
+      "#nutritionfacts",
+      "#healthtips",
+      "#wellness",
+      "#vitaminc",
+      "#magnesium",
+      "#potassium",
+      "#plantbased",
+      "#healthyeating",
+      "#micronutrients",
+      "#foodfacts"
+    ],
+    "extra_keywords": [
+      "nutrientdensefoods",
+      "wellnessjourney",
+      "healthyhabits",
+      "eatthisnotthat"
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 8,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "Potato",
+          "food_b": "Banana",
+          "nutrient_key": "potassium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Red bell pepper",
+          "food_b": "Orange",
+          "nutrient_key": "vitamin_c"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Swiss chard",
+          "food_b": "Milk",
+          "nutrient_key": "vitamin_k"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Dried figs",
+          "food_b": "Milk",
+          "nutrient_key": "calcium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Brazil nuts",
+          "food_b": "Multivitamin",
+          "nutrient_key": "selenium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Lentils",
+          "food_b": "Steak",
+          "nutrient_key": "iron"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Chickpeas",
+          "food_b": "Energy drink",
+          "nutrient_key": "magnesium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Green peas",
+          "food_b": "Whole wheat bread",
+          "nutrient_key": "fiber"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      }
+    ]
+  }
+}
