@@ -451,8 +451,16 @@ def fact_check_content(content, shape_key):
             issues.append({"claim": claim, "verdict": "known_shaky", "note": shaky_match})
             continue
 
+        # BUGFIX: dit stond op False, dus elke claim werd ALLEEN tegen het kleine
+        # (13 paren) handmatige LOCAL_CACHE-lijstje in nutrition_reference.py
+        # gelegd, in plaats van tegen de echte USDA-database waar FDC_API_KEY
+        # (al als GitHub Secret aanwezig) voor bedoeld is. Omdat het systeem
+        # bewust steeds NIEUWE voedingsvergelijkingen laat verzinnen (om
+        # herhaling te vermijden), zat vrijwel geen enkele nieuwe claim in die
+        # 13 paren, en werd de reel dus zo goed als altijd afgekeurd als
+        # "unverifiable" - dat is precies wat de laatste mislukte run liet zien.
         result = verify_claim(claim["food_a"], claim["food_b"], claim["nutrient_key"],
-                               use_live_api=False)
+                               use_live_api=True)
         if result["verdict"] != "confirmed":
             issues.append({"claim": claim, "verdict": result["verdict"], "detail": result})
 
