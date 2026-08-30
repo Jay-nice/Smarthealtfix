@@ -1,41 +1,44 @@
 {
-  "png": "output/reel_20260829_222517.png",
-  "mp4": "output/reel_20260829_222517.mp4",
-  "cover": "output/cover_20260829_222517.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260830_144414.png",
+  "mp4": "output/reel_20260830_144414.mp4",
+  "cover": "output/cover_20260830_144414.png",
+  "cover_bg": "white",
   "content": {
-    "title": "THE 60-SECOND {{HABITS}} DOCTORS QUIETLY WISH EVERYONE HAD",
+    "title": "THE DAILY {{MICRO-DOSES}} CHEAT SHEET",
     "facts": [
-      "**Cold water splash** – Splash cold water on your face for 20 seconds each morning and your vagus nerve fires up, slowing your heart rate and sharpening focus almost instantly.",
-      "**Tongue scraping** – Scrape your tongue once a day and you clear off bacteria buildup that dulls taste and contributes to morning breath.",
-      "**Nasal breathing** – Breathe through your nose instead of your mouth during the day and your body filters and humidifies air better, easing strain on your lungs.",
-      "**Walking after meals** – Walk for 10 minutes after eating and your muscles pull glucose from your blood, blunting the sugar spike that follows a big meal.",
-      "**Shoulder rolls** – Roll your shoulders back 10 times every couple hours at a desk and you loosen tight neck muscles before they turn into tension headaches.",
-      "**Light before screens** – Get 5 minutes of natural light before checking your phone and you help set your internal clock, making it easier to fall asleep on time.",
-      "**Deep exhale** – Exhale twice as long as you inhale for one minute when stressed and you calm your nervous system faster than any other single breathing trick.",
-      "**Follow along** – for more small daily habits with a real, concrete payoff."
+      "**Cold plunge** -> 30 sec cold shower finish -> Sharper mood instantly",
+      "**Sunlight** -> 10 min before 9am -> Better sleep tonight",
+      "**Grip work** -> 1 min dead hang/day -> Stronger shoulders, less pain",
+      "**Chewing** -> 20 chews per bite -> Less bloating after meals",
+      "**Silence** -> 5 min no audio/day -> Calmer nervous system",
+      "**Squats** -> 10 bodyweight, hourly -> Less afternoon stiffness",
+      "**Journaling** -> 3 lines before bed -> Quieter racing thoughts",
+      "**Garlic** -> 1 clove crushed/day -> Supports healthy circulation",
+      "**Barefoot time** -> 10 min on grass -> Calms overstimulated feet",
+      "**Naps** -> 1 nap, under 20 min -> Sharper focus, no grogginess",
+      "**Follow along** -> for more daily micro-habits like this -> Small wins, real results"
     ],
     "claims": [],
-    "caption": "A few of these are worth slowing down on. Tongue scraping isn't just about fresher breath — your tongue holds onto bacteria overnight, and clearing it each morning can actually sharpen how well you taste food. Walking after meals works because moving muscles act almost like a sponge for glucose, soaking it up from your bloodstream before it causes a sharp spike and crash. And that cold water splash isn't a gimmick either — it stimulates the vagus nerve, which is directly tied to your heart rate and how calm or wired you feel within minutes. Everyone responds a little differently, so notice what actually shifts how you feel.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs, and the small daily habits that quietly shape all three. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a few new habits worth trying today.",
+    "caption": "A few of these deserve more context. Cold exposure like a 30-second cold shower finish triggers a spike in norepinephrine, which is why your mood and alertness shift almost immediately afterward - it's not just \"waking you up,\" it's a real chemical shift. Garlic, when crushed and left to sit for a few minutes before eating, releases allicin, a compound linked to healthy blood vessel function - which is why timing and prep actually matter here. And grip work, like a simple dead hang, doesn't just build forearm strength - it decompresses the spine and can quietly relieve shoulder and upper back tension that builds up from a full day at a desk. Everyone's body responds a little differently, so listen to yours as you try these.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a little reset today.",
     "hashtags": [
       "#healthtips",
       "#dailyhabits",
       "#wellness",
-      "#guthealth",
-      "#bloodsugar",
+      "#microhabits",
+      "#coldshower",
       "#morningroutine",
-      "#nervoussystem",
-      "#healthyliving",
-      "#smallhabits",
-      "#biohacking"
+      "#gripstrength",
+      "#stressrelief",
+      "#betterhealth",
+      "#healthyhabits"
     ],
     "extra_keywords": [
       "naturalhealing",
       "wellnessjourney",
-      "healthyhabits",
-      "habitstacking"
+      "habitstacking",
+      "smallhabitsbigchanges"
     ]
   },
-  "shape": "numbered_explainer",
-  "caption": "A few of these are worth slowing down on. Tongue scraping isn't just about fresher breath — your tongue holds onto bacteria overnight, and clearing it each morning can actually sharpen how well you taste food. Walking after meals works because moving muscles act almost like a sponge for glucose, soaking it up from your bloodstream before it causes a sharp spike and crash. And that cold water splash isn't a gimmick either — it stimulates the vagus nerve, which is directly tied to your heart rate and how calm or wired you feel within minutes. Everyone responds a little differently, so notice what actually shifts how you feel.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs, and the small daily habits that quietly shape all three. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a few new habits worth trying today.\n\n#healthtips #dailyhabits #wellness #guthealth #bloodsugar #morningroutine #nervoussystem #healthyliving #smallhabits #biohacking naturalhealing wellnessjourney healthyhabits habitstacking"
+  "shape": "daily_dose_habit",
+  "caption": "A few of these deserve more context. Cold exposure like a 30-second cold shower finish triggers a spike in norepinephrine, which is why your mood and alertness shift almost immediately afterward - it's not just \"waking you up,\" it's a real chemical shift. Garlic, when crushed and left to sit for a few minutes before eating, releases allicin, a compound linked to healthy blood vessel function - which is why timing and prep actually matter here. And grip work, like a simple dead hang, doesn't just build forearm strength - it decompresses the spine and can quietly relieve shoulder and upper back tension that builds up from a full day at a desk. Everyone's body responds a little differently, so listen to yours as you try these.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a little reset today.\n\n#healthtips #dailyhabits #wellness #microhabits #coldshower #morningroutine #gripstrength #stressrelief #betterhealth #healthyhabits naturalhealing wellnessjourney habitstacking smallhabitsbigchanges"
 }
