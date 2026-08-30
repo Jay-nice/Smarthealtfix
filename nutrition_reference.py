@@ -114,13 +114,33 @@ def verify_claim(food_a, food_b, nutrient_key, use_live_api=False, tolerance=0.2
     tolerance = hoeveel marge (25% default) voordat we een claim als
     'contradicted' bestempelen — voedingswaarden variëren nu eenmaal per
     kweek/rijpheid, dus een té strikte check levert alleen ruis op.
+
+    BELANGRIJK (bugfix): met use_live_api=True proberen we EERST de live USDA-
+    lookup; komt daar voor een van beide niets uit (typo, ongangbare naam,
+    tijdelijke API-hik), dan vallen we alsnog terug op LOCAL_CACHE in plaats
+    van meteen "unverifiable" te concluderen. Die cache-lookup is nu ook
+    hoofdletterongevoelig - voorheen moest de AI het EXACTE, lowercase
+    cache-woord gebruiken (bijv. "red bell pepper", niet "Red bell pepper"),
+    anders werd elke claim onterecht als "geen data gevonden" afgekeurd.
+
+    De live lookup is bewust in een try/except gezet: gaat de USDA-call zelf
+    stuk (netwerkhik, rate limit, timeout - dus GEEN "voedingsmiddel bestaat
+    niet"-situatie maar een technisch probleem), dan mag dat niet de hele
+    dagelijkse run laten crashen. We vallen dan gewoon terug op LOCAL_CACHE,
+    net als wanneer de food_query simpelweg niets opleverde.
     """
+    a = b = None
     if use_live_api:
-        a = fetch_nutrient_amount(food_a, nutrient_key)
-        b = fetch_nutrient_amount(food_b, nutrient_key)
-    else:
-        a = LOCAL_CACHE.get((food_a, nutrient_key))
-        b = LOCAL_CACHE.get((food_b, nutrient_key))
+        try:
+            a = fetch_nutrient_amount(food_a, nutrient_key)
+            b = fetch_nutrient_amount(food_b, nutrient_key)
+        except requests.exceptions.RequestException as e:
+            print(f"[!] USDA-lookup mislukte technisch ({e}) - val terug op LOCAL_CACHE.")
+
+    if not a:
+        a = LOCAL_CACHE.get((food_a.strip().lower(), nutrient_key))
+    if not b:
+        b = LOCAL_CACHE.get((food_b.strip().lower(), nutrient_key))
 
     if not a or not b:
         return {"verdict": "unverifiable", "reason": "Geen data gevonden voor een van beide, "
