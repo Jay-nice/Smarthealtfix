@@ -1,43 +1,42 @@
 {
-  "png": "output/reel_20260831_172747.png",
-  "mp4": "output/reel_20260831_172747.mp4",
-  "cover": "output/cover_20260831_172747.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260831_204641.png",
+  "mp4": "output/reel_20260831_204641.mp4",
+  "cover": "output/cover_20260831_204641.png",
+  "cover_bg": "green",
   "content": {
-    "title": "WHY YOUR 'HEALTHY' EVENING ROUTINE MIGHT BE {{BACKFIRING}}",
+    "title": "SIGNS YOUR BODY IS ACTUALLY BEGGING FOR {{THESE NUTRIENTS}}",
     "facts": [
-      "**Herbal tea before bed** -> the frequent nighttime bathroom trips break your deep sleep cycles more than the tea itself relaxes you",
-      "**Reading on your phone at night** -> even with night mode on, the close-up screen focus tires your eye muscles and can delay your natural sleep drive",
-      "**Eating a big salad at dinner** -> raw, fibrous veggies late at night take longer to digest, which can leave your gut still working while you're trying to sleep",
-      "**Doing an intense workout right before bed** -> raises your core body temperature and adrenaline right when your body needs to cool down to fall asleep",
-      "**Setting multiple snooze alarms** -> each extra snooze cycle interrupts a new sleep stage, leaving you groggier than one single alarm would",
-      "**Taking a multivitamin at night** -> some minerals like iron and zinc are better absorbed with food earlier in the day, so a nighttime dose on an empty stomach may go partly to waste",
-      "**Sleeping with pets under the covers** -> can subtly raise body temperature and cause micro-awakenings you don't consciously remember",
-      "**Drinking orange juice with breakfast** -> the fruit sugar without the fiber of a whole orange can spike blood sugar faster than most people expect",
+      "**Iodine** – Unexplained weight gain, feeling cold constantly, dry skin, and a puffy face.",
+      "**Vitamin K** – Bruising easily, slow-healing cuts, and unexplained bleeding gums.",
+      "**Potassium** – Muscle cramps at night, irregular heartbeat, and persistent fatigue.",
+      "**Vitamin A** – Trouble seeing in dim light, dry eyes, and frequent infections.",
+      "**Vitamin E** – Muscle weakness, vision problems, and numbness in hands or feet.",
+      "**Folate** – Constant tiredness, irritability, and a pale or sallow complexion.",
+      "**Zinc** – Slow wound healing, frequent colds, and a noticeably reduced sense of smell.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Let's talk about a few of these. Herbal tea feels like the ultimate wind-down ritual, but here's the catch: your kidneys don't stop working while you sleep, so a full cup close to bedtime often means at least one wake-up call around 3am, and that broken cycle matters more for deep sleep than the calming effect of chamomile. The multivitamin habit is another sneaky one — iron and zinc actually compete for absorption with certain foods, and taking them at night on an empty stomach can mean you're getting less benefit than you think, even though it feels responsible to 'not forget' your vitamins before bed. And that big dinner salad? Raw fiber is great for digestion in general, but late in the evening it can keep your gut actively working right when your body wants to slow down for sleep. None of this means stop doing these things — just shift the timing a little and see how you feel.\n\nAt @smarthealthfix, we dig into nutrition, common health issues, your organs, and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic changes instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these deserve a closer look. Low **iodine** slows your thyroid down because your body simply can't make enough thyroid hormone without it, which is why energy and metabolism take a hit. **Potassium** works closely with sodium to send electrical signals to your muscles and heart, so when levels drop, cramps and irregular heartbeats can follow. And **folate** is essential for making new red blood cells — without enough, your body struggles to carry oxygen efficiently, leaving you drained and pale. Everyone's body is different, so listen to yours and check in with a doctor if something feels off.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ health, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#nutrientdeficiency",
+      "#iodine",
+      "#vitaminK",
+      "#potassium",
+      "#vitaminA",
+      "#vitaminE",
+      "#folate",
+      "#zincdeficiency",
       "#healthtips",
-      "#sleeptips",
       "#wellness",
-      "#guthealth",
-      "#nighttimeroutine",
-      "#healthyhabits",
-      "#nutritionfacts",
-      "#betterSleep",
-      "#wellnessjourney",
-      "#bodyawareness"
+      "#nutritionfacts"
     ],
     "extra_keywords": [
-      "naturalhealing",
-      "sleephacks",
-      "wellnesstips",
-      "healthyroutine",
-      "guttips"
+      "nutrientgaps",
+      "wellnessjourney",
+      "hiddendeficiency",
+      "healthawareness"
     ]
   },
-  "shape": "habit_harm_reveal",
-  "caption": "Let's talk about a few of these. Herbal tea feels like the ultimate wind-down ritual, but here's the catch: your kidneys don't stop working while you sleep, so a full cup close to bedtime often means at least one wake-up call around 3am, and that broken cycle matters more for deep sleep than the calming effect of chamomile. The multivitamin habit is another sneaky one — iron and zinc actually compete for absorption with certain foods, and taking them at night on an empty stomach can mean you're getting less benefit than you think, even though it feels responsible to 'not forget' your vitamins before bed. And that big dinner salad? Raw fiber is great for digestion in general, but late in the evening it can keep your gut actively working right when your body wants to slow down for sleep. None of this means stop doing these things — just shift the timing a little and see how you feel.\n\nAt @smarthealthfix, we dig into nutrition, common health issues, your organs, and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic changes instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #sleeptips #wellness #guthealth #nighttimeroutine #healthyhabits #nutritionfacts #betterSleep #wellnessjourney #bodyawareness naturalhealing sleephacks wellnesstips healthyroutine guttips"
+  "shape": "symptom_list",
+  "caption": "A few of these deserve a closer look. Low **iodine** slows your thyroid down because your body simply can't make enough thyroid hormone without it, which is why energy and metabolism take a hit. **Potassium** works closely with sodium to send electrical signals to your muscles and heart, so when levels drop, cramps and irregular heartbeats can follow. And **folate** is essential for making new red blood cells — without enough, your body struggles to carry oxygen efficiently, leaving you drained and pale. Everyone's body is different, so listen to yours and check in with a doctor if something feels off.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ health, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #iodine #vitaminK #potassium #vitaminA #vitaminE #folate #zincdeficiency #healthtips #wellness #nutritionfacts nutrientgaps wellnessjourney hiddendeficiency healthawareness"
 }
