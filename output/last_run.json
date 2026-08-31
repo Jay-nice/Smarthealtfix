@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20260831_204641.png",
-  "mp4": "output/reel_20260831_204641.mp4",
-  "cover": "output/cover_20260831_204641.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260831_233911.png",
+  "mp4": "output/reel_20260831_233911.mp4",
+  "cover": "output/cover_20260831_233911.png",
+  "cover_bg": "white",
   "content": {
-    "title": "SIGNS YOUR BODY IS ACTUALLY BEGGING FOR {{THESE NUTRIENTS}}",
+    "title": "IF YOU ATE THIS EVERY DAY... {{YOUR BODY}} WOULD CHANGE FASTER THAN YOU THINK",
     "facts": [
-      "**Iodine** – Unexplained weight gain, feeling cold constantly, dry skin, and a puffy face.",
-      "**Vitamin K** – Bruising easily, slow-healing cuts, and unexplained bleeding gums.",
-      "**Potassium** – Muscle cramps at night, irregular heartbeat, and persistent fatigue.",
-      "**Vitamin A** – Trouble seeing in dim light, dry eyes, and frequent infections.",
-      "**Vitamin E** – Muscle weakness, vision problems, and numbness in hands or feet.",
-      "**Folate** – Constant tiredness, irritability, and a pale or sallow complexion.",
-      "**Zinc** – Slow wound healing, frequent colds, and a noticeably reduced sense of smell.",
+      "**Fermented cabbage (sauerkraut)** – if you ate a spoonful every day for 3 weeks, your gut bacteria would diversify and bloating after meals would noticeably ease.",
+      "**Oats** – if you had a bowl every morning for 30 days, your cholesterol numbers would likely drop as the beta-glucan fiber sweeps through your arteries.",
+      "**Walnuts** – if you ate a small handful daily for 2 weeks, your skin would look less dry and your mood might feel steadier thanks to the omega-3s.",
+      "**Beets** – if you drank or ate them daily for 10 days, your stamina during workouts would climb as nitrates widen your blood vessels.",
+      "**Lentils** – if you had a serving every day for 3 weeks, your energy crashes would fade as slow-releasing carbs keep blood sugar level.",
+      "**Pumpkin seeds** – if you snacked on a small handful daily for 2 weeks, your sleep quality would likely improve from the natural magnesium boost.",
+      "**Sardines** – if you ate them twice a week for a month, your joints would feel less stiff as omega-3s calm inflammation from the inside out.",
+      "**Kefir** – if you drank a small glass daily for 2 weeks, your digestion would speed up and skin breakouts might start to calm down.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these deserve a closer look. Low **iodine** slows your thyroid down because your body simply can't make enough thyroid hormone without it, which is why energy and metabolism take a hit. **Potassium** works closely with sodium to send electrical signals to your muscles and heart, so when levels drop, cramps and irregular heartbeats can follow. And **folate** is essential for making new red blood cells — without enough, your body struggles to carry oxygen efficiently, leaving you drained and pale. Everyone's body is different, so listen to yours and check in with a doctor if something feels off.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ health, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Sauerkraut is one of the easiest wins here — its live bacteria colonize your gut lining and start crowding out the strains linked to bloating and sluggish digestion, which is why people notice a flatter stomach within days. Oats work differently: the beta-glucan fiber forms a gel in your gut that binds to cholesterol particles and drags them out before they ever reach your bloodstream. And beets deserve more credit than they get — the nitrates convert into nitric oxide in your body, which relaxes blood vessels so oxygen reaches your muscles faster, which is literally why athletes drink beet juice before races. Everyone's body responds a bit differently, so pay attention to what yours is telling you.\n\nThis is what @smarthealthfix is all about — simple swaps that touch nutrition, common symptoms, your organs, and the small daily habits that quietly shape how you feel. Our mission is to make real, lasting health changes feel doable instead of overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#nutrientdeficiency",
-      "#iodine",
-      "#vitaminK",
-      "#potassium",
-      "#vitaminA",
-      "#vitaminE",
-      "#folate",
-      "#zincdeficiency",
-      "#healthtips",
-      "#wellness",
-      "#nutritionfacts"
+      "#guthealth",
+      "#fermentedfoods",
+      "#hearthealth",
+      "#antiinflammatory",
+      "#nutritiontips",
+      "#wholefoods",
+      "#healthyhabits",
+      "#digestivehealth",
+      "#wellnessjourney",
+      "#foodismedicine"
     ],
     "extra_keywords": [
-      "nutrientgaps",
-      "wellnessjourney",
-      "hiddendeficiency",
-      "healthawareness"
+      "naturalhealing",
+      "eatwell",
+      "healthyeating",
+      "guttips",
+      "nutrientdense"
     ]
   },
-  "shape": "symptom_list",
-  "caption": "A few of these deserve a closer look. Low **iodine** slows your thyroid down because your body simply can't make enough thyroid hormone without it, which is why energy and metabolism take a hit. **Potassium** works closely with sodium to send electrical signals to your muscles and heart, so when levels drop, cramps and irregular heartbeats can follow. And **folate** is essential for making new red blood cells — without enough, your body struggles to carry oxygen efficiently, leaving you drained and pale. Everyone's body is different, so listen to yours and check in with a doctor if something feels off.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ health, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #iodine #vitaminK #potassium #vitaminA #vitaminE #folate #zincdeficiency #healthtips #wellness #nutritionfacts nutrientgaps wellnessjourney hiddendeficiency healthawareness"
+  "shape": "conditional_transformation",
+  "caption": "Sauerkraut is one of the easiest wins here — its live bacteria colonize your gut lining and start crowding out the strains linked to bloating and sluggish digestion, which is why people notice a flatter stomach within days. Oats work differently: the beta-glucan fiber forms a gel in your gut that binds to cholesterol particles and drags them out before they ever reach your bloodstream. And beets deserve more credit than they get — the nitrates convert into nitric oxide in your body, which relaxes blood vessels so oxygen reaches your muscles faster, which is literally why athletes drink beet juice before races. Everyone's body responds a bit differently, so pay attention to what yours is telling you.\n\nThis is what @smarthealthfix is all about — simple swaps that touch nutrition, common symptoms, your organs, and the small daily habits that quietly shape how you feel. Our mission is to make real, lasting health changes feel doable instead of overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#guthealth #fermentedfoods #hearthealth #antiinflammatory #nutritiontips #wholefoods #healthyhabits #digestivehealth #wellnessjourney #foodismedicine naturalhealing eatwell healthyeating guttips nutrientdense"
 }
