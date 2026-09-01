@@ -1,43 +1,42 @@
 {
-  "png": "output/reel_20260901_182347.png",
-  "mp4": "output/reel_20260901_182347.mp4",
-  "cover": "output/cover_20260901_182347.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260901_222523.png",
+  "mp4": "output/reel_20260901_222523.mp4",
+  "cover": "output/cover_20260901_222523.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE {{FRIDGE}} MISTAKES QUIETLY MAKING YOUR FOOD UNSAFE",
+    "title": "WHY {{ONE ORGAN}} DETERMINES HOW OLD YOU LOOK AND FEEL",
     "facts": [
-      "**Chicken** – Washing it under the tap before cooking (splashes bacteria like Campylobacter onto your sink, counters, and nearby dishes).",
-      "**Rice** – Cooling a big batch on the counter for hours before fridging it (Bacillus cereus spores survive cooking and multiply fast at room temp).",
-      "**Potatoes** – Storing them in a plastic bag in a bright spot (turns green/sprouted from light exposure, raising solanine levels).",
-      "**Honey** – Feeding it to a baby under 1 year old (can carry Clostridium botulinum spores, unsafe for undeveloped infant guts).",
-      "**Melon** – Leaving a cut melon out on the counter for hours (moist, low-acid flesh lets listeria grow quickly at room temp).",
-      "**Eggs** – Storing them in the fridge door instead of the main shelves (door temps swing more, speeding up spoilage).",
-      "**Leftovers** – Letting a hot pot cool fully on the counter before refrigerating (keeps food in the bacteria-friendly danger zone for too long).",
-      "**Garlic-in-oil** – Making a homemade batch and keeping it at room temperature (low-oxygen oil is a breeding ground for botulism if unrefrigerated).",
-      "**Follow along** – for more daily food safety tips like this."
+      "**Radishes** are good for LIVER – their sulfur compounds help thin bile and ease the load on your liver's filtering system.",
+      "**Buckwheat** is good for BLOOD VESSELS – it's loaded with rutin, a plant compound that keeps capillary walls strong and flexible.",
+      "**Celery** is good for BLADDER – it acts as a gentle natural diuretic, helping flush out excess salt and fluid.",
+      "**Turmeric** (1 tsp/day) is good for JOINTS – its curcumin content calms inflammation that stiffens cartilage over time.",
+      "**Papaya** is good for STOMACH LINING – papain, its natural enzyme, breaks down protein so digestion feels less heavy.",
+      "**Asparagus** is good for KIDNEYS – it's a natural diuretic that supports the kidneys in clearing out waste.",
+      "**Cranberries** (unsweetened, 1/2 cup/day) are good for URINARY TRACT – compounds inside stop bacteria from clinging to the tract's walls.",
+      "**Dark chocolate** (1 small square/day, 70%+) is good for BRAIN – its flavanols boost blood flow to areas tied to memory and focus.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these mistakes are more common than people realize. Take chicken: rinsing it under the tap feels hygienic, but it actually aerosolizes bacteria like Campylobacter, sending tiny water droplets onto your counters, sponge, and even nearby vegetables — cooking it properly is what actually kills the bacteria, not rinsing. Rice is another sneaky one: Bacillus cereus spores can survive the boiling process, and if the cooked rice sits out too long, those spores germinate and produce a toxin that heat won't destroy later. And garlic-in-oil is a classic trap — garlic is low-acid and the oil blocks oxygen, creating the exact anaerobic environment Clostridium botulinum thrives in in unrefrigerated storage. Everyone's kitchen habits are a little different, so it's worth double-checking your own routine against these.\n\n@smarthealthfix covers nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic routines instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these deserve a closer look. Radishes contain glucosinolates that get converted into compounds your liver uses during phase II detox, which is the stage where it actually neutralizes toxins instead of just filtering them. Buckwheat's rutin doesn't just sit there either — it strengthens the collagen structure of tiny blood vessel walls, which is part of why it's been linked to healthier circulation over time. And cranberries work almost like a slippery coating: the proanthocyanidins inside make it harder for bacteria to attach to the urinary tract lining in the first place, rather than fighting an infection after it starts. That said, everyone's body responds a little differently, so pay attention to how yours reacts.\n\nThis is exactly the kind of connection @smarthealthfix focuses on — linking everyday nutrition to the organs, common symptoms, and body functions they quietly support, plus the small daily habits that add up. Our mission is to help you build realistic habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#foodsafety",
-      "#kitchentips",
+      "#organhealth",
+      "#liverhealth",
+      "#kidneyhealth",
+      "#guthealth",
+      "#brainhealth",
       "#healthtips",
-      "#foodpoisoning",
-      "#mealprep",
       "#wellness",
-      "#kitchenhacks",
-      "#foodstorage",
-      "#healthyhabits",
-      "#didyouknow"
+      "#nutritionfacts",
+      "#antiinflammatory",
+      "#healthyhabits"
     ],
     "extra_keywords": [
-      "foodsafetytips",
-      "kitchenmistakes",
+      "naturalhealing",
       "wellnessjourney",
-      "healthyliving",
-      "cookingtips"
+      "foodismedicine",
+      "organsupport"
     ]
   },
-  "shape": "food_safety_mistake",
-  "caption": "A few of these mistakes are more common than people realize. Take chicken: rinsing it under the tap feels hygienic, but it actually aerosolizes bacteria like Campylobacter, sending tiny water droplets onto your counters, sponge, and even nearby vegetables — cooking it properly is what actually kills the bacteria, not rinsing. Rice is another sneaky one: Bacillus cereus spores can survive the boiling process, and if the cooked rice sits out too long, those spores germinate and produce a toxin that heat won't destroy later. And garlic-in-oil is a classic trap — garlic is low-acid and the oil blocks oxygen, creating the exact anaerobic environment Clostridium botulinum thrives in in unrefrigerated storage. Everyone's kitchen habits are a little different, so it's worth double-checking your own routine against these.\n\n@smarthealthfix covers nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic routines instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodsafety #kitchentips #healthtips #foodpoisoning #mealprep #wellness #kitchenhacks #foodstorage #healthyhabits #didyouknow foodsafetytips kitchenmistakes wellnessjourney healthyliving cookingtips"
+  "shape": "allcaps_benefit",
+  "caption": "A few of these deserve a closer look. Radishes contain glucosinolates that get converted into compounds your liver uses during phase II detox, which is the stage where it actually neutralizes toxins instead of just filtering them. Buckwheat's rutin doesn't just sit there either — it strengthens the collagen structure of tiny blood vessel walls, which is part of why it's been linked to healthier circulation over time. And cranberries work almost like a slippery coating: the proanthocyanidins inside make it harder for bacteria to attach to the urinary tract lining in the first place, rather than fighting an infection after it starts. That said, everyone's body responds a little differently, so pay attention to how yours reacts.\n\nThis is exactly the kind of connection @smarthealthfix focuses on — linking everyday nutrition to the organs, common symptoms, and body functions they quietly support, plus the small daily habits that add up. Our mission is to help you build realistic habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #liverhealth #kidneyhealth #guthealth #brainhealth #healthtips #wellness #nutritionfacts #antiinflammatory #healthyhabits naturalhealing wellnessjourney foodismedicine organsupport"
 }
