@@ -1,43 +1,42 @@
 {
-  "png": "output/reel_20260831_233911.png",
-  "mp4": "output/reel_20260831_233911.mp4",
-  "cover": "output/cover_20260831_233911.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260901_143920.png",
+  "mp4": "output/reel_20260901_143920.mp4",
+  "cover": "output/cover_20260901_143920.png",
+  "cover_bg": "green",
   "content": {
-    "title": "IF YOU ATE THIS EVERY DAY... {{YOUR BODY}} WOULD CHANGE FASTER THAN YOU THINK",
+    "title": "THE MINERAL THAT DECIDES IF YOU WAKE UP {{TIRED}} OR SHARP",
     "facts": [
-      "**Fermented cabbage (sauerkraut)** – if you ate a spoonful every day for 3 weeks, your gut bacteria would diversify and bloating after meals would noticeably ease.",
-      "**Oats** – if you had a bowl every morning for 30 days, your cholesterol numbers would likely drop as the beta-glucan fiber sweeps through your arteries.",
-      "**Walnuts** – if you ate a small handful daily for 2 weeks, your skin would look less dry and your mood might feel steadier thanks to the omega-3s.",
-      "**Beets** – if you drank or ate them daily for 10 days, your stamina during workouts would climb as nitrates widen your blood vessels.",
-      "**Lentils** – if you had a serving every day for 3 weeks, your energy crashes would fade as slow-releasing carbs keep blood sugar level.",
-      "**Pumpkin seeds** – if you snacked on a small handful daily for 2 weeks, your sleep quality would likely improve from the natural magnesium boost.",
-      "**Sardines** – if you ate them twice a week for a month, your joints would feel less stiff as omega-3s calm inflammation from the inside out.",
-      "**Kefir** – if you drank a small glass daily for 2 weeks, your digestion would speed up and skin breakouts might start to calm down.",
+      "**Copper** (Energy Spark Plug) — Cashews | Dark Chocolate | Shiitake Mushrooms | Chickpeas",
+      "**Manganese** (Bone Builder) — Mussels | Pineapple | Brown Rice | Pecans",
+      "**Selenium** (Thyroid Guardian) — Brazil Nuts | Tuna | Eggs Yolks | Sunflower Seeds",
+      "**Magnesium** (Nervous System Calmer) — Cashews | Black Beans | Swiss Chard | Tofu",
+      "**Calcium** (Heartbeat Regulator) — Sardines with Bones | Bok Choy | Almonds | Yogurt",
+      "**Iron** (Oxygen Carrier) — Beef Liver | Spinach | Pumpkin Seeds | Quinoa",
+      "**Iodine** (Metabolism Switch) — Seaweed | Cod | Dairy | Iodized Salt",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Sauerkraut is one of the easiest wins here — its live bacteria colonize your gut lining and start crowding out the strains linked to bloating and sluggish digestion, which is why people notice a flatter stomach within days. Oats work differently: the beta-glucan fiber forms a gel in your gut that binds to cholesterol particles and drags them out before they ever reach your bloodstream. And beets deserve more credit than they get — the nitrates convert into nitric oxide in your body, which relaxes blood vessels so oxygen reaches your muscles faster, which is literally why athletes drink beet juice before races. Everyone's body responds a bit differently, so pay attention to what yours is telling you.\n\nThis is what @smarthealthfix is all about — simple swaps that touch nutrition, common symptoms, your organs, and the small daily habits that quietly shape how you feel. Our mission is to make real, lasting health changes feel doable instead of overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Copper doesn't get much attention, but it's what actually helps your body turn iron into usable energy — without enough of it, you can eat all the iron-rich foods you want and still feel drained. Manganese quietly works behind the scenes to activate the enzymes that build and repair your bones and cartilage, so a deficiency shows up as achy joints long before you'd think to blame your diet. And selenium is one of the few minerals your thyroid needs directly to convert its hormones into the active form your cells can actually use, which is why low selenium is so often tied to sluggish metabolism and constant fatigue. Everyone's body is different, so listen to yours and adjust from there.\n\nThis is what we post about daily @smarthealthfix — nutrition, common health issues, organs & body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#guthealth",
-      "#fermentedfoods",
-      "#hearthealth",
-      "#antiinflammatory",
-      "#nutritiontips",
-      "#wholefoods",
-      "#healthyhabits",
-      "#digestivehealth",
+      "#mineralbalance",
+      "#copperdeficiency",
+      "#thyroidhealth",
+      "#seleniumbenefits",
+      "#manganese",
+      "#energylevels",
+      "#healthtips",
       "#wellnessjourney",
-      "#foodismedicine"
+      "#nutritionfacts",
+      "#micronutrients"
     ],
     "extra_keywords": [
-      "naturalhealing",
-      "eatwell",
-      "healthyeating",
-      "guttips",
-      "nutrientdense"
+      "mineralsforenergy",
+      "traceminerals",
+      "healthyhabits",
+      "nutritiontips",
+      "wellnessfacts"
     ]
   },
-  "shape": "conditional_transformation",
-  "caption": "Sauerkraut is one of the easiest wins here — its live bacteria colonize your gut lining and start crowding out the strains linked to bloating and sluggish digestion, which is why people notice a flatter stomach within days. Oats work differently: the beta-glucan fiber forms a gel in your gut that binds to cholesterol particles and drags them out before they ever reach your bloodstream. And beets deserve more credit than they get — the nitrates convert into nitric oxide in your body, which relaxes blood vessels so oxygen reaches your muscles faster, which is literally why athletes drink beet juice before races. Everyone's body responds a bit differently, so pay attention to what yours is telling you.\n\nThis is what @smarthealthfix is all about — simple swaps that touch nutrition, common symptoms, your organs, and the small daily habits that quietly shape how you feel. Our mission is to make real, lasting health changes feel doable instead of overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#guthealth #fermentedfoods #hearthealth #antiinflammatory #nutritiontips #wholefoods #healthyhabits #digestivehealth #wellnessjourney #foodismedicine naturalhealing eatwell healthyeating guttips nutrientdense"
+  "shape": "mineral_sources",
+  "caption": "Copper doesn't get much attention, but it's what actually helps your body turn iron into usable energy — without enough of it, you can eat all the iron-rich foods you want and still feel drained. Manganese quietly works behind the scenes to activate the enzymes that build and repair your bones and cartilage, so a deficiency shows up as achy joints long before you'd think to blame your diet. And selenium is one of the few minerals your thyroid needs directly to convert its hormones into the active form your cells can actually use, which is why low selenium is so often tied to sluggish metabolism and constant fatigue. Everyone's body is different, so listen to yours and adjust from there.\n\nThis is what we post about daily @smarthealthfix — nutrition, common health issues, organs & body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#mineralbalance #copperdeficiency #thyroidhealth #seleniumbenefits #manganese #energylevels #healthtips #wellnessjourney #nutritionfacts #micronutrients mineralsforenergy traceminerals healthyhabits nutritiontips wellnessfacts"
 }
