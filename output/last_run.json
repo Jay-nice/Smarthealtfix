@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20260901_143920.png",
-  "mp4": "output/reel_20260901_143920.mp4",
-  "cover": "output/cover_20260901_143920.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260901_182347.png",
+  "mp4": "output/reel_20260901_182347.mp4",
+  "cover": "output/cover_20260901_182347.png",
+  "cover_bg": "white",
   "content": {
-    "title": "THE MINERAL THAT DECIDES IF YOU WAKE UP {{TIRED}} OR SHARP",
+    "title": "THE {{FRIDGE}} MISTAKES QUIETLY MAKING YOUR FOOD UNSAFE",
     "facts": [
-      "**Copper** (Energy Spark Plug) — Cashews | Dark Chocolate | Shiitake Mushrooms | Chickpeas",
-      "**Manganese** (Bone Builder) — Mussels | Pineapple | Brown Rice | Pecans",
-      "**Selenium** (Thyroid Guardian) — Brazil Nuts | Tuna | Eggs Yolks | Sunflower Seeds",
-      "**Magnesium** (Nervous System Calmer) — Cashews | Black Beans | Swiss Chard | Tofu",
-      "**Calcium** (Heartbeat Regulator) — Sardines with Bones | Bok Choy | Almonds | Yogurt",
-      "**Iron** (Oxygen Carrier) — Beef Liver | Spinach | Pumpkin Seeds | Quinoa",
-      "**Iodine** (Metabolism Switch) — Seaweed | Cod | Dairy | Iodized Salt",
-      "**Follow along** – for more daily health tips like this."
+      "**Chicken** – Washing it under the tap before cooking (splashes bacteria like Campylobacter onto your sink, counters, and nearby dishes).",
+      "**Rice** – Cooling a big batch on the counter for hours before fridging it (Bacillus cereus spores survive cooking and multiply fast at room temp).",
+      "**Potatoes** – Storing them in a plastic bag in a bright spot (turns green/sprouted from light exposure, raising solanine levels).",
+      "**Honey** – Feeding it to a baby under 1 year old (can carry Clostridium botulinum spores, unsafe for undeveloped infant guts).",
+      "**Melon** – Leaving a cut melon out on the counter for hours (moist, low-acid flesh lets listeria grow quickly at room temp).",
+      "**Eggs** – Storing them in the fridge door instead of the main shelves (door temps swing more, speeding up spoilage).",
+      "**Leftovers** – Letting a hot pot cool fully on the counter before refrigerating (keeps food in the bacteria-friendly danger zone for too long).",
+      "**Garlic-in-oil** – Making a homemade batch and keeping it at room temperature (low-oxygen oil is a breeding ground for botulism if unrefrigerated).",
+      "**Follow along** – for more daily food safety tips like this."
     ],
     "claims": [],
-    "caption": "Copper doesn't get much attention, but it's what actually helps your body turn iron into usable energy — without enough of it, you can eat all the iron-rich foods you want and still feel drained. Manganese quietly works behind the scenes to activate the enzymes that build and repair your bones and cartilage, so a deficiency shows up as achy joints long before you'd think to blame your diet. And selenium is one of the few minerals your thyroid needs directly to convert its hormones into the active form your cells can actually use, which is why low selenium is so often tied to sluggish metabolism and constant fatigue. Everyone's body is different, so listen to yours and adjust from there.\n\nThis is what we post about daily @smarthealthfix — nutrition, common health issues, organs & body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these mistakes are more common than people realize. Take chicken: rinsing it under the tap feels hygienic, but it actually aerosolizes bacteria like Campylobacter, sending tiny water droplets onto your counters, sponge, and even nearby vegetables — cooking it properly is what actually kills the bacteria, not rinsing. Rice is another sneaky one: Bacillus cereus spores can survive the boiling process, and if the cooked rice sits out too long, those spores germinate and produce a toxin that heat won't destroy later. And garlic-in-oil is a classic trap — garlic is low-acid and the oil blocks oxygen, creating the exact anaerobic environment Clostridium botulinum thrives in in unrefrigerated storage. Everyone's kitchen habits are a little different, so it's worth double-checking your own routine against these.\n\n@smarthealthfix covers nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic routines instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#mineralbalance",
-      "#copperdeficiency",
-      "#thyroidhealth",
-      "#seleniumbenefits",
-      "#manganese",
-      "#energylevels",
+      "#foodsafety",
+      "#kitchentips",
       "#healthtips",
-      "#wellnessjourney",
-      "#nutritionfacts",
-      "#micronutrients"
+      "#foodpoisoning",
+      "#mealprep",
+      "#wellness",
+      "#kitchenhacks",
+      "#foodstorage",
+      "#healthyhabits",
+      "#didyouknow"
     ],
     "extra_keywords": [
-      "mineralsforenergy",
-      "traceminerals",
-      "healthyhabits",
-      "nutritiontips",
-      "wellnessfacts"
+      "foodsafetytips",
+      "kitchenmistakes",
+      "wellnessjourney",
+      "healthyliving",
+      "cookingtips"
     ]
   },
-  "shape": "mineral_sources",
-  "caption": "Copper doesn't get much attention, but it's what actually helps your body turn iron into usable energy — without enough of it, you can eat all the iron-rich foods you want and still feel drained. Manganese quietly works behind the scenes to activate the enzymes that build and repair your bones and cartilage, so a deficiency shows up as achy joints long before you'd think to blame your diet. And selenium is one of the few minerals your thyroid needs directly to convert its hormones into the active form your cells can actually use, which is why low selenium is so often tied to sluggish metabolism and constant fatigue. Everyone's body is different, so listen to yours and adjust from there.\n\nThis is what we post about daily @smarthealthfix — nutrition, common health issues, organs & body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#mineralbalance #copperdeficiency #thyroidhealth #seleniumbenefits #manganese #energylevels #healthtips #wellnessjourney #nutritionfacts #micronutrients mineralsforenergy traceminerals healthyhabits nutritiontips wellnessfacts"
+  "shape": "food_safety_mistake",
+  "caption": "A few of these mistakes are more common than people realize. Take chicken: rinsing it under the tap feels hygienic, but it actually aerosolizes bacteria like Campylobacter, sending tiny water droplets onto your counters, sponge, and even nearby vegetables — cooking it properly is what actually kills the bacteria, not rinsing. Rice is another sneaky one: Bacillus cereus spores can survive the boiling process, and if the cooked rice sits out too long, those spores germinate and produce a toxin that heat won't destroy later. And garlic-in-oil is a classic trap — garlic is low-acid and the oil blocks oxygen, creating the exact anaerobic environment Clostridium botulinum thrives in in unrefrigerated storage. Everyone's kitchen habits are a little different, so it's worth double-checking your own routine against these.\n\n@smarthealthfix covers nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic routines instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodsafety #kitchentips #healthtips #foodpoisoning #mealprep #wellness #kitchenhacks #foodstorage #healthyhabits #didyouknow foodsafetytips kitchenmistakes wellnessjourney healthyliving cookingtips"
 }
