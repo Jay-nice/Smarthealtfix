@@ -1,42 +1,44 @@
 {
-  "png": "output/reel_20260901_222523.png",
-  "mp4": "output/reel_20260901_222523.mp4",
-  "cover": "output/cover_20260901_222523.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260902_141128.png",
+  "mp4": "output/reel_20260902_141128.mp4",
+  "cover": "output/cover_20260902_141128.png",
+  "cover_bg": "white",
   "content": {
-    "title": "WHY {{ONE ORGAN}} DETERMINES HOW OLD YOU LOOK AND FEEL",
+    "title": "KITCHEN FIXES FOR ANNOYING LITTLE PROBLEMS YOUR {{MEDICINE CABINET}} DOESN'T HAVE",
     "facts": [
-      "**Radishes** are good for LIVER – their sulfur compounds help thin bile and ease the load on your liver's filtering system.",
-      "**Buckwheat** is good for BLOOD VESSELS – it's loaded with rutin, a plant compound that keeps capillary walls strong and flexible.",
-      "**Celery** is good for BLADDER – it acts as a gentle natural diuretic, helping flush out excess salt and fluid.",
-      "**Turmeric** (1 tsp/day) is good for JOINTS – its curcumin content calms inflammation that stiffens cartilage over time.",
-      "**Papaya** is good for STOMACH LINING – papain, its natural enzyme, breaks down protein so digestion feels less heavy.",
-      "**Asparagus** is good for KIDNEYS – it's a natural diuretic that supports the kidneys in clearing out waste.",
-      "**Cranberries** (unsweetened, 1/2 cup/day) are good for URINARY TRACT – compounds inside stop bacteria from clinging to the tract's walls.",
-      "**Dark chocolate** (1 small square/day, 70%+) is good for BRAIN – its flavanols boost blood flow to areas tied to memory and focus.",
-      "**Follow along** – for more daily health tips like this."
+      "**Hiccups** – Swallow 1 tsp of dry sugar to reset the nerve signal.",
+      "**Burnt Tongue** – Press a spoon of plain yogurt on it to cool and soothe.",
+      "**Bug Bite Itch** – Dab on a paste of baking soda and water for quick relief.",
+      "**Nosebleed** – Pinch the soft part of your nose and lean forward for 10 minutes.",
+      "**Sore Throat** – Gargle warm salt water (1/2 tsp salt per cup) 3x/day.",
+      "**Hangnail Pain** – Soak the finger in warm olive oil for 5 minutes to soften skin.",
+      "**Bad Breath After Onions** – Chew on fresh parsley or mint leaves to neutralize odor.",
+      "**Leg Cramp at Night** – Pull your toes toward your shin and hold for 30 seconds.",
+      "**Splinter Removal** – Soak the area in warm water with Epsom salt to draw it out.",
+      "**Chapped Lips** – Rub a thin layer of coconut oil before bed to lock in moisture.",
+      "**Follow along** – for more quick fixes like this you can actually use today."
     ],
     "claims": [],
-    "caption": "A few of these deserve a closer look. Radishes contain glucosinolates that get converted into compounds your liver uses during phase II detox, which is the stage where it actually neutralizes toxins instead of just filtering them. Buckwheat's rutin doesn't just sit there either — it strengthens the collagen structure of tiny blood vessel walls, which is part of why it's been linked to healthier circulation over time. And cranberries work almost like a slippery coating: the proanthocyanidins inside make it harder for bacteria to attach to the urinary tract lining in the first place, rather than fighting an infection after it starts. That said, everyone's body responds a little differently, so pay attention to how yours reacts.\n\nThis is exactly the kind of connection @smarthealthfix focuses on — linking everyday nutrition to the organs, common symptoms, and body functions they quietly support, plus the small daily habits that add up. Our mission is to help you build realistic habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these deserve a bit more explanation. The sugar trick for hiccups works because the granules briefly irritate the vagus nerve, interrupting the spasm signal that's causing the diaphragm to jump. Salt water gargles for a sore throat pull excess fluid out of inflamed tissue through osmosis, which is why the swelling and scratchiness ease up so fast. And that Epsom salt soak for a splinter isn't just softening the skin — the magnesium sulfate helps reduce local swelling around the splinter, making it easier for your body (or tweezers) to push it out. Everyone's body reacts a little differently, so listen to yours and adjust as needed.\n\nAt @smarthealthfix we cover everyday nutrition, common health issues, organ function, and small daily habits that actually make a difference. Our mission is simple: help you build small, realistic habits instead of chasing expensive quick fixes you'll forget about in a week.\n\nSave this post so you don't lose it, and share it with someone who needs a fix for one of these annoying little problems today.",
     "hashtags": [
-      "#organhealth",
-      "#liverhealth",
-      "#kidneyhealth",
-      "#guthealth",
-      "#brainhealth",
+      "#homeremedies",
+      "#quickfix",
       "#healthtips",
       "#wellness",
-      "#nutritionfacts",
-      "#antiinflammatory",
-      "#healthyhabits"
+      "#naturalremedies",
+      "#kitchenhacks",
+      "#sorethroatremedy",
+      "#healthhacks",
+      "#everydayhealth",
+      "#selfcare"
     ],
     "extra_keywords": [
       "naturalhealing",
-      "wellnessjourney",
-      "foodismedicine",
-      "organsupport"
+      "homehacks",
+      "wellnesstips",
+      "diyremedies"
     ]
   },
-  "shape": "allcaps_benefit",
-  "caption": "A few of these deserve a closer look. Radishes contain glucosinolates that get converted into compounds your liver uses during phase II detox, which is the stage where it actually neutralizes toxins instead of just filtering them. Buckwheat's rutin doesn't just sit there either — it strengthens the collagen structure of tiny blood vessel walls, which is part of why it's been linked to healthier circulation over time. And cranberries work almost like a slippery coating: the proanthocyanidins inside make it harder for bacteria to attach to the urinary tract lining in the first place, rather than fighting an infection after it starts. That said, everyone's body responds a little differently, so pay attention to how yours reacts.\n\nThis is exactly the kind of connection @smarthealthfix focuses on — linking everyday nutrition to the organs, common symptoms, and body functions they quietly support, plus the small daily habits that add up. Our mission is to help you build realistic habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #liverhealth #kidneyhealth #guthealth #brainhealth #healthtips #wellness #nutritionfacts #antiinflammatory #healthyhabits naturalhealing wellnessjourney foodismedicine organsupport"
+  "shape": "boxed_hacks",
+  "caption": "A few of these deserve a bit more explanation. The sugar trick for hiccups works because the granules briefly irritate the vagus nerve, interrupting the spasm signal that's causing the diaphragm to jump. Salt water gargles for a sore throat pull excess fluid out of inflamed tissue through osmosis, which is why the swelling and scratchiness ease up so fast. And that Epsom salt soak for a splinter isn't just softening the skin — the magnesium sulfate helps reduce local swelling around the splinter, making it easier for your body (or tweezers) to push it out. Everyone's body reacts a little differently, so listen to yours and adjust as needed.\n\nAt @smarthealthfix we cover everyday nutrition, common health issues, organ function, and small daily habits that actually make a difference. Our mission is simple: help you build small, realistic habits instead of chasing expensive quick fixes you'll forget about in a week.\n\nSave this post so you don't lose it, and share it with someone who needs a fix for one of these annoying little problems today.\n\n#homeremedies #quickfix #healthtips #wellness #naturalremedies #kitchenhacks #sorethroatremedy #healthhacks #everydayhealth #selfcare naturalhealing homehacks wellnesstips diyremedies"
 }
