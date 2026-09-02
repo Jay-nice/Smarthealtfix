@@ -1,44 +1,40 @@
 {
-  "png": "output/reel_20260902_141128.png",
-  "mp4": "output/reel_20260902_141128.mp4",
-  "cover": "output/cover_20260902_141128.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260902_183530.png",
+  "mp4": "output/reel_20260902_183530.mp4",
+  "cover": "output/cover_20260902_183530.png",
+  "cover_bg": "green",
   "content": {
-    "title": "KITCHEN FIXES FOR ANNOYING LITTLE PROBLEMS YOUR {{MEDICINE CABINET}} DOESN'T HAVE",
+    "title": "THE MINERAL YOUR THYROID CAN'T FUNCTION WITHOUT",
     "facts": [
-      "**Hiccups** – Swallow 1 tsp of dry sugar to reset the nerve signal.",
-      "**Burnt Tongue** – Press a spoon of plain yogurt on it to cool and soothe.",
-      "**Bug Bite Itch** – Dab on a paste of baking soda and water for quick relief.",
-      "**Nosebleed** – Pinch the soft part of your nose and lean forward for 10 minutes.",
-      "**Sore Throat** – Gargle warm salt water (1/2 tsp salt per cup) 3x/day.",
-      "**Hangnail Pain** – Soak the finger in warm olive oil for 5 minutes to soften skin.",
-      "**Bad Breath After Onions** – Chew on fresh parsley or mint leaves to neutralize odor.",
-      "**Leg Cramp at Night** – Pull your toes toward your shin and hold for 30 seconds.",
-      "**Splinter Removal** – Soak the area in warm water with Epsom salt to draw it out.",
-      "**Chapped Lips** – Rub a thin layer of coconut oil before bed to lock in moisture.",
-      "**Follow along** – for more quick fixes like this you can actually use today."
+      "**Iodine** (Thyroid Fuel) — Cod | Seaweed | Shrimp | Yogurt",
+      "**Selenium** (Hormone Converter) — Brazil Nuts | Sardines | Sunflower Seeds | Turkey",
+      "**Zinc** (Immune Trigger) — Pumpkin Seeds | Oysters | Lentils | Cashews",
+      "**Potassium** (Nerve Signal Sender) — Bananas | White Beans | Coconut Water | Spinach",
+      "**Magnesium** (Muscle Relaxer) — Pumpkin Seeds | Dark Chocolate | Avocado | Almonds",
+      "**Iron** (Oxygen Carrier) — Lentils | Pumpkin Seeds | Spinach | Red Meat",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these deserve a bit more explanation. The sugar trick for hiccups works because the granules briefly irritate the vagus nerve, interrupting the spasm signal that's causing the diaphragm to jump. Salt water gargles for a sore throat pull excess fluid out of inflamed tissue through osmosis, which is why the swelling and scratchiness ease up so fast. And that Epsom salt soak for a splinter isn't just softening the skin — the magnesium sulfate helps reduce local swelling around the splinter, making it easier for your body (or tweezers) to push it out. Everyone's body reacts a little differently, so listen to yours and adjust as needed.\n\nAt @smarthealthfix we cover everyday nutrition, common health issues, organ function, and small daily habits that actually make a difference. Our mission is simple: help you build small, realistic habits instead of chasing expensive quick fixes you'll forget about in a week.\n\nSave this post so you don't lose it, and share it with someone who needs a fix for one of these annoying little problems today.",
+    "caption": "Your thyroid runs almost entirely on **iodine** — without enough of it, your body can't produce the hormones that control your metabolism, so even small deficiencies can leave you feeling sluggish or foggy. **Selenium** works right alongside it, helping convert the thyroid's raw hormone into the active form your cells actually use — think of it as the key that unlocks iodine's work. And don't sleep on **zinc**: it's involved in over 300 enzyme reactions, including the ones your immune system uses to fight off invaders before you even notice you're sick. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organs & body functions, and small daily habits so health feels less overwhelming. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#homeremedies",
-      "#quickfix",
+      "#thyroidhealth",
+      "#iodine",
+      "#seleniumfoods",
+      "#mineralsmatter",
+      "#hormonebalance",
+      "#immunesupport",
+      "#zincbenefits",
+      "#nutritiontips",
       "#healthtips",
-      "#wellness",
-      "#naturalremedies",
-      "#kitchenhacks",
-      "#sorethroatremedy",
-      "#healthhacks",
-      "#everydayhealth",
-      "#selfcare"
+      "#wellness"
     ],
     "extra_keywords": [
       "naturalhealing",
-      "homehacks",
-      "wellnesstips",
-      "diyremedies"
+      "wellnessjourney",
+      "hormonehealth",
+      "nutrienttips"
     ]
   },
-  "shape": "boxed_hacks",
-  "caption": "A few of these deserve a bit more explanation. The sugar trick for hiccups works because the granules briefly irritate the vagus nerve, interrupting the spasm signal that's causing the diaphragm to jump. Salt water gargles for a sore throat pull excess fluid out of inflamed tissue through osmosis, which is why the swelling and scratchiness ease up so fast. And that Epsom salt soak for a splinter isn't just softening the skin — the magnesium sulfate helps reduce local swelling around the splinter, making it easier for your body (or tweezers) to push it out. Everyone's body reacts a little differently, so listen to yours and adjust as needed.\n\nAt @smarthealthfix we cover everyday nutrition, common health issues, organ function, and small daily habits that actually make a difference. Our mission is simple: help you build small, realistic habits instead of chasing expensive quick fixes you'll forget about in a week.\n\nSave this post so you don't lose it, and share it with someone who needs a fix for one of these annoying little problems today.\n\n#homeremedies #quickfix #healthtips #wellness #naturalremedies #kitchenhacks #sorethroatremedy #healthhacks #everydayhealth #selfcare naturalhealing homehacks wellnesstips diyremedies"
+  "shape": "mineral_sources",
+  "caption": "Your thyroid runs almost entirely on **iodine** — without enough of it, your body can't produce the hormones that control your metabolism, so even small deficiencies can leave you feeling sluggish or foggy. **Selenium** works right alongside it, helping convert the thyroid's raw hormone into the active form your cells actually use — think of it as the key that unlocks iodine's work. And don't sleep on **zinc**: it's involved in over 300 enzyme reactions, including the ones your immune system uses to fight off invaders before you even notice you're sick. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organs & body functions, and small daily habits so health feels less overwhelming. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#thyroidhealth #iodine #seleniumfoods #mineralsmatter #hormonebalance #immunesupport #zincbenefits #nutritiontips #healthtips #wellness naturalhealing wellnessjourney hormonehealth nutrienttips"
 }
