@@ -1,40 +1,41 @@
 {
-  "png": "output/reel_20260902_183530.png",
-  "mp4": "output/reel_20260902_183530.mp4",
-  "cover": "output/cover_20260902_183530.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260902_222422.png",
+  "mp4": "output/reel_20260902_222422.mp4",
+  "cover": "output/cover_20260902_222422.png",
+  "cover_bg": "white",
   "content": {
-    "title": "THE MINERAL YOUR THYROID CAN'T FUNCTION WITHOUT",
+    "title": "TINY HABITS THAT QUIETLY {{REWIRE}} YOUR HEALTH",
     "facts": [
-      "**Iodine** (Thyroid Fuel) — Cod | Seaweed | Shrimp | Yogurt",
-      "**Selenium** (Hormone Converter) — Brazil Nuts | Sardines | Sunflower Seeds | Turkey",
-      "**Zinc** (Immune Trigger) — Pumpkin Seeds | Oysters | Lentils | Cashews",
-      "**Potassium** (Nerve Signal Sender) — Bananas | White Beans | Coconut Water | Spinach",
-      "**Magnesium** (Muscle Relaxer) — Pumpkin Seeds | Dark Chocolate | Avocado | Almonds",
-      "**Iron** (Oxygen Carrier) — Lentils | Pumpkin Seeds | Spinach | Red Meat",
+      "**Cold water on your face** – 30 seconds after waking slows your heart rate and snaps your nervous system out of grogginess faster than coffee.",
+      "**Walking after meals** – just 10 minutes post-dinner blunts the blood sugar spike and eases digestion, no gym required.",
+      "**Nasal breathing** – keeping your mouth closed during light exercise filters air and boosts oxygen uptake compared to mouth breathing.",
+      "**Standing up every 30 minutes** – breaks the blood flow slowdown that sitting causes, protecting your joints and circulation over years.",
+      "**Chewing slower** – 20 chews per bite gives your gut hormones time to signal fullness, so you naturally eat less without trying.",
+      "**Sunlight within an hour of waking** – 5-10 minutes outside anchors your circadian rhythm, making it easier to fall asleep that same night.",
+      "**Stretching your calves before bed** – 1 minute nightly can prevent the muscle tightness that leads to cramps in the middle of the night.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Your thyroid runs almost entirely on **iodine** — without enough of it, your body can't produce the hormones that control your metabolism, so even small deficiencies can leave you feeling sluggish or foggy. **Selenium** works right alongside it, helping convert the thyroid's raw hormone into the active form your cells actually use — think of it as the key that unlocks iodine's work. And don't sleep on **zinc**: it's involved in over 300 enzyme reactions, including the ones your immune system uses to fight off invaders before you even notice you're sick. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organs & body functions, and small daily habits so health feels less overwhelming. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Small habits sound too simple to matter, but the science behind them is real. Take cold water on your face — splashing cold water triggers the mammalian dive reflex, which slows your heart rate and pulls your body out of sleep-inertia fog almost instantly. Walking after meals works because your leg muscles pull glucose out of your bloodstream to use as fuel, which is why even a short stroll blunts the sugar spike from dinner. And nasal breathing forces air through your sinuses, where it picks up nitric oxide — a molecule that helps widen blood vessels and improve oxygen delivery to your muscles. Everyone's body responds a little differently, so notice what actually changes for you.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#thyroidhealth",
-      "#iodine",
-      "#seleniumfoods",
-      "#mineralsmatter",
-      "#hormonebalance",
-      "#immunesupport",
-      "#zincbenefits",
-      "#nutritiontips",
       "#healthtips",
-      "#wellness"
+      "#dailyhabits",
+      "#wellness",
+      "#circadianrhythm",
+      "#guttips",
+      "#bloodsugar",
+      "#morningroutine",
+      "#healthyhabits",
+      "#biohacking",
+      "#selfcare"
     ],
     "extra_keywords": [
       "naturalhealing",
       "wellnessjourney",
-      "hormonehealth",
-      "nutrienttips"
+      "smallhabitsbigchanges",
+      "healthyliving"
     ]
   },
-  "shape": "mineral_sources",
-  "caption": "Your thyroid runs almost entirely on **iodine** — without enough of it, your body can't produce the hormones that control your metabolism, so even small deficiencies can leave you feeling sluggish or foggy. **Selenium** works right alongside it, helping convert the thyroid's raw hormone into the active form your cells actually use — think of it as the key that unlocks iodine's work. And don't sleep on **zinc**: it's involved in over 300 enzyme reactions, including the ones your immune system uses to fight off invaders before you even notice you're sick. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organs & body functions, and small daily habits so health feels less overwhelming. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#thyroidhealth #iodine #seleniumfoods #mineralsmatter #hormonebalance #immunesupport #zincbenefits #nutritiontips #healthtips #wellness naturalhealing wellnessjourney hormonehealth nutrienttips"
+  "shape": "numbered_explainer",
+  "caption": "Small habits sound too simple to matter, but the science behind them is real. Take cold water on your face — splashing cold water triggers the mammalian dive reflex, which slows your heart rate and pulls your body out of sleep-inertia fog almost instantly. Walking after meals works because your leg muscles pull glucose out of your bloodstream to use as fuel, which is why even a short stroll blunts the sugar spike from dinner. And nasal breathing forces air through your sinuses, where it picks up nitric oxide — a molecule that helps widen blood vessels and improve oxygen delivery to your muscles. Everyone's body responds a little differently, so notice what actually changes for you.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #dailyhabits #wellness #circadianrhythm #guttips #bloodsugar #morningroutine #healthyhabits #biohacking #selfcare naturalhealing wellnessjourney smallhabitsbigchanges healthyliving"
 }
