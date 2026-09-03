@@ -1,0 +1,183 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "THESE EVERYDAY PRODUCE SWAPS BEAT THE {{FAMOUS}} ONES",
+    "facts": [
+      "**Papaya** has more than double the vitamin C of an orange, making it a sneaky immune-support swap.",
+      "**Swiss chard** packs more vitamin K in one cooked cup than a serving of broccoli, supporting healthy blood clotting.",
+      "**Dried figs** carry more calcium than a glass of milk per 100g, great news if dairy isn't your thing.",
+      "**Parsnips** hold more fiber than a slice of whole wheat bread, helping keep digestion moving.",
+      "**Avocado** delivers more potassium than a banana, gram for gram, which helps balance sodium levels.",
+      "**Butternut squash** provides more vitamin D-supporting carotenoids than carrots, though sunlight is still your best D source.",
+      "**Brazil nuts** contain more selenium in a single nut than most people need in a whole day.",
+      "**Chia seeds** offer more plant-based omega-3 (ALA) per spoon than walnuts, easy to sprinkle on anything.",
+      "**Follow along** – for more daily health tips like this."
+    ],
+    "claims": [
+      {
+        "food_a": "Papaya",
+        "food_b": "Orange",
+        "nutrient_key": "vitamin_c"
+      },
+      {
+        "food_a": "Swiss chard",
+        "food_b": "Broccoli",
+        "nutrient_key": "vitamin_k"
+      },
+      {
+        "food_a": "Dried figs",
+        "food_b": "Milk",
+        "nutrient_key": "calcium"
+      },
+      {
+        "food_a": "Parsnips",
+        "food_b": "Whole wheat bread",
+        "nutrient_key": "fiber"
+      },
+      {
+        "food_a": "Avocado",
+        "food_b": "Banana",
+        "nutrient_key": "potassium"
+      },
+      {
+        "food_a": "Brazil nuts",
+        "food_b": "Most daily foods",
+        "nutrient_key": "selenium"
+      },
+      {
+        "food_a": "Chia seeds",
+        "food_b": "Walnuts",
+        "nutrient_key": "omega3_ala"
+      }
+    ],
+    "caption": "A lot of people load up on oranges for vitamin C, but papaya quietly delivers more per serving — the enzymes in papaya, like papain, also help break down protein and ease digestion at the same time. Swiss chard is another underrated one: its vitamin K helps activate proteins your body needs for proper blood clotting and even supports bone mineralization over time. And chia seeds are worth a second look too, since the ALA omega-3s in them get partially converted by your body into the same anti-inflammatory compounds found in fish. Everyone's body absorbs and converts nutrients a little differently, so listen to yours.\n\nAt @smarthealthfix, we focus on nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic changes instead of chasing quick fixes or fad diets.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "hashtags": [
+      "#healthtips",
+      "#nutritionfacts",
+      "#vitaminC",
+      "#plantbased",
+      "#wellnessjourney",
+      "#healthyeating",
+      "#micronutrients",
+      "#foodismedicine",
+      "#guttips",
+      "#eatthisnotthat"
+    ],
+    "extra_keywords": [
+      "nutrientdensefoods",
+      "wholefoods",
+      "immunesupport",
+      "naturalhealing",
+      "cleaneating"
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 7,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "Papaya",
+          "food_b": "Orange",
+          "nutrient_key": "vitamin_c"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "Papaya",
+          "food_b": "Orange",
+          "nutrient": "vitamin_c",
+          "amount_a": {
+            "amount": 6.0,
+            "unit": "MG",
+            "food_description": "PAPAYA",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 70,
+            "unit": "mg",
+            "per": "1 medium (130g)"
+          },
+          "ratio": 0.09
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Swiss chard",
+          "food_b": "Broccoli",
+          "nutrient_key": "vitamin_k"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Dried figs",
+          "food_b": "Milk",
+          "nutrient_key": "calcium"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "Dried figs",
+          "food_b": "Milk",
+          "nutrient": "calcium",
+          "amount_a": {
+            "amount": 93.0,
+            "unit": "MG",
+            "food_description": "DRIED FIGS",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 127,
+            "unit": "MG",
+            "food_description": "MILK",
+            "per": "100g"
+          },
+          "ratio": 0.73
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Avocado",
+          "food_b": "Banana",
+          "nutrient_key": "potassium"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "Avocado",
+          "food_b": "Banana",
+          "nutrient": "potassium",
+          "amount_a": {
+            "amount": 58,
+            "unit": "MG",
+            "food_description": "Avocado dressing",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 422,
+            "unit": "mg",
+            "per": "1 medium (118g)"
+          },
+          "ratio": 0.14
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Chia seeds",
+          "food_b": "Walnuts",
+          "nutrient_key": "omega3_ala"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      }
+    ]
+  }
+}
