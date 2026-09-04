@@ -1,43 +1,44 @@
 {
-  "png": "output/reel_20260903_183322.png",
-  "mp4": "output/reel_20260903_183322.mp4",
-  "cover": "output/cover_20260903_183322.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260904_140513.png",
+  "mp4": "output/reel_20260904_140513.mp4",
+  "cover": "output/cover_20260904_140513.png",
+  "cover_bg": "green",
   "content": {
-    "title": "IF YOU ATE {{THIS}} EVERY DAY, HERE'S WHAT YOUR BODY WOULD DO",
+    "title": "THE MINERAL {{DENTISTS}} WISH YOU KNEW ABOUT SOONER",
     "facts": [
-      "If you ate **beets** every day for 2 weeks, your blood pressure would drop noticeably and your legs would feel less heavy on stairs, thanks to the nitrates widening your blood vessels.",
-      "If you ate **sardines** every day for 3 weeks, your joints would creak less and your skin would look plumper from the steady hit of omega-3s and collagen-friendly minerals.",
-      "If you ate **oats** every day for 30 days, your cholesterol numbers would start shifting and your energy would stop crashing mid-morning, since the beta-glucan fiber slows sugar absorption.",
-      "If you ate **kimchi** every day for 2 weeks, your bloating would ease and your bathroom habits would become far more regular as gut bacteria diversity improves.",
-      "If you ate **pumpkin seeds** every day for 10 days, you'd fall asleep faster, since the tryptophan and magnesium combo helps your brain wind down at night.",
-      "If you ate **liver** once a week for a month, your usual afternoon fatigue would fade fast, driven by a massive natural boost in absorbable iron and B12.",
-      "If you ate **blueberries** every day for 3 weeks, your memory for small daily details would sharpen, linked to antioxidants that support blood flow to the brain.",
-      "If you ate **plain yogurt** every day for 2 weeks, your skin breakouts would calm down, tied to the probiotic effect on gut inflammation showing up on your face.",
+      "**Manganese** (Bone Builder) — activates the enzymes that build collagen and cartilage, so bones and joints hold up over time.",
+      "Sources: **Pineapple** | Brown Rice | Chickpeas | Cloves",
+      "**Copper** (Collagen Helper) — works alongside iron to form connective tissue and keep blood vessels flexible instead of brittle.",
+      "Sources: **Cashews** | Dark Leafy Greens | Mushrooms | Dried Prunes",
+      "**Calcium** (Signal Sender) — beyond bones, it triggers muscle contractions and lets nerves fire messages fast.",
+      "Sources: **Sesame Seeds** | Bok Choy | Canned Salmon (with bones) | Figs",
+      "**Chromium** (Sugar Handler) — helps insulin do its job so blood sugar doesn't spike and crash all day.",
+      "Sources: **Broccoli** | Green Beans | Whole Wheat Bread | Grapes",
+      "**Phosphorus** (Energy Currency) — a key piece of ATP, the molecule your cells burn for actual energy.",
+      "Sources: **Lentils** | Pumpkin | Sunflower Seeds | Eggs",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Some of these foods work faster than people expect. Beets are loaded with dietary nitrates, which your body converts into nitric oxide — a compound that relaxes and widens blood vessels, which is why blood pressure and circulation respond so quickly. Sardines bring both omega-3 fats and a good dose of calcium (yes, even with the bones), which is why joints and skin texture both benefit at the same time. And kimchi isn't just a gut trend — the fermentation process creates live bacterial strains that crowd out less helpful ones in your digestive tract, which is often what's behind less bloating within days. Everyone's gut and body respond a little differently, so pay attention to what your own body tells you.\n\nAt @smarthealthfix, we cover nutrition, common health issues, organs and body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Manganese doesn't get much attention, but it's the mineral your body quietly relies on to build collagen and cartilage — without enough of it, joints wear down faster than they should. Copper works as iron's silent partner: it helps form the connective tissue that keeps your blood vessels stretchy instead of stiff, which matters more as you get older. And chromium, often overlooked, helps insulin actually do its job so your blood sugar doesn't spike and crash after meals. Everyone's body is different, so pay attention to what yours needs.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs & body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
       "#wellness",
-      "#guthealth",
+      "#manganese",
+      "#copper",
+      "#calcium",
+      "#chromium",
+      "#phosphorus",
+      "#mineraldeficiency",
       "#nutritionfacts",
-      "#fermentedfoods",
-      "#antiinflammatory",
-      "#brainhealth",
-      "#healthyhabits",
-      "#nutritiontips",
-      "#realfood"
+      "#bonehealth"
     ],
     "extra_keywords": [
       "naturalhealing",
       "wellnessjourney",
-      "foodismedicine",
-      "healthyeating",
-      "guttips"
+      "mineralbalance",
+      "nutritiontips"
     ]
   },
-  "shape": "conditional_transformation",
-  "caption": "Some of these foods work faster than people expect. Beets are loaded with dietary nitrates, which your body converts into nitric oxide — a compound that relaxes and widens blood vessels, which is why blood pressure and circulation respond so quickly. Sardines bring both omega-3 fats and a good dose of calcium (yes, even with the bones), which is why joints and skin texture both benefit at the same time. And kimchi isn't just a gut trend — the fermentation process creates live bacterial strains that crowd out less helpful ones in your digestive tract, which is often what's behind less bloating within days. Everyone's gut and body respond a little differently, so pay attention to what your own body tells you.\n\nAt @smarthealthfix, we cover nutrition, common health issues, organs and body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #nutritionfacts #fermentedfoods #antiinflammatory #brainhealth #healthyhabits #nutritiontips #realfood naturalhealing wellnessjourney foodismedicine healthyeating guttips"
+  "shape": "mineral_sources",
+  "caption": "Manganese doesn't get much attention, but it's the mineral your body quietly relies on to build collagen and cartilage — without enough of it, joints wear down faster than they should. Copper works as iron's silent partner: it helps form the connective tissue that keeps your blood vessels stretchy instead of stiff, which matters more as you get older. And chromium, often overlooked, helps insulin actually do its job so your blood sugar doesn't spike and crash after meals. Everyone's body is different, so pay attention to what yours needs.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs & body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #manganese #copper #calcium #chromium #phosphorus #mineraldeficiency #nutritionfacts #bonehealth naturalhealing wellnessjourney mineralbalance nutritiontips"
 }
