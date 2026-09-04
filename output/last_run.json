@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20260904_181909.png",
-  "mp4": "output/reel_20260904_181909.mp4",
-  "cover": "output/cover_20260904_181909.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260904_221008.png",
+  "mp4": "output/reel_20260904_221008.mp4",
+  "cover": "output/cover_20260904_221008.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE 60-SECOND HABITS THAT DO MORE THAN YOUR {{SUPPLEMENTS}}",
+    "title": "WEIRD SIGNS YOUR BODY IS QUIETLY {{THRIVING}}",
     "facts": [
-      "**Rub your earlobes** for 30 seconds when you feel a headache building — it stimulates pressure points that ease tension around the temples.",
-      "**Walk barefoot on grass** for 5 minutes a day — the uneven surface wakes up small stabilizer muscles in your feet that shoes let go lazy.",
-      "**Hum for 1 minute** before a stressful meeting — the vibration stimulates your vagus nerve and drops your heart rate almost instantly.",
-      "**Splash your wrists with warm water** before bed — it dilates surface blood vessels and helps your core temperature drop faster, easing you into sleep.",
-      "**Roll your shoulders back 10 times** every hour at your desk — it resets posture and stops the shallow breathing that comes with hunching forward.",
-      "**Smell citrus peel** for 15 seconds when you feel foggy — the scent compounds are linked to quicker alertness than a coffee break.",
-      "**Press your tongue to the roof of your mouth** while swallowing water — it trains proper swallowing mechanics and can ease mild jaw tension over time.",
-      "**Blink fully and slowly** 10 times after screen time — it re-spreads your natural tear film and cuts the dry, gritty feeling behind your eyes.",
-      "**Follow along** – for more daily health tips like this."
+      "**Waking up before your alarm** -> your circadian rhythm is locked in and regulating cortisol perfectly",
+      "**Sweating fast during exercise** -> your body cools itself efficiently, a mark of good cardiovascular fitness",
+      "**Needing less sleep after a stressful week** -> your nervous system recovered and reset instead of staying stuck in overdrive",
+      "**Skin flushing after a hot shower** -> healthy blood vessels dilating quickly to move blood where it's needed",
+      "**Feeling instantly hungry after a workout** -> a fast, responsive metabolism signaling your body wants to refuel and rebuild",
+      "**Peeing light yellow within an hour of drinking water** -> your kidneys are filtering and hydrating you efficiently",
+      "**Getting goosebumps from music** -> a well-connected nervous system with strong dopamine response",
+      "**Nails growing noticeably fast** -> steady protein intake and healthy circulation reaching your extremities",
+      "**Feeling cold right after a big meal** -> blood is being redirected to your gut for strong, active digestion",
+      "**Follow along** -> for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are so small they barely feel like 'habits,' but the mechanism behind them is real. Take humming — this one works because your vagus nerve runs right past your vocal cords, so the vibration from humming physically stimulates it, shifting your body out of fight-or-flight and into a calmer state within seconds. Walking barefoot on grass isn't just a nice feeling either — your feet are packed with proprioceptors, tiny sensors that read the ground beneath you, and walking on flat shoes and pavement all day lets them go dormant, which quietly affects balance and posture over years. And that warm water on your wrists trick works because your wrists have blood vessels close to the skin, so warming them signals your body to start the same vasodilation process it naturally uses to cool down before sleep. Everyone responds a little differently, so notice what actually shifts something for you.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits like these ones. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a few tiny wins today.",
+    "caption": "A few of these deserve a closer look. Waking up before your alarm isn't luck — it means your circadian rhythm has synced so well that cortisol naturally starts rising 1-2 hours before you open your eyes, gently waking you up instead of a jolt. Sweating fast during exercise is another good sign: it means your thermoregulation system reacts quickly instead of letting your core temperature climb, which is something well-conditioned bodies do better than deconditioned ones. And that light yellow pee after drinking water? That's your kidneys efficiently balancing fluid and electrolytes in real time instead of struggling to keep up. Of course, everyone's body is different, so use these as gentle reassurance, not a strict checklist.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits that quietly shape how you feel. Our mission is to help you notice what your body is already doing right, instead of only chasing the next fix.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#dailyhabits",
       "#healthtips",
       "#wellness",
-      "#vagusnerve",
-      "#bettersleep",
-      "#posturecheck",
-      "#eyehealth",
-      "#stressrelief",
+      "#bodysignals",
+      "#guthealth",
+      "#circadianrhythm",
+      "#hydration",
+      "#metabolism",
+      "#nervoussystem",
       "#selfcare",
       "#healthyhabits"
     ],
     "extra_keywords": [
-      "microhabits",
-      "wellnessjourney",
       "naturalhealing",
-      "mindbodyconnection"
+      "wellnessjourney",
+      "bodyawareness",
+      "healthfacts"
     ]
   },
-  "shape": "numbered_explainer",
-  "caption": "A few of these are so small they barely feel like 'habits,' but the mechanism behind them is real. Take humming — this one works because your vagus nerve runs right past your vocal cords, so the vibration from humming physically stimulates it, shifting your body out of fight-or-flight and into a calmer state within seconds. Walking barefoot on grass isn't just a nice feeling either — your feet are packed with proprioceptors, tiny sensors that read the ground beneath you, and walking on flat shoes and pavement all day lets them go dormant, which quietly affects balance and posture over years. And that warm water on your wrists trick works because your wrists have blood vessels close to the skin, so warming them signals your body to start the same vasodilation process it naturally uses to cool down before sleep. Everyone responds a little differently, so notice what actually shifts something for you.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits like these ones. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a few tiny wins today.\n\n#dailyhabits #healthtips #wellness #vagusnerve #bettersleep #posturecheck #eyehealth #stressrelief #selfcare #healthyhabits microhabits wellnessjourney naturalhealing mindbodyconnection"
+  "shape": "counterintuitive_healthy_sign",
+  "caption": "A few of these deserve a closer look. Waking up before your alarm isn't luck — it means your circadian rhythm has synced so well that cortisol naturally starts rising 1-2 hours before you open your eyes, gently waking you up instead of a jolt. Sweating fast during exercise is another good sign: it means your thermoregulation system reacts quickly instead of letting your core temperature climb, which is something well-conditioned bodies do better than deconditioned ones. And that light yellow pee after drinking water? That's your kidneys efficiently balancing fluid and electrolytes in real time instead of struggling to keep up. Of course, everyone's body is different, so use these as gentle reassurance, not a strict checklist.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits that quietly shape how you feel. Our mission is to help you notice what your body is already doing right, instead of only chasing the next fix.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #bodysignals #guthealth #circadianrhythm #hydration #metabolism #nervoussystem #selfcare #healthyhabits naturalhealing wellnessjourney bodyawareness healthfacts"
 }
