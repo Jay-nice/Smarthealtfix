@@ -1,44 +1,42 @@
 {
-  "png": "output/reel_20260904_140513.png",
-  "mp4": "output/reel_20260904_140513.mp4",
-  "cover": "output/cover_20260904_140513.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260904_181909.png",
+  "mp4": "output/reel_20260904_181909.mp4",
+  "cover": "output/cover_20260904_181909.png",
+  "cover_bg": "white",
   "content": {
-    "title": "THE MINERAL {{DENTISTS}} WISH YOU KNEW ABOUT SOONER",
+    "title": "THE 60-SECOND HABITS THAT DO MORE THAN YOUR {{SUPPLEMENTS}}",
     "facts": [
-      "**Manganese** (Bone Builder) — activates the enzymes that build collagen and cartilage, so bones and joints hold up over time.",
-      "Sources: **Pineapple** | Brown Rice | Chickpeas | Cloves",
-      "**Copper** (Collagen Helper) — works alongside iron to form connective tissue and keep blood vessels flexible instead of brittle.",
-      "Sources: **Cashews** | Dark Leafy Greens | Mushrooms | Dried Prunes",
-      "**Calcium** (Signal Sender) — beyond bones, it triggers muscle contractions and lets nerves fire messages fast.",
-      "Sources: **Sesame Seeds** | Bok Choy | Canned Salmon (with bones) | Figs",
-      "**Chromium** (Sugar Handler) — helps insulin do its job so blood sugar doesn't spike and crash all day.",
-      "Sources: **Broccoli** | Green Beans | Whole Wheat Bread | Grapes",
-      "**Phosphorus** (Energy Currency) — a key piece of ATP, the molecule your cells burn for actual energy.",
-      "Sources: **Lentils** | Pumpkin | Sunflower Seeds | Eggs",
+      "**Rub your earlobes** for 30 seconds when you feel a headache building — it stimulates pressure points that ease tension around the temples.",
+      "**Walk barefoot on grass** for 5 minutes a day — the uneven surface wakes up small stabilizer muscles in your feet that shoes let go lazy.",
+      "**Hum for 1 minute** before a stressful meeting — the vibration stimulates your vagus nerve and drops your heart rate almost instantly.",
+      "**Splash your wrists with warm water** before bed — it dilates surface blood vessels and helps your core temperature drop faster, easing you into sleep.",
+      "**Roll your shoulders back 10 times** every hour at your desk — it resets posture and stops the shallow breathing that comes with hunching forward.",
+      "**Smell citrus peel** for 15 seconds when you feel foggy — the scent compounds are linked to quicker alertness than a coffee break.",
+      "**Press your tongue to the roof of your mouth** while swallowing water — it trains proper swallowing mechanics and can ease mild jaw tension over time.",
+      "**Blink fully and slowly** 10 times after screen time — it re-spreads your natural tear film and cuts the dry, gritty feeling behind your eyes.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Manganese doesn't get much attention, but it's the mineral your body quietly relies on to build collagen and cartilage — without enough of it, joints wear down faster than they should. Copper works as iron's silent partner: it helps form the connective tissue that keeps your blood vessels stretchy instead of stiff, which matters more as you get older. And chromium, often overlooked, helps insulin actually do its job so your blood sugar doesn't spike and crash after meals. Everyone's body is different, so pay attention to what yours needs.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs & body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these are so small they barely feel like 'habits,' but the mechanism behind them is real. Take humming — this one works because your vagus nerve runs right past your vocal cords, so the vibration from humming physically stimulates it, shifting your body out of fight-or-flight and into a calmer state within seconds. Walking barefoot on grass isn't just a nice feeling either — your feet are packed with proprioceptors, tiny sensors that read the ground beneath you, and walking on flat shoes and pavement all day lets them go dormant, which quietly affects balance and posture over years. And that warm water on your wrists trick works because your wrists have blood vessels close to the skin, so warming them signals your body to start the same vasodilation process it naturally uses to cool down before sleep. Everyone responds a little differently, so notice what actually shifts something for you.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits like these ones. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a few tiny wins today.",
     "hashtags": [
+      "#dailyhabits",
       "#healthtips",
       "#wellness",
-      "#manganese",
-      "#copper",
-      "#calcium",
-      "#chromium",
-      "#phosphorus",
-      "#mineraldeficiency",
-      "#nutritionfacts",
-      "#bonehealth"
+      "#vagusnerve",
+      "#bettersleep",
+      "#posturecheck",
+      "#eyehealth",
+      "#stressrelief",
+      "#selfcare",
+      "#healthyhabits"
     ],
     "extra_keywords": [
-      "naturalhealing",
+      "microhabits",
       "wellnessjourney",
-      "mineralbalance",
-      "nutritiontips"
+      "naturalhealing",
+      "mindbodyconnection"
     ]
   },
-  "shape": "mineral_sources",
-  "caption": "Manganese doesn't get much attention, but it's the mineral your body quietly relies on to build collagen and cartilage — without enough of it, joints wear down faster than they should. Copper works as iron's silent partner: it helps form the connective tissue that keeps your blood vessels stretchy instead of stiff, which matters more as you get older. And chromium, often overlooked, helps insulin actually do its job so your blood sugar doesn't spike and crash after meals. Everyone's body is different, so pay attention to what yours needs.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs & body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #manganese #copper #calcium #chromium #phosphorus #mineraldeficiency #nutritionfacts #bonehealth naturalhealing wellnessjourney mineralbalance nutritiontips"
+  "shape": "numbered_explainer",
+  "caption": "A few of these are so small they barely feel like 'habits,' but the mechanism behind them is real. Take humming — this one works because your vagus nerve runs right past your vocal cords, so the vibration from humming physically stimulates it, shifting your body out of fight-or-flight and into a calmer state within seconds. Walking barefoot on grass isn't just a nice feeling either — your feet are packed with proprioceptors, tiny sensors that read the ground beneath you, and walking on flat shoes and pavement all day lets them go dormant, which quietly affects balance and posture over years. And that warm water on your wrists trick works because your wrists have blood vessels close to the skin, so warming them signals your body to start the same vasodilation process it naturally uses to cool down before sleep. Everyone responds a little differently, so notice what actually shifts something for you.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits like these ones. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a few tiny wins today.\n\n#dailyhabits #healthtips #wellness #vagusnerve #bettersleep #posturecheck #eyehealth #stressrelief #selfcare #healthyhabits microhabits wellnessjourney naturalhealing mindbodyconnection"
 }
