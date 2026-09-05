@@ -1,42 +1,42 @@
 {
-  "png": "output/reel_20260905_171619.png",
-  "mp4": "output/reel_20260905_171619.mp4",
-  "cover": "output/cover_20260905_171619.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260905_215700.png",
+  "mp4": "output/reel_20260905_215700.mp4",
+  "cover": "output/cover_20260905_215700.png",
+  "cover_bg": "white",
   "content": {
-    "title": "FOOD FACTS THAT SOUND MADE UP BUT ARE 100% TRUE",
+    "title": "THE 30-SECOND HABITS THAT ARE QUIETLY UPGRADING YOUR HEALTH",
     "facts": [
-      "**Nutmeg** contains a natural compound called myristicin — in large enough doses it's actually a hallucinogen, which is why it's regulated as a controlled substance in some countries when concentrated.",
-      "**Cashews** are never sold in their shell to consumers because the shell contains a resin closely related to the one in poison ivy — it can blister skin on contact.",
-      "**Strawberries** aren't technically berries, but bananas are. Botanically, a true berry needs seeds formed inside the flesh from a single ovary, which bananas meet and strawberries don't.",
-      "**Apples** float in water because roughly 25% of their volume is air pockets in the flesh — that's also why bobbing for apples actually works.",
-      "**Carrots** were originally purple, not orange. Orange carrots were bred by Dutch growers centuries ago, and that variety simply became the commercial standard.",
-      "**Almonds** are technically seeds from a fruit closely related to peaches — the fuzzy fruit around them is usually discarded before it ever reaches a store.",
-      "**Rhubarb** stalks are edible, but its leaves contain enough oxalic acid to cause serious poisoning if eaten in quantity — it's one of the only common vegetables with a genuinely toxic part.",
-      "**Follow along** – for more surprising, verified food facts like this, every week."
+      "**Chew each bite 20 times** — this slows down digestion enough that your stomach can actually signal 'full' before you overeat.",
+      "**Breathe out longer than you breathe in** (4 in, 8 out) for 1 minute — this flips on your parasympathetic nervous system and drops your heart rate almost instantly.",
+      "**Stand up every 45 minutes** — even 30 seconds of movement resets blood flow in your legs and stops blood sugar from spiking as hard after meals.",
+      "**Drink your coffee after breakfast, not before** — this avoids the cortisol spike that makes early coffee hit your nerves harder and crash sooner.",
+      "**Look at something 20 feet away for 20 seconds every 20 minutes** — this relaxes your eye muscles and prevents the tension headaches caused by screen focus.",
+      "**Write down 1 thing you're grateful for before bed** — this lowers evening cortisol enough to noticeably shorten how long it takes you to fall asleep.",
+      "**Wash your hands with cold water at the end** — this tightens pores and constricts surface blood vessels, leaving hands less swollen by evening.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "The nutmeg fact still gets people every time — the compound is called myristicin, and your liver actually has to metabolize it into a psychoactive substance before any effect kicks in, which is why it takes a large dose and hours to feel anything. The cashew one is real too: cashews are botanically related to poison ivy and mangoes (the same plant family, Anacardiaceae), which is exactly why the raw shells are burned off or steamed before you ever see a bag of them in a store. And the carrot story is genuinely historical — wild carrots came in purple, white, and yellow long before the orange variety we know today became dominant. Everyone's body reacts a little differently to compounds like these, so always go with properly prepared, store-bought versions.\n\n@smarthealthfix covers nutrition, common symptoms, organ health, and small daily habits that actually add up. Our mission is to help you understand the food you already eat, instead of chasing the next trendy superfood.\n\nSave this post so you don't lose it, and share it with someone who loves a good \"wait, that's actually true?\" fact.",
+    "caption": "A few of these tiny habits are worth slowing down on. Chewing until food is nearly liquid means your saliva has time to start breaking down carbs, which takes real pressure off your stomach and gut later. The breathing habit works because a longer exhale directly stimulates your vagus nerve — that's the nerve in charge of telling your body 'you're safe, stand down' after stress. And standing up every 45 minutes isn't just about stiffness — muscle contractions in your legs literally pull glucose out of your bloodstream, which is a big deal if you sit most of the day. Everyone's baseline is different, so notice what actually changes for you.\n\nThis is what we do at @smarthealthfix — breaking down nutrition, common health issues, organs & body functions, and small daily habits into things you can actually use. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#foodfacts",
-      "#nutritionfacts",
       "#healthtips",
-      "#didyouknow",
-      "#wellness",
-      "#nutritionscience",
-      "#foodtrivia",
-      "#healthyeating",
-      "#learnsomethingnew",
-      "#smarthealthfix"
+      "#dailyhabits",
+      "#wellnessroutine",
+      "#guttips",
+      "#nervoussystem",
+      "#bloodsugarbalance",
+      "#healthyhabits",
+      "#mindbodyhealth",
+      "#biohacking101",
+      "#selfcaretips"
     ],
     "extra_keywords": [
-      "foodtrivia",
-      "nutritionfacts",
       "wellnessjourney",
-      "healthyliving",
-      "surprisingfacts"
+      "smallhabitsbigchanges",
+      "guthealthtips",
+      "naturalhealing",
+      "healthyroutine"
     ]
   },
-  "shape": "surprising_true_fact",
-  "caption": "The nutmeg fact still gets people every time — the compound is called myristicin, and your liver actually has to metabolize it into a psychoactive substance before any effect kicks in, which is why it takes a large dose and hours to feel anything. The cashew one is real too: cashews are botanically related to poison ivy and mangoes (the same plant family, Anacardiaceae), which is exactly why the raw shells are burned off or steamed before you ever see a bag of them in a store. And the carrot story is genuinely historical — wild carrots came in purple, white, and yellow long before the orange variety we know today became dominant. Everyone's body reacts a little differently to compounds like these, so always go with properly prepared, store-bought versions.\n\n@smarthealthfix covers nutrition, common symptoms, organ health, and small daily habits that actually add up. Our mission is to help you understand the food you already eat, instead of chasing the next trendy superfood.\n\nSave this post so you don't lose it, and share it with someone who loves a good \"wait, that's actually true?\" fact.\n\n#foodfacts #nutritionfacts #healthtips #didyouknow #wellness #nutritionscience #foodtrivia #healthyeating #learnsomethingnew #smarthealthfix foodtrivia nutritionfacts wellnessjourney healthyliving surprisingfacts"
+  "shape": "numbered_explainer",
+  "caption": "A few of these tiny habits are worth slowing down on. Chewing until food is nearly liquid means your saliva has time to start breaking down carbs, which takes real pressure off your stomach and gut later. The breathing habit works because a longer exhale directly stimulates your vagus nerve — that's the nerve in charge of telling your body 'you're safe, stand down' after stress. And standing up every 45 minutes isn't just about stiffness — muscle contractions in your legs literally pull glucose out of your bloodstream, which is a big deal if you sit most of the day. Everyone's baseline is different, so notice what actually changes for you.\n\nThis is what we do at @smarthealthfix — breaking down nutrition, common health issues, organs & body functions, and small daily habits into things you can actually use. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #dailyhabits #wellnessroutine #guttips #nervoussystem #bloodsugarbalance #healthyhabits #mindbodyhealth #biohacking101 #selfcaretips wellnessjourney smallhabitsbigchanges guthealthtips naturalhealing healthyroutine"
 }
