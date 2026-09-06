@@ -1,41 +1,44 @@
 {
-  "png": "output/reel_20260906_173547.png",
-  "mp4": "output/reel_20260906_173547.mp4",
-  "cover": "output/cover_20260906_173547.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260906_215843.png",
+  "mp4": "output/reel_20260906_215843.mp4",
+  "cover": "output/cover_20260906_215843.png",
+  "cover_bg": "green",
   "content": {
-    "title": "SIGNS YOUR BODY IS QUIETLY RUNNING LOW ON {{SOMETHING}}",
+    "title": "SIGNS YOU'RE ACTUALLY {{HEALTHIER}} THAN YOU THINK",
     "facts": [
-      "**Iodine** – Unexplained weight gain, feeling cold all the time, brain fog, and a puffy face.",
-      "**Vitamin K** – Bruising easily, cuts that won't stop bleeding, and bleeding gums.",
-      "**Vitamin E** – Muscle weakness, blurred vision, and numbness in the hands or feet.",
-      "**Potassium** – Muscle cramps at night, heart palpitations, and constant fatigue.",
-      "**Folate** – Mouth sores, mental fog, irritability, and pale skin.",
-      "**Vitamin A** – Trouble seeing in dim light, dry eyes, and frequent infections.",
-      "**Zinc** – Slow-healing wounds, hair thinning, and a fading sense of taste or smell.",
+      "**Sneezing twice in a row** -> your nasal reflexes are sharp and clearing irritants fast",
+      "**Loud stomach growling** -> your migrating motor complex is sweeping leftover debris through your gut between meals",
+      "**Waking up before your alarm** -> your circadian rhythm is stable and syncing naturally with light",
+      "**Sweating fast during exercise** -> your body is efficient at cooling itself, a sign of good cardiovascular fitness",
+      "**Getting thirsty quickly after salty food** -> your kidneys and hormones are correctly detecting sodium shifts",
+      "**Vivid, easily recalled dreams** -> you're getting enough REM sleep for memory consolidation",
+      "**Cracking knuckles or joints occasionally** -> gas bubbles releasing from well-lubricated joint fluid, not damage",
+      "**Feeling cold after a big meal** -> blood is being redirected to your gut for strong digestion",
+      "**Yawning when you see someone else yawn** -> a sign of healthy social wiring and brain empathy circuits",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are easy to miss because they creep in slowly. Low **iodine** throws off your thyroid, which controls how your body uses energy — that's why it can leave you feeling cold and sluggish even when nothing else has changed. Low **folate** matters because your body needs it to make new red blood cells and DNA, so a shortage shows up as brain fog and pale, tired-looking skin. And **zinc** plays a big role in cell repair, which is exactly why wounds start healing slower and your sense of taste can quietly dull. Everyone's body is different, so listen to yours and get labs checked if something feels off.\n\nAt @smarthealthfix we dig into nutrition, common symptoms, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these deserve a closer look. That loud stomach growling isn't your gut complaining — it's the migrating motor complex, a wave-like muscle contraction that sweeps through your small intestine between meals to clear out leftover food particles and bacteria, basically a self-cleaning cycle. Getting thirsty fast after eating something salty is your kidneys and a hormone called ADH working together in real time, sensing the sodium spike in your blood and telling your brain to fix it before it becomes a problem. And those vivid dreams you remember in detail? That's a sign you're spending solid time in REM sleep, the stage where your brain files away memories and processes emotions. Everyone's body runs a little differently, so tune into your own patterns rather than comparing.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organs & body functions, and small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#nutrientdeficiency",
-      "#iodine",
-      "#folate",
-      "#zincdeficiency",
-      "#vitamink",
-      "#vitaminA",
       "#healthtips",
       "#wellness",
+      "#bodysignals",
       "#guthealth",
-      "#nutritionfacts"
+      "#sleepquality",
+      "#circadianrhythm",
+      "#healthyhabits",
+      "#selfcare",
+      "#biohacking",
+      "#healthawareness"
     ],
     "extra_keywords": [
-      "nutrientgaps",
+      "naturalhealing",
       "wellnessjourney",
-      "healthawareness",
-      "micronutrients"
+      "bodyawareness",
+      "healthfacts",
+      "wellnesstips"
     ]
   },
-  "shape": "symptom_list",
-  "caption": "A few of these are easy to miss because they creep in slowly. Low **iodine** throws off your thyroid, which controls how your body uses energy — that's why it can leave you feeling cold and sluggish even when nothing else has changed. Low **folate** matters because your body needs it to make new red blood cells and DNA, so a shortage shows up as brain fog and pale, tired-looking skin. And **zinc** plays a big role in cell repair, which is exactly why wounds start healing slower and your sense of taste can quietly dull. Everyone's body is different, so listen to yours and get labs checked if something feels off.\n\nAt @smarthealthfix we dig into nutrition, common symptoms, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #iodine #folate #zincdeficiency #vitamink #vitaminA #healthtips #wellness #guthealth #nutritionfacts nutrientgaps wellnessjourney healthawareness micronutrients"
+  "shape": "counterintuitive_healthy_sign",
+  "caption": "A few of these deserve a closer look. That loud stomach growling isn't your gut complaining — it's the migrating motor complex, a wave-like muscle contraction that sweeps through your small intestine between meals to clear out leftover food particles and bacteria, basically a self-cleaning cycle. Getting thirsty fast after eating something salty is your kidneys and a hormone called ADH working together in real time, sensing the sodium spike in your blood and telling your brain to fix it before it becomes a problem. And those vivid dreams you remember in detail? That's a sign you're spending solid time in REM sleep, the stage where your brain files away memories and processes emotions. Everyone's body runs a little differently, so tune into your own patterns rather than comparing.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organs & body functions, and small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #bodysignals #guthealth #sleepquality #circadianrhythm #healthyhabits #selfcare #biohacking #healthawareness naturalhealing wellnessjourney bodyawareness healthfacts wellnesstips"
 }
