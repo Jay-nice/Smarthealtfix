@@ -1,42 +1,42 @@
 {
-  "png": "output/reel_20260905_215700.png",
-  "mp4": "output/reel_20260905_215700.mp4",
-  "cover": "output/cover_20260905_215700.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260906_132838.png",
+  "mp4": "output/reel_20260906_132838.mp4",
+  "cover": "output/cover_20260906_132838.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE 30-SECOND HABITS THAT ARE QUIETLY UPGRADING YOUR HEALTH",
+    "title": "THE KITCHEN HABITS THAT QUIETLY {{RUIN}} YOUR FOOD",
     "facts": [
-      "**Chew each bite 20 times** — this slows down digestion enough that your stomach can actually signal 'full' before you overeat.",
-      "**Breathe out longer than you breathe in** (4 in, 8 out) for 1 minute — this flips on your parasympathetic nervous system and drops your heart rate almost instantly.",
-      "**Stand up every 45 minutes** — even 30 seconds of movement resets blood flow in your legs and stops blood sugar from spiking as hard after meals.",
-      "**Drink your coffee after breakfast, not before** — this avoids the cortisol spike that makes early coffee hit your nerves harder and crash sooner.",
-      "**Look at something 20 feet away for 20 seconds every 20 minutes** — this relaxes your eye muscles and prevents the tension headaches caused by screen focus.",
-      "**Write down 1 thing you're grateful for before bed** — this lowers evening cortisol enough to noticeably shorten how long it takes you to fall asleep.",
-      "**Wash your hands with cold water at the end** — this tightens pores and constricts surface blood vessels, leaving hands less swollen by evening.",
+      "**Chicken** – Washing it in the sink before cooking (splashes bacteria like Salmonella onto counters, sponges, and nearby produce).",
+      "**Honey** – Feeding it to infants under 1 year (risk of infant botulism from Clostridium botulinum spores).",
+      "**Eggs** – Storing them in the fridge door (temperature swings speed up bacterial growth compared to the colder main shelves).",
+      "**Melons** – Leaving a cut cantaloupe or watermelon out for hours (moist, sugary surface is a fast breeding ground for bacteria).",
+      "**Garlic-in-oil** – Making homemade infusions and storing at room temperature (low-oxygen environment can allow Clostridium botulinum to grow).",
+      "**Ground beef** – Judging doneness by color alone (only a food thermometer confirms it's hit a safe internal temperature).",
+      "**Leftovers** – Cooling a big pot on the counter before refrigerating (hours in the 'danger zone' let bacteria multiply fast).",
+      "**Sprouts** – Eating raw alfalfa or bean sprouts without cooking (warm, humid growing conditions make them a common source of contamination).",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these tiny habits are worth slowing down on. Chewing until food is nearly liquid means your saliva has time to start breaking down carbs, which takes real pressure off your stomach and gut later. The breathing habit works because a longer exhale directly stimulates your vagus nerve — that's the nerve in charge of telling your body 'you're safe, stand down' after stress. And standing up every 45 minutes isn't just about stiffness — muscle contractions in your legs literally pull glucose out of your bloodstream, which is a big deal if you sit most of the day. Everyone's baseline is different, so notice what actually changes for you.\n\nThis is what we do at @smarthealthfix — breaking down nutrition, common health issues, organs & body functions, and small daily habits into things you can actually use. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these mistakes are more common than people realize. Take chicken – rinsing it under the tap feels hygienic, but it actually sprays bacteria-laden water across your sink, faucet, and countertop, which is why food safety guidelines specifically advise against it. Honey is another one: for babies under 1, their gut hasn't developed enough acidity or good bacteria yet to control Clostridium botulinum spores, which adult digestive systems handle without issue. And with ground beef, color is a bad indicator of safety because meat can turn brown before it's actually reached a temperature high enough to kill harmful bacteria — that's why a thermometer matters more than how 'done' it looks. Everyone's kitchen setup is different, but these small adjustments matter for everyone.\n\nThis is what we do at @smarthealthfix — we break down nutrition, common health issues, organ function, and small daily habits into simple, practical tips. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#foodsafety",
+      "#kitchentips",
       "#healthtips",
-      "#dailyhabits",
-      "#wellnessroutine",
-      "#guttips",
-      "#nervoussystem",
-      "#bloodsugarbalance",
+      "#wellness",
+      "#foodpoisoningprevention",
+      "#mealprep",
+      "#kitchenmistakes",
       "#healthyhabits",
-      "#mindbodyhealth",
-      "#biohacking101",
-      "#selfcaretips"
+      "#nutritiontips",
+      "#cookingsafety"
     ],
     "extra_keywords": [
+      "foodsafetytips",
+      "kitchenhacks",
       "wellnessjourney",
-      "smallhabitsbigchanges",
-      "guthealthtips",
-      "naturalhealing",
-      "healthyroutine"
+      "cookingmistakes"
     ]
   },
-  "shape": "numbered_explainer",
-  "caption": "A few of these tiny habits are worth slowing down on. Chewing until food is nearly liquid means your saliva has time to start breaking down carbs, which takes real pressure off your stomach and gut later. The breathing habit works because a longer exhale directly stimulates your vagus nerve — that's the nerve in charge of telling your body 'you're safe, stand down' after stress. And standing up every 45 minutes isn't just about stiffness — muscle contractions in your legs literally pull glucose out of your bloodstream, which is a big deal if you sit most of the day. Everyone's baseline is different, so notice what actually changes for you.\n\nThis is what we do at @smarthealthfix — breaking down nutrition, common health issues, organs & body functions, and small daily habits into things you can actually use. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #dailyhabits #wellnessroutine #guttips #nervoussystem #bloodsugarbalance #healthyhabits #mindbodyhealth #biohacking101 #selfcaretips wellnessjourney smallhabitsbigchanges guthealthtips naturalhealing healthyroutine"
+  "shape": "food_safety_mistake",
+  "caption": "A few of these mistakes are more common than people realize. Take chicken – rinsing it under the tap feels hygienic, but it actually sprays bacteria-laden water across your sink, faucet, and countertop, which is why food safety guidelines specifically advise against it. Honey is another one: for babies under 1, their gut hasn't developed enough acidity or good bacteria yet to control Clostridium botulinum spores, which adult digestive systems handle without issue. And with ground beef, color is a bad indicator of safety because meat can turn brown before it's actually reached a temperature high enough to kill harmful bacteria — that's why a thermometer matters more than how 'done' it looks. Everyone's kitchen setup is different, but these small adjustments matter for everyone.\n\nThis is what we do at @smarthealthfix — we break down nutrition, common health issues, organ function, and small daily habits into simple, practical tips. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodsafety #kitchentips #healthtips #wellness #foodpoisoningprevention #mealprep #kitchenmistakes #healthyhabits #nutritiontips #cookingsafety foodsafetytips kitchenhacks wellnessjourney cookingmistakes"
 }
