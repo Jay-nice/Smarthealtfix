@@ -1,42 +1,41 @@
 {
-  "png": "output/reel_20260906_132838.png",
-  "mp4": "output/reel_20260906_132838.mp4",
-  "cover": "output/cover_20260906_132838.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260906_173547.png",
+  "mp4": "output/reel_20260906_173547.mp4",
+  "cover": "output/cover_20260906_173547.png",
+  "cover_bg": "white",
   "content": {
-    "title": "THE KITCHEN HABITS THAT QUIETLY {{RUIN}} YOUR FOOD",
+    "title": "SIGNS YOUR BODY IS QUIETLY RUNNING LOW ON {{SOMETHING}}",
     "facts": [
-      "**Chicken** – Washing it in the sink before cooking (splashes bacteria like Salmonella onto counters, sponges, and nearby produce).",
-      "**Honey** – Feeding it to infants under 1 year (risk of infant botulism from Clostridium botulinum spores).",
-      "**Eggs** – Storing them in the fridge door (temperature swings speed up bacterial growth compared to the colder main shelves).",
-      "**Melons** – Leaving a cut cantaloupe or watermelon out for hours (moist, sugary surface is a fast breeding ground for bacteria).",
-      "**Garlic-in-oil** – Making homemade infusions and storing at room temperature (low-oxygen environment can allow Clostridium botulinum to grow).",
-      "**Ground beef** – Judging doneness by color alone (only a food thermometer confirms it's hit a safe internal temperature).",
-      "**Leftovers** – Cooling a big pot on the counter before refrigerating (hours in the 'danger zone' let bacteria multiply fast).",
-      "**Sprouts** – Eating raw alfalfa or bean sprouts without cooking (warm, humid growing conditions make them a common source of contamination).",
+      "**Iodine** – Unexplained weight gain, feeling cold all the time, brain fog, and a puffy face.",
+      "**Vitamin K** – Bruising easily, cuts that won't stop bleeding, and bleeding gums.",
+      "**Vitamin E** – Muscle weakness, blurred vision, and numbness in the hands or feet.",
+      "**Potassium** – Muscle cramps at night, heart palpitations, and constant fatigue.",
+      "**Folate** – Mouth sores, mental fog, irritability, and pale skin.",
+      "**Vitamin A** – Trouble seeing in dim light, dry eyes, and frequent infections.",
+      "**Zinc** – Slow-healing wounds, hair thinning, and a fading sense of taste or smell.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these mistakes are more common than people realize. Take chicken – rinsing it under the tap feels hygienic, but it actually sprays bacteria-laden water across your sink, faucet, and countertop, which is why food safety guidelines specifically advise against it. Honey is another one: for babies under 1, their gut hasn't developed enough acidity or good bacteria yet to control Clostridium botulinum spores, which adult digestive systems handle without issue. And with ground beef, color is a bad indicator of safety because meat can turn brown before it's actually reached a temperature high enough to kill harmful bacteria — that's why a thermometer matters more than how 'done' it looks. Everyone's kitchen setup is different, but these small adjustments matter for everyone.\n\nThis is what we do at @smarthealthfix — we break down nutrition, common health issues, organ function, and small daily habits into simple, practical tips. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these are easy to miss because they creep in slowly. Low **iodine** throws off your thyroid, which controls how your body uses energy — that's why it can leave you feeling cold and sluggish even when nothing else has changed. Low **folate** matters because your body needs it to make new red blood cells and DNA, so a shortage shows up as brain fog and pale, tired-looking skin. And **zinc** plays a big role in cell repair, which is exactly why wounds start healing slower and your sense of taste can quietly dull. Everyone's body is different, so listen to yours and get labs checked if something feels off.\n\nAt @smarthealthfix we dig into nutrition, common symptoms, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#foodsafety",
-      "#kitchentips",
+      "#nutrientdeficiency",
+      "#iodine",
+      "#folate",
+      "#zincdeficiency",
+      "#vitamink",
+      "#vitaminA",
       "#healthtips",
       "#wellness",
-      "#foodpoisoningprevention",
-      "#mealprep",
-      "#kitchenmistakes",
-      "#healthyhabits",
-      "#nutritiontips",
-      "#cookingsafety"
+      "#guthealth",
+      "#nutritionfacts"
     ],
     "extra_keywords": [
-      "foodsafetytips",
-      "kitchenhacks",
+      "nutrientgaps",
       "wellnessjourney",
-      "cookingmistakes"
+      "healthawareness",
+      "micronutrients"
     ]
   },
-  "shape": "food_safety_mistake",
-  "caption": "A few of these mistakes are more common than people realize. Take chicken – rinsing it under the tap feels hygienic, but it actually sprays bacteria-laden water across your sink, faucet, and countertop, which is why food safety guidelines specifically advise against it. Honey is another one: for babies under 1, their gut hasn't developed enough acidity or good bacteria yet to control Clostridium botulinum spores, which adult digestive systems handle without issue. And with ground beef, color is a bad indicator of safety because meat can turn brown before it's actually reached a temperature high enough to kill harmful bacteria — that's why a thermometer matters more than how 'done' it looks. Everyone's kitchen setup is different, but these small adjustments matter for everyone.\n\nThis is what we do at @smarthealthfix — we break down nutrition, common health issues, organ function, and small daily habits into simple, practical tips. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodsafety #kitchentips #healthtips #wellness #foodpoisoningprevention #mealprep #kitchenmistakes #healthyhabits #nutritiontips #cookingsafety foodsafetytips kitchenhacks wellnessjourney cookingmistakes"
+  "shape": "symptom_list",
+  "caption": "A few of these are easy to miss because they creep in slowly. Low **iodine** throws off your thyroid, which controls how your body uses energy — that's why it can leave you feeling cold and sluggish even when nothing else has changed. Low **folate** matters because your body needs it to make new red blood cells and DNA, so a shortage shows up as brain fog and pale, tired-looking skin. And **zinc** plays a big role in cell repair, which is exactly why wounds start healing slower and your sense of taste can quietly dull. Everyone's body is different, so listen to yours and get labs checked if something feels off.\n\nAt @smarthealthfix we dig into nutrition, common symptoms, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #iodine #folate #zincdeficiency #vitamink #vitaminA #healthtips #wellness #guthealth #nutritionfacts nutrientgaps wellnessjourney healthawareness micronutrients"
 }
