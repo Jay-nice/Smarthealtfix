@@ -1,42 +1,44 @@
 {
-  "png": "output/reel_20260907_190716.png",
-  "mp4": "output/reel_20260907_190716.mp4",
-  "cover": "output/cover_20260907_190716.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260907_223302.png",
+  "mp4": "output/reel_20260907_223302.mp4",
+  "cover": "output/cover_20260907_223302.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE {{2-MINUTE}} HABITS DOCTORS QUIETLY DO EVERY DAY",
+    "title": "THE FOOD FIX FOR EVERY {{ANNOYING}} EVERYDAY PROBLEM",
     "facts": [
-      "**Rinse your rice** before cooking – it pulls out extra surface starch and lowers the spike in blood sugar after your meal.",
-      "**Splash cold water on your face** each morning – it triggers a nerve reflex that slows your heart rate and cuts stress fast.",
-      "**Salt your water, not just your food** – a pinch of sea salt in your morning glass helps you actually absorb the fluid instead of flushing it straight out.",
-      "**Walk after dinner for 10 minutes** – it pulls sugar out of your bloodstream and into your muscles, so less gets stored as fat.",
-      "**Open a window for 5 minutes daily** – fresh air lowers indoor CO2 buildup, which quietly saps focus and energy.",
-      "**Hum or gargle before bed** – it stimulates the vagus nerve and nudges your body into rest-and-digest mode.",
-      "**Roll your shoulders back 10 times** every few hours – it opens up your ribcage so your lungs can pull in a full breath.",
-      "**Eat your protein first** at every meal – it blunts the sugar spike from the carbs that follow it.",
+      "**Bloating** ----- Fennel Seeds",
+      "**Brain Fog** ----- Walnuts",
+      "**Muscle Cramps** ----- Pickle Juice",
+      "**Bad Breath** ----- Parsley",
+      "**Restless Legs** ----- Pumpkin Seeds",
+      "**Constant Burping** ----- Peppermint Tea",
+      "**Puffy Under-Eyes** ----- Cucumber",
+      "**Afternoon Slump** ----- Oats",
+      "**Dry, Cracked Lips** ----- Sunflower Seeds",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Small tweaks make a bigger difference than most people expect. Take rice for example — rinsing it isn't just an old kitchen habit, it physically washes away loose starch granules, so your body digests it slower and you avoid that sluggish sugar crash an hour later. Or take that post-dinner walk — even a short one taps into your muscles' ability to soak up glucose without needing extra insulin, which is huge for long-term metabolic health. And humming before bed sounds strange, but the vibration directly stimulates the vagus nerve running through your throat, which is one of the fastest ways to shift your nervous system out of 'go mode' and into actual rest. Everyone's body responds a little differently, so pay attention to what your own body tells you.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Fennel seeds aren't just a breath freshener trick — chewing about 1/2 tsp after a meal relaxes the muscles lining your gut, which helps trapped gas move through instead of sitting there and stretching your stomach. Walnuts earn their spot for brain fog because they're one of the few nuts with a meaningful dose of omega-3 ALA, which your brain uses to keep cell membranes flexible so signals actually fire faster. And pickle juice for cramps sounds like a myth, but a small 1-2 oz shot triggers a reflex in your throat and gut that can shut down a cramping muscle in under a minute, way faster than waiting on electrolytes to absorb. Everyone's body is different, so pay attention to what actually helps yours.\n\nThis is what @smarthealthfix is all about — connecting the dots between everyday nutrition, common little health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
-      "#dailyhabits",
-      "#wellness",
       "#guttips",
-      "#bloodsugarcontrol",
-      "#stressrelief",
-      "#vagusnerve",
+      "#bloatingrelief",
+      "#brainfog",
+      "#naturalremedies",
+      "#nutritionfacts",
+      "#wellnessjourney",
+      "#foodismedicine",
       "#healthyhabits",
-      "#metabolism",
-      "#selfcare"
+      "#everydayhealth"
     ],
     "extra_keywords": [
-      "wellnessjourney",
       "naturalhealing",
-      "healthyroutine",
-      "smallhabitsbigchanges"
+      "wellnesstips",
+      "guthealth",
+      "energyboost",
+      "healthyliving"
     ]
   },
-  "shape": "numbered_explainer",
-  "caption": "Small tweaks make a bigger difference than most people expect. Take rice for example — rinsing it isn't just an old kitchen habit, it physically washes away loose starch granules, so your body digests it slower and you avoid that sluggish sugar crash an hour later. Or take that post-dinner walk — even a short one taps into your muscles' ability to soak up glucose without needing extra insulin, which is huge for long-term metabolic health. And humming before bed sounds strange, but the vibration directly stimulates the vagus nerve running through your throat, which is one of the fastest ways to shift your nervous system out of 'go mode' and into actual rest. Everyone's body responds a little differently, so pay attention to what your own body tells you.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #dailyhabits #wellness #guttips #bloodsugarcontrol #stressrelief #vagusnerve #healthyhabits #metabolism #selfcare wellnessjourney naturalhealing healthyroutine smallhabitsbigchanges"
+  "shape": "problem_food_mapping",
+  "caption": "Fennel seeds aren't just a breath freshener trick — chewing about 1/2 tsp after a meal relaxes the muscles lining your gut, which helps trapped gas move through instead of sitting there and stretching your stomach. Walnuts earn their spot for brain fog because they're one of the few nuts with a meaningful dose of omega-3 ALA, which your brain uses to keep cell membranes flexible so signals actually fire faster. And pickle juice for cramps sounds like a myth, but a small 1-2 oz shot triggers a reflex in your throat and gut that can shut down a cramping muscle in under a minute, way faster than waiting on electrolytes to absorb. Everyone's body is different, so pay attention to what actually helps yours.\n\nThis is what @smarthealthfix is all about — connecting the dots between everyday nutrition, common little health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #guttips #bloatingrelief #brainfog #naturalremedies #nutritionfacts #wellnessjourney #foodismedicine #healthyhabits #everydayhealth naturalhealing wellnesstips guthealth energyboost healthyliving"
 }
