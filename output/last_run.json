@@ -1,44 +1,45 @@
 {
-  "png": "output/reel_20260907_223302.png",
-  "mp4": "output/reel_20260907_223302.mp4",
-  "cover": "output/cover_20260907_223302.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260908_141504.png",
+  "mp4": "output/reel_20260908_141504.mp4",
+  "cover": "output/cover_20260908_141504.png",
+  "cover_bg": "white",
   "content": {
-    "title": "THE FOOD FIX FOR EVERY {{ANNOYING}} EVERYDAY PROBLEM",
+    "title": "HOUSEHOLD FIXES FOR THOSE ANNOYING LITTLE PROBLEMS YOU JUST DEAL WITH",
     "facts": [
-      "**Bloating** ----- Fennel Seeds",
-      "**Brain Fog** ----- Walnuts",
-      "**Muscle Cramps** ----- Pickle Juice",
-      "**Bad Breath** ----- Parsley",
-      "**Restless Legs** ----- Pumpkin Seeds",
-      "**Constant Burping** ----- Peppermint Tea",
-      "**Puffy Under-Eyes** ----- Cucumber",
-      "**Afternoon Slump** ----- Oats",
-      "**Dry, Cracked Lips** ----- Sunflower Seeds",
-      "**Follow along** – for more daily health tips like this."
+      "**Hiccups Won't Stop** – Swallow a spoonful of sugar; the grainy texture interrupts the nerve spasm causing the hiccup.",
+      "**Toothache** – Press a small piece of clove against the tooth; it numbs the area within minutes.",
+      "**Splinter Won't Come Out** – Soak the spot in a bowl of warm water with baking soda for 10 minutes; it swells the skin and pushes the splinter up.",
+      "**Sore Throat** – Gargle warm water mixed with 1 tsp salt every few hours to pull swelling out of the tissue.",
+      "**Stuffy Nose** – Hold a warm, damp washcloth over your sinuses for a few minutes to loosen the mucus.",
+      "**Hoarse Voice** – Sip warm water with honey and a squeeze of lemon to soothe irritated vocal cords.",
+      "**Minor Burn** – Run it under cool (not ice-cold) water for 10 minutes to stop the heat from spreading deeper into the skin.",
+      "**Bee Sting Swelling** – Apply a paste of baking soda and water to neutralize the venom and calm the itch.",
+      "**Nosebleed** – Pinch the soft part of your nose and lean slightly forward for 5-10 minutes instead of tilting your head back.",
+      "**Eye Twitch** – Press a warm compress over the closed eyelid for a few minutes to relax the overactive muscle.",
+      "**Follow along** – for more quick, harmless fixes like this."
     ],
     "claims": [],
-    "caption": "Fennel seeds aren't just a breath freshener trick — chewing about 1/2 tsp after a meal relaxes the muscles lining your gut, which helps trapped gas move through instead of sitting there and stretching your stomach. Walnuts earn their spot for brain fog because they're one of the few nuts with a meaningful dose of omega-3 ALA, which your brain uses to keep cell membranes flexible so signals actually fire faster. And pickle juice for cramps sounds like a myth, but a small 1-2 oz shot triggers a reflex in your throat and gut that can shut down a cramping muscle in under a minute, way faster than waiting on electrolytes to absorb. Everyone's body is different, so pay attention to what actually helps yours.\n\nThis is what @smarthealthfix is all about — connecting the dots between everyday nutrition, common little health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these deserve a closer look. Hiccups happen because your diaphragm spasms out of rhythm — a spoonful of sugar works by giving your vagus nerve a strong, sudden signal to focus on, which interrupts the spasm cycle. Clove isn't just an old wives' tale for toothaches either: it contains eugenol, a natural compound with numbing and mild antibacterial properties, which is why dentists actually used it before modern anesthesia existed. And that baking soda soak for splinters works through simple osmosis — the paste draws water into the top layer of skin, making it swell just enough to loosen its grip on the splinter so it slides out easier. Everyone's body is different, so if something feels off, listen to it and don't push through pain.\n\n@smarthealthfix is all about the small stuff: nutrition, everyday health issues, how your organs actually work, and tiny daily habits that add up. Our mission is to help you feel more in control of your body with simple, realistic fixes instead of chasing complicated solutions.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#healthtips",
-      "#guttips",
-      "#bloatingrelief",
-      "#brainfog",
+      "#homeremedies",
+      "#healthhacks",
       "#naturalremedies",
-      "#nutritionfacts",
-      "#wellnessjourney",
-      "#foodismedicine",
-      "#healthyhabits",
-      "#everydayhealth"
+      "#wellnesstips",
+      "#quickfix",
+      "#healthtips",
+      "#everydayhealth",
+      "#kitchenremedies",
+      "#firstaidtips",
+      "#bodyhacks"
     ],
     "extra_keywords": [
       "naturalhealing",
-      "wellnesstips",
-      "guthealth",
-      "energyboost",
-      "healthyliving"
+      "homeremedy",
+      "wellnessjourney",
+      "healthhacks",
+      "diyremedy"
     ]
   },
-  "shape": "problem_food_mapping",
-  "caption": "Fennel seeds aren't just a breath freshener trick — chewing about 1/2 tsp after a meal relaxes the muscles lining your gut, which helps trapped gas move through instead of sitting there and stretching your stomach. Walnuts earn their spot for brain fog because they're one of the few nuts with a meaningful dose of omega-3 ALA, which your brain uses to keep cell membranes flexible so signals actually fire faster. And pickle juice for cramps sounds like a myth, but a small 1-2 oz shot triggers a reflex in your throat and gut that can shut down a cramping muscle in under a minute, way faster than waiting on electrolytes to absorb. Everyone's body is different, so pay attention to what actually helps yours.\n\nThis is what @smarthealthfix is all about — connecting the dots between everyday nutrition, common little health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #guttips #bloatingrelief #brainfog #naturalremedies #nutritionfacts #wellnessjourney #foodismedicine #healthyhabits #everydayhealth naturalhealing wellnesstips guthealth energyboost healthyliving"
+  "shape": "boxed_hacks",
+  "caption": "A few of these deserve a closer look. Hiccups happen because your diaphragm spasms out of rhythm — a spoonful of sugar works by giving your vagus nerve a strong, sudden signal to focus on, which interrupts the spasm cycle. Clove isn't just an old wives' tale for toothaches either: it contains eugenol, a natural compound with numbing and mild antibacterial properties, which is why dentists actually used it before modern anesthesia existed. And that baking soda soak for splinters works through simple osmosis — the paste draws water into the top layer of skin, making it swell just enough to loosen its grip on the splinter so it slides out easier. Everyone's body is different, so if something feels off, listen to it and don't push through pain.\n\n@smarthealthfix is all about the small stuff: nutrition, everyday health issues, how your organs actually work, and tiny daily habits that add up. Our mission is to help you feel more in control of your body with simple, realistic fixes instead of chasing complicated solutions.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#homeremedies #healthhacks #naturalremedies #wellnesstips #quickfix #healthtips #everydayhealth #kitchenremedies #firstaidtips #bodyhacks naturalhealing homeremedy wellnessjourney healthhacks diyremedy"
 }
