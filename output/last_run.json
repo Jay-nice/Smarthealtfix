@@ -1,43 +1,44 @@
 {
-  "png": "output/reel_20260908_222419.png",
-  "mp4": "output/reel_20260908_222419.mp4",
-  "cover": "output/cover_20260908_222419.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260909_141521.png",
+  "mp4": "output/reel_20260909_141521.mp4",
+  "cover": "output/cover_20260909_141521.png",
+  "cover_bg": "green",
   "content": {
-    "title": "COOKING MISTAKES THAT QUIETLY WRECK YOUR {{HEALTHY}} MEAL",
+    "title": "HABITS THAT SEEM HEALTHY BUT ARE QUIETLY BACKFIRING",
     "facts": [
-      "**Boiling broccoli** – This drains most of the vitamin C and sulforaphane straight into the water; steam it for 5 minutes instead to keep the nutrients in the floret, not the sink.",
-      "**Olive oil** – Heating extra virgin olive oil past its smoke point breaks it down and creates harsh compounds; save it for finishing dishes or low-heat cooking, and use avocado oil for high heat.",
-      "**Salting meat too late** – Adding salt only at the table means it never penetrates the fibers; salting 30-40 minutes before cooking helps it season evenly and stay juicier.",
-      "**Overcrowding the pan** – Too much food at once traps steam instead of browning, so vegetables end up soggy and lose their crisp texture and flavor compounds.",
-      "**Tomato sauce** – Cooking tomatoes actually increases available lycopene, so 'raw is always healthier' isn't true here; a light simmer with a splash of oil boosts absorption.",
-      "**Draining pasta water** – Tossing all of it out wastes the starchy liquid that helps sauces cling to noodles; save half a cup before draining for a smoother, richer texture.",
-      "**Cutting vegetables too early** – Prepping and storing chopped veggies hours ahead lets exposed surfaces lose water-soluble vitamins to oxidation and air.",
-      "**Microwaving in the wrong container** – Reheating in certain plastics can leach compounds into food, especially fatty leftovers; glass or ceramic is the safer bet.",
-      "**Skipping the resting step** – Cutting meat right off the heat lets all the juice run out onto the board; resting 5-10 minutes keeps it inside where it belongs.",
+      "**Chewing gum** after meals to curb cravings -> can trick your stomach into producing acid for a meal that never comes, worsening reflux over time.",
+      "**Wearing sunglasses** every time you step outside -> weakens your eyes' natural light adaptation, making them more sensitive and prone to squinting later.",
+      "**Rinsing your mouth** with mouthwash right after brushing -> washes away the concentrated fluoride your toothpaste just left behind.",
+      "**Taking a multivitamin** on an empty stomach -> many fat-soluble vitamins like A, D, E and K barely get absorbed without food alongside them.",
+      "**Standing all day** at a desk instead of sitting -> can pool blood in your legs and strain your veins just as much as prolonged sitting does.",
+      "**Showering every single day** with hot water -> strips natural oils from skin, weakening its barrier and leading to more dryness and irritation.",
+      "**Cracking your knuckles** to relieve tension -> the popping sound is just gas bubbles collapsing, but doing it constantly can loosen ligaments over time.",
+      "**Napping for over an hour** to catch up on rest -> pushes you into deep sleep, so you wake up groggier than before you laid down.",
+      "**Following your body's clock so it wakes you exactly at 6am** every single day, even on weekends -> sounds disciplined, but never varying it can make your body over-rely on routine and struggle with any schedule shift.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are worth slowing down for. Take broccoli: boiling it isn't just 'less ideal,' the sulforaphane precursor compounds are water-soluble, so they literally dissolve out into the pot — steaming keeps that enzyme system intact so your body can actually convert it. With olive oil, the issue isn't the fat itself but heat stability: once it passes its smoke point, some of the beneficial polyphenols degrade and the oil starts forming compounds you don't want more of, which is why chefs treat it as a finishing oil rather than a frying one. And tomato sauce is the fun exception — cell walls break down with heat, which frees up lycopene that your body couldn't access from a raw tomato, so cooked actually beats raw here. Everyone's kitchen habits are a little different, so start with whichever one feels easiest to fix first.\n\nThis is what @smarthealthfix is all about — breaking down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these genuinely surprised me while researching. Mouthwash right after brushing feels like the responsible thing to do, but it rinses away the concentrated fluoride left behind by your toothpaste before it even gets a chance to strengthen your enamel — dentists often suggest waiting at least 30 minutes. Multivitamin timing matters more than people think too: vitamins A, D, E and K are fat-soluble, meaning they need dietary fat present to be absorbed properly, so popping them on an empty stomach can mean most of it passes right through you. And that satisfying knuckle crack? It's just nitrogen gas bubbles collapsing in the joint fluid, harmless occasionally, but frequent cracking can gradually stretch the surrounding ligaments. Everyone's body is different, so take these as gentle nudges, not rules.\n\nThis is what we do at @smarthealthfix — we dig into nutrition, everyday symptoms, organ function, and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#healthytips",
-      "#cookingmistakes",
-      "#nutritionfacts",
-      "#mealprep",
+      "#healthtips",
       "#wellness",
-      "#kitchenhacks",
-      "#healthyeating",
-      "#foodscience",
-      "#cookingtips",
-      "#nutrientdense"
+      "#healthyhabits",
+      "#surprisingfacts",
+      "#guthealth",
+      "#skincaretips",
+      "#sleeptips",
+      "#nutritionfacts",
+      "#dentalhealth",
+      "#bodyawareness"
     ],
     "extra_keywords": [
-      "healthycooking",
-      "foodprep101",
-      "nutritiontips",
-      "cookingsmart"
+      "wellnessjourney",
+      "healthyliving",
+      "dailyhabits",
+      "naturalhealing",
+      "mindbodyhealth"
     ]
   },
-  "shape": "myth_bust",
-  "caption": "A few of these are worth slowing down for. Take broccoli: boiling it isn't just 'less ideal,' the sulforaphane precursor compounds are water-soluble, so they literally dissolve out into the pot — steaming keeps that enzyme system intact so your body can actually convert it. With olive oil, the issue isn't the fat itself but heat stability: once it passes its smoke point, some of the beneficial polyphenols degrade and the oil starts forming compounds you don't want more of, which is why chefs treat it as a finishing oil rather than a frying one. And tomato sauce is the fun exception — cell walls break down with heat, which frees up lycopene that your body couldn't access from a raw tomato, so cooked actually beats raw here. Everyone's kitchen habits are a little different, so start with whichever one feels easiest to fix first.\n\nThis is what @smarthealthfix is all about — breaking down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthytips #cookingmistakes #nutritionfacts #mealprep #wellness #kitchenhacks #healthyeating #foodscience #cookingtips #nutrientdense healthycooking foodprep101 nutritiontips cookingsmart"
+  "shape": "habit_harm_reveal",
+  "caption": "A few of these genuinely surprised me while researching. Mouthwash right after brushing feels like the responsible thing to do, but it rinses away the concentrated fluoride left behind by your toothpaste before it even gets a chance to strengthen your enamel — dentists often suggest waiting at least 30 minutes. Multivitamin timing matters more than people think too: vitamins A, D, E and K are fat-soluble, meaning they need dietary fat present to be absorbed properly, so popping them on an empty stomach can mean most of it passes right through you. And that satisfying knuckle crack? It's just nitrogen gas bubbles collapsing in the joint fluid, harmless occasionally, but frequent cracking can gradually stretch the surrounding ligaments. Everyone's body is different, so take these as gentle nudges, not rules.\n\nThis is what we do at @smarthealthfix — we dig into nutrition, everyday symptoms, organ function, and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #healthyhabits #surprisingfacts #guthealth #skincaretips #sleeptips #nutritionfacts #dentalhealth #bodyawareness wellnessjourney healthyliving dailyhabits naturalhealing mindbodyhealth"
 }
