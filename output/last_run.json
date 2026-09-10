@@ -1,44 +1,43 @@
 {
-  "png": "output/reel_20260910_140916.png",
-  "mp4": "output/reel_20260910_140916.mp4",
-  "cover": "output/cover_20260910_140916.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260910_182028.png",
+  "mp4": "output/reel_20260910_182028.mp4",
+  "cover": "output/cover_20260910_182028.png",
+  "cover_bg": "green",
   "content": {
-    "title": "ORGAN FOOD CHEAT SHEET NOBODY TEACHES YOU IN SCHOOL",
+    "title": "HABITS THAT LOOK {{DISCIPLINED}} BUT QUIETLY BACKFIRE",
     "facts": [
-      "**BEETS** are good for LIVER – they contain betaine, which helps your liver flush out toxins instead of letting them build up.",
-      "**SARDINES** are good for BRAIN – a 3 oz serving 2x/week delivers omega-3s that keep the fatty sheath around your neurons intact.",
-      "**ASPARAGUS** are good for KIDNEYS – it acts as a natural diuretic, helping flush excess salt and fluid instead of letting it pool.",
-      "**PUMPKIN SEEDS** are good for PROSTATE – 1 oz/day is packed with zinc, a mineral linked to healthy prostate tissue.",
-      "**OATS** are good for HEART – 1 cup/day of beta-glucan fiber grabs cholesterol in your gut and drags it out before it hits your arteries.",
-      "**BONE BROTH** is good for GUT LINING – the collagen and gelatin help seal and soothe the intestinal wall instead of leaving it irritated.",
-      "**LIVER (BEEF OR CHICKEN)** is good for THYROID – it's one of the richest food sources of selenium, a mineral your thyroid needs to make hormones properly.",
-      "**BLUEBERRIES** are good for EYES – ½ cup/day of anthocyanins support the tiny blood vessels behind your retina.",
-      "**FENNEL** is good for DIGESTION – chewing a few seeds after a meal relaxes gut muscles and eases trapped gas.",
+      "**Showering in very hot water every day** -> strips your skin's natural oil barrier, leaving it drier and itchier over time.",
+      "**Drinking green tea on an empty stomach** -> the tannins can irritate your stomach lining and block iron absorption from your next meal.",
+      "**Doing intense cardio fasted every morning** -> can push your body to break down muscle tissue for fuel instead of just fat.",
+      "**Sleeping with your phone on 'do not disturb' but screen facing up** -> the residual light glow still suppresses melatonin release, even with sound off.",
+      "**Wearing compression socks all day 'just in case'** -> constant pressure with no rest periods can restrict healthy circulation in some people.",
+      "**Rinsing your mouth with water right after brushing** -> washes away the concentrated fluoride before it can fully protect your enamel.",
+      "**Napping for over an hour in the afternoon** -> pushes you into deep sleep, so waking up leaves you groggier than before you napped.",
+      "**Drinking herbal tea instead of water all day** -> some blends have mild diuretic effects, so you may be losing more fluid than you're taking in.",
+      "**Stretching aggressively before a run** -> static stretching cold muscles can actually reduce power output and raise injury risk.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these deserve more explanation than a single line can give. Beets get their liver-support reputation from betaine, a compound that helps your liver process fat and keeps bile flowing smoothly instead of getting sluggish. Sardines are one of the few foods where you get omega-3s attached to calcium-rich bones, so you're feeding your brain and your skeleton in the same bite. And pumpkin seeds don't just supply zinc — they also carry plant compounds called phytosterols that researchers have linked to healthier prostate tissue over time. Everyone's body responds a little differently, so pay attention to what actually works for you.\n\nThis is what we do over at @smarthealthfix — breaking down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these deserve a closer look. Green tea on an empty stomach feels like a clean start to the day, but its tannins bind to iron in your gut lining, which is why nutritionists often suggest having it between meals instead of first thing. Fasted cardio has a similar catch — without stored carbs to burn, your body starts pulling amino acids from muscle to keep your blood sugar stable, which works against the muscle you're trying to build. And that afternoon nap? Anything past 30-40 minutes lets your brain slide into deep sleep, so your body clock gets confused and you wake up in a fog instead of feeling refreshed. Everyone's body responds a little differently, so pay attention to how you personally feel afterward.\n\nAt @smarthealthfix, we break down nutrition, common symptoms, organ function, and everyday habits so you can actually understand your body instead of guessing. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#organhealth",
-      "#liversupport",
-      "#brainfood",
-      "#kidneyhealth",
-      "#thyroidhealth",
-      "#guthealth",
-      "#hearthealthy",
-      "#eyehealth",
-      "#nutritiontips",
-      "#wellness"
+      "#healthtips",
+      "#wellness",
+      "#morningroutine",
+      "#sleeptips",
+      "#gutsy",
+      "#fitnessmyths",
+      "#healthyhabits",
+      "#biohacking",
+      "#oralhealth",
+      "#recoverytips"
     ],
     "extra_keywords": [
-      "organhealthtips",
-      "nutritionfacts",
-      "healthyeating",
       "wellnessjourney",
-      "foodismedicine"
+      "healthmyths",
+      "dailyhabits",
+      "bodyawareness"
     ]
   },
-  "shape": "allcaps_benefit",
-  "caption": "A few of these deserve more explanation than a single line can give. Beets get their liver-support reputation from betaine, a compound that helps your liver process fat and keeps bile flowing smoothly instead of getting sluggish. Sardines are one of the few foods where you get omega-3s attached to calcium-rich bones, so you're feeding your brain and your skeleton in the same bite. And pumpkin seeds don't just supply zinc — they also carry plant compounds called phytosterols that researchers have linked to healthier prostate tissue over time. Everyone's body responds a little differently, so pay attention to what actually works for you.\n\nThis is what we do over at @smarthealthfix — breaking down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #liversupport #brainfood #kidneyhealth #thyroidhealth #guthealth #hearthealthy #eyehealth #nutritiontips #wellness organhealthtips nutritionfacts healthyeating wellnessjourney foodismedicine"
+  "shape": "habit_harm_reveal",
+  "caption": "A few of these deserve a closer look. Green tea on an empty stomach feels like a clean start to the day, but its tannins bind to iron in your gut lining, which is why nutritionists often suggest having it between meals instead of first thing. Fasted cardio has a similar catch — without stored carbs to burn, your body starts pulling amino acids from muscle to keep your blood sugar stable, which works against the muscle you're trying to build. And that afternoon nap? Anything past 30-40 minutes lets your brain slide into deep sleep, so your body clock gets confused and you wake up in a fog instead of feeling refreshed. Everyone's body responds a little differently, so pay attention to how you personally feel afterward.\n\nAt @smarthealthfix, we break down nutrition, common symptoms, organ function, and everyday habits so you can actually understand your body instead of guessing. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #morningroutine #sleeptips #gutsy #fitnessmyths #healthyhabits #biohacking #oralhealth #recoverytips wellnessjourney healthmyths dailyhabits bodyawareness"
 }
