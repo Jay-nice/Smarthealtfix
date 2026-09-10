@@ -1,43 +1,45 @@
 {
-  "png": "output/reel_20260910_182028.png",
-  "mp4": "output/reel_20260910_182028.mp4",
-  "cover": "output/cover_20260910_182028.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260910_221809.png",
+  "mp4": "output/reel_20260910_221809.mp4",
+  "cover": "output/cover_20260910_221809.png",
+  "cover_bg": "white",
   "content": {
-    "title": "HABITS THAT LOOK {{DISCIPLINED}} BUT QUIETLY BACKFIRE",
+    "title": "WEIRD SIGNS YOU'RE ACTUALLY {{HEALTHIER}} THAN YOU THINK",
     "facts": [
-      "**Showering in very hot water every day** -> strips your skin's natural oil barrier, leaving it drier and itchier over time.",
-      "**Drinking green tea on an empty stomach** -> the tannins can irritate your stomach lining and block iron absorption from your next meal.",
-      "**Doing intense cardio fasted every morning** -> can push your body to break down muscle tissue for fuel instead of just fat.",
-      "**Sleeping with your phone on 'do not disturb' but screen facing up** -> the residual light glow still suppresses melatonin release, even with sound off.",
-      "**Wearing compression socks all day 'just in case'** -> constant pressure with no rest periods can restrict healthy circulation in some people.",
-      "**Rinsing your mouth with water right after brushing** -> washes away the concentrated fluoride before it can fully protect your enamel.",
-      "**Napping for over an hour in the afternoon** -> pushes you into deep sleep, so waking up leaves you groggier than before you napped.",
-      "**Drinking herbal tea instead of water all day** -> some blends have mild diuretic effects, so you may be losing more fluid than you're taking in.",
-      "**Stretching aggressively before a run** -> static stretching cold muscles can actually reduce power output and raise injury risk.",
+      "Loud stomach growling in meetings -> your gut's migrating motor complex is sweeping leftover debris between meals",
+      "Waking up briefly at night but falling back asleep fast -> normal sleep cycling, not insomnia",
+      "Sweating heavily during light exercise -> your body cools itself efficiently and adapts fast to heat",
+      "Feeling intensely thirsty after salty food -> your kidneys are correctly signaling you to rebalance fluids",
+      "Yawning a lot around other people -> a sign of a socially wired, empathetic nervous system",
+      "Getting goosebumps from music -> a strong dopamine response, linked to a reactive reward system",
+      "Peeling skin a few days after a light sunburn -> damaged surface cells are being cleared out on schedule",
+      "Sighing randomly throughout the day -> your lungs are resetting collapsed air sacs to keep gas exchange efficient",
+      "Feeling cold hands but a warm chest after a workout -> blood is being redirected to your core and muscles correctly",
+      "Having vivid, strange dreams -> a sign you're reaching deep REM sleep, tied to memory processing",
+      "Hiccuping after eating fast -> your diaphragm is reacting normally to a stretched stomach",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these deserve a closer look. Green tea on an empty stomach feels like a clean start to the day, but its tannins bind to iron in your gut lining, which is why nutritionists often suggest having it between meals instead of first thing. Fasted cardio has a similar catch — without stored carbs to burn, your body starts pulling amino acids from muscle to keep your blood sugar stable, which works against the muscle you're trying to build. And that afternoon nap? Anything past 30-40 minutes lets your brain slide into deep sleep, so your body clock gets confused and you wake up in a fog instead of feeling refreshed. Everyone's body responds a little differently, so pay attention to how you personally feel afterward.\n\nAt @smarthealthfix, we break down nutrition, common symptoms, organ function, and everyday habits so you can actually understand your body instead of guessing. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "That loud stomach growling isn't a hunger emergency — it's your gut's migrating motor complex, a cleanup wave that sweeps between meals to keep bacteria from overgrowing in your small intestine. And those strange, vivid dreams you sometimes remember in detail? That's your brain cycling deep into REM sleep, the stage most tied to memory consolidation and emotional processing, so remembering them is actually a decent sign your sleep architecture is working. Even random sighing throughout the day has a job: it re-inflates tiny collapsed air sacs in your lungs (alveoli) that shallow breathing leaves flat, keeping oxygen exchange efficient. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organs & body functions, and small daily habits so you understand what your body is actually telling you. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
       "#wellness",
-      "#morningroutine",
-      "#sleeptips",
-      "#gutsy",
-      "#fitnessmyths",
+      "#bodysignals",
+      "#guthealth",
+      "#sleepscience",
+      "#healthfacts",
+      "#selfcare",
+      "#bodyawareness",
       "#healthyhabits",
-      "#biohacking",
-      "#oralhealth",
-      "#recoverytips"
+      "#didyouknow"
     ],
     "extra_keywords": [
+      "naturalhealing",
       "wellnessjourney",
-      "healthmyths",
-      "dailyhabits",
-      "bodyawareness"
+      "bodyfacts",
+      "healthawareness"
     ]
   },
-  "shape": "habit_harm_reveal",
-  "caption": "A few of these deserve a closer look. Green tea on an empty stomach feels like a clean start to the day, but its tannins bind to iron in your gut lining, which is why nutritionists often suggest having it between meals instead of first thing. Fasted cardio has a similar catch — without stored carbs to burn, your body starts pulling amino acids from muscle to keep your blood sugar stable, which works against the muscle you're trying to build. And that afternoon nap? Anything past 30-40 minutes lets your brain slide into deep sleep, so your body clock gets confused and you wake up in a fog instead of feeling refreshed. Everyone's body responds a little differently, so pay attention to how you personally feel afterward.\n\nAt @smarthealthfix, we break down nutrition, common symptoms, organ function, and everyday habits so you can actually understand your body instead of guessing. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #morningroutine #sleeptips #gutsy #fitnessmyths #healthyhabits #biohacking #oralhealth #recoverytips wellnessjourney healthmyths dailyhabits bodyawareness"
+  "shape": "counterintuitive_healthy_sign",
+  "caption": "That loud stomach growling isn't a hunger emergency — it's your gut's migrating motor complex, a cleanup wave that sweeps between meals to keep bacteria from overgrowing in your small intestine. And those strange, vivid dreams you sometimes remember in detail? That's your brain cycling deep into REM sleep, the stage most tied to memory consolidation and emotional processing, so remembering them is actually a decent sign your sleep architecture is working. Even random sighing throughout the day has a job: it re-inflates tiny collapsed air sacs in your lungs (alveoli) that shallow breathing leaves flat, keeping oxygen exchange efficient. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organs & body functions, and small daily habits so you understand what your body is actually telling you. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #bodysignals #guthealth #sleepscience #healthfacts #selfcare #bodyawareness #healthyhabits #didyouknow naturalhealing wellnessjourney bodyfacts healthawareness"
 }
