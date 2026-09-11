@@ -1,42 +1,42 @@
 {
-  "png": "output/reel_20260911_182412.png",
-  "mp4": "output/reel_20260911_182412.mp4",
-  "cover": "output/cover_20260911_182412.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260911_221754.png",
+  "mp4": "output/reel_20260911_221754.mp4",
+  "cover": "output/cover_20260911_221754.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE MINERAL YOUR THYROID IS BEGGING {{YOU}} FOR",
+    "title": "COOKING MISTAKES THAT QUIETLY {{DESTROY}} YOUR HEALTHY MEAL",
     "facts": [
-      "**Iodine (Thyroid Fuel)** — your thyroid literally cannot make hormones without it, and those hormones control your metabolism, energy, and body temperature.",
-      "**Seaweed** – nori, kombu, and wakame are some of the richest natural sources on earth.",
-      "**Cod** – 1 small fillet (about 85g) covers a big chunk of your daily need.",
-      "**Dairy** – 1 cup of milk or yogurt/day adds up more than people realize.",
-      "**Eggs** – the iodine sits mostly in the yolk, so don't skip it.",
-      "**Shrimp** – a handful (about 100g) is a solid low-calorie source.",
-      "**Iodized salt** – just 1/4 tsp/day can meaningfully cover your needs if you don't eat much seafood.",
-      "**Prunes** – 5 dried prunes/day sneak in iodine most people never expect from fruit.",
+      "**Boiling vegetables** – Broccoli and spinach lose most of their vitamin C and B vitamins into the water; steam for 4-5 minutes instead to keep nutrients in the food, not the sink.",
+      "**Olive oil at high heat** – Extra virgin olive oil breaks down and smokes above roughly 190°C, turning heart-healthy fats into harmful compounds; save it for dressings or low-medium heat cooking.",
+      "**Adding salt too early** – Salting beans or lentils at the start of cooking makes them stay tough for longer; add salt in the last 10 minutes for both flavor and texture.",
+      "**Microwaving in plastic containers** – Heat can cause chemicals from plastic to leach into food, even in 'microwave-safe' containers; switch to glass or ceramic before reheating.",
+      "**Overcooking eggs** – Rubbery, grey-edged yolks form when eggs are cooked too long or too hot, breaking down some of their protein quality; cook low and slow instead.",
+      "**Draining canned beans without rinsing** – The liquid is loaded with added sodium; a quick rinse under water cuts the sodium content significantly.",
+      "**Cutting vegetables long before cooking** – Pre-chopped veggies lose vitamin C the longer they sit exposed to air; chop right before you cook or eat them.",
+      "**Reusing the same cutting board** – Switching straight from raw chicken to salad greens without washing the board is one of the most common ways foodborne bacteria spread at home.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Let's talk about iodine, because most people only think about it when a doctor mentions their thyroid. Seaweed is one of the most concentrated natural sources out there — even a small strip of nori can supply a surprising amount, since sea plants pull iodine directly from ocean water and store it. Cod and other white fish absorb iodine the same way, which is part of why coastal diets historically had fewer thyroid issues than inland ones. And prunes are the sleeper pick here — nobody expects a dried fruit to help thyroid function, but they quietly contribute meaningful amounts alongside fiber for digestion. Everyone's body is different, so pay attention to how you feel and talk to a doctor if something feels off.\n\n@smarthealthfix is all about breaking down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you build small, realistic changes instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these mistakes are easier to fix than you'd think. Take boiling vegetables: when you dump broccoli into a pot of water, water-soluble vitamins like vitamin C and folate actually dissolve OUT of the vegetable and into the liquid you're about to pour down the drain — steaming keeps those nutrients trapped inside the food itself. Then there's olive oil: heating it past its smoke point doesn't just ruin the taste, it triggers oxidation that creates compounds linked to inflammation, which cancels out the whole reason you chose olive oil in the first place. And with eggs, overcooking denatures the proteins so aggressively that your body actually absorbs less of the protein compared to a soft, gently cooked egg. Everyone's kitchen habits are different, so start with whichever one feels easiest to change first.\n\n@smarthealthfix is all about the small, overlooked details — the nutrition choices, common symptoms, organ functions, and daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes or expensive supplements.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#iodine",
-      "#thyroidhealth",
-      "#healthtips",
-      "#nutritionfacts",
-      "#wellness",
-      "#metabolism",
-      "#thyroidsupport",
       "#healthyeating",
-      "#mineralsmatter",
-      "#energylevels"
+      "#mealprep",
+      "#nutritiontips",
+      "#foodsafety",
+      "#healthyhabits",
+      "#cookingtips",
+      "#wellness",
+      "#healthtips",
+      "#eatclean",
+      "#nutritionfacts"
     ],
     "extra_keywords": [
-      "thyroidhealing",
-      "nutrienttips",
-      "wellnessjourney",
-      "healthyhabits"
+      "healthykitchen",
+      "cookingmistakes",
+      "nutritionmyths",
+      "wellnessjourney"
     ]
   },
-  "shape": "mineral_sources",
-  "caption": "Let's talk about iodine, because most people only think about it when a doctor mentions their thyroid. Seaweed is one of the most concentrated natural sources out there — even a small strip of nori can supply a surprising amount, since sea plants pull iodine directly from ocean water and store it. Cod and other white fish absorb iodine the same way, which is part of why coastal diets historically had fewer thyroid issues than inland ones. And prunes are the sleeper pick here — nobody expects a dried fruit to help thyroid function, but they quietly contribute meaningful amounts alongside fiber for digestion. Everyone's body is different, so pay attention to how you feel and talk to a doctor if something feels off.\n\n@smarthealthfix is all about breaking down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you build small, realistic changes instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#iodine #thyroidhealth #healthtips #nutritionfacts #wellness #metabolism #thyroidsupport #healthyeating #mineralsmatter #energylevels thyroidhealing nutrienttips wellnessjourney healthyhabits"
+  "shape": "myth_bust",
+  "caption": "A few of these mistakes are easier to fix than you'd think. Take boiling vegetables: when you dump broccoli into a pot of water, water-soluble vitamins like vitamin C and folate actually dissolve OUT of the vegetable and into the liquid you're about to pour down the drain — steaming keeps those nutrients trapped inside the food itself. Then there's olive oil: heating it past its smoke point doesn't just ruin the taste, it triggers oxidation that creates compounds linked to inflammation, which cancels out the whole reason you chose olive oil in the first place. And with eggs, overcooking denatures the proteins so aggressively that your body actually absorbs less of the protein compared to a soft, gently cooked egg. Everyone's kitchen habits are different, so start with whichever one feels easiest to change first.\n\n@smarthealthfix is all about the small, overlooked details — the nutrition choices, common symptoms, organ functions, and daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes or expensive supplements.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthyeating #mealprep #nutritiontips #foodsafety #healthyhabits #cookingtips #wellness #healthtips #eatclean #nutritionfacts healthykitchen cookingmistakes nutritionmyths wellnessjourney"
 }
