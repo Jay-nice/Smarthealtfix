@@ -1,45 +1,42 @@
 {
-  "png": "output/reel_20260910_221809.png",
-  "mp4": "output/reel_20260910_221809.mp4",
-  "cover": "output/cover_20260910_221809.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260911_140809.png",
+  "mp4": "output/reel_20260911_140809.mp4",
+  "cover": "output/cover_20260911_140809.png",
+  "cover_bg": "green",
   "content": {
-    "title": "WEIRD SIGNS YOU'RE ACTUALLY {{HEALTHIER}} THAN YOU THINK",
+    "title": "THE FOOD FIX FOR {{BLOATING}} NO ONE EXPLAINS PROPERLY",
     "facts": [
-      "Loud stomach growling in meetings -> your gut's migrating motor complex is sweeping leftover debris between meals",
-      "Waking up briefly at night but falling back asleep fast -> normal sleep cycling, not insomnia",
-      "Sweating heavily during light exercise -> your body cools itself efficiently and adapts fast to heat",
-      "Feeling intensely thirsty after salty food -> your kidneys are correctly signaling you to rebalance fluids",
-      "Yawning a lot around other people -> a sign of a socially wired, empathetic nervous system",
-      "Getting goosebumps from music -> a strong dopamine response, linked to a reactive reward system",
-      "Peeling skin a few days after a light sunburn -> damaged surface cells are being cleared out on schedule",
-      "Sighing randomly throughout the day -> your lungs are resetting collapsed air sacs to keep gas exchange efficient",
-      "Feeling cold hands but a warm chest after a workout -> blood is being redirected to your core and muscles correctly",
-      "Having vivid, strange dreams -> a sign you're reaching deep REM sleep, tied to memory processing",
-      "Hiccuping after eating fast -> your diaphragm is reacting normally to a stretched stomach",
+      "**Peppermint tea** – relaxes the muscles lining your gut, easing trapped gas and that tight, bloated feeling within 20-30 minutes.",
+      "**Ginger** – 1 slice steeped in hot water speeds up stomach emptying, so food (and gas) moves through instead of sitting heavy.",
+      "**Papaya** – contains papain, an enzyme that helps break down protein so it doesn't ferment and cause bloating later.",
+      "**Cucumber** – 90% water plus quercetin, which calms gut swelling from salty meals.",
+      "**Kefir** – 1 small glass/day feeds your gut with live bacteria that outcompete the gas-producing kind.",
+      "**Caraway seeds** – chew ½ tsp after a heavy meal, a traditional trick to release trapped air naturally.",
+      "**Lemon water** – 1 glass, warm, first thing in the morning kickstarts digestion before your first meal even hits.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "That loud stomach growling isn't a hunger emergency — it's your gut's migrating motor complex, a cleanup wave that sweeps between meals to keep bacteria from overgrowing in your small intestine. And those strange, vivid dreams you sometimes remember in detail? That's your brain cycling deep into REM sleep, the stage most tied to memory consolidation and emotional processing, so remembering them is actually a decent sign your sleep architecture is working. Even random sighing throughout the day has a job: it re-inflates tiny collapsed air sacs in your lungs (alveoli) that shallow breathing leaves flat, keeping oxygen exchange efficient. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organs & body functions, and small daily habits so you understand what your body is actually telling you. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "If bloating hits you after almost every meal, a few kitchen staples can help more than you'd think. Peppermint works by relaxing smooth muscle in the gut wall, which is why the pressure and cramping ease so fast after a cup of tea. Ginger speeds up how quickly your stomach empties its contents into the small intestine, so gas doesn't build up and linger. Papaya's papain enzyme actually pre-digests protein for you, meaning less undigested food sits around fermenting and producing gas in your colon. Everyone's gut reacts differently though, so pay attention to what actually settles yours.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs and body functions, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who deals with bloating more than they'd like to admit.",
     "hashtags": [
+      "#bloating",
+      "#guthealth",
+      "#digestivehealth",
       "#healthtips",
       "#wellness",
-      "#bodysignals",
-      "#guthealth",
-      "#sleepscience",
-      "#healthfacts",
-      "#selfcare",
-      "#bodyawareness",
-      "#healthyhabits",
-      "#didyouknow"
+      "#naturalremedies",
+      "#gutfeeling",
+      "#healthyliving",
+      "#digestion",
+      "#fooddigestion"
     ],
     "extra_keywords": [
+      "guthealthtips",
+      "bloatingrelief",
+      "digestivehealth",
       "naturalhealing",
-      "wellnessjourney",
-      "bodyfacts",
-      "healthawareness"
+      "wellnessjourney"
     ]
   },
-  "shape": "counterintuitive_healthy_sign",
-  "caption": "That loud stomach growling isn't a hunger emergency — it's your gut's migrating motor complex, a cleanup wave that sweeps between meals to keep bacteria from overgrowing in your small intestine. And those strange, vivid dreams you sometimes remember in detail? That's your brain cycling deep into REM sleep, the stage most tied to memory consolidation and emotional processing, so remembering them is actually a decent sign your sleep architecture is working. Even random sighing throughout the day has a job: it re-inflates tiny collapsed air sacs in your lungs (alveoli) that shallow breathing leaves flat, keeping oxygen exchange efficient. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organs & body functions, and small daily habits so you understand what your body is actually telling you. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #bodysignals #guthealth #sleepscience #healthfacts #selfcare #bodyawareness #healthyhabits #didyouknow naturalhealing wellnessjourney bodyfacts healthawareness"
+  "shape": "problem_food_mapping",
+  "caption": "If bloating hits you after almost every meal, a few kitchen staples can help more than you'd think. Peppermint works by relaxing smooth muscle in the gut wall, which is why the pressure and cramping ease so fast after a cup of tea. Ginger speeds up how quickly your stomach empties its contents into the small intestine, so gas doesn't build up and linger. Papaya's papain enzyme actually pre-digests protein for you, meaning less undigested food sits around fermenting and producing gas in your colon. Everyone's gut reacts differently though, so pay attention to what actually settles yours.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs and body functions, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who deals with bloating more than they'd like to admit.\n\n#bloating #guthealth #digestivehealth #healthtips #wellness #naturalremedies #gutfeeling #healthyliving #digestion #fooddigestion guthealthtips bloatingrelief digestivehealth naturalhealing wellnessjourney"
 }
