@@ -1,42 +1,42 @@
 {
-  "png": "output/reel_20260911_140809.png",
-  "mp4": "output/reel_20260911_140809.mp4",
-  "cover": "output/cover_20260911_140809.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260911_182412.png",
+  "mp4": "output/reel_20260911_182412.mp4",
+  "cover": "output/cover_20260911_182412.png",
+  "cover_bg": "white",
   "content": {
-    "title": "THE FOOD FIX FOR {{BLOATING}} NO ONE EXPLAINS PROPERLY",
+    "title": "THE MINERAL YOUR THYROID IS BEGGING {{YOU}} FOR",
     "facts": [
-      "**Peppermint tea** – relaxes the muscles lining your gut, easing trapped gas and that tight, bloated feeling within 20-30 minutes.",
-      "**Ginger** – 1 slice steeped in hot water speeds up stomach emptying, so food (and gas) moves through instead of sitting heavy.",
-      "**Papaya** – contains papain, an enzyme that helps break down protein so it doesn't ferment and cause bloating later.",
-      "**Cucumber** – 90% water plus quercetin, which calms gut swelling from salty meals.",
-      "**Kefir** – 1 small glass/day feeds your gut with live bacteria that outcompete the gas-producing kind.",
-      "**Caraway seeds** – chew ½ tsp after a heavy meal, a traditional trick to release trapped air naturally.",
-      "**Lemon water** – 1 glass, warm, first thing in the morning kickstarts digestion before your first meal even hits.",
+      "**Iodine (Thyroid Fuel)** — your thyroid literally cannot make hormones without it, and those hormones control your metabolism, energy, and body temperature.",
+      "**Seaweed** – nori, kombu, and wakame are some of the richest natural sources on earth.",
+      "**Cod** – 1 small fillet (about 85g) covers a big chunk of your daily need.",
+      "**Dairy** – 1 cup of milk or yogurt/day adds up more than people realize.",
+      "**Eggs** – the iodine sits mostly in the yolk, so don't skip it.",
+      "**Shrimp** – a handful (about 100g) is a solid low-calorie source.",
+      "**Iodized salt** – just 1/4 tsp/day can meaningfully cover your needs if you don't eat much seafood.",
+      "**Prunes** – 5 dried prunes/day sneak in iodine most people never expect from fruit.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "If bloating hits you after almost every meal, a few kitchen staples can help more than you'd think. Peppermint works by relaxing smooth muscle in the gut wall, which is why the pressure and cramping ease so fast after a cup of tea. Ginger speeds up how quickly your stomach empties its contents into the small intestine, so gas doesn't build up and linger. Papaya's papain enzyme actually pre-digests protein for you, meaning less undigested food sits around fermenting and producing gas in your colon. Everyone's gut reacts differently though, so pay attention to what actually settles yours.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs and body functions, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who deals with bloating more than they'd like to admit.",
+    "caption": "Let's talk about iodine, because most people only think about it when a doctor mentions their thyroid. Seaweed is one of the most concentrated natural sources out there — even a small strip of nori can supply a surprising amount, since sea plants pull iodine directly from ocean water and store it. Cod and other white fish absorb iodine the same way, which is part of why coastal diets historically had fewer thyroid issues than inland ones. And prunes are the sleeper pick here — nobody expects a dried fruit to help thyroid function, but they quietly contribute meaningful amounts alongside fiber for digestion. Everyone's body is different, so pay attention to how you feel and talk to a doctor if something feels off.\n\n@smarthealthfix is all about breaking down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you build small, realistic changes instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#bloating",
-      "#guthealth",
-      "#digestivehealth",
+      "#iodine",
+      "#thyroidhealth",
       "#healthtips",
+      "#nutritionfacts",
       "#wellness",
-      "#naturalremedies",
-      "#gutfeeling",
-      "#healthyliving",
-      "#digestion",
-      "#fooddigestion"
+      "#metabolism",
+      "#thyroidsupport",
+      "#healthyeating",
+      "#mineralsmatter",
+      "#energylevels"
     ],
     "extra_keywords": [
-      "guthealthtips",
-      "bloatingrelief",
-      "digestivehealth",
-      "naturalhealing",
-      "wellnessjourney"
+      "thyroidhealing",
+      "nutrienttips",
+      "wellnessjourney",
+      "healthyhabits"
     ]
   },
-  "shape": "problem_food_mapping",
-  "caption": "If bloating hits you after almost every meal, a few kitchen staples can help more than you'd think. Peppermint works by relaxing smooth muscle in the gut wall, which is why the pressure and cramping ease so fast after a cup of tea. Ginger speeds up how quickly your stomach empties its contents into the small intestine, so gas doesn't build up and linger. Papaya's papain enzyme actually pre-digests protein for you, meaning less undigested food sits around fermenting and producing gas in your colon. Everyone's gut reacts differently though, so pay attention to what actually settles yours.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs and body functions, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who deals with bloating more than they'd like to admit.\n\n#bloating #guthealth #digestivehealth #healthtips #wellness #naturalremedies #gutfeeling #healthyliving #digestion #fooddigestion guthealthtips bloatingrelief digestivehealth naturalhealing wellnessjourney"
+  "shape": "mineral_sources",
+  "caption": "Let's talk about iodine, because most people only think about it when a doctor mentions their thyroid. Seaweed is one of the most concentrated natural sources out there — even a small strip of nori can supply a surprising amount, since sea plants pull iodine directly from ocean water and store it. Cod and other white fish absorb iodine the same way, which is part of why coastal diets historically had fewer thyroid issues than inland ones. And prunes are the sleeper pick here — nobody expects a dried fruit to help thyroid function, but they quietly contribute meaningful amounts alongside fiber for digestion. Everyone's body is different, so pay attention to how you feel and talk to a doctor if something feels off.\n\n@smarthealthfix is all about breaking down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you build small, realistic changes instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#iodine #thyroidhealth #healthtips #nutritionfacts #wellness #metabolism #thyroidsupport #healthyeating #mineralsmatter #energylevels thyroidhealing nutrienttips wellnessjourney healthyhabits"
 }
