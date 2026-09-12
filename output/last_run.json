@@ -1,44 +1,43 @@
 {
-  "png": "output/reel_20260912_132608.png",
-  "mp4": "output/reel_20260912_132608.mp4",
-  "cover": "output/cover_20260912_132608.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260912_174439.png",
+  "mp4": "output/reel_20260912_174439.mp4",
+  "cover": "output/cover_20260912_174439.png",
+  "cover_bg": "green",
   "content": {
-    "title": "KITCHEN CABINET FIXES {{DOCTORS QUIETLY USE}} AT HOME",
+    "title": "FOOD FACTS THAT SOUND LIKE {{MYTHS}} BUT AREN'T",
     "facts": [
-      "**Hiccups** – Plug both ears with your fingers for 30 seconds while sipping water through a straw.",
-      "**Nosebleed** – Pinch the soft part of your nose and lean forward, not back, for 10 minutes straight.",
-      "**Sore Throat** – Gargle with warm water and 1 tsp salt every few hours to pull swelling down.",
-      "**Splinter** – Soak the area in baking soda water for 10 minutes, the splinter often floats up on its own.",
-      "**Minor Burn** – Run cool (not ice-cold) water over it for 10 minutes, skip the butter myth entirely.",
-      "**Bug Bite Itch** – Press a hot spoon (not scalding) against the bite for a few seconds to override the itch signal.",
-      "**Muscle Cramp** – Pinch your upper lip hard for 30 seconds, an old trick that taps into a nerve reflex.",
-      "**Bad Breath Fast** – Chew on a sprig of parsley, it neutralizes odor compounds better than mint.",
-      "**Stuffy Nose** – Press your tongue to the roof of your mouth and press between your eyebrows for 20 seconds.",
-      "**Follow along** – for more daily health tips like this."
+      "**Pineapple** actually eats you back — it contains bromelain, an enzyme so strong it breaks down proteins, which is why your tongue can feel raw after too much fresh pineapple.",
+      "**Carrots** were originally purple, not orange — the orange variety was bred centuries later, and the color has nothing to do with how much beta-carotene they contain.",
+      "**Almonds** are technically not nuts — they're seeds from inside a fruit that looks a lot like a peach, just with a leathery outer layer instead of soft flesh.",
+      "**Cashews** are never sold in their raw shell to consumers — the shell contains a toxic oil related to poison ivy, so every cashew you've ever eaten was steamed or roasted first.",
+      "**Nutmeg** contains a natural compound that can cause hallucinations in large doses — a few grams of ground nutmeg has been documented to trigger vivid, LSD-like effects.",
+      "**Watermelon** is over 90% water by weight — a single 300g slice can meaningfully contribute to your daily fluid intake, almost like drinking a glass of water.",
+      "**Chili peppers** don't actually burn your tongue — capsaicin binds to the same heat-sensing receptors triggered by actual high temperatures, tricking your brain into thinking you're being burned.",
+      "**Rhubarb** stalks are edible and tart, but its leaves contain enough oxalic acid to be genuinely toxic — one plant, two completely different safety profiles.",
+      "**Follow along** – for more surprising, fact-checked nutrition truths like this."
     ],
     "claims": [],
-    "caption": "A few of these are worth understanding a little deeper. The hiccups trick works because holding your breath and stimulating the ear canal interrupts the vagus nerve signal that's causing the spasm in your diaphragm. For a nosebleed, leaning forward instead of tilting back keeps blood from running down your throat while the pinch pressure helps a clot form faster at the site. And that parsley trick for bad breath isn't just a myth — parsley contains chlorophyll and volatile oils that actually bind to sulfur compounds in your mouth, which are the real cause of odor. Everyone's body is different, so treat these as first-response tools, not replacements for care when something feels serious.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and small daily habits that actually make a difference. Our goal is to give you practical, realistic tools instead of overcomplicated advice you'll never actually use.\n\nSave this post so you don't lose it, and share it with someone who needs a quick fix today.",
+    "caption": "A few of these deserve more explanation than the image allows. Pineapple's bromelain enzyme doesn't just sit there — it's actively used in meat tenderizers and even some digestive supplements because it breaks down protein bonds just like it breaks down the proteins on your tongue's surface. Cashews go through a careful steaming process specifically to neutralize urushiol, the same irritant found in poison ivy, which is why you'll never find a truly raw cashew in stores. And nutmeg's hallucinogenic compound, myristicin, is metabolized by your liver into something structurally similar to certain psychoactive substances — which is exactly why more than a teaspoon or two is genuinely not a good idea. Bodies react differently to everything, so treat these as fascinating context, not a dosage guide.\n\nThis is what we do at @smarthealthfix — breaking down nutrition, common symptoms, organ function, and small daily habits into things you'll actually remember. Our mission is to make health feel less overwhelming, one small realistic fact or habit at a time.\n\nSave this post so you don't lose it, and share it with someone who loves random facts as much as you do.",
     "hashtags": [
-      "#healthhacks",
-      "#homeremedies",
-      "#firstaidtips",
+      "#foodfacts",
+      "#nutritionfacts",
+      "#healthyeating",
+      "#didyouknow",
       "#wellnesstips",
-      "#naturalremedies",
       "#healthtips",
-      "#quickfix",
-      "#everydayhealth",
-      "#bodyhacks",
-      "#selfcaretips"
+      "#foodscience",
+      "#nutritiontips",
+      "#eatsmart",
+      "#mindblown"
     ],
     "extra_keywords": [
-      "homeremedy",
-      "healthhacks",
-      "naturalhealing",
+      "nutritionfacts",
+      "foodtrivia",
       "wellnessjourney",
-      "dailyhealthtips"
+      "healthyhabits",
+      "surprisingfacts"
     ]
   },
-  "shape": "boxed_hacks",
-  "caption": "A few of these are worth understanding a little deeper. The hiccups trick works because holding your breath and stimulating the ear canal interrupts the vagus nerve signal that's causing the spasm in your diaphragm. For a nosebleed, leaning forward instead of tilting back keeps blood from running down your throat while the pinch pressure helps a clot form faster at the site. And that parsley trick for bad breath isn't just a myth — parsley contains chlorophyll and volatile oils that actually bind to sulfur compounds in your mouth, which are the real cause of odor. Everyone's body is different, so treat these as first-response tools, not replacements for care when something feels serious.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and small daily habits that actually make a difference. Our goal is to give you practical, realistic tools instead of overcomplicated advice you'll never actually use.\n\nSave this post so you don't lose it, and share it with someone who needs a quick fix today.\n\n#healthhacks #homeremedies #firstaidtips #wellnesstips #naturalremedies #healthtips #quickfix #everydayhealth #bodyhacks #selfcaretips homeremedy healthhacks naturalhealing wellnessjourney dailyhealthtips"
+  "shape": "surprising_true_fact",
+  "caption": "A few of these deserve more explanation than the image allows. Pineapple's bromelain enzyme doesn't just sit there — it's actively used in meat tenderizers and even some digestive supplements because it breaks down protein bonds just like it breaks down the proteins on your tongue's surface. Cashews go through a careful steaming process specifically to neutralize urushiol, the same irritant found in poison ivy, which is why you'll never find a truly raw cashew in stores. And nutmeg's hallucinogenic compound, myristicin, is metabolized by your liver into something structurally similar to certain psychoactive substances — which is exactly why more than a teaspoon or two is genuinely not a good idea. Bodies react differently to everything, so treat these as fascinating context, not a dosage guide.\n\nThis is what we do at @smarthealthfix — breaking down nutrition, common symptoms, organ function, and small daily habits into things you'll actually remember. Our mission is to make health feel less overwhelming, one small realistic fact or habit at a time.\n\nSave this post so you don't lose it, and share it with someone who loves random facts as much as you do.\n\n#foodfacts #nutritionfacts #healthyeating #didyouknow #wellnesstips #healthtips #foodscience #nutritiontips #eatsmart #mindblown nutritionfacts foodtrivia wellnessjourney healthyhabits surprisingfacts"
 }
