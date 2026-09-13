@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20260912_215754.png",
-  "mp4": "output/reel_20260912_215754.mp4",
-  "cover": "output/cover_20260912_215754.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260913_141103.png",
+  "mp4": "output/reel_20260913_141103.mp4",
+  "cover": "output/cover_20260913_141103.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE ORGAN-FOOD PAIRING GUIDE {{NO ONE}} TAUGHT YOU",
+    "title": "WHY YOUR {{HEALTHY}} MEAL PREP ISN'T ACTUALLY HEALTHY",
     "facts": [
-      "**Beets** are good for LIVER – the pigment betalain helps your liver flush out toxins and keeps bile flowing smoothly.",
-      "**Walnuts** are good for BRAIN – 5-6 halves/day supply ALA fats that support memory and slow mental fatigue.",
-      "**Oats** are good for HEART – 1 cup/day of beta-glucan fiber traps cholesterol before it clogs your arteries.",
-      "**Asparagus** are good for KIDNEYS – it acts as a natural diuretic, helping flush excess fluid and waste.",
-      "**Ginger** is good for GUT MOTILITY – 1 tsp/day speeds up stomach emptying so bloating and nausea fade faster.",
-      "**Turmeric** is good for JOINTS – curcumin calms inflammation around cartilage, easing everyday stiffness.",
-      "**Oranges** are good for SKIN – vitamin C fuels collagen production, keeping skin firm and wounds healing fast.",
-      "**Sunflower seeds** are good for LUNGS – 1 handful/day delivers vitamin E, shown to protect lung tissue from oxidative stress.",
-      "**Follow along** – for more daily food-to-organ pairings like this."
+      "**Overcooking broccoli** – Boiling it for more than 5 minutes leaches out most of the vitamin C into the water; steam it for 3-4 minutes instead.",
+      "**Draining and rinsing canned beans** – Skipping this step means you're eating extra sodium; a quick rinse cuts it by roughly 40%.",
+      "**Adding oil to a cold pan** – Letting oil sit on high heat before food goes in breaks it down into harmful compounds; add oil right before the food.",
+      "**Salting vegetables before roasting** – This draws water out too early and leaves you with soggy, steamed veggies instead of crispy ones.",
+      "**Using the same board for raw meat and veggies** – Even after wiping it down, cross-contamination risk stays high; always use separate boards.",
+      "**Storing olive oil near the stove** – Heat and light break it down fast, turning a heart-healthy fat rancid within weeks.",
+      "**Microwaving in the takeout container** – Many plastic containers aren't microwave-safe and can leach chemicals into your food when heated.",
+      "**Tossing the cooking water from vegetables** – That water often holds a good chunk of the nutrients that leached out; save it for soups or sauces.",
+      "**Cutting garlic and using it immediately** – This skips the time it needs to activate its beneficial compounds; let it rest 10 minutes after chopping.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these deserve extra attention because the mechanism is genuinely fascinating. Beets contain betalain pigments that don't just color your urine pink temporarily — they actually bind to toxins in the liver so it can process and remove them faster, taking real pressure off your body's main filter. Oats work through a fiber called beta-glucan, which turns gel-like in your stomach and physically traps cholesterol particles before they can be absorbed into your bloodstream. And ginger speeds up gastric emptying, meaning food moves through your stomach quicker instead of sitting there fermenting and causing that heavy, bloated feeling. Everyone's body responds a little differently, so pay attention to what actually helps you.\n\nAt @smarthealthfix we focus on nutrition, common health issues, the organs behind them, and the small daily habits that tie it all together. Our mission is to help you connect the dots between what you eat and how your body actually functions, one simple habit at a time.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Let's talk about a few of these in more detail. Broccoli loses so much of its vitamin C in boiling water because the vitamin is heat-sensitive and water-soluble — it literally dissolves out into the liquid you're pouring down the drain. Garlic is a sneaky one too: the moment you crush or chop it, an enzyme reaction starts that creates allicin, its main beneficial compound, but that reaction needs a few minutes of air exposure to fully develop before heat destroys it. And that cooking water you're tossing? It's not just flavorless waste — it carries dissolved minerals and vitamins that leached out during boiling, so reusing it in a soup base means you're not losing those nutrients after all. Of course, everyone's kitchen habits are different, so start with the swap that feels easiest.\n\nAt @smarthealthfix we cover nutrition, common health issues, the organs behind them, and the small daily habits that tie it all together. Our mission is to make healthy living feel doable, one small realistic change at a time instead of an all-or-nothing overhaul.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#healthtips",
+      "#healthyeating",
+      "#mealprep",
+      "#cookingtips",
       "#nutritionfacts",
-      "#organhealth",
-      "#gutrecovery",
-      "#liverdetox",
-      "#heartsmart",
-      "#brainfoods",
-      "#wellnessjourney",
-      "#foodismedicine",
-      "#healthyhabits"
+      "#kitchenhacks",
+      "#foodwaste",
+      "#wellnesstips",
+      "#healthyhabits",
+      "#nutritiontips",
+      "#cleaneating"
     ],
     "extra_keywords": [
-      "naturalhealing",
-      "holisticwellness",
-      "eatclean",
-      "bodyawareness"
+      "healthykitchen",
+      "cookingmistakes",
+      "nutritiontips",
+      "wellnessjourney"
     ]
   },
-  "shape": "allcaps_benefit",
-  "caption": "A few of these deserve extra attention because the mechanism is genuinely fascinating. Beets contain betalain pigments that don't just color your urine pink temporarily — they actually bind to toxins in the liver so it can process and remove them faster, taking real pressure off your body's main filter. Oats work through a fiber called beta-glucan, which turns gel-like in your stomach and physically traps cholesterol particles before they can be absorbed into your bloodstream. And ginger speeds up gastric emptying, meaning food moves through your stomach quicker instead of sitting there fermenting and causing that heavy, bloated feeling. Everyone's body responds a little differently, so pay attention to what actually helps you.\n\nAt @smarthealthfix we focus on nutrition, common health issues, the organs behind them, and the small daily habits that tie it all together. Our mission is to help you connect the dots between what you eat and how your body actually functions, one simple habit at a time.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #nutritionfacts #organhealth #gutrecovery #liverdetox #heartsmart #brainfoods #wellnessjourney #foodismedicine #healthyhabits naturalhealing holisticwellness eatclean bodyawareness"
+  "shape": "myth_bust",
+  "caption": "Let's talk about a few of these in more detail. Broccoli loses so much of its vitamin C in boiling water because the vitamin is heat-sensitive and water-soluble — it literally dissolves out into the liquid you're pouring down the drain. Garlic is a sneaky one too: the moment you crush or chop it, an enzyme reaction starts that creates allicin, its main beneficial compound, but that reaction needs a few minutes of air exposure to fully develop before heat destroys it. And that cooking water you're tossing? It's not just flavorless waste — it carries dissolved minerals and vitamins that leached out during boiling, so reusing it in a soup base means you're not losing those nutrients after all. Of course, everyone's kitchen habits are different, so start with the swap that feels easiest.\n\nAt @smarthealthfix we cover nutrition, common health issues, the organs behind them, and the small daily habits that tie it all together. Our mission is to make healthy living feel doable, one small realistic change at a time instead of an all-or-nothing overhaul.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthyeating #mealprep #cookingtips #nutritionfacts #kitchenhacks #foodwaste #wellnesstips #healthyhabits #nutritiontips #cleaneating healthykitchen cookingmistakes nutritiontips wellnessjourney"
 }
