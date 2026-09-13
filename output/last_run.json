@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20260913_180549.png",
-  "mp4": "output/reel_20260913_180549.mp4",
-  "cover": "output/cover_20260913_180549.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260913_220930.png",
+  "mp4": "output/reel_20260913_220930.mp4",
+  "cover": "output/cover_20260913_220930.png",
+  "cover_bg": "green",
   "content": {
-    "title": "SIGNS YOU'RE ACTUALLY LOW ON {{IODINE}} (NOT JUST TIRED)",
+    "title": "IF YOU ATE {{THIS}} EVERY DAY... HERE'S WHAT ACTUALLY HAPPENS",
     "facts": [
-      "**Neck swelling** – A subtle puffiness or tightness near your throat can signal your thyroid is straining without enough iodine to work with.",
-      "**Brain fog** – Feeling mentally slow or forgetful even after good sleep can point to low iodine, since your thyroid hormones help run your brain's energy use.",
-      "**Cold hands and feet** – Constantly feeling cold, even in a warm room, can mean your metabolism has slowed down from an underactive thyroid.",
-      "**Dry, flaky skin** – Skin that stays dry no matter how much lotion you use can be a quiet sign your thyroid hormone levels are off.",
-      "**Unexplained weight gain** – Slowly gaining weight without eating more can be your body's metabolism downshifting from an iodine shortfall.",
-      "**Hair thinning** – Hair that sheds more than usual, especially at the outer eyebrows, is a classic overlooked iodine-deficiency clue.",
-      "**Heavy, irregular periods** – Cycles that suddenly become heavier or unpredictable can be tied to thyroid hormone imbalance from low iodine.",
-      "**Fatigue that sleep doesn't fix** – Waking up tired even after 8 hours can mean your thyroid isn't getting what it needs to regulate your energy.",
+      "If you ate **fermented cabbage (sauerkraut)** every day for 2 weeks, your gut bacteria would diversify and bloating after meals would noticeably ease.",
+      "If you ate **2 Brazil nuts** every day for 30 days, your selenium stores would fill up and your nails would stop splitting so easily.",
+      "If you ate **1 cup of blueberries** every day for 3 weeks, your memory recall on small daily tasks would sharpen slightly.",
+      "If you drank **1 cup of hibiscus tea** every day for 2 weeks, your blood pressure would trend lower by the end of the month.",
+      "If you ate **a handful of pumpkin seeds** every day for 10 days, your sleep would deepen thanks to their natural magnesium content.",
+      "If you ate **1 tbsp of chia seeds** every day for 30 days, your bathroom habits would become far more regular from the fiber load.",
+      "If you ate **a small can of sardines** twice a week for a month, your joints would feel less stiff in the morning from the omega-3 boost.",
+      "If you ate **1 kiwi with the skin on** every day for 2 weeks, your vitamin C intake alone would jump past most multivitamins.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "If you're constantly cold, foggy-headed, or your hair seems thinner lately, it might not be stress or aging — it could be your iodine levels. Iodine is the raw material your thyroid uses to make hormones that control your metabolism, so even a mild shortage can slow everything down, from your energy to your body temperature. The neck swelling some people notice is actually your thyroid physically enlarging (a goiter) as it tries to work harder with less iodine to use. And that stubborn dry skin? It happens because thyroid hormone helps regulate skin cell turnover, so when levels dip, your skin renews itself more slowly and holds onto moisture less. Everyone's body responds differently, so it's worth paying attention to your own patterns rather than comparing to others.\n\nAt @smarthealthfix, we break down nutrition, common symptoms, organ health, and small daily habits that actually make a difference. Our goal is to help you notice what your body is telling you before small issues become bigger ones.\n\nSave this post so you don't lose it, and share it with someone who's been feeling 'off' lately.",
+    "caption": "Sauerkraut is doing more than adding crunch to your plate — the live bacteria in it help crowd out less helpful gut microbes, which is why regular eaters often notice less bloating within days. Blueberries work differently: their anthocyanins act as antioxidants that reduce oxidative stress in brain cells, which is part of why memory tasks feel a little easier over time. And chia seeds swell up in the gut, forming a gel that literally softens and bulks stool, which is why regularity often improves fast. Everyone's body is different, so start slow and listen to yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#iodine",
-      "#thyroidhealth",
-      "#nutrientdeficiency",
-      "#hormonebalance",
-      "#hairthinning",
-      "#fatiguerelief",
-      "#womenshealth",
-      "#wellnesstips",
-      "#healthawareness",
-      "#metabolismboost"
+      "#healthtips",
+      "#wellness",
+      "#guthealth",
+      "#nutritionfacts",
+      "#fermentedfoods",
+      "#brainhealth",
+      "#antiinflammatory",
+      "#healthyhabits",
+      "#foodismedicine",
+      "#dailyhabits"
     ],
     "extra_keywords": [
-      "thyroidsupport",
       "naturalhealing",
-      "nutrientgaps",
-      "energylevels"
+      "wellnessjourney",
+      "guttips",
+      "nutritiontips",
+      "healthyliving"
     ]
   },
-  "shape": "symptom_list",
-  "caption": "If you're constantly cold, foggy-headed, or your hair seems thinner lately, it might not be stress or aging — it could be your iodine levels. Iodine is the raw material your thyroid uses to make hormones that control your metabolism, so even a mild shortage can slow everything down, from your energy to your body temperature. The neck swelling some people notice is actually your thyroid physically enlarging (a goiter) as it tries to work harder with less iodine to use. And that stubborn dry skin? It happens because thyroid hormone helps regulate skin cell turnover, so when levels dip, your skin renews itself more slowly and holds onto moisture less. Everyone's body responds differently, so it's worth paying attention to your own patterns rather than comparing to others.\n\nAt @smarthealthfix, we break down nutrition, common symptoms, organ health, and small daily habits that actually make a difference. Our goal is to help you notice what your body is telling you before small issues become bigger ones.\n\nSave this post so you don't lose it, and share it with someone who's been feeling 'off' lately.\n\n#iodine #thyroidhealth #nutrientdeficiency #hormonebalance #hairthinning #fatiguerelief #womenshealth #wellnesstips #healthawareness #metabolismboost thyroidsupport naturalhealing nutrientgaps energylevels"
+  "shape": "conditional_transformation",
+  "caption": "Sauerkraut is doing more than adding crunch to your plate — the live bacteria in it help crowd out less helpful gut microbes, which is why regular eaters often notice less bloating within days. Blueberries work differently: their anthocyanins act as antioxidants that reduce oxidative stress in brain cells, which is part of why memory tasks feel a little easier over time. And chia seeds swell up in the gut, forming a gel that literally softens and bulks stool, which is why regularity often improves fast. Everyone's body is different, so start slow and listen to yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #nutritionfacts #fermentedfoods #brainhealth #antiinflammatory #healthyhabits #foodismedicine #dailyhabits naturalhealing wellnessjourney guttips nutritiontips healthyliving"
 }
