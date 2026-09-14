@@ -1,41 +1,41 @@
 {
-  "png": "output/reel_20260914_194933.png",
-  "mp4": "output/reel_20260914_194933.mp4",
-  "cover": "output/cover_20260914_194933.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260914_225836.png",
+  "mp4": "output/reel_20260914_225836.mp4",
+  "cover": "output/cover_20260914_225836.png",
+  "cover_bg": "white",
   "content": {
-    "title": "THE ORGAN CHEAT SHEET YOUR DOCTOR NEVER HANDS YOU",
+    "title": "TINY HABITS THAT QUIETLY {{FIX}} YOUR HEALTH",
     "facts": [
-      "**Bladder** - Cranberries, Watermelon, Celery",
-      "**Spleen** - Beets, Pomegranate, Leafy greens",
-      "**Thyroid** - Seaweed, Eggs, Yogurt",
-      "**Gallbladder** - Beetroot, Lemon water, Turmeric",
-      "**Joints** - Bone broth, Cherries, Walnuts",
-      "**Liver** - Beets, Grapefruit, Green tea",
-      "**Adrenal glands** - Oranges, Avocado, Sea salt (in moderation)",
-      "**Follow along** - for more organ-by-organ food guides like this."
+      "**Cold shower finish** – end your shower with 30 seconds of cold water and your circulation tightens up, leaving you noticeably more alert within minutes.",
+      "**Walk after eating** – a 10-minute walk right after a meal helps your muscles pull sugar out of your bloodstream, so you avoid the crash an hour later.",
+      "**Morning sunlight** – get 5-10 minutes of natural light in your eyes within an hour of waking, and your body clock resets, making it easier to fall asleep that night.",
+      "**Nasal breathing** – keep your mouth shut and breathe through your nose during light exercise, and you'll filter more oxygen efficiently while lowering stress hormones.",
+      "**Tongue scraping** – scrape your tongue each morning before brushing and you clear off the bacteria that causes bad breath and dulls your sense of taste.",
+      "**Feet up the wall** – lie with your legs propped against a wall for 5 minutes before bed, and pooled blood drains back out of your legs, easing swelling and calming your nervous system.",
+      "**Chew slower** – take 20+ chews per bite at dinner, and your stomach has time to signal fullness before you overeat.",
+      "**Follow along** – for more small habits like this that make a real difference."
     ],
     "claims": [],
-    "caption": "Your bladder actually depends on more than just water intake — cranberries contain compounds that make it harder for bacteria to cling to the bladder wall, which is why they're linked to fewer infections. Your spleen, an organ almost nobody talks about, filters old blood cells and relies on iron-rich foods like beets to keep producing fresh ones efficiently. And your thyroid needs iodine to make its hormones at all — seaweed is one of the few natural foods concentrated enough to meaningfully support that process. Of course, everyone's body is different, so listen to yours and talk to a doctor about your specific needs.\n\nAt @smarthealthfix, we break down nutrition, common symptoms, organ function, and small daily habits so you actually understand your body instead of just guessing. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "The cold shower finish is one of the easiest habits to steal — that 30-second blast of cold water triggers a rush of norepinephrine, which is why people swear it feels like a mental reset instead of just a physical one. Walking after eating works because your leg muscles act almost like a sponge for glucose, soaking it up without needing extra insulin, which is a big reason blood sugar spikes feel gentler. And nasal breathing might be the most underrated one here — breathing through your nose naturally slows your breath rate and boosts nitric oxide production, which relaxes blood vessels and helps oxygen actually reach your tissues instead of just moving air in and out. Everyone's body responds a little differently, so notice what actually changes for you.\n\nAt @smarthealthfix we focus on four things: nutrition, everyday health issues, how your organs actually work, and the small daily habits that tie it all together. Our goal isn't quick fixes — it's helping you build a handful of small routines that genuinely stick.\n\nSave this post so you don't lose it, and share it with someone who needs a few new habits this week.",
     "hashtags": [
-      "#organhealth",
-      "#bladderhealth",
-      "#thyroidsupport",
-      "#liverdetox",
-      "#spleen",
-      "#jointhealth",
-      "#adrenalfatigue",
-      "#nutritiontips",
       "#healthtips",
-      "#wellness"
+      "#dailyhabits",
+      "#wellness",
+      "#circulation",
+      "#bloodsugar",
+      "#morningroutine",
+      "#nervoussystem",
+      "#guthealth",
+      "#healthyhabits",
+      "#biohacking"
     ],
     "extra_keywords": [
-      "naturalhealing",
       "wellnessjourney",
-      "bodyawareness",
-      "healthyhabits"
+      "smallhabitsbigchanges",
+      "naturalhealing",
+      "healthyroutine"
     ]
   },
-  "shape": "organ_food_list",
-  "caption": "Your bladder actually depends on more than just water intake — cranberries contain compounds that make it harder for bacteria to cling to the bladder wall, which is why they're linked to fewer infections. Your spleen, an organ almost nobody talks about, filters old blood cells and relies on iron-rich foods like beets to keep producing fresh ones efficiently. And your thyroid needs iodine to make its hormones at all — seaweed is one of the few natural foods concentrated enough to meaningfully support that process. Of course, everyone's body is different, so listen to yours and talk to a doctor about your specific needs.\n\nAt @smarthealthfix, we break down nutrition, common symptoms, organ function, and small daily habits so you actually understand your body instead of just guessing. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #bladderhealth #thyroidsupport #liverdetox #spleen #jointhealth #adrenalfatigue #nutritiontips #healthtips #wellness naturalhealing wellnessjourney bodyawareness healthyhabits"
+  "shape": "numbered_explainer",
+  "caption": "The cold shower finish is one of the easiest habits to steal — that 30-second blast of cold water triggers a rush of norepinephrine, which is why people swear it feels like a mental reset instead of just a physical one. Walking after eating works because your leg muscles act almost like a sponge for glucose, soaking it up without needing extra insulin, which is a big reason blood sugar spikes feel gentler. And nasal breathing might be the most underrated one here — breathing through your nose naturally slows your breath rate and boosts nitric oxide production, which relaxes blood vessels and helps oxygen actually reach your tissues instead of just moving air in and out. Everyone's body responds a little differently, so notice what actually changes for you.\n\nAt @smarthealthfix we focus on four things: nutrition, everyday health issues, how your organs actually work, and the small daily habits that tie it all together. Our goal isn't quick fixes — it's helping you build a handful of small routines that genuinely stick.\n\nSave this post so you don't lose it, and share it with someone who needs a few new habits this week.\n\n#healthtips #dailyhabits #wellness #circulation #bloodsugar #morningroutine #nervoussystem #guthealth #healthyhabits #biohacking wellnessjourney smallhabitsbigchanges naturalhealing healthyroutine"
 }
