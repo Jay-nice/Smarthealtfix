@@ -1,43 +1,41 @@
 {
-  "png": "output/reel_20260914_161443.png",
-  "mp4": "output/reel_20260914_161443.mp4",
-  "cover": "output/cover_20260914_161443.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260914_194933.png",
+  "mp4": "output/reel_20260914_194933.mp4",
+  "cover": "output/cover_20260914_194933.png",
+  "cover_bg": "green",
   "content": {
-    "title": "FOOD FACTS THAT SOUND MADE UP BUT {{ARE 100% REAL}}",
+    "title": "THE ORGAN CHEAT SHEET YOUR DOCTOR NEVER HANDS YOU",
     "facts": [
-      "**Pineapple** actually eats you back — it contains bromelain, an enzyme so strong it breaks down proteins, which is why your tongue tingles after too much fresh pineapple.",
-      "**Cashews** never get sold in their shell — the shell contains a resin so caustic it's related to poison ivy, so it's removed and destroyed before cashews ever reach a store.",
-      "**Nutmeg** in large enough doses is a legitimate hallucinogen — historical sailors and prisoners have used it to get high, and just 2 whole nutmegs can cause real toxicity.",
-      "**Rhubarb** stalks are a common dessert ingredient, but its leaves contain enough oxalic acid to be genuinely poisonous if eaten in quantity.",
-      "**Carrots** were originally purple, not orange — the orange variety we eat today was selectively bred in the Netherlands centuries later.",
-      "**Cheese** can be legally aged for over a decade — some Parmigiano-Reggiano wheels are matured for 10+ years and are still perfectly safe to eat.",
-      "**Almonds** are technically not a nut at all — they're the seed found inside a fruit that looks similar to a peach.",
-      "**Chocolate** was used as currency by the Aztecs — cacao beans were valuable enough to literally buy goods and pay taxes with.",
-      "**Follow along** – for more surprising, fact-checked nutrition truths like this."
+      "**Bladder** - Cranberries, Watermelon, Celery",
+      "**Spleen** - Beets, Pomegranate, Leafy greens",
+      "**Thyroid** - Seaweed, Eggs, Yogurt",
+      "**Gallbladder** - Beetroot, Lemon water, Turmeric",
+      "**Joints** - Bone broth, Cherries, Walnuts",
+      "**Liver** - Beets, Grapefruit, Green tea",
+      "**Adrenal glands** - Oranges, Avocado, Sea salt (in moderation)",
+      "**Follow along** - for more organ-by-organ food guides like this."
     ],
     "claims": [],
-    "caption": "The pineapple fact throws people every time — bromelain doesn't just sit there, it actively digests the proteins in your mouth's soft tissue, which is why eating a lot of fresh pineapple can leave your tongue feeling raw or tingly within minutes. Cashews are wild too: the shell contains urushiol, the exact same irritant compound found in poison ivy, which is why raw cashews-in-shell are never sold to consumers and are always steamed or roasted first to neutralize it. And nutmeg sounds harmless sitting in your spice rack, but it contains myristicin, a compound your liver converts into something with amphetamine-like effects at high doses — which is exactly why more than a teaspoon or two is considered unsafe. Everyone's tolerance and body chemistry is different, so this isn't a reason to fear your spice cabinet, just to respect it.\n\nAt @smarthealthfix, we dig into nutrition, common symptoms, organ health, and the small daily habits that actually move the needle. Our mission is to make science-backed health info feel simple and a little bit fascinating, not overwhelming.\n\nSave this post so you don't lose it, and share it with someone who loves a good \"wait, that's actually true?\" fact.",
+    "caption": "Your bladder actually depends on more than just water intake — cranberries contain compounds that make it harder for bacteria to cling to the bladder wall, which is why they're linked to fewer infections. Your spleen, an organ almost nobody talks about, filters old blood cells and relies on iron-rich foods like beets to keep producing fresh ones efficiently. And your thyroid needs iodine to make its hormones at all — seaweed is one of the few natural foods concentrated enough to meaningfully support that process. Of course, everyone's body is different, so listen to yours and talk to a doctor about your specific needs.\n\nAt @smarthealthfix, we break down nutrition, common symptoms, organ function, and small daily habits so you actually understand your body instead of just guessing. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#foodfacts",
-      "#nutritionfacts",
-      "#healthtips",
-      "#didyouknow",
-      "#wellness",
-      "#foodscience",
-      "#healthyeating",
-      "#surprisingfacts",
+      "#organhealth",
+      "#bladderhealth",
+      "#thyroidsupport",
+      "#liverdetox",
+      "#spleen",
+      "#jointhealth",
+      "#adrenalfatigue",
       "#nutritiontips",
-      "#eatsmart"
+      "#healthtips",
+      "#wellness"
     ],
     "extra_keywords": [
-      "foodtrivia",
-      "nutritionmyths",
+      "naturalhealing",
       "wellnessjourney",
-      "healthyhabits",
-      "sciencefacts"
+      "bodyawareness",
+      "healthyhabits"
     ]
   },
-  "shape": "surprising_true_fact",
-  "caption": "The pineapple fact throws people every time — bromelain doesn't just sit there, it actively digests the proteins in your mouth's soft tissue, which is why eating a lot of fresh pineapple can leave your tongue feeling raw or tingly within minutes. Cashews are wild too: the shell contains urushiol, the exact same irritant compound found in poison ivy, which is why raw cashews-in-shell are never sold to consumers and are always steamed or roasted first to neutralize it. And nutmeg sounds harmless sitting in your spice rack, but it contains myristicin, a compound your liver converts into something with amphetamine-like effects at high doses — which is exactly why more than a teaspoon or two is considered unsafe. Everyone's tolerance and body chemistry is different, so this isn't a reason to fear your spice cabinet, just to respect it.\n\nAt @smarthealthfix, we dig into nutrition, common symptoms, organ health, and the small daily habits that actually move the needle. Our mission is to make science-backed health info feel simple and a little bit fascinating, not overwhelming.\n\nSave this post so you don't lose it, and share it with someone who loves a good \"wait, that's actually true?\" fact.\n\n#foodfacts #nutritionfacts #healthtips #didyouknow #wellness #foodscience #healthyeating #surprisingfacts #nutritiontips #eatsmart foodtrivia nutritionmyths wellnessjourney healthyhabits sciencefacts"
+  "shape": "organ_food_list",
+  "caption": "Your bladder actually depends on more than just water intake — cranberries contain compounds that make it harder for bacteria to cling to the bladder wall, which is why they're linked to fewer infections. Your spleen, an organ almost nobody talks about, filters old blood cells and relies on iron-rich foods like beets to keep producing fresh ones efficiently. And your thyroid needs iodine to make its hormones at all — seaweed is one of the few natural foods concentrated enough to meaningfully support that process. Of course, everyone's body is different, so listen to yours and talk to a doctor about your specific needs.\n\nAt @smarthealthfix, we break down nutrition, common symptoms, organ function, and small daily habits so you actually understand your body instead of just guessing. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #bladderhealth #thyroidsupport #liverdetox #spleen #jointhealth #adrenalfatigue #nutritiontips #healthtips #wellness naturalhealing wellnessjourney bodyawareness healthyhabits"
 }
