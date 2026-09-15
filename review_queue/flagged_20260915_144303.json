@@ -1,0 +1,191 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "GROCERY STORE NUTRIENT SWAPS {{NOBODY}} TELLS YOU ABOUT",
+    "facts": [
+      "**Guava** has nearly four times more vitamin C than an orange, yet almost nobody buys it.",
+      "**Swiss chard** carries more magnesium per cup than a serving of spinach, and it's usually cheaper.",
+      "**Dried apricots** pack more potassium than a banana, gram for gram, once you dry them out.",
+      "**Lentils** hold more iron per cup than a beef burger patty, without the saturated fat.",
+      "**Parsnips** contain more fiber than a slice of whole wheat bread, hiding in a boring root veggie.",
+      "**Kale** delivers more vitamin K in one cup than a week's worth of most people's diets combined.",
+      "**Oysters** contain more zinc in a single serving than a whole day's worth of red meat.",
+      "**Mushrooms left in sunlight** for 30 minutes can build up more vitamin D than a glass of fortified milk.",
+      "**Sesame seeds** hold more calcium per tablespoon than a splash of milk in your coffee.",
+      "**Mustard seeds** carry more selenium than a can of tuna, ounce for ounce.",
+      "**Walnuts** contain more omega-3 (ALA) per handful than a serving of salmon, plant-based and all.",
+      "**Follow along** – for more daily health tips like this."
+    ],
+    "claims": [
+      {
+        "food_a": "Guava",
+        "food_b": "Orange",
+        "nutrient_key": "vitamin_c"
+      },
+      {
+        "food_a": "Swiss chard",
+        "food_b": "Spinach",
+        "nutrient_key": "magnesium"
+      },
+      {
+        "food_a": "Dried apricots",
+        "food_b": "Banana",
+        "nutrient_key": "potassium"
+      },
+      {
+        "food_a": "Lentils",
+        "food_b": "Beef burger patty",
+        "nutrient_key": "iron"
+      },
+      {
+        "food_a": "Parsnips",
+        "food_b": "Whole wheat bread",
+        "nutrient_key": "fiber"
+      },
+      {
+        "food_a": "Kale",
+        "food_b": "Average daily intake",
+        "nutrient_key": "vitamin_k"
+      },
+      {
+        "food_a": "Oysters",
+        "food_b": "Red meat",
+        "nutrient_key": "zinc"
+      },
+      {
+        "food_a": "Sun-exposed mushrooms",
+        "food_b": "Fortified milk",
+        "nutrient_key": "vitamin_d"
+      },
+      {
+        "food_a": "Sesame seeds",
+        "food_b": "Milk",
+        "nutrient_key": "calcium"
+      },
+      {
+        "food_a": "Mustard seeds",
+        "food_b": "Tuna",
+        "nutrient_key": "selenium"
+      },
+      {
+        "food_a": "Walnuts",
+        "food_b": "Salmon",
+        "nutrient_key": "omega3_ala"
+      }
+    ],
+    "caption": "A few of these swaps are wild once you actually look at the numbers. Guava is the biggest surprise here — it's not just \"high in vitamin C,\" it's loaded with it because the edible skin and seeds hold most of the concentration, something an orange's peel-and-toss setup can't match. Swiss chard's magnesium works differently too: it's tied to chlorophyll production in the leaf, so the darker and more mineral-rich the soil, the more it packs in per bite. And lentils beating a burger patty on iron matters more than it seems — plant iron (non-heme) absorbs slower, but pairing lentils with a squeeze of lemon or tomato boosts absorption significantly, something most people never think to do. Everyone's body and needs are different, so listen to yours before overhauling your plate.\n\n@smarthealthfix is all about the small, overlooked stuff — nutrition swaps, common symptoms, how your organs actually function, and tiny daily habits that add up. Our mission is to help you get more out of ordinary meals instead of chasing expensive supplements or trends.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "hashtags": [
+      "#nutritionfacts",
+      "#healthtips",
+      "#wellness",
+      "#micronutrients",
+      "#vitaminc",
+      "#magnesium",
+      "#plantbasednutrition",
+      "#ironrich",
+      "#healthyeating",
+      "#foodfacts",
+      "#guthealth"
+    ],
+    "extra_keywords": [
+      "nutrientdense",
+      "wellnessjourney",
+      "eatthisnotthat",
+      "hiddennutrients",
+      "foodswaps"
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 11,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "Guava",
+          "food_b": "Orange",
+          "nutrient_key": "vitamin_c"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Swiss chard",
+          "food_b": "Spinach",
+          "nutrient_key": "magnesium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Dried apricots",
+          "food_b": "Banana",
+          "nutrient_key": "potassium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Sesame seeds",
+          "food_b": "Milk",
+          "nutrient_key": "calcium"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "Sesame seeds",
+          "food_b": "Milk",
+          "nutrient": "calcium",
+          "amount_a": {
+            "amount": 60,
+            "unit": "MG",
+            "food_description": "Sesame seeds",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 127,
+            "unit": "MG",
+            "food_description": "MILK",
+            "per": "100g"
+          },
+          "ratio": 0.47
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Mustard seeds",
+          "food_b": "Tuna",
+          "nutrient_key": "selenium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Walnuts",
+          "food_b": "Salmon",
+          "nutrient_key": "omega3_ala"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      }
+    ]
+  }
+}
