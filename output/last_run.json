@@ -1,41 +1,42 @@
 {
-  "png": "output/reel_20260914_225836.png",
-  "mp4": "output/reel_20260914_225836.mp4",
-  "cover": "output/cover_20260914_225836.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260915_185430.png",
+  "mp4": "output/reel_20260915_185430.mp4",
+  "cover": "output/cover_20260915_185430.png",
+  "cover_bg": "green",
   "content": {
-    "title": "TINY HABITS THAT QUIETLY {{FIX}} YOUR HEALTH",
+    "title": "THE REAL REASON YOUR {{BLOATING}} WON'T GO AWAY",
     "facts": [
-      "**Cold shower finish** – end your shower with 30 seconds of cold water and your circulation tightens up, leaving you noticeably more alert within minutes.",
-      "**Walk after eating** – a 10-minute walk right after a meal helps your muscles pull sugar out of your bloodstream, so you avoid the crash an hour later.",
-      "**Morning sunlight** – get 5-10 minutes of natural light in your eyes within an hour of waking, and your body clock resets, making it easier to fall asleep that night.",
-      "**Nasal breathing** – keep your mouth shut and breathe through your nose during light exercise, and you'll filter more oxygen efficiently while lowering stress hormones.",
-      "**Tongue scraping** – scrape your tongue each morning before brushing and you clear off the bacteria that causes bad breath and dulls your sense of taste.",
-      "**Feet up the wall** – lie with your legs propped against a wall for 5 minutes before bed, and pooled blood drains back out of your legs, easing swelling and calming your nervous system.",
-      "**Chew slower** – take 20+ chews per bite at dinner, and your stomach has time to signal fullness before you overeat.",
-      "**Follow along** – for more small habits like this that make a real difference."
+      "**Fennel seeds** – chew 1 tsp after meals, they relax gut muscles and let trapped gas move through faster.",
+      "**Peppermint tea** – 1 cup after dinner calms the intestinal spasms behind that tight, swollen feeling.",
+      "**Papaya** – contains papain, an enzyme that breaks down protein your stomach struggles to fully digest.",
+      "**Cucumber water** – sip through the day to flush excess sodium that makes you puff up and retain water.",
+      "**Asparagus** – acts as a natural diuretic, easing the heavy feeling that comes from water retention.",
+      "**Ginger slices** – steep 3-4 slices in hot water, it speeds up stomach emptying so food doesn't sit and ferment.",
+      "**Buttermilk** – 1 glass after a heavy meal supplies probiotics that outcompete gas-producing bacteria.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "The cold shower finish is one of the easiest habits to steal — that 30-second blast of cold water triggers a rush of norepinephrine, which is why people swear it feels like a mental reset instead of just a physical one. Walking after eating works because your leg muscles act almost like a sponge for glucose, soaking it up without needing extra insulin, which is a big reason blood sugar spikes feel gentler. And nasal breathing might be the most underrated one here — breathing through your nose naturally slows your breath rate and boosts nitric oxide production, which relaxes blood vessels and helps oxygen actually reach your tissues instead of just moving air in and out. Everyone's body responds a little differently, so notice what actually changes for you.\n\nAt @smarthealthfix we focus on four things: nutrition, everyday health issues, how your organs actually work, and the small daily habits that tie it all together. Our goal isn't quick fixes — it's helping you build a handful of small routines that genuinely stick.\n\nSave this post so you don't lose it, and share it with someone who needs a few new habits this week.",
+    "caption": "Bloating rarely means something is seriously wrong, it usually means your gut needs a little help moving things along. Fennel seeds work because their natural oils relax the smooth muscle lining your intestines, so gas pockets stop getting stuck and painfully stretching your belly. Papaya is another underrated fix — the papain enzyme it contains actually finishes the protein-breakdown job your stomach acid didn't complete, which means less undigested food sitting around fermenting and producing gas. And ginger speeds up gastric emptying, so meals don't linger in your stomach longer than they should. Everyone's gut reacts a little differently, so pay attention to what actually calms yours down.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and the small daily habits that quietly shape how you feel. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that never last.\n\nSave this post so you don't lose it, and share it with someone who deals with bloating all the time.",
     "hashtags": [
-      "#healthtips",
-      "#dailyhabits",
-      "#wellness",
-      "#circulation",
-      "#bloodsugar",
-      "#morningroutine",
-      "#nervoussystem",
+      "#bloatingrelief",
       "#guthealth",
-      "#healthyhabits",
-      "#biohacking"
+      "#digestivehealth",
+      "#healthtips",
+      "#wellness",
+      "#fennel",
+      "#ginger",
+      "#nutritiontips",
+      "#stomachissues",
+      "#healthyliving"
     ],
     "extra_keywords": [
-      "wellnessjourney",
-      "smallhabitsbigchanges",
-      "naturalhealing",
-      "healthyroutine"
+      "guttips",
+      "bloatingtips",
+      "digestivehealthjourney",
+      "naturalremedies",
+      "wellnessjourney"
     ]
   },
-  "shape": "numbered_explainer",
-  "caption": "The cold shower finish is one of the easiest habits to steal — that 30-second blast of cold water triggers a rush of norepinephrine, which is why people swear it feels like a mental reset instead of just a physical one. Walking after eating works because your leg muscles act almost like a sponge for glucose, soaking it up without needing extra insulin, which is a big reason blood sugar spikes feel gentler. And nasal breathing might be the most underrated one here — breathing through your nose naturally slows your breath rate and boosts nitric oxide production, which relaxes blood vessels and helps oxygen actually reach your tissues instead of just moving air in and out. Everyone's body responds a little differently, so notice what actually changes for you.\n\nAt @smarthealthfix we focus on four things: nutrition, everyday health issues, how your organs actually work, and the small daily habits that tie it all together. Our goal isn't quick fixes — it's helping you build a handful of small routines that genuinely stick.\n\nSave this post so you don't lose it, and share it with someone who needs a few new habits this week.\n\n#healthtips #dailyhabits #wellness #circulation #bloodsugar #morningroutine #nervoussystem #guthealth #healthyhabits #biohacking wellnessjourney smallhabitsbigchanges naturalhealing healthyroutine"
+  "shape": "problem_food_mapping",
+  "caption": "Bloating rarely means something is seriously wrong, it usually means your gut needs a little help moving things along. Fennel seeds work because their natural oils relax the smooth muscle lining your intestines, so gas pockets stop getting stuck and painfully stretching your belly. Papaya is another underrated fix — the papain enzyme it contains actually finishes the protein-breakdown job your stomach acid didn't complete, which means less undigested food sitting around fermenting and producing gas. And ginger speeds up gastric emptying, so meals don't linger in your stomach longer than they should. Everyone's gut reacts a little differently, so pay attention to what actually calms yours down.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and the small daily habits that quietly shape how you feel. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that never last.\n\nSave this post so you don't lose it, and share it with someone who deals with bloating all the time.\n\n#bloatingrelief #guthealth #digestivehealth #healthtips #wellness #fennel #ginger #nutritiontips #stomachissues #healthyliving guttips bloatingtips digestivehealthjourney naturalremedies wellnessjourney"
 }
