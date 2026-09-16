@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20260916_185057.png",
-  "mp4": "output/reel_20260916_185057.mp4",
-  "cover": "output/cover_20260916_185057.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260916_224049.png",
+  "mp4": "output/reel_20260916_224049.mp4",
+  "cover": "output/cover_20260916_224049.png",
+  "cover_bg": "green",
   "content": {
-    "title": "FOODS FOR ORGANS {{NOBODY}} EVER TALKS ABOUT",
+    "title": "IF YOU ATE {{THIS}} EVERY DAY... YOUR BODY WOULD CHANGE FASTER THAN YOU THINK",
     "facts": [
-      "**Beets** are good for BLOOD VESSELS – the nitrates relax and widen them, helping blood flow easier so your heart doesn't have to work as hard.",
-      "**Sardines** are good for BONE MARROW – tiny edible bones deliver calcium and vitamin D right where new blood cells are made.",
-      "**Pumpkin seeds** are good for the BLADDER – 1 oz/day gives you magnesium and zinc that support normal bladder muscle function.",
-      "**Blueberries** are good for the HIPPOCAMPUS – compounds called anthocyanins cross into brain tissue and support memory-related regions.",
-      "**Oats** are good for the GUT LINING – the beta-glucan fiber forms a gel that feeds the mucus layer protecting your intestinal wall.",
-      "**Walnuts** are good for the RETINA – 1 small handful/day supplies omega-3s that are structural fats found in the eye's light-sensing cells.",
-      "**Dark chocolate (70%+)** is good for the INNER EAR – flavanols support tiny blood vessels that feed the structures responsible for balance.",
-      "**Lentils** are good for the SPLEEN – slow-releasing iron helps replenish red blood cells that the spleen filters daily.",
+      "If you ate **beetroot leaves** (the whole beet, greens included) every day for 2 weeks, your leg cramps would ease and your workout endurance would climb — the nitrates and iron team up to move oxygen more efficiently.",
+      "If you ate **kimchi** every day for 3 weeks, your bloating would fade and your bathroom habits would become more regular as its live bacteria recolonize your gut.",
+      "If you ate **liver** (just 1 small serving/week) for 30 days, your energy would stop crashing by 3pm — it's one of the densest natural sources of B12 and iron on the planet.",
+      "If you ate **brazil nuts** (2 per day) for 1 week, your thyroid would get a selenium boost that helps regulate your metabolism and mood.",
+      "If you ate **kefir** every day for 2 weeks, your skin would look calmer and less inflamed as your gut bacteria diversity improves.",
+      "If you ate **mackerel** (2x/week) for 30 days, your joints would feel less stiff in the morning thanks to its heavy omega-3 load.",
+      "If you ate **chia seeds** (1 tbsp/day) for 10 days, your afternoon energy slumps would smooth out as they slow down sugar absorption.",
+      "If you ate **sauerkraut** every day for 3 weeks, your digestion would speed up and food would stop sitting heavy in your stomach.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Some of the most useful foods never get mentioned because the organs they support don't get much airtime. Beets deserve more credit than they get — the nitrates they contain get converted into nitric oxide in your body, which is the same molecule your blood vessels use to signal 'relax and open up,' easing overall circulation. Pumpkin seeds are another quiet hero: the magnesium and zinc inside them play a role in how nerve signals fire to your bladder muscle, which is part of why they're often mentioned for urinary comfort. And walnuts are worth a second look too — the omega-3 fat they provide (called ALA) gets incorporated into cell membranes in the retina, the part of your eye that actually processes light into images. Everyone's body is different, so treat these as gentle additions, not fixes.\n\n@smarthealthfix is all about connecting the dots between nutrition, everyday symptoms, your organs, and the small daily habits that quietly shape how you feel. Our mission is to make it easier to build sustainable habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of today's picks deserve a deeper look. Beetroot greens are often thrown away, but they're packed with iron and nitrates — the nitrates convert into nitric oxide in your blood, which relaxes vessels and lets oxygen reach your muscles faster, which is exactly why cramping eases. Kimchi works differently: it's fermented, so it's loaded with live bacteria strains that physically repopulate your gut lining, crowding out the bacteria that cause bloating and gas. And kefir isn't just \"yogurt's cousin\" — its bacterial diversity is actually higher than most yogurts, which is why it tends to calm skin inflammation faster. Everyone's gut and body chemistry is different, so give it a few weeks and listen to how yours responds.\n\n@smarthealthfix breaks down nutrition, common health issues, organ function, and small daily habits in simple, practical terms. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#organhealth",
-      "#nutritiontips",
-      "#eyehealth",
-      "#gutlining",
-      "#brainfood",
-      "#hearthealth",
-      "#bladderhealth",
-      "#healthyeating",
-      "#wellnesstips",
-      "#nutritionfacts"
+      "#healthtips",
+      "#wellness",
+      "#guthealth",
+      "#fermentedfoods",
+      "#nutritionfacts",
+      "#kimchi",
+      "#kefir",
+      "#antiinflammatory",
+      "#healthyhabits",
+      "#foodismedicine"
     ],
     "extra_keywords": [
       "naturalhealing",
-      "foodismedicine",
       "wellnessjourney",
-      "healthyhabits"
+      "guttips",
+      "eatwell",
+      "healingfoods"
     ]
   },
-  "shape": "allcaps_benefit",
-  "caption": "Some of the most useful foods never get mentioned because the organs they support don't get much airtime. Beets deserve more credit than they get — the nitrates they contain get converted into nitric oxide in your body, which is the same molecule your blood vessels use to signal 'relax and open up,' easing overall circulation. Pumpkin seeds are another quiet hero: the magnesium and zinc inside them play a role in how nerve signals fire to your bladder muscle, which is part of why they're often mentioned for urinary comfort. And walnuts are worth a second look too — the omega-3 fat they provide (called ALA) gets incorporated into cell membranes in the retina, the part of your eye that actually processes light into images. Everyone's body is different, so treat these as gentle additions, not fixes.\n\n@smarthealthfix is all about connecting the dots between nutrition, everyday symptoms, your organs, and the small daily habits that quietly shape how you feel. Our mission is to make it easier to build sustainable habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #nutritiontips #eyehealth #gutlining #brainfood #hearthealth #bladderhealth #healthyeating #wellnesstips #nutritionfacts naturalhealing foodismedicine wellnessjourney healthyhabits"
+  "shape": "conditional_transformation",
+  "caption": "A few of today's picks deserve a deeper look. Beetroot greens are often thrown away, but they're packed with iron and nitrates — the nitrates convert into nitric oxide in your blood, which relaxes vessels and lets oxygen reach your muscles faster, which is exactly why cramping eases. Kimchi works differently: it's fermented, so it's loaded with live bacteria strains that physically repopulate your gut lining, crowding out the bacteria that cause bloating and gas. And kefir isn't just \"yogurt's cousin\" — its bacterial diversity is actually higher than most yogurts, which is why it tends to calm skin inflammation faster. Everyone's gut and body chemistry is different, so give it a few weeks and listen to how yours responds.\n\n@smarthealthfix breaks down nutrition, common health issues, organ function, and small daily habits in simple, practical terms. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #fermentedfoods #nutritionfacts #kimchi #kefir #antiinflammatory #healthyhabits #foodismedicine naturalhealing wellnessjourney guttips eatwell healingfoods"
 }
