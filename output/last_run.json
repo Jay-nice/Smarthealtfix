@@ -1,41 +1,43 @@
 {
-  "png": "output/reel_20260917_144626.png",
-  "mp4": "output/reel_20260917_144626.mp4",
-  "cover": "output/cover_20260917_144626.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260917_185734.png",
+  "mp4": "output/reel_20260917_185734.mp4",
+  "cover": "output/cover_20260917_185734.png",
+  "cover_bg": "green",
   "content": {
-    "title": "DO THIS FOR 60 SECONDS AND YOUR {{BODY}} REACTS INSTANTLY",
+    "title": "COOKING MISTAKES THAT QUIETLY DRAIN THE NUTRIENTS FROM YOUR MEALS",
     "facts": [
-      "**Cold water on your wrists** for 30 seconds when you're overheated or anxious — it cools the blood near the surface fast and calms your nervous system almost instantly.",
-      "**Humming for 1 minute** before a stressful moment — it stimulates the vagus nerve and slows your heart rate down within seconds.",
-      "**Pressing your tongue to the roof of your mouth** while breathing through your nose for 2 minutes — it naturally slows your breathing rate and lowers tension in your jaw and neck.",
-      "**Rubbing your earlobes** for 30 seconds — there are pressure points here tied to relaxation, and it's an old trick to quiet a racing mind.",
-      "**Standing up and swinging your arms** for 1 minute every hour — it pushes blood back up from your legs and prevents the afternoon energy crash.",
-      "**Chewing on one side** for a few bites at each meal — it evens out jaw muscle use and can ease tension headaches over time.",
-      "**Blinking slowly 10 times** after screen time — it re-spreads tear film and resets dry, strained eyes in under a minute.",
+      "**Boiling broccoli** – Up to half its vitamin C can leach into the water; steaming for 4-5 minutes keeps far more intact.",
+      "**Draining canned beans and tossing the liquid** – That aquafaba holds potassium and soluble fiber; rinse gently instead of dumping it all out.",
+      "**Adding olive oil at the very start of cooking** – High heat breaks down its polyphenols fast; drizzle raw oil on at the end for the most benefit.",
+      "**Peeling potatoes before boiling** – Most of the fiber and a chunk of the vitamin C sit right under the skin; cook them unpeeled when you can.",
+      "**Microwaving vegetables in a lot of water** – It behaves like boiling and washes out nutrients; use a splash of water and a covered dish instead.",
+      "**Chopping vegetables long before cooking** – Cut surfaces exposed to air for hours lose vitamin C through oxidation; prep closer to cooking time.",
+      "**Overcooking eggs until the yolk turns grey-green** – That's oxidized iron and sulfur; a softer yolk keeps more choline and B-vitamins usable.",
+      "**Salting meat right before it hits a hot pan** – It draws out moisture too fast and dries the protein; salt right before cooking or well in advance, not in between.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Small physical resets can shift how your body feels almost immediately. Take humming — it's not just a random calming trick, it actually vibrates the vagus nerve, which runs from your brain to your gut and controls your 'rest and digest' response, so your heart rate drops within moments. The tongue press works differently: keeping your tongue on the roof of your mouth forces nasal breathing, which naturally slows your breath count per minute and lowers cortisol release compared to fast mouth breathing. And that cold water on your wrists trick works because your wrists have blood vessels close to the skin, so cooling them there cools your whole bloodstream faster than almost anywhere else on your body. Everyone responds a little differently, so notice which ones actually calm you down.\n\n@smarthealthfix is all about the small stuff — nutrition, common health issues, organs and body functions, and the tiny daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few small kitchen habits change how much nutrition actually makes it onto your plate. With broccoli, vitamin C is water-soluble, so the longer it sits submerged in boiling water, the more of it dissolves out and gets poured down the drain. With olive oil, its polyphenols and some of its healthy fat structure start to degrade at high heat, so cooking it low or adding it raw at the end preserves more of what makes it 'healthy' in the first place. And with potatoes, the skin acts like a nutrient barrier — peeling it off before cooking removes fiber and vitamin C that would otherwise stay locked in during boiling. Everyone's kitchen habits are a little different, so start with the swap that feels easiest for you.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#healthtips",
+      "#healthyeating",
+      "#nutritiontips",
+      "#cookingtips",
+      "#foodfacts",
+      "#mealprep",
       "#wellness",
-      "#nervoussystem",
-      "#stressrelief",
-      "#biohacking",
-      "#vagusnerve",
-      "#dailyhabits",
-      "#selfcaretips",
-      "#calmyourmind",
-      "#bodyhacks"
+      "#healthtips",
+      "#nutrientdense",
+      "#kitchenhacks",
+      "#eatsmart"
     ],
     "extra_keywords": [
-      "naturalhealing",
+      "healthyhabits",
+      "nutritionfacts",
+      "cookingmistakes",
       "wellnessjourney",
-      "quickresets",
-      "mindbodyconnection"
+      "foodprep"
     ]
   },
-  "shape": "numbered_explainer",
-  "caption": "Small physical resets can shift how your body feels almost immediately. Take humming — it's not just a random calming trick, it actually vibrates the vagus nerve, which runs from your brain to your gut and controls your 'rest and digest' response, so your heart rate drops within moments. The tongue press works differently: keeping your tongue on the roof of your mouth forces nasal breathing, which naturally slows your breath count per minute and lowers cortisol release compared to fast mouth breathing. And that cold water on your wrists trick works because your wrists have blood vessels close to the skin, so cooling them there cools your whole bloodstream faster than almost anywhere else on your body. Everyone responds a little differently, so notice which ones actually calm you down.\n\n@smarthealthfix is all about the small stuff — nutrition, common health issues, organs and body functions, and the tiny daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #nervoussystem #stressrelief #biohacking #vagusnerve #dailyhabits #selfcaretips #calmyourmind #bodyhacks naturalhealing wellnessjourney quickresets mindbodyconnection"
+  "shape": "myth_bust",
+  "caption": "A few small kitchen habits change how much nutrition actually makes it onto your plate. With broccoli, vitamin C is water-soluble, so the longer it sits submerged in boiling water, the more of it dissolves out and gets poured down the drain. With olive oil, its polyphenols and some of its healthy fat structure start to degrade at high heat, so cooking it low or adding it raw at the end preserves more of what makes it 'healthy' in the first place. And with potatoes, the skin acts like a nutrient barrier — peeling it off before cooking removes fiber and vitamin C that would otherwise stay locked in during boiling. Everyone's kitchen habits are a little different, so start with the swap that feels easiest for you.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthyeating #nutritiontips #cookingtips #foodfacts #mealprep #wellness #healthtips #nutrientdense #kitchenhacks #eatsmart healthyhabits nutritionfacts cookingmistakes wellnessjourney foodprep"
 }
