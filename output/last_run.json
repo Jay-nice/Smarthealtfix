@@ -1,45 +1,43 @@
 {
-  "png": "output/reel_20260917_224220.png",
-  "mp4": "output/reel_20260917_224220.mp4",
-  "cover": "output/cover_20260917_224220.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260918_141358.png",
+  "mp4": "output/reel_20260918_141358.mp4",
+  "cover": "output/cover_20260918_141358.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE MINERAL YOUR {{THYROID}} IS BEGGING YOU FOR",
+    "title": "KITCHEN MISTAKES THAT ARE QUIETLY MAKING YOUR {{FOOD}} DANGEROUS",
     "facts": [
-      "**Iodine** (Thyroid Fuel) — Cod | Seaweed/Nori | Shrimp | Eggs",
-      "Without enough iodine your thyroid can't make the hormones that set your metabolism speed, so energy and body temperature quietly drop.",
-      "**Manganese** (Bone Builder) — Mussels | Pineapple | Oats | Pecans",
-      "Manganese activates the enzymes that stitch together the collagen framework inside bone and cartilage, so joints stay cushioned.",
-      "**Copper** (Iron's Partner) — Oysters | Cashews | Shiitake Mushrooms | Dark Turkey Meat",
-      "Copper helps your body actually absorb and use iron, meaning low copper can leave you feeling drained even if your iron intake looks fine.",
-      "**Selenium** (Cell Shield) — Brazil Nuts (1-2/day) | Tuna | Turkey | Eggs",
-      "Selenium powers an antioxidant enzyme that protects your cells from daily wear and tear, especially in the thyroid itself.",
-      "**Chromium** (Blood Sugar Helper) — Broccoli | Green Beans | Turkey Breast | Grapes",
-      "Chromium helps insulin do its job more efficiently, which can smooth out energy crashes after meals.",
-      "**Follow along** – for more daily health tips like this."
+      "**Melon** – Leaving a cut cantaloupe out on the counter for hours (bacteria like Listeria can multiply fast on the moist, sugary flesh).",
+      "**Chicken** – Rinsing raw chicken in the sink before cooking (splashes spread Salmonella/Campylobacter onto counters and dishes).",
+      "**Rice** – Cooling a big pot of rice slowly on the stove instead of the fridge (Bacillus cereus spores survive cooking and multiply as it cools).",
+      "**Potatoes** – Storing them near onions or in a sunny spot until they turn green (green skin signals rising solanine, a natural toxin).",
+      "**Leafy greens** – Washing lettuce or spinach and then storing it wet in a sealed bag (trapped moisture speeds up mold and bacterial growth).",
+      "**Eggs** – Keeping them on the counter instead of the fridge once bought refrigerated (room temperature lets any Salmonella present multiply quickly).",
+      "**Ground meat** – Thawing it on the counter overnight (the outer layer sits in the bacteria danger zone for hours before the center even defrosts).",
+      "**Honey** – Feeding it to a baby under 1 year old (it can contain Clostridium botulinum spores, harmless to adults but risky for infant guts).",
+      "**Follow along** – for more daily food safety tips like this."
     ],
     "claims": [],
-    "caption": "Let's talk about a few of these. Iodine gets almost no attention compared to vitamin D or magnesium, but your thyroid literally cannot produce its hormones without it — and those hormones set the pace for basically every cell's energy use. Copper is the quiet partner mineral most people never hear about: it helps mobilize the iron already in your body, so even a \"normal\" iron intake can underperform if copper is low. And chromium works behind the scenes with insulin, helping your cells pull glucose out of the blood more smoothly instead of letting it spike and crash. Everyone's body is different, so these are pieces of the puzzle, not a fix-all.\n\n@smarthealthfix is all about the basics that actually move the needle — nutrition, common health issues, how your organs function, and small daily habits that add up. Our mission is to make real health information simple enough to actually use, without chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Let's talk about a few of these. Melon is one people really underestimate — because it's a fruit, it feels 'safe,' but a cut cantaloupe left out is actually one of the riskier foods in your fridge since bacteria thrive in that moist, sugary environment at room temperature. Rice is another sneaky one: the spores of Bacillus cereus survive normal cooking temperatures, so the real danger isn't the cooking, it's how slowly the pot cools afterward on the counter. And with potatoes, that green tint isn't just cosmetic — it's a visible sign that solanine levels have risen, which is your cue to cut deep or just toss that piece. Everyone's kitchen habits are different, so take a look at your own routine with fresh eyes.\n\n@smarthealthfix shares daily, easy-to-follow tips on nutrition, common health issues, organ health, and small daily habits that actually make a difference. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#iodine",
-      "#thyroidhealth",
-      "#mineraldeficiency",
-      "#selenium",
-      "#copperhealth",
-      "#chromium",
+      "#foodsafety",
       "#healthtips",
-      "#nutritionfacts",
-      "#wellnessjourney",
-      "#metabolismhealth"
+      "#kitchentips",
+      "#wellness",
+      "#mealprep",
+      "#foodpoisoningprevention",
+      "#healthyhabits",
+      "#nutritiontips",
+      "#eggsafety",
+      "#riceleftovers"
     ],
     "extra_keywords": [
-      "naturalhealing",
-      "mineralbalance",
-      "thyroidsupport",
-      "wellnesstips",
-      "nutrientdense"
+      "foodsafetytips",
+      "kitchenhabits",
+      "wellnessjourney",
+      "healthyeating",
+      "foodstoragetips"
     ]
   },
-  "shape": "mineral_sources",
-  "caption": "Let's talk about a few of these. Iodine gets almost no attention compared to vitamin D or magnesium, but your thyroid literally cannot produce its hormones without it — and those hormones set the pace for basically every cell's energy use. Copper is the quiet partner mineral most people never hear about: it helps mobilize the iron already in your body, so even a \"normal\" iron intake can underperform if copper is low. And chromium works behind the scenes with insulin, helping your cells pull glucose out of the blood more smoothly instead of letting it spike and crash. Everyone's body is different, so these are pieces of the puzzle, not a fix-all.\n\n@smarthealthfix is all about the basics that actually move the needle — nutrition, common health issues, how your organs function, and small daily habits that add up. Our mission is to make real health information simple enough to actually use, without chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#iodine #thyroidhealth #mineraldeficiency #selenium #copperhealth #chromium #healthtips #nutritionfacts #wellnessjourney #metabolismhealth naturalhealing mineralbalance thyroidsupport wellnesstips nutrientdense"
+  "shape": "food_safety_mistake",
+  "caption": "Let's talk about a few of these. Melon is one people really underestimate — because it's a fruit, it feels 'safe,' but a cut cantaloupe left out is actually one of the riskier foods in your fridge since bacteria thrive in that moist, sugary environment at room temperature. Rice is another sneaky one: the spores of Bacillus cereus survive normal cooking temperatures, so the real danger isn't the cooking, it's how slowly the pot cools afterward on the counter. And with potatoes, that green tint isn't just cosmetic — it's a visible sign that solanine levels have risen, which is your cue to cut deep or just toss that piece. Everyone's kitchen habits are different, so take a look at your own routine with fresh eyes.\n\n@smarthealthfix shares daily, easy-to-follow tips on nutrition, common health issues, organ health, and small daily habits that actually make a difference. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodsafety #healthtips #kitchentips #wellness #mealprep #foodpoisoningprevention #healthyhabits #nutritiontips #eggsafety #riceleftovers foodsafetytips kitchenhabits wellnessjourney healthyeating foodstoragetips"
 }
