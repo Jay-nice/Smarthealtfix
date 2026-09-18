@@ -1,43 +1,41 @@
 {
-  "png": "output/reel_20260918_141358.png",
-  "mp4": "output/reel_20260918_141358.mp4",
-  "cover": "output/cover_20260918_141358.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260918_182016.png",
+  "mp4": "output/reel_20260918_182016.mp4",
+  "cover": "output/cover_20260918_182016.png",
+  "cover_bg": "white",
   "content": {
-    "title": "KITCHEN MISTAKES THAT ARE QUIETLY MAKING YOUR {{FOOD}} DANGEROUS",
+    "title": "SMALL HABITS THAT SILENTLY {{UPGRADE}} YOUR ENTIRE DAY",
     "facts": [
-      "**Melon** – Leaving a cut cantaloupe out on the counter for hours (bacteria like Listeria can multiply fast on the moist, sugary flesh).",
-      "**Chicken** – Rinsing raw chicken in the sink before cooking (splashes spread Salmonella/Campylobacter onto counters and dishes).",
-      "**Rice** – Cooling a big pot of rice slowly on the stove instead of the fridge (Bacillus cereus spores survive cooking and multiply as it cools).",
-      "**Potatoes** – Storing them near onions or in a sunny spot until they turn green (green skin signals rising solanine, a natural toxin).",
-      "**Leafy greens** – Washing lettuce or spinach and then storing it wet in a sealed bag (trapped moisture speeds up mold and bacterial growth).",
-      "**Eggs** – Keeping them on the counter instead of the fridge once bought refrigerated (room temperature lets any Salmonella present multiply quickly).",
-      "**Ground meat** – Thawing it on the counter overnight (the outer layer sits in the bacteria danger zone for hours before the center even defrosts).",
-      "**Honey** – Feeding it to a baby under 1 year old (it can contain Clostridium botulinum spores, harmless to adults but risky for infant guts).",
-      "**Follow along** – for more daily food safety tips like this."
+      "**Cold shower finish** – end your shower with 30 seconds of cold water and your circulation kicks up, leaving you noticeably more alert than any cup of coffee.",
+      "**Walk after meals** – a 10-minute walk right after eating blunts the blood sugar spike and stops that heavy, sleepy crash an hour later.",
+      "**Empty bladder first thing** – peeing right when you wake up (instead of snoozing) resets your morning cortisol rhythm and helps you feel awake faster.",
+      "**Nasal breathing** – keeping your mouth closed and breathing through your nose during the day filters air and slows your heart rate, lowering daily stress.",
+      "**Sunlight within 30 minutes of waking** – getting outside light early anchors your body clock, so you fall asleep easier that same night.",
+      "**Stretch before bed, not after waking** – 5 minutes of stretching pre-sleep relaxes tight muscles built up from the day and deepens your sleep quality.",
+      "**One glass of water before coffee** – hydrating before caffeine hits your system prevents the jittery, dehydrated feeling many mistake for 'needing more coffee'.",
+      "**Follow along** – for more small daily habits like this."
     ],
     "claims": [],
-    "caption": "Let's talk about a few of these. Melon is one people really underestimate — because it's a fruit, it feels 'safe,' but a cut cantaloupe left out is actually one of the riskier foods in your fridge since bacteria thrive in that moist, sugary environment at room temperature. Rice is another sneaky one: the spores of Bacillus cereus survive normal cooking temperatures, so the real danger isn't the cooking, it's how slowly the pot cools afterward on the counter. And with potatoes, that green tint isn't just cosmetic — it's a visible sign that solanine levels have risen, which is your cue to cut deep or just toss that piece. Everyone's kitchen habits are different, so take a look at your own routine with fresh eyes.\n\n@smarthealthfix shares daily, easy-to-follow tips on nutrition, common health issues, organ health, and small daily habits that actually make a difference. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Some of these habits do more than they get credit for. Take the cold shower finish — that quick blast of cold water tightens your blood vessels, which is why people feel a rush of alertness afterward, almost like a natural jolt without touching a mug. Then there's the walk after meals — moving your legs right after eating pulls glucose out of your bloodstream and into your muscles for energy, which is a big reason your blood sugar doesn't spike as hard. And nasal breathing might sound minor, but breathing through your nose instead of your mouth actually humidifies and filters the air before it reaches your lungs, which keeps your nervous system calmer throughout the day. Everyone's body responds a little differently, so pay attention to what actually helps you.\n\nAt @smarthealthfix we cover everything from nutrition to common health issues, the way your organs function, and — like today — the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#foodsafety",
       "#healthtips",
-      "#kitchentips",
-      "#wellness",
-      "#mealprep",
-      "#foodpoisoningprevention",
+      "#dailyhabits",
+      "#wellnessjourney",
+      "#morningroutine",
+      "#bloodsugarbalance",
+      "#betterhealth",
       "#healthyhabits",
-      "#nutritiontips",
-      "#eggsafety",
-      "#riceleftovers"
+      "#sleepbetter",
+      "#selfcaretips",
+      "#wellness"
     ],
     "extra_keywords": [
-      "foodsafetytips",
-      "kitchenhabits",
-      "wellnessjourney",
-      "healthyeating",
-      "foodstoragetips"
+      "naturalhealing",
+      "healthyroutine",
+      "wellnesstips",
+      "smallhabitsbigchanges"
     ]
   },
-  "shape": "food_safety_mistake",
-  "caption": "Let's talk about a few of these. Melon is one people really underestimate — because it's a fruit, it feels 'safe,' but a cut cantaloupe left out is actually one of the riskier foods in your fridge since bacteria thrive in that moist, sugary environment at room temperature. Rice is another sneaky one: the spores of Bacillus cereus survive normal cooking temperatures, so the real danger isn't the cooking, it's how slowly the pot cools afterward on the counter. And with potatoes, that green tint isn't just cosmetic — it's a visible sign that solanine levels have risen, which is your cue to cut deep or just toss that piece. Everyone's kitchen habits are different, so take a look at your own routine with fresh eyes.\n\n@smarthealthfix shares daily, easy-to-follow tips on nutrition, common health issues, organ health, and small daily habits that actually make a difference. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodsafety #healthtips #kitchentips #wellness #mealprep #foodpoisoningprevention #healthyhabits #nutritiontips #eggsafety #riceleftovers foodsafetytips kitchenhabits wellnessjourney healthyeating foodstoragetips"
+  "shape": "numbered_explainer",
+  "caption": "Some of these habits do more than they get credit for. Take the cold shower finish — that quick blast of cold water tightens your blood vessels, which is why people feel a rush of alertness afterward, almost like a natural jolt without touching a mug. Then there's the walk after meals — moving your legs right after eating pulls glucose out of your bloodstream and into your muscles for energy, which is a big reason your blood sugar doesn't spike as hard. And nasal breathing might sound minor, but breathing through your nose instead of your mouth actually humidifies and filters the air before it reaches your lungs, which keeps your nervous system calmer throughout the day. Everyone's body responds a little differently, so pay attention to what actually helps you.\n\nAt @smarthealthfix we cover everything from nutrition to common health issues, the way your organs function, and — like today — the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #dailyhabits #wellnessjourney #morningroutine #bloodsugarbalance #betterhealth #healthyhabits #sleepbetter #selfcaretips #wellness naturalhealing healthyroutine wellnesstips smallhabitsbigchanges"
 }
