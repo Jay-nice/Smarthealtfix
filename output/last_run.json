@@ -1,41 +1,42 @@
 {
-  "png": "output/reel_20260918_182016.png",
-  "mp4": "output/reel_20260918_182016.mp4",
-  "cover": "output/cover_20260918_182016.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260918_222109.png",
+  "mp4": "output/reel_20260918_222109.mp4",
+  "cover": "output/cover_20260918_222109.png",
+  "cover_bg": "green",
   "content": {
-    "title": "SMALL HABITS THAT SILENTLY {{UPGRADE}} YOUR ENTIRE DAY",
+    "title": "THE FOOD FIX FOR THAT PROBLEM YOU THOUGHT HAD NO CURE",
     "facts": [
-      "**Cold shower finish** – end your shower with 30 seconds of cold water and your circulation kicks up, leaving you noticeably more alert than any cup of coffee.",
-      "**Walk after meals** – a 10-minute walk right after eating blunts the blood sugar spike and stops that heavy, sleepy crash an hour later.",
-      "**Empty bladder first thing** – peeing right when you wake up (instead of snoozing) resets your morning cortisol rhythm and helps you feel awake faster.",
-      "**Nasal breathing** – keeping your mouth closed and breathing through your nose during the day filters air and slows your heart rate, lowering daily stress.",
-      "**Sunlight within 30 minutes of waking** – getting outside light early anchors your body clock, so you fall asleep easier that same night.",
-      "**Stretch before bed, not after waking** – 5 minutes of stretching pre-sleep relaxes tight muscles built up from the day and deepens your sleep quality.",
-      "**One glass of water before coffee** – hydrating before caffeine hits your system prevents the jittery, dehydrated feeling many mistake for 'needing more coffee'.",
-      "**Follow along** – for more small daily habits like this."
+      "**Bloating** ----- Fennel Seeds",
+      "**Bad Breath** ----- Parsley",
+      "**Muscle Cramps** ----- Pickle Juice",
+      "**Brain Fog** ----- Walnuts",
+      "**Restless Legs** ----- Pumpkin Seeds",
+      "**Hiccups** ----- Peanut Butter",
+      "**Canker Sores** ----- Coconut Water",
+      "**Dry Eyes** ----- Sardines",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Some of these habits do more than they get credit for. Take the cold shower finish — that quick blast of cold water tightens your blood vessels, which is why people feel a rush of alertness afterward, almost like a natural jolt without touching a mug. Then there's the walk after meals — moving your legs right after eating pulls glucose out of your bloodstream and into your muscles for energy, which is a big reason your blood sugar doesn't spike as hard. And nasal breathing might sound minor, but breathing through your nose instead of your mouth actually humidifies and filters the air before it reaches your lungs, which keeps your nervous system calmer throughout the day. Everyone's body responds a little differently, so pay attention to what actually helps you.\n\nAt @smarthealthfix we cover everything from nutrition to common health issues, the way your organs function, and — like today — the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Fennel seeds aren't just a breath freshener trick — they contain compounds that relax the smooth muscle lining your gut, which is why chewing a small spoonful after a heavy meal can quiet that tight, bloated feeling within minutes. Pickle juice works differently: it's loaded with sodium and a touch of vinegar that seems to trigger a nerve reflex in your throat and stomach, which can shut down a muscle cramp almost on contact, faster than stretching alone. And pumpkin seeds bring a solid dose of magnesium to the table, a mineral that helps nerves and muscles switch off properly at night instead of firing randomly, which is often what's behind that restless, twitchy leg feeling right as you're trying to fall asleep. Everyone's body is different, so pay attention to what actually settles your own symptoms.\n\n@smarthealthfix is all about connecting the dots between nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never last.\n\nSave this post so you don't lose it, and share it with someone who's dealing with one of these annoying little issues right now.",
     "hashtags": [
+      "#guttips",
+      "#bloatingrelief",
+      "#naturalremedies",
       "#healthtips",
-      "#dailyhabits",
-      "#wellnessjourney",
-      "#morningroutine",
-      "#bloodsugarbalance",
-      "#betterhealth",
-      "#healthyhabits",
-      "#sleepbetter",
-      "#selfcaretips",
-      "#wellness"
+      "#wellness",
+      "#foodismedicine",
+      "#muscleCramps",
+      "#brainfog",
+      "#eyehealth",
+      "#digestivehealth"
     ],
     "extra_keywords": [
       "naturalhealing",
-      "healthyroutine",
-      "wellnesstips",
-      "smallhabitsbigchanges"
+      "wellnessjourney",
+      "guthealthtips",
+      "everydayhealth"
     ]
   },
-  "shape": "numbered_explainer",
-  "caption": "Some of these habits do more than they get credit for. Take the cold shower finish — that quick blast of cold water tightens your blood vessels, which is why people feel a rush of alertness afterward, almost like a natural jolt without touching a mug. Then there's the walk after meals — moving your legs right after eating pulls glucose out of your bloodstream and into your muscles for energy, which is a big reason your blood sugar doesn't spike as hard. And nasal breathing might sound minor, but breathing through your nose instead of your mouth actually humidifies and filters the air before it reaches your lungs, which keeps your nervous system calmer throughout the day. Everyone's body responds a little differently, so pay attention to what actually helps you.\n\nAt @smarthealthfix we cover everything from nutrition to common health issues, the way your organs function, and — like today — the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #dailyhabits #wellnessjourney #morningroutine #bloodsugarbalance #betterhealth #healthyhabits #sleepbetter #selfcaretips #wellness naturalhealing healthyroutine wellnesstips smallhabitsbigchanges"
+  "shape": "problem_food_mapping",
+  "caption": "Fennel seeds aren't just a breath freshener trick — they contain compounds that relax the smooth muscle lining your gut, which is why chewing a small spoonful after a heavy meal can quiet that tight, bloated feeling within minutes. Pickle juice works differently: it's loaded with sodium and a touch of vinegar that seems to trigger a nerve reflex in your throat and stomach, which can shut down a muscle cramp almost on contact, faster than stretching alone. And pumpkin seeds bring a solid dose of magnesium to the table, a mineral that helps nerves and muscles switch off properly at night instead of firing randomly, which is often what's behind that restless, twitchy leg feeling right as you're trying to fall asleep. Everyone's body is different, so pay attention to what actually settles your own symptoms.\n\n@smarthealthfix is all about connecting the dots between nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never last.\n\nSave this post so you don't lose it, and share it with someone who's dealing with one of these annoying little issues right now.\n\n#guttips #bloatingrelief #naturalremedies #healthtips #wellness #foodismedicine #muscleCramps #brainfog #eyehealth #digestivehealth naturalhealing wellnessjourney guthealthtips everydayhealth"
 }
