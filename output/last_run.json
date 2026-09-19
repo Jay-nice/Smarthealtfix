@@ -1,41 +1,42 @@
 {
-  "png": "output/reel_20260919_175638.png",
-  "mp4": "output/reel_20260919_175638.mp4",
-  "cover": "output/cover_20260919_175638.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260919_220936.png",
+  "mp4": "output/reel_20260919_220936.mp4",
+  "cover": "output/cover_20260919_220936.png",
+  "cover_bg": "white",
   "content": {
-    "title": "THE BODY PARTS MOST PEOPLE FORGET TO FEED PROPERLY",
+    "title": "THE 60-SECOND HABITS THAT QUIETLY {{REWIRE}} YOUR HEALTH",
     "facts": [
-      "**Gallbladder** - Beets, Radishes, Olive oil: bitter compounds in radishes and beets help keep bile flowing smoothly instead of thickening into sludge.",
-      "**Pancreas** - Spinach, Blueberries, Greek yogurt: this trio eases the workload on insulin-producing cells instead of spiking them into overdrive.",
-      "**Bladder** - Cranberries, Cucumber, Watermelon: these hydrate and discourage bacteria from clinging to the lining.",
-      "**Adrenal glands** - Avocado, Pistachios, Oranges: they help buffer the stress-hormone rollercoaster instead of leaving you wired and crashing.",
-      "**Bone marrow** - Beef liver, Pumpkin seeds, Lentils: iron and zinc-rich foods fuel where your red blood cells are actually made.",
-      "**Lymphatic system** - Garlic, Citrus, Turmeric: these support your body's quiet drainage network that flushes out waste between cells.",
-      "**Joints/cartilage** - Bone broth, Salmon, Cherries: collagen-building and anti-inflammatory foods that cushion movement instead of letting it wear down.",
-      "**Follow along** - for more daily health tips like this."
+      "**Chew each bite 20 times** – this slows digestion enough for your stomach to release the right enzymes, so bloating and heaviness after meals fade.",
+      "**Splash cold water on your wrists** for 20 seconds when stressed – it cools the blood near the surface and calms a racing heart faster than deep breathing alone.",
+      "**Write down 3 wins before bed** – this shifts your nervous system out of alert mode, making it easier to fall asleep without replaying the day.",
+      "**Stand up every 45 minutes** – even 60 seconds of movement restarts circulation in your legs and prevents the stiffness that builds from sitting too long.",
+      "**Smell citrus or mint before a meal** – this primes your digestive system and can curb the urge to overeat.",
+      "**Rub your earlobes for 30 seconds** – this stimulates pressure points linked to tension relief and can ease a mild headache.",
+      "**Say your plan out loud in the morning** – hearing your own voice name the day's priorities makes you 2x more likely to actually follow through.",
+      "**Keep a plant on your desk** – a few minutes of looking at greenery lowers eye strain and gives your focus a quick reset.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these deserve extra attention. Radishes contain compounds that stimulate bile production, which helps your gallbladder break down fat instead of letting it stagnate and form stones over time. Pistachios are one of the few nuts that actually lower cortisol response during stressful moments, giving your adrenal glands a break instead of keeping them in constant overdrive. And cherries, especially tart ones, contain natural compounds that calm inflammation around joints, which is why some people notice less morning stiffness when they eat them regularly. Everyone's body responds differently, so pay attention to what works for you.\n\nAt @smarthealthfix we dig into nutrition, common health issues, the organs behind them, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these micro-habits do more than they look like on the surface. Take chewing each bite 20 times — this isn't just about manners, it triggers saliva enzymes that start breaking down carbs before food even hits your stomach, which is a big reason people notice less bloating. The cold water on your wrists trick works because that area has blood vessels sitting close to the skin, so cooling them can bring your heart rate down within seconds during a stressful moment. And writing down 3 wins before bed isn't just feel-good journaling — it lowers cortisol enough that your body can actually shift into rest mode instead of staying wired from the day. Everyone responds a little differently, so notice what your body reacts to most.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a little reset today.",
     "hashtags": [
       "#healthtips",
-      "#organhealth",
-      "#gutinstinct",
-      "#adrenalfatigue",
-      "#jointhealth",
-      "#lymphaticsystem",
-      "#pancreashealth",
-      "#bladderhealth",
-      "#wellnessjourney",
-      "#nutritionfacts"
+      "#dailyhabits",
+      "#wellness",
+      "#stressrelief",
+      "#guthealth",
+      "#betterdigestion",
+      "#mindfuleating",
+      "#selfcare",
+      "#healthyhabits",
+      "#nervoussystem"
     ],
     "extra_keywords": [
+      "wellnessjourney",
+      "smallhabitsbigchange",
       "naturalhealing",
-      "wholebodyhealth",
-      "healingfoods",
-      "bodyawareness"
+      "dailyroutine"
     ]
   },
-  "shape": "organ_food_list",
-  "caption": "A few of these deserve extra attention. Radishes contain compounds that stimulate bile production, which helps your gallbladder break down fat instead of letting it stagnate and form stones over time. Pistachios are one of the few nuts that actually lower cortisol response during stressful moments, giving your adrenal glands a break instead of keeping them in constant overdrive. And cherries, especially tart ones, contain natural compounds that calm inflammation around joints, which is why some people notice less morning stiffness when they eat them regularly. Everyone's body responds differently, so pay attention to what works for you.\n\nAt @smarthealthfix we dig into nutrition, common health issues, the organs behind them, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #organhealth #gutinstinct #adrenalfatigue #jointhealth #lymphaticsystem #pancreashealth #bladderhealth #wellnessjourney #nutritionfacts naturalhealing wholebodyhealth healingfoods bodyawareness"
+  "shape": "numbered_explainer",
+  "caption": "A few of these micro-habits do more than they look like on the surface. Take chewing each bite 20 times — this isn't just about manners, it triggers saliva enzymes that start breaking down carbs before food even hits your stomach, which is a big reason people notice less bloating. The cold water on your wrists trick works because that area has blood vessels sitting close to the skin, so cooling them can bring your heart rate down within seconds during a stressful moment. And writing down 3 wins before bed isn't just feel-good journaling — it lowers cortisol enough that your body can actually shift into rest mode instead of staying wired from the day. Everyone responds a little differently, so notice what your body reacts to most.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a little reset today.\n\n#healthtips #dailyhabits #wellness #stressrelief #guthealth #betterdigestion #mindfuleating #selfcare #healthyhabits #nervoussystem wellnessjourney smallhabitsbigchange naturalhealing dailyroutine"
 }
