@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20260918_222109.png",
-  "mp4": "output/reel_20260918_222109.mp4",
-  "cover": "output/cover_20260918_222109.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260919_134639.png",
+  "mp4": "output/reel_20260919_134639.mp4",
+  "cover": "output/cover_20260919_134639.png",
+  "cover_bg": "white",
   "content": {
-    "title": "THE FOOD FIX FOR THAT PROBLEM YOU THOUGHT HAD NO CURE",
+    "title": "MISTAKES THAT TURN YOUR {{HEALTHY}} MEAL INTO A WASTE OF TIME",
     "facts": [
-      "**Bloating** ----- Fennel Seeds",
-      "**Bad Breath** ----- Parsley",
-      "**Muscle Cramps** ----- Pickle Juice",
-      "**Brain Fog** ----- Walnuts",
-      "**Restless Legs** ----- Pumpkin Seeds",
-      "**Hiccups** ----- Peanut Butter",
-      "**Canker Sores** ----- Coconut Water",
-      "**Dry Eyes** ----- Sardines",
+      "**Salting pasta water too little** – A well-salted pot seasons every strand from the inside; skimping on salt here means your 'healthy' whole-grain pasta ends up bland, so you drown it in sauce and cheese to compensate.",
+      "**Draining and rinsing beans from a can** – Rinsing washes away some of the resistant starch and B vitamins clinging to the liquid; a quick rinse is fine, but a long soak under the tap strips more than it needs to.",
+      "**Cooking eggs on high heat** – Blasting eggs on high makes proteins seize up fast, giving you a rubbery texture and a browned, less digestible exterior; low and slow keeps them tender and easier on your gut.",
+      "**Adding oil after searing instead of before** – Tossing oil into an already-scorching pan means it hits its smoke point almost instantly, breaking down into compounds you don't want in your food.",
+      "**Using the same board for raw and cooked food** – Cross-contamination from one cutting board undoes all the nutritional effort you just put into the meal by adding bacteria you didn't sign up for.",
+      "**Overcrowding the pan when roasting vegetables** – Too many vegetables packed together trap steam instead of letting it escape, so they end up soggy and boiled rather than caramelized and flavorful.",
+      "**Tasting with the same spoon repeatedly** – Double-dipping the same tasting spoon back into the pot introduces mouth bacteria into food that's meant to feed the whole household.",
+      "**Skipping the resting time on cooked meat** – Cutting into meat right off the heat lets all the juices run out onto the board instead of staying locked inside, leaving your protein drier than it should be.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Fennel seeds aren't just a breath freshener trick — they contain compounds that relax the smooth muscle lining your gut, which is why chewing a small spoonful after a heavy meal can quiet that tight, bloated feeling within minutes. Pickle juice works differently: it's loaded with sodium and a touch of vinegar that seems to trigger a nerve reflex in your throat and stomach, which can shut down a muscle cramp almost on contact, faster than stretching alone. And pumpkin seeds bring a solid dose of magnesium to the table, a mineral that helps nerves and muscles switch off properly at night instead of firing randomly, which is often what's behind that restless, twitchy leg feeling right as you're trying to fall asleep. Everyone's body is different, so pay attention to what actually settles your own symptoms.\n\n@smarthealthfix is all about connecting the dots between nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never last.\n\nSave this post so you don't lose it, and share it with someone who's dealing with one of these annoying little issues right now.",
+    "caption": "A few of these mistakes are easier to fix than you'd think. Take beans: that starchy liquid in the can (sometimes called aquafaba) actually holds onto nutrients and can even be whisked into sauces or dressings instead of poured down the drain. With eggs, low heat matters because high heat denatures the proteins so fast that they toughen up and become harder for your stomach to break down efficiently. And that resting time after cooking meat isn't just a chef's trick — as the fibers cool slightly, they reabsorb the juices that were pushed to the surface during cooking, so every bite stays juicy instead of ending up in a puddle on your cutting board. Everyone's kitchen habits are different, but small tweaks like these add up fast.\n\nAt @smarthealthfix, we cover everything from nutrition and common health issues to organ function and small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#guttips",
-      "#bloatingrelief",
-      "#naturalremedies",
-      "#healthtips",
+      "#healthyeating",
+      "#cookingtips",
+      "#kitchenhacks",
+      "#foodprep",
+      "#nutritiontips",
+      "#healthymeals",
       "#wellness",
-      "#foodismedicine",
-      "#muscleCramps",
-      "#brainfog",
-      "#eyehealth",
-      "#digestivehealth"
+      "#homecooking",
+      "#mealprep",
+      "#foodsafety"
     ],
     "extra_keywords": [
-      "naturalhealing",
+      "cookingmistakes",
+      "healthykitchen",
+      "nutritiontips",
       "wellnessjourney",
-      "guthealthtips",
-      "everydayhealth"
+      "smarthealthfix"
     ]
   },
-  "shape": "problem_food_mapping",
-  "caption": "Fennel seeds aren't just a breath freshener trick — they contain compounds that relax the smooth muscle lining your gut, which is why chewing a small spoonful after a heavy meal can quiet that tight, bloated feeling within minutes. Pickle juice works differently: it's loaded with sodium and a touch of vinegar that seems to trigger a nerve reflex in your throat and stomach, which can shut down a muscle cramp almost on contact, faster than stretching alone. And pumpkin seeds bring a solid dose of magnesium to the table, a mineral that helps nerves and muscles switch off properly at night instead of firing randomly, which is often what's behind that restless, twitchy leg feeling right as you're trying to fall asleep. Everyone's body is different, so pay attention to what actually settles your own symptoms.\n\n@smarthealthfix is all about connecting the dots between nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never last.\n\nSave this post so you don't lose it, and share it with someone who's dealing with one of these annoying little issues right now.\n\n#guttips #bloatingrelief #naturalremedies #healthtips #wellness #foodismedicine #muscleCramps #brainfog #eyehealth #digestivehealth naturalhealing wellnessjourney guthealthtips everydayhealth"
+  "shape": "myth_bust",
+  "caption": "A few of these mistakes are easier to fix than you'd think. Take beans: that starchy liquid in the can (sometimes called aquafaba) actually holds onto nutrients and can even be whisked into sauces or dressings instead of poured down the drain. With eggs, low heat matters because high heat denatures the proteins so fast that they toughen up and become harder for your stomach to break down efficiently. And that resting time after cooking meat isn't just a chef's trick — as the fibers cool slightly, they reabsorb the juices that were pushed to the surface during cooking, so every bite stays juicy instead of ending up in a puddle on your cutting board. Everyone's kitchen habits are different, but small tweaks like these add up fast.\n\nAt @smarthealthfix, we cover everything from nutrition and common health issues to organ function and small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthyeating #cookingtips #kitchenhacks #foodprep #nutritiontips #healthymeals #wellness #homecooking #mealprep #foodsafety cookingmistakes healthykitchen nutritiontips wellnessjourney smarthealthfix"
 }
