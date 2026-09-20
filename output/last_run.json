@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20260919_220936.png",
-  "mp4": "output/reel_20260919_220936.mp4",
-  "cover": "output/cover_20260919_220936.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260920_140117.png",
+  "mp4": "output/reel_20260920_140117.mp4",
+  "cover": "output/cover_20260920_140117.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE 60-SECOND HABITS THAT QUIETLY {{REWIRE}} YOUR HEALTH",
+    "title": "RULES EVERY NEW PARENT NEEDS BEFORE THE {{FIRST}} MONTH ENDS",
     "facts": [
-      "**Chew each bite 20 times** – this slows digestion enough for your stomach to release the right enzymes, so bloating and heaviness after meals fade.",
-      "**Splash cold water on your wrists** for 20 seconds when stressed – it cools the blood near the surface and calms a racing heart faster than deep breathing alone.",
-      "**Write down 3 wins before bed** – this shifts your nervous system out of alert mode, making it easier to fall asleep without replaying the day.",
-      "**Stand up every 45 minutes** – even 60 seconds of movement restarts circulation in your legs and prevents the stiffness that builds from sitting too long.",
-      "**Smell citrus or mint before a meal** – this primes your digestive system and can curb the urge to overeat.",
-      "**Rub your earlobes for 30 seconds** – this stimulates pressure points linked to tension relief and can ease a mild headache.",
-      "**Say your plan out loud in the morning** – hearing your own voice name the day's priorities makes you 2x more likely to actually follow through.",
-      "**Keep a plant on your desk** – a few minutes of looking at greenery lowers eye strain and gives your focus a quick reset.",
+      "**Eat standing up if you have to** – a rushed meal with real food still beats skipping it, protein and fiber keep your energy steadier than coffee alone.",
+      "**Nap when the baby naps once a day, not every time** – use at least one nap window for a 20-minute lie-down, chronic sleep debt hits your immune system fast.",
+      "**Batch one meal on Sundays** – cook a double portion of anything and freeze half, so exhausted-you at 9pm has an actual option besides cereal.",
+      "**Keep a water bottle in every room you feed in** – breastfeeding and bottle-feeding both spike thirst, and dehydration makes fatigue feel worse than it is.",
+      "**Ask for a 2-hour block off, not a full day** – short, specific breaks are easier for partners/family to actually deliver, and they still lower stress hormones.",
+      "**Get outside for 10 minutes even in pajamas** – daylight exposure early on helps reset your own sleep rhythm, which is already disrupted enough.",
+      "**Lower your shower standard to 5 minutes** – a quick shower daily protects your mood more than people admit, don't wait for a 'free' 20 minutes that won't come.",
+      "**Say no to visitors in the first 2 weeks if you're depleted** – recovery time matters more than politeness, your body is still healing.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these micro-habits do more than they look like on the surface. Take chewing each bite 20 times — this isn't just about manners, it triggers saliva enzymes that start breaking down carbs before food even hits your stomach, which is a big reason people notice less bloating. The cold water on your wrists trick works because that area has blood vessels sitting close to the skin, so cooling them can bring your heart rate down within seconds during a stressful moment. And writing down 3 wins before bed isn't just feel-good journaling — it lowers cortisol enough that your body can actually shift into rest mode instead of staying wired from the day. Everyone responds a little differently, so notice what your body reacts to most.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a little reset today.",
+    "caption": "New parents burn through nutrients and sleep faster than almost anyone realizes, so a few small fixes matter more than they sound. Water intake drops off fast when you're feeding a baby every few hours, and even mild dehydration mimics exhaustion — your body pulls fluid from everywhere else first, brain included, which is part of why the fog feels so heavy. Daylight in the first 10 minutes outside isn't just a mood trick either — it helps reset your circadian rhythm, which gets scrambled hard by nighttime feeds, so your body has an easier time knowing when to actually feel sleepy later. And that 2-hour block off isn't just rest for rest's sake — short recovery windows lower cortisol enough to measurably improve patience and focus for hours afterward. Every parent's capacity looks different, so adjust to what your days actually allow.\n\nAt @smarthealthfix we build every post around nutrition, common health issues, organs & body functions, and small daily habits that actually fit real life. Our mission is to help you build small, realistic routines instead of chasing perfection you don't have time for.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#newparent",
+      "#parentingtips",
+      "#postpartumrecovery",
+      "#momlife",
+      "#dadlife",
+      "#sleepdeprived",
       "#healthtips",
-      "#dailyhabits",
       "#wellness",
-      "#stressrelief",
-      "#guthealth",
-      "#betterdigestion",
-      "#mindfuleating",
-      "#selfcare",
-      "#healthyhabits",
-      "#nervoussystem"
+      "#selfcareforparents",
+      "#babyandme"
     ],
     "extra_keywords": [
-      "wellnessjourney",
-      "smallhabitsbigchange",
-      "naturalhealing",
-      "dailyroutine"
+      "newparentlife",
+      "postpartumhealth",
+      "parentwellness",
+      "tiredmombrain",
+      "healthyhabits"
     ]
   },
-  "shape": "numbered_explainer",
-  "caption": "A few of these micro-habits do more than they look like on the surface. Take chewing each bite 20 times — this isn't just about manners, it triggers saliva enzymes that start breaking down carbs before food even hits your stomach, which is a big reason people notice less bloating. The cold water on your wrists trick works because that area has blood vessels sitting close to the skin, so cooling them can bring your heart rate down within seconds during a stressful moment. And writing down 3 wins before bed isn't just feel-good journaling — it lowers cortisol enough that your body can actually shift into rest mode instead of staying wired from the day. Everyone responds a little differently, so notice what your body reacts to most.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a little reset today.\n\n#healthtips #dailyhabits #wellness #stressrelief #guthealth #betterdigestion #mindfuleating #selfcare #healthyhabits #nervoussystem wellnessjourney smallhabitsbigchange naturalhealing dailyroutine"
+  "shape": "imperative_advice_list",
+  "caption": "New parents burn through nutrients and sleep faster than almost anyone realizes, so a few small fixes matter more than they sound. Water intake drops off fast when you're feeding a baby every few hours, and even mild dehydration mimics exhaustion — your body pulls fluid from everywhere else first, brain included, which is part of why the fog feels so heavy. Daylight in the first 10 minutes outside isn't just a mood trick either — it helps reset your circadian rhythm, which gets scrambled hard by nighttime feeds, so your body has an easier time knowing when to actually feel sleepy later. And that 2-hour block off isn't just rest for rest's sake — short recovery windows lower cortisol enough to measurably improve patience and focus for hours afterward. Every parent's capacity looks different, so adjust to what your days actually allow.\n\nAt @smarthealthfix we build every post around nutrition, common health issues, organs & body functions, and small daily habits that actually fit real life. Our mission is to help you build small, realistic routines instead of chasing perfection you don't have time for.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#newparent #parentingtips #postpartumrecovery #momlife #dadlife #sleepdeprived #healthtips #wellness #selfcareforparents #babyandme newparentlife postpartumhealth parentwellness tiredmombrain healthyhabits"
 }
