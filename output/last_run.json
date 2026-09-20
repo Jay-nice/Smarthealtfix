@@ -1,43 +1,44 @@
 {
-  "png": "output/reel_20260920_140117.png",
-  "mp4": "output/reel_20260920_140117.mp4",
-  "cover": "output/cover_20260920_140117.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260920_181052.png",
+  "mp4": "output/reel_20260920_181052.mp4",
+  "cover": "output/cover_20260920_181052.png",
+  "cover_bg": "white",
   "content": {
-    "title": "RULES EVERY NEW PARENT NEEDS BEFORE THE {{FIRST}} MONTH ENDS",
+    "title": "THE STORAGE MISTAKES {{QUIETLY}} RUINING YOUR FOOD",
     "facts": [
-      "**Eat standing up if you have to** – a rushed meal with real food still beats skipping it, protein and fiber keep your energy steadier than coffee alone.",
-      "**Nap when the baby naps once a day, not every time** – use at least one nap window for a 20-minute lie-down, chronic sleep debt hits your immune system fast.",
-      "**Batch one meal on Sundays** – cook a double portion of anything and freeze half, so exhausted-you at 9pm has an actual option besides cereal.",
-      "**Keep a water bottle in every room you feed in** – breastfeeding and bottle-feeding both spike thirst, and dehydration makes fatigue feel worse than it is.",
-      "**Ask for a 2-hour block off, not a full day** – short, specific breaks are easier for partners/family to actually deliver, and they still lower stress hormones.",
-      "**Get outside for 10 minutes even in pajamas** – daylight exposure early on helps reset your own sleep rhythm, which is already disrupted enough.",
-      "**Lower your shower standard to 5 minutes** – a quick shower daily protects your mood more than people admit, don't wait for a 'free' 20 minutes that won't come.",
-      "**Say no to visitors in the first 2 weeks if you're depleted** – recovery time matters more than politeness, your body is still healing.",
-      "**Follow along** – for more daily health tips like this."
+      "**Rice** – Leaving cooked rice out to cool at room temperature for hours (Bacillus cereus spores survive cooking and multiply fast, releasing toxins reheating won't destroy).",
+      "**Green potatoes** – Storing potatoes in the light until they turn green or sprout (builds up solanine, a natural toxin concentrated in the skin and sprouts).",
+      "**Garlic-in-oil** – Making homemade garlic oil and leaving it unrefrigerated (creates a low-oxygen environment where Clostridium botulinum can grow).",
+      "**Melon** – Leaving cut cantaloupe or watermelon out at room temp for more than 2 hours (the moist, sugary flesh is a prime spot for Listeria and Salmonella growth).",
+      "**Chicken** – Rinsing raw chicken under the tap before cooking (splashes bacteria like Campylobacter across your sink and counters instead of removing it).",
+      "**Leftover soup or stew** – Cooling a big pot on the counter before refrigerating (the thick liquid stays in the bacterial danger zone, 4-60°C, for too long).",
+      "**Honey** – Feeding honey to a baby under 12 months (risk of infant botulism, since a baby's gut can't yet control Clostridium botulinum spores).",
+      "**Eggs** – Storing eggs in the fridge door instead of the main shelves (the door temperature fluctuates more with every open, speeding bacterial growth).",
+      "**Mushrooms** – Storing mushrooms in a sealed plastic bag (traps moisture, encouraging mold and slime much faster than a paper bag).",
+      "**Follow along** – for more daily food safety tips like this."
     ],
     "claims": [],
-    "caption": "New parents burn through nutrients and sleep faster than almost anyone realizes, so a few small fixes matter more than they sound. Water intake drops off fast when you're feeding a baby every few hours, and even mild dehydration mimics exhaustion — your body pulls fluid from everywhere else first, brain included, which is part of why the fog feels so heavy. Daylight in the first 10 minutes outside isn't just a mood trick either — it helps reset your circadian rhythm, which gets scrambled hard by nighttime feeds, so your body has an easier time knowing when to actually feel sleepy later. And that 2-hour block off isn't just rest for rest's sake — short recovery windows lower cortisol enough to measurably improve patience and focus for hours afterward. Every parent's capacity looks different, so adjust to what your days actually allow.\n\nAt @smarthealthfix we build every post around nutrition, common health issues, organs & body functions, and small daily habits that actually fit real life. Our mission is to help you build small, realistic routines instead of chasing perfection you don't have time for.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Let's talk about a few of these because the 'why' actually matters. Rice is the sneaky one: Bacillus cereus spores are heat-resistant, so they survive the boil and just wait for warm, room-temperature rice to wake up and multiply, producing a toxin that reheating won't fix. Garlic-in-oil is another one people don't expect — botulism bacteria don't need air to grow, they thrive in that oily, oxygen-free environment, which is exactly why homemade garlic oil needs to live in the fridge and get used up quickly. And melon surprises people too: its watery, sugary flesh at room temperature is basically a five-star hotel for Listeria and Salmonella once it's been cut open. Everyone's kitchen habits are different, but small storage tweaks like these go a long way.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who reheats rice without thinking twice.",
     "hashtags": [
-      "#newparent",
-      "#parentingtips",
-      "#postpartumrecovery",
-      "#momlife",
-      "#dadlife",
-      "#sleepdeprived",
+      "#foodsafety",
+      "#kitchentips",
       "#healthtips",
+      "#foodstorage",
+      "#mealprep",
       "#wellness",
-      "#selfcareforparents",
-      "#babyandme"
+      "#foodpoisoningprevention",
+      "#healthyhabits",
+      "#kitchenhacks",
+      "#nutritiontips"
     ],
     "extra_keywords": [
-      "newparentlife",
-      "postpartumhealth",
-      "parentwellness",
-      "tiredmombrain",
-      "healthyhabits"
+      "foodsafetytips",
+      "kitchenmistakes",
+      "wellnessjourney",
+      "smarthealthfix",
+      "cookingsafely"
     ]
   },
-  "shape": "imperative_advice_list",
-  "caption": "New parents burn through nutrients and sleep faster than almost anyone realizes, so a few small fixes matter more than they sound. Water intake drops off fast when you're feeding a baby every few hours, and even mild dehydration mimics exhaustion — your body pulls fluid from everywhere else first, brain included, which is part of why the fog feels so heavy. Daylight in the first 10 minutes outside isn't just a mood trick either — it helps reset your circadian rhythm, which gets scrambled hard by nighttime feeds, so your body has an easier time knowing when to actually feel sleepy later. And that 2-hour block off isn't just rest for rest's sake — short recovery windows lower cortisol enough to measurably improve patience and focus for hours afterward. Every parent's capacity looks different, so adjust to what your days actually allow.\n\nAt @smarthealthfix we build every post around nutrition, common health issues, organs & body functions, and small daily habits that actually fit real life. Our mission is to help you build small, realistic routines instead of chasing perfection you don't have time for.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#newparent #parentingtips #postpartumrecovery #momlife #dadlife #sleepdeprived #healthtips #wellness #selfcareforparents #babyandme newparentlife postpartumhealth parentwellness tiredmombrain healthyhabits"
+  "shape": "food_safety_mistake",
+  "caption": "Let's talk about a few of these because the 'why' actually matters. Rice is the sneaky one: Bacillus cereus spores are heat-resistant, so they survive the boil and just wait for warm, room-temperature rice to wake up and multiply, producing a toxin that reheating won't fix. Garlic-in-oil is another one people don't expect — botulism bacteria don't need air to grow, they thrive in that oily, oxygen-free environment, which is exactly why homemade garlic oil needs to live in the fridge and get used up quickly. And melon surprises people too: its watery, sugary flesh at room temperature is basically a five-star hotel for Listeria and Salmonella once it's been cut open. Everyone's kitchen habits are different, but small storage tweaks like these go a long way.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who reheats rice without thinking twice.\n\n#foodsafety #kitchentips #healthtips #foodstorage #mealprep #wellness #foodpoisoningprevention #healthyhabits #kitchenhacks #nutritiontips foodsafetytips kitchenmistakes wellnessjourney smarthealthfix cookingsafely"
 }
