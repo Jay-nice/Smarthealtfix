@@ -1,45 +1,42 @@
 {
-  "png": "output/reel_20260922_184711.png",
-  "mp4": "output/reel_20260922_184711.mp4",
-  "cover": "output/cover_20260922_184711.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260922_224549.png",
+  "mp4": "output/reel_20260922_224549.mp4",
+  "cover": "output/cover_20260922_224549.png",
+  "cover_bg": "green",
   "content": {
-    "title": "WEIRD SIGNS YOU'RE ACTUALLY {{HEALTHIER}} THAN YOU THINK",
+    "title": "IF YOU EAT {{THIS}} EVERY DAY... THIS IS WHAT HAPPENS TO YOUR BODY",
     "facts": [
-      "**Loud stomach growling** -> strong migrating motor complex sweeping leftover debris through your gut",
-      "**Sneezing in bright light** -> optic nerve wiring so responsive it triggers a photic sneeze reflex",
-      "**Waking up starving** -> stable overnight blood sugar and a metabolism that's actually running well",
-      "**Cracking knuckles easily** -> healthy joint fluid releasing gas bubbles, not a sign of damage",
-      "**Sweating fast during exercise** -> a well-trained cooling system that reacts before you overheat",
-      "**Feeling thirsty within minutes of salty food** -> finely tuned kidneys keeping your sodium balance in check",
-      "**Yawning when someone else does** -> a sharp, socially wired brain with strong mirror-neuron activity",
-      "**Getting goosebumps from music** -> an emotionally responsive nervous system, linked to deeper reward processing",
-      "**Vivid, memorable dreams** -> longer stretches of REM sleep, tied to healthy memory consolidation",
-      "**Burping after a fizzy drink** -> a functioning lower esophageal sphincter releasing pressure correctly",
+      "If you ate **beets** every day for 2 weeks, your workout endurance would climb because their nitrates widen blood vessels, letting more oxygen reach your muscles.",
+      "If you ate **sardines** every day for 30 days, your joints would feel less stiff as their omega-3s quiet the low-grade inflammation that builds up around them.",
+      "If you ate **oats** every day for 3 weeks, your cholesterol numbers would likely drop as the beta-glucan fiber binds to it and sweeps it out before it's absorbed.",
+      "If you ate **fermented yogurt** every day for 2 weeks, your bloating would ease as live cultures start crowding out the bacteria behind gas and discomfort.",
+      "If you ate **walnuts** every day for 1 week, your mood might steady out a bit thanks to their plant omega-3s supporting brain cell communication.",
+      "If you ate **pumpkin seeds** every day for 2 weeks, your sleep could deepen as their magnesium helps your nervous system downshift at night.",
+      "If you ate **lentils** every day for 30 days, your energy crashes would fade as their slow-digesting carbs and iron keep blood sugar and oxygen delivery steady.",
+      "If you ate **kimchi** every day for 3 weeks, your skin might clear up slightly as gut bacteria linked to inflammation start to calm down.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Let's talk about a few of these. That loud stomach growling isn't your gut malfunctioning — it's the migrating motor complex, a cleanup wave that sweeps through your intestines between meals to clear out leftover food and bacteria, and it only runs smoothly when digestion is healthy. Waking up starving each morning is another good sign: it usually means your blood sugar stayed steady overnight instead of crashing, so your body isn't sending out stress hormones to compensate. And those vivid dreams you remember in detail point to solid time spent in REM sleep, the stage most tied to memory storage and emotional processing. Everyone's body is different, so treat these as reassuring patterns, not strict rules.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape how you feel. Our mission is to help you understand your body's signals instead of panicking over every little thing it does.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Small daily swaps can add up faster than people expect. Take beets — the nitrates in them convert into nitric oxide in your body, which relaxes blood vessels and can genuinely make stairs feel easier within days. Sardines are another quiet workhorse: their omega-3s get built directly into your cell membranes, which is part of why chronic joint achiness can start to fade with consistent intake. And oats aren't just \"heart healthy\" as a vague label — the beta-glucan fiber physically traps cholesterol in your gut so it leaves your body instead of recirculating. Of course, everyone's body responds a little differently, so pay attention to what actually changes for you.\n\n@smarthealthfix is all about the small stuff that actually moves the needle — nutrition, common health issues, organs and body functions, and the tiny daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes that don't stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
-      "#bodysignals",
+      "#wellness",
       "#guthealth",
-      "#sleepscience",
-      "#wellnessjourney",
-      "#healthyhabits",
-      "#digestivehealth",
-      "#didyouknow",
-      "#healthmyths",
-      "#bodyawareness"
+      "#antiinflammatory",
+      "#nutritionfacts",
+      "#foodismedicine",
+      "#hearthealth",
+      "#dailyhabits",
+      "#healthyliving",
+      "#eatclean"
     ],
     "extra_keywords": [
       "naturalhealing",
-      "wellnesstips",
-      "guttips",
-      "healthfacts",
-      "bodywisdom"
+      "wellnessjourney",
+      "nutritiontips",
+      "healthyeating"
     ]
   },
-  "shape": "counterintuitive_healthy_sign",
-  "caption": "Let's talk about a few of these. That loud stomach growling isn't your gut malfunctioning — it's the migrating motor complex, a cleanup wave that sweeps through your intestines between meals to clear out leftover food and bacteria, and it only runs smoothly when digestion is healthy. Waking up starving each morning is another good sign: it usually means your blood sugar stayed steady overnight instead of crashing, so your body isn't sending out stress hormones to compensate. And those vivid dreams you remember in detail point to solid time spent in REM sleep, the stage most tied to memory storage and emotional processing. Everyone's body is different, so treat these as reassuring patterns, not strict rules.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape how you feel. Our mission is to help you understand your body's signals instead of panicking over every little thing it does.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #bodysignals #guthealth #sleepscience #wellnessjourney #healthyhabits #digestivehealth #didyouknow #healthmyths #bodyawareness naturalhealing wellnesstips guttips healthfacts bodywisdom"
+  "shape": "conditional_transformation",
+  "caption": "Small daily swaps can add up faster than people expect. Take beets — the nitrates in them convert into nitric oxide in your body, which relaxes blood vessels and can genuinely make stairs feel easier within days. Sardines are another quiet workhorse: their omega-3s get built directly into your cell membranes, which is part of why chronic joint achiness can start to fade with consistent intake. And oats aren't just \"heart healthy\" as a vague label — the beta-glucan fiber physically traps cholesterol in your gut so it leaves your body instead of recirculating. Of course, everyone's body responds a little differently, so pay attention to what actually changes for you.\n\n@smarthealthfix is all about the small stuff that actually moves the needle — nutrition, common health issues, organs and body functions, and the tiny daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes that don't stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #antiinflammatory #nutritionfacts #foodismedicine #hearthealth #dailyhabits #healthyliving #eatclean naturalhealing wellnessjourney nutritiontips healthyeating"
 }
