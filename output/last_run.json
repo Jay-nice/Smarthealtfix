@@ -1,41 +1,45 @@
 {
-  "png": "output/reel_20260922_142908.png",
-  "mp4": "output/reel_20260922_142908.mp4",
-  "cover": "output/cover_20260922_142908.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260922_184711.png",
+  "mp4": "output/reel_20260922_184711.mp4",
+  "cover": "output/cover_20260922_184711.png",
+  "cover_bg": "white",
   "content": {
-    "title": "TINY HABITS THAT QUIETLY {{FIX}} YOUR WHOLE DAY",
+    "title": "WEIRD SIGNS YOU'RE ACTUALLY {{HEALTHIER}} THAN YOU THINK",
     "facts": [
-      "**Chew your food 20 times** before swallowing — it slows digestion down enough that your stomach isn't left struggling with big chunks, and bloating fades.",
-      "**Splash cold water on your wrists** for 10 seconds when you feel overheated or anxious — it cools the blood near the surface fast and calms your nervous system.",
-      "**Open a window for 5 minutes** every morning — fresh airflow clears out stale CO2 buildup and helps you feel less groggy within minutes.",
-      "**Wiggle your toes** for 30 seconds before standing up from a desk — it wakes up circulation that's been pooling in your feet all day.",
-      "**Set your fork down between bites** at every meal — it naturally slows you down so your brain has time to register fullness before you overeat.",
-      "**Rub your palms together** for 15 seconds before a stressful moment — the friction and warmth signal safety to your nervous system, easing tension fast.",
-      "**Say one thing out loud you're looking forward to** each morning — it primes your brain to scan for good things instead of threats all day.",
-      "**Follow along** – for more small daily habits like this that actually make a difference."
+      "**Loud stomach growling** -> strong migrating motor complex sweeping leftover debris through your gut",
+      "**Sneezing in bright light** -> optic nerve wiring so responsive it triggers a photic sneeze reflex",
+      "**Waking up starving** -> stable overnight blood sugar and a metabolism that's actually running well",
+      "**Cracking knuckles easily** -> healthy joint fluid releasing gas bubbles, not a sign of damage",
+      "**Sweating fast during exercise** -> a well-trained cooling system that reacts before you overheat",
+      "**Feeling thirsty within minutes of salty food** -> finely tuned kidneys keeping your sodium balance in check",
+      "**Yawning when someone else does** -> a sharp, socially wired brain with strong mirror-neuron activity",
+      "**Getting goosebumps from music** -> an emotionally responsive nervous system, linked to deeper reward processing",
+      "**Vivid, memorable dreams** -> longer stretches of REM sleep, tied to healthy memory consolidation",
+      "**Burping after a fizzy drink** -> a functioning lower esophageal sphincter releasing pressure correctly",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Small habits sound too tiny to matter, but a few of them do real work behind the scenes. Chewing each bite around 20 times isn't just manners — it gives your stomach a head start, breaking food down mechanically so digestive enzymes don't have to work overtime, which is a huge reason people feel less bloated afterward. That cold water trick on your wrists works because your wrists have blood vessels sitting close to the skin, so cooling them can lower your overall body temperature and dial down that jittery, overheated feeling faster than you'd expect. And setting your fork down between bites gives your gut hormones — the ones that tell your brain \"I'm full\" — a real chance to catch up, since that signal actually takes about 15-20 minutes to kick in. Everyone's body responds a little differently, so notice what actually helps yours.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who could use a few of these today.",
+    "caption": "Let's talk about a few of these. That loud stomach growling isn't your gut malfunctioning — it's the migrating motor complex, a cleanup wave that sweeps through your intestines between meals to clear out leftover food and bacteria, and it only runs smoothly when digestion is healthy. Waking up starving each morning is another good sign: it usually means your blood sugar stayed steady overnight instead of crashing, so your body isn't sending out stress hormones to compensate. And those vivid dreams you remember in detail point to solid time spent in REM sleep, the stage most tied to memory storage and emotional processing. Everyone's body is different, so treat these as reassuring patterns, not strict rules.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape how you feel. Our mission is to help you understand your body's signals instead of panicking over every little thing it does.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
-      "#dailyhabits",
-      "#wellness",
-      "#guttips",
-      "#digestion",
-      "#mindfuleating",
-      "#stressrelief",
-      "#simplehabits",
-      "#healthyliving",
+      "#bodysignals",
+      "#guthealth",
+      "#sleepscience",
+      "#wellnessjourney",
+      "#healthyhabits",
+      "#digestivehealth",
+      "#didyouknow",
+      "#healthmyths",
       "#bodyawareness"
     ],
     "extra_keywords": [
-      "wellnessjourney",
       "naturalhealing",
-      "healthyhabits",
-      "smallchanges"
+      "wellnesstips",
+      "guttips",
+      "healthfacts",
+      "bodywisdom"
     ]
   },
-  "shape": "numbered_explainer",
-  "caption": "Small habits sound too tiny to matter, but a few of them do real work behind the scenes. Chewing each bite around 20 times isn't just manners — it gives your stomach a head start, breaking food down mechanically so digestive enzymes don't have to work overtime, which is a huge reason people feel less bloated afterward. That cold water trick on your wrists works because your wrists have blood vessels sitting close to the skin, so cooling them can lower your overall body temperature and dial down that jittery, overheated feeling faster than you'd expect. And setting your fork down between bites gives your gut hormones — the ones that tell your brain \"I'm full\" — a real chance to catch up, since that signal actually takes about 15-20 minutes to kick in. Everyone's body responds a little differently, so notice what actually helps yours.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who could use a few of these today.\n\n#healthtips #dailyhabits #wellness #guttips #digestion #mindfuleating #stressrelief #simplehabits #healthyliving #bodyawareness wellnessjourney naturalhealing healthyhabits smallchanges"
+  "shape": "counterintuitive_healthy_sign",
+  "caption": "Let's talk about a few of these. That loud stomach growling isn't your gut malfunctioning — it's the migrating motor complex, a cleanup wave that sweeps through your intestines between meals to clear out leftover food and bacteria, and it only runs smoothly when digestion is healthy. Waking up starving each morning is another good sign: it usually means your blood sugar stayed steady overnight instead of crashing, so your body isn't sending out stress hormones to compensate. And those vivid dreams you remember in detail point to solid time spent in REM sleep, the stage most tied to memory storage and emotional processing. Everyone's body is different, so treat these as reassuring patterns, not strict rules.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape how you feel. Our mission is to help you understand your body's signals instead of panicking over every little thing it does.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #bodysignals #guthealth #sleepscience #wellnessjourney #healthyhabits #digestivehealth #didyouknow #healthmyths #bodyawareness naturalhealing wellnesstips guttips healthfacts bodywisdom"
 }
