@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20260923_144744.png",
-  "mp4": "output/reel_20260923_144744.mp4",
-  "cover": "output/cover_20260923_144744.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260923_185914.png",
+  "mp4": "output/reel_20260923_185914.mp4",
+  "cover": "output/cover_20260923_185914.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE ORGANS YOUR {{GROCERY LIST}} IS SECRETLY REBUILDING",
+    "title": "PROBLEM ----- {{FOOD}} FIX YOU'VE NEVER TRIED",
     "facts": [
-      "**Pancreas** - Broccoli, Spinach, Garlic",
-      "**Kidneys** - Red bell pepper, Cranberries, Egg whites",
-      "**Bladder** - Watermelon, Celery, Blueberries",
-      "**Liver** - Beets, Grapefruit, Turmeric",
-      "**Thyroid** - Brazil nuts, Seaweed, Eggs",
-      "**Bones** - Sardines with bones, Dark leafy greens, Cheese",
-      "**Gallbladder** - Radishes, Apples, Olive oil",
-      "**Follow along** - for more daily health tips like this."
+      "**Brain fog** ----- Blueberries (1 cup/day boosts blood flow to the brain)",
+      "**Bloating** ----- Fennel Seeds (chew 1 tsp after meals to ease trapped gas)",
+      "**Bad breath** ----- Parsley (a few sprigs neutralize sulfur compounds fast)",
+      "**Muscle cramps** ----- Bananas (1 daily replenishes potassium you sweat out)",
+      "**Headaches** ----- Watermelon (2 cups fights the dehydration behind them)",
+      "**Restless legs** ----- Chickpeas (1/2 cup/day for iron your muscles need)",
+      "**Acne breakouts** ----- Green Tea (2 cups/day calms skin inflammation)",
+      "**Constant hiccups** ----- Peanut Butter (1 spoonful resets your diaphragm)",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Your pancreas does more quiet work than almost any other organ, and it responds fast to what's on your plate. Broccoli is loaded with sulforaphane, a compound that helps calm inflammation around pancreatic cells and supports steady insulin signaling. Garlic pulls double duty here too — compounds like allicin may help ease the workload on pancreatic tissue over time. Your kidneys deserve just as much attention: red bell pepper is one of the lowest-potassium, highest-vitamin-C veggies out there, which makes it gentle on kidney function while still packing nutrition. And don't sleep on beets for your liver — they contain betaine, a compound that helps liver cells process fat instead of storing it. Everyone's body is different, so listen to yours and adjust from there.\n\n@smarthealthfix is all about the small, overlooked connections between nutrition, common health issues, your organs, and the tiny daily habits that shape how you feel. Our mission is simple: help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Ever notice how a little **blueberries** habit can clear that foggy, sluggish feeling in your head? It's not magic — the antioxidants in them actually improve circulation to your brain, so more oxygen gets where it needs to go. Dealing with **bloating** after meals? Fennel seeds contain compounds that relax the muscles in your gut lining, which is why chewing on them can quiet things down within minutes. And if you're one of those people who gets random muscle cramps, especially at night, it's usually your body quietly begging for potassium — which is exactly why bananas work so well as a simple fix. Everyone's body is different, so pay attention to what actually helps you.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you build small, realistic habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#organhealth",
-      "#kidneyhealth",
-      "#liverhealth",
-      "#pancreashealth",
-      "#healthyfood",
-      "#nutritiontips",
-      "#wellnessjourney",
       "#healthtips",
+      "#wellness",
+      "#guthealth",
+      "#naturalremedies",
+      "#bloatingrelief",
+      "#brainfog",
       "#foodismedicine",
-      "#thyroidhealth"
+      "#healthyhabits",
+      "#nutritiontips",
+      "#holistichealth"
     ],
     "extra_keywords": [
-      "organhealthtips",
-      "healingfoods",
-      "naturalhealth",
-      "guttips",
-      "wellnesshabits"
+      "naturalhealing",
+      "wellnessjourney",
+      "everydayhealth",
+      "healthyliving",
+      "bodytips"
     ]
   },
-  "shape": "organ_food_list",
-  "caption": "Your pancreas does more quiet work than almost any other organ, and it responds fast to what's on your plate. Broccoli is loaded with sulforaphane, a compound that helps calm inflammation around pancreatic cells and supports steady insulin signaling. Garlic pulls double duty here too — compounds like allicin may help ease the workload on pancreatic tissue over time. Your kidneys deserve just as much attention: red bell pepper is one of the lowest-potassium, highest-vitamin-C veggies out there, which makes it gentle on kidney function while still packing nutrition. And don't sleep on beets for your liver — they contain betaine, a compound that helps liver cells process fat instead of storing it. Everyone's body is different, so listen to yours and adjust from there.\n\n@smarthealthfix is all about the small, overlooked connections between nutrition, common health issues, your organs, and the tiny daily habits that shape how you feel. Our mission is simple: help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #kidneyhealth #liverhealth #pancreashealth #healthyfood #nutritiontips #wellnessjourney #healthtips #foodismedicine #thyroidhealth organhealthtips healingfoods naturalhealth guttips wellnesshabits"
+  "shape": "problem_food_mapping",
+  "caption": "Ever notice how a little **blueberries** habit can clear that foggy, sluggish feeling in your head? It's not magic — the antioxidants in them actually improve circulation to your brain, so more oxygen gets where it needs to go. Dealing with **bloating** after meals? Fennel seeds contain compounds that relax the muscles in your gut lining, which is why chewing on them can quiet things down within minutes. And if you're one of those people who gets random muscle cramps, especially at night, it's usually your body quietly begging for potassium — which is exactly why bananas work so well as a simple fix. Everyone's body is different, so pay attention to what actually helps you.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you build small, realistic habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #naturalremedies #bloatingrelief #brainfog #foodismedicine #healthyhabits #nutritiontips #holistichealth naturalhealing wellnessjourney everydayhealth healthyliving bodytips"
 }
