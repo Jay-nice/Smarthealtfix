@@ -1,42 +1,42 @@
 {
-  "png": "output/reel_20260922_224549.png",
-  "mp4": "output/reel_20260922_224549.mp4",
-  "cover": "output/cover_20260922_224549.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260923_144744.png",
+  "mp4": "output/reel_20260923_144744.mp4",
+  "cover": "output/cover_20260923_144744.png",
+  "cover_bg": "white",
   "content": {
-    "title": "IF YOU EAT {{THIS}} EVERY DAY... THIS IS WHAT HAPPENS TO YOUR BODY",
+    "title": "THE ORGANS YOUR {{GROCERY LIST}} IS SECRETLY REBUILDING",
     "facts": [
-      "If you ate **beets** every day for 2 weeks, your workout endurance would climb because their nitrates widen blood vessels, letting more oxygen reach your muscles.",
-      "If you ate **sardines** every day for 30 days, your joints would feel less stiff as their omega-3s quiet the low-grade inflammation that builds up around them.",
-      "If you ate **oats** every day for 3 weeks, your cholesterol numbers would likely drop as the beta-glucan fiber binds to it and sweeps it out before it's absorbed.",
-      "If you ate **fermented yogurt** every day for 2 weeks, your bloating would ease as live cultures start crowding out the bacteria behind gas and discomfort.",
-      "If you ate **walnuts** every day for 1 week, your mood might steady out a bit thanks to their plant omega-3s supporting brain cell communication.",
-      "If you ate **pumpkin seeds** every day for 2 weeks, your sleep could deepen as their magnesium helps your nervous system downshift at night.",
-      "If you ate **lentils** every day for 30 days, your energy crashes would fade as their slow-digesting carbs and iron keep blood sugar and oxygen delivery steady.",
-      "If you ate **kimchi** every day for 3 weeks, your skin might clear up slightly as gut bacteria linked to inflammation start to calm down.",
-      "**Follow along** – for more daily health tips like this."
+      "**Pancreas** - Broccoli, Spinach, Garlic",
+      "**Kidneys** - Red bell pepper, Cranberries, Egg whites",
+      "**Bladder** - Watermelon, Celery, Blueberries",
+      "**Liver** - Beets, Grapefruit, Turmeric",
+      "**Thyroid** - Brazil nuts, Seaweed, Eggs",
+      "**Bones** - Sardines with bones, Dark leafy greens, Cheese",
+      "**Gallbladder** - Radishes, Apples, Olive oil",
+      "**Follow along** - for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Small daily swaps can add up faster than people expect. Take beets — the nitrates in them convert into nitric oxide in your body, which relaxes blood vessels and can genuinely make stairs feel easier within days. Sardines are another quiet workhorse: their omega-3s get built directly into your cell membranes, which is part of why chronic joint achiness can start to fade with consistent intake. And oats aren't just \"heart healthy\" as a vague label — the beta-glucan fiber physically traps cholesterol in your gut so it leaves your body instead of recirculating. Of course, everyone's body responds a little differently, so pay attention to what actually changes for you.\n\n@smarthealthfix is all about the small stuff that actually moves the needle — nutrition, common health issues, organs and body functions, and the tiny daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes that don't stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Your pancreas does more quiet work than almost any other organ, and it responds fast to what's on your plate. Broccoli is loaded with sulforaphane, a compound that helps calm inflammation around pancreatic cells and supports steady insulin signaling. Garlic pulls double duty here too — compounds like allicin may help ease the workload on pancreatic tissue over time. Your kidneys deserve just as much attention: red bell pepper is one of the lowest-potassium, highest-vitamin-C veggies out there, which makes it gentle on kidney function while still packing nutrition. And don't sleep on beets for your liver — they contain betaine, a compound that helps liver cells process fat instead of storing it. Everyone's body is different, so listen to yours and adjust from there.\n\n@smarthealthfix is all about the small, overlooked connections between nutrition, common health issues, your organs, and the tiny daily habits that shape how you feel. Our mission is simple: help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#organhealth",
+      "#kidneyhealth",
+      "#liverhealth",
+      "#pancreashealth",
+      "#healthyfood",
+      "#nutritiontips",
+      "#wellnessjourney",
       "#healthtips",
-      "#wellness",
-      "#guthealth",
-      "#antiinflammatory",
-      "#nutritionfacts",
       "#foodismedicine",
-      "#hearthealth",
-      "#dailyhabits",
-      "#healthyliving",
-      "#eatclean"
+      "#thyroidhealth"
     ],
     "extra_keywords": [
-      "naturalhealing",
-      "wellnessjourney",
-      "nutritiontips",
-      "healthyeating"
+      "organhealthtips",
+      "healingfoods",
+      "naturalhealth",
+      "guttips",
+      "wellnesshabits"
     ]
   },
-  "shape": "conditional_transformation",
-  "caption": "Small daily swaps can add up faster than people expect. Take beets — the nitrates in them convert into nitric oxide in your body, which relaxes blood vessels and can genuinely make stairs feel easier within days. Sardines are another quiet workhorse: their omega-3s get built directly into your cell membranes, which is part of why chronic joint achiness can start to fade with consistent intake. And oats aren't just \"heart healthy\" as a vague label — the beta-glucan fiber physically traps cholesterol in your gut so it leaves your body instead of recirculating. Of course, everyone's body responds a little differently, so pay attention to what actually changes for you.\n\n@smarthealthfix is all about the small stuff that actually moves the needle — nutrition, common health issues, organs and body functions, and the tiny daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes that don't stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #antiinflammatory #nutritionfacts #foodismedicine #hearthealth #dailyhabits #healthyliving #eatclean naturalhealing wellnessjourney nutritiontips healthyeating"
+  "shape": "organ_food_list",
+  "caption": "Your pancreas does more quiet work than almost any other organ, and it responds fast to what's on your plate. Broccoli is loaded with sulforaphane, a compound that helps calm inflammation around pancreatic cells and supports steady insulin signaling. Garlic pulls double duty here too — compounds like allicin may help ease the workload on pancreatic tissue over time. Your kidneys deserve just as much attention: red bell pepper is one of the lowest-potassium, highest-vitamin-C veggies out there, which makes it gentle on kidney function while still packing nutrition. And don't sleep on beets for your liver — they contain betaine, a compound that helps liver cells process fat instead of storing it. Everyone's body is different, so listen to yours and adjust from there.\n\n@smarthealthfix is all about the small, overlooked connections between nutrition, common health issues, your organs, and the tiny daily habits that shape how you feel. Our mission is simple: help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #kidneyhealth #liverhealth #pancreashealth #healthyfood #nutritiontips #wellnessjourney #healthtips #foodismedicine #thyroidhealth organhealthtips healingfoods naturalhealth guttips wellnesshabits"
 }
