@@ -1,43 +1,43 @@
 {
-  "png": "output/reel_20260923_185914.png",
-  "mp4": "output/reel_20260923_185914.mp4",
-  "cover": "output/cover_20260923_185914.png",
+  "png": "output/reel_20260923_224412.png",
+  "mp4": "output/reel_20260923_224412.mp4",
+  "cover": "output/cover_20260923_224412.png",
   "cover_bg": "green",
   "content": {
-    "title": "PROBLEM ----- {{FOOD}} FIX YOU'VE NEVER TRIED",
+    "title": "NUTRITION FACTS THAT SOUND LIKE INTERNET MYTHS BUT ARE 100% REAL",
     "facts": [
-      "**Brain fog** ----- Blueberries (1 cup/day boosts blood flow to the brain)",
-      "**Bloating** ----- Fennel Seeds (chew 1 tsp after meals to ease trapped gas)",
-      "**Bad breath** ----- Parsley (a few sprigs neutralize sulfur compounds fast)",
-      "**Muscle cramps** ----- Bananas (1 daily replenishes potassium you sweat out)",
-      "**Headaches** ----- Watermelon (2 cups fights the dehydration behind them)",
-      "**Restless legs** ----- Chickpeas (1/2 cup/day for iron your muscles need)",
-      "**Acne breakouts** ----- Green Tea (2 cups/day calms skin inflammation)",
-      "**Constant hiccups** ----- Peanut Butter (1 spoonful resets your diaphragm)",
-      "**Follow along** – for more daily health tips like this."
+      "**Cashews** are never sold in their shell to consumers — the shell contains a resin so caustic it's related to poison ivy, and it has to be steamed off industrially before the nut is safe to touch.",
+      "**Nutmeg** contains a natural compound called myristicin that, in large enough doses (several whole nutmegs), can cause hallucinations — it's technically a mild, dangerous psychoactive spice.",
+      "**Carrots** were originally purple, not orange — the orange variety was selectively bred in the Netherlands in the 1600s, partly as a tribute to the House of Orange.",
+      "**Chewing gum** has been found still intact after thousands of years — archaeologists discovered a piece of birch-bark tar gum in Sweden with visible human tooth marks from the Stone Age.",
+      "**Rhubarb** stalks are a common dessert food, but its leaves contain enough oxalic acid to be genuinely toxic if eaten in quantity — the plant is edible and poisonous at the same time.",
+      "**Almonds** are technically not nuts at all — they're the seed found inside the pit of a fruit closely related to peaches and cherries.",
+      "**Apples** float in water because roughly 25% of their volume is air pockets between the flesh cells — a fact you can test in your own sink right now.",
+      "**Bananas** are mildly radioactive because of their naturally high potassium content, enough that scientists actually use the 'banana equivalent dose' as a joking unit to explain radiation exposure.",
+      "**Follow along** – for more surprising, verified food facts like this, every week."
     ],
     "claims": [],
-    "caption": "Ever notice how a little **blueberries** habit can clear that foggy, sluggish feeling in your head? It's not magic — the antioxidants in them actually improve circulation to your brain, so more oxygen gets where it needs to go. Dealing with **bloating** after meals? Fennel seeds contain compounds that relax the muscles in your gut lining, which is why chewing on them can quiet things down within minutes. And if you're one of those people who gets random muscle cramps, especially at night, it's usually your body quietly begging for potassium — which is exactly why bananas work so well as a simple fix. Everyone's body is different, so pay attention to what actually helps you.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you build small, realistic habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these deserve a closer look. Take cashews — the shell contains urushiol, the exact same irritant found in poison ivy, which is why raw-in-shell cashews basically don't exist on store shelves anywhere in the world. Nutmeg is wilder than it sounds too: myristicin is metabolized by your liver into a compound structurally similar to certain stimulants, which is why 'nutmeg tripping' is a real (and genuinely risky) thing teenagers have tried. And rhubarb's leaves are so high in oxalic acid that they can bind with calcium in your blood and strain your kidneys — yet the stalks right next to them are perfectly fine in a pie. Everyone's tolerance and body chemistry differs, so this is general food trivia, not medical advice.\n\nAt @smarthealthfix we cover the full picture of feeling good — nutrition, everyday symptoms, how your organs actually function, and the small daily habits that quietly shape your health. Our mission is to make real, verifiable health knowledge easy to actually use, instead of chasing trends that sound smart but aren't.\n\nSave this post so you don't lose it, and share it with someone who loves random facts as much as you do.",
     "hashtags": [
+      "#foodfacts",
+      "#didyouknow",
+      "#nutritionfacts",
       "#healthtips",
       "#wellness",
-      "#guthealth",
-      "#naturalremedies",
-      "#bloatingrelief",
-      "#brainfog",
-      "#foodismedicine",
-      "#healthyhabits",
-      "#nutritiontips",
-      "#holistichealth"
+      "#foodtrivia",
+      "#healthyeating",
+      "#nutritionscience",
+      "#interestingfacts",
+      "#eatsmart"
     ],
     "extra_keywords": [
-      "naturalhealing",
+      "foodknowledge",
+      "nutritionfacts",
       "wellnessjourney",
-      "everydayhealth",
-      "healthyliving",
-      "bodytips"
+      "healthyhabits",
+      "learnsomethingnew"
     ]
   },
-  "shape": "problem_food_mapping",
-  "caption": "Ever notice how a little **blueberries** habit can clear that foggy, sluggish feeling in your head? It's not magic — the antioxidants in them actually improve circulation to your brain, so more oxygen gets where it needs to go. Dealing with **bloating** after meals? Fennel seeds contain compounds that relax the muscles in your gut lining, which is why chewing on them can quiet things down within minutes. And if you're one of those people who gets random muscle cramps, especially at night, it's usually your body quietly begging for potassium — which is exactly why bananas work so well as a simple fix. Everyone's body is different, so pay attention to what actually helps you.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you build small, realistic habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #naturalremedies #bloatingrelief #brainfog #foodismedicine #healthyhabits #nutritiontips #holistichealth naturalhealing wellnessjourney everydayhealth healthyliving bodytips"
+  "shape": "surprising_true_fact",
+  "caption": "A few of these deserve a closer look. Take cashews — the shell contains urushiol, the exact same irritant found in poison ivy, which is why raw-in-shell cashews basically don't exist on store shelves anywhere in the world. Nutmeg is wilder than it sounds too: myristicin is metabolized by your liver into a compound structurally similar to certain stimulants, which is why 'nutmeg tripping' is a real (and genuinely risky) thing teenagers have tried. And rhubarb's leaves are so high in oxalic acid that they can bind with calcium in your blood and strain your kidneys — yet the stalks right next to them are perfectly fine in a pie. Everyone's tolerance and body chemistry differs, so this is general food trivia, not medical advice.\n\nAt @smarthealthfix we cover the full picture of feeling good — nutrition, everyday symptoms, how your organs actually function, and the small daily habits that quietly shape your health. Our mission is to make real, verifiable health knowledge easy to actually use, instead of chasing trends that sound smart but aren't.\n\nSave this post so you don't lose it, and share it with someone who loves random facts as much as you do.\n\n#foodfacts #didyouknow #nutritionfacts #healthtips #wellness #foodtrivia #healthyeating #nutritionscience #interestingfacts #eatsmart foodknowledge nutritionfacts wellnessjourney healthyhabits learnsomethingnew"
 }
