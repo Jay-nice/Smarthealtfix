@@ -1,43 +1,42 @@
 {
-  "png": "output/reel_20260924_190220.png",
-  "mp4": "output/reel_20260924_190220.mp4",
-  "cover": "output/cover_20260924_190220.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260924_230224.png",
+  "mp4": "output/reel_20260924_230224.mp4",
+  "cover": "output/cover_20260924_230224.png",
+  "cover_bg": "white",
   "content": {
-    "title": "THIS IS WHAT YOUR BODY DOES WHEN YOU EAT THE SAME {{FOOD}} DAILY",
+    "title": "THE MINERAL YOUR THYROID CAN'T FUNCTION WITHOUT (AND MOST PEOPLE ARE LOW ON {{IODINE}})",
     "facts": [
-      "If you ate **beets** every day for 2 weeks, your blood pressure would likely drop and your endurance during workouts would noticeably improve.",
-      "If you ate **oats** every day for 30 days, your cholesterol numbers would start shifting and your energy would stay steadier through the morning.",
-      "If you ate **sardines** every day for 3 weeks, your joints would feel less stiff and your skin would look visibly less dry.",
-      "If you ate **kimchi** every day for 2 weeks, your digestion would speed up and bloating after meals would fade.",
-      "If you ate **beef liver pâté** every day for 10 days, your iron levels would climb and afternoon fatigue would ease.",
-      "If you ate **grapefruit** every day for 1 week, your blood sugar spikes after meals would flatten out.",
-      "If you ate **chia pudding** every day for 30 days, your bathroom habits would become far more regular.",
-      "If you ate **dark chocolate (85%+)** every day for 2 weeks, your stress response would feel calmer and your focus would sharpen.",
-      "If you ate **bone broth** every day for 3 weeks, your joints would feel more mobile and your nails would stop splitting so easily.",
+      "**Iodine** (Thyroid Fuel) — Seaweed | Cod | Shrimp | Dairy Milk",
+      "**Copper** (Energy Spark) — Oysters | Sesame Seeds | Lentils | Shiitake Mushrooms",
+      "**Manganese** (Bone Builder) — Pineapple | Brown Rice | Mussels | Cloves",
+      "**Selenium** (Cell Shield) — Brazil Nuts | Tuna | Eggs | Turkey",
+      "**Potassium** (Pressure Regulator) — Sweet Potatoes | Coconut Water | White Beans | Swiss Chard",
+      "**Zinc** (Immune Gatekeeper) — Pumpkin Seeds | Crab | Chickpeas | Lamb",
+      "**Calcium** (Signal Sender) — Sardines with Bones | Tahini | Collard Greens | Yogurt",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these deserve a closer look. Beets are loaded with nitrates, which your body converts into nitric oxide — this widens blood vessels, which is exactly why blood pressure and stamina respond so fast. Sardines are one of the few whole foods rich in both omega-3s and vitamin D, a combo that calms inflammation in joints while also feeding collagen production in skin. And kimchi works because it's packed with live bacteria strains that recolonize your gut, which is why digestion often shifts within just a couple weeks of regular eating. Everyone's gut and body chemistry is a little different, so results won't look identical for everyone.\n\nThis is the kind of small, food-first shift @smarthealthfix focuses on across nutrition, common health issues, organs, and daily habits. Our goal isn't quick fixes — it's helping you understand what your body is actually asking for.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these minerals do more than people realize. Iodine gets pulled straight into your thyroid to make the hormones that set your metabolism speed — too little and your body quite literally slows itself down. Copper works quietly alongside iron, helping your cells actually use the iron you eat instead of letting it sit unused in your blood. And selenium acts like a shield inside your cells, helping neutralize damage before it builds up over time — just one or two Brazil nuts a day covers most people's needs. Everyone's body is different, so pay attention to how you personally feel.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits so you can actually understand your body instead of guessing. Our mission is to make small, realistic changes feel doable instead of overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#healthtips",
+      "#iodine",
+      "#thyroidhealth",
+      "#selenium",
+      "#mineralbalance",
+      "#nutritiontips",
+      "#zincbenefits",
+      "#healthyeating",
       "#wellnessjourney",
-      "#guttips",
-      "#antiinflammatory",
-      "#bloodsugar",
-      "#nutritionfacts",
-      "#fermentedfoods",
-      "#omega3",
-      "#ironrich",
-      "#dailyhabits"
+      "#guttohealth",
+      "#micronutrients"
     ],
     "extra_keywords": [
-      "naturalhealing",
-      "wellnesstips",
-      "foodismedicine",
-      "guthealth"
+      "mineraldeficiency",
+      "thyroidsupport",
+      "nutrienttips",
+      "healthyfoods",
+      "bodyfunctions"
     ]
   },
-  "shape": "conditional_transformation",
-  "caption": "A few of these deserve a closer look. Beets are loaded with nitrates, which your body converts into nitric oxide — this widens blood vessels, which is exactly why blood pressure and stamina respond so fast. Sardines are one of the few whole foods rich in both omega-3s and vitamin D, a combo that calms inflammation in joints while also feeding collagen production in skin. And kimchi works because it's packed with live bacteria strains that recolonize your gut, which is why digestion often shifts within just a couple weeks of regular eating. Everyone's gut and body chemistry is a little different, so results won't look identical for everyone.\n\nThis is the kind of small, food-first shift @smarthealthfix focuses on across nutrition, common health issues, organs, and daily habits. Our goal isn't quick fixes — it's helping you understand what your body is actually asking for.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellnessjourney #guttips #antiinflammatory #bloodsugar #nutritionfacts #fermentedfoods #omega3 #ironrich #dailyhabits naturalhealing wellnesstips foodismedicine guthealth"
+  "shape": "mineral_sources",
+  "caption": "A few of these minerals do more than people realize. Iodine gets pulled straight into your thyroid to make the hormones that set your metabolism speed — too little and your body quite literally slows itself down. Copper works quietly alongside iron, helping your cells actually use the iron you eat instead of letting it sit unused in your blood. And selenium acts like a shield inside your cells, helping neutralize damage before it builds up over time — just one or two Brazil nuts a day covers most people's needs. Everyone's body is different, so pay attention to how you personally feel.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits so you can actually understand your body instead of guessing. Our mission is to make small, realistic changes feel doable instead of overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#iodine #thyroidhealth #selenium #mineralbalance #nutritiontips #zincbenefits #healthyeating #wellnessjourney #guttohealth #micronutrients mineraldeficiency thyroidsupport nutrienttips healthyfoods bodyfunctions"
 }
