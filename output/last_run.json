@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20260924_144302.png",
-  "mp4": "output/reel_20260924_144302.mp4",
-  "cover": "output/cover_20260924_144302.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260924_190220.png",
+  "mp4": "output/reel_20260924_190220.mp4",
+  "cover": "output/cover_20260924_190220.png",
+  "cover_bg": "green",
   "content": {
-    "title": "RULES EVERY NEW PARENT NEEDS FOR {{SURVIVAL}} MODE",
+    "title": "THIS IS WHAT YOUR BODY DOES WHEN YOU EAT THE SAME {{FOOD}} DAILY",
     "facts": [
-      "**Hydrate before coffee** – drink 1 full glass of water before your first cup, since sleep deprivation already leaves you dehydrated and caffeine will make it worse.",
-      "**Batch protein snacks** – prep boiled eggs or turkey slices in bulk so you grab protein instead of sugar during 3am feeds.",
-      "**Nap when baby naps, once a day minimum** – even 20 minutes lowers cortisol enough to protect your immune system through the newborn stretch.",
-      "**Skip the scale for 6 weeks** – your body is rebuilding tissue and blood volume, not just losing fat, so early weigh-ins mostly cause stress with no useful info.",
-      "**Split night shifts with a partner if possible** – alternating 4-hour blocks of uninterrupted sleep restores more function than both parents getting broken sleep all night.",
-      "**Keep a water bottle at every feeding spot** – breastfeeding alone can pull an extra 25-32 oz of fluid a day, so refill spots matter more than willpower.",
-      "**Eat something within 30 minutes of waking**, even if it's small, to stop the blood sugar crash that makes new-parent exhaustion feel worse than it is.",
-      "**Ask for one specific task from visitors** – 'bring dinner Tuesday' gets help; 'let me know if you need anything' rarely does.",
+      "If you ate **beets** every day for 2 weeks, your blood pressure would likely drop and your endurance during workouts would noticeably improve.",
+      "If you ate **oats** every day for 30 days, your cholesterol numbers would start shifting and your energy would stay steadier through the morning.",
+      "If you ate **sardines** every day for 3 weeks, your joints would feel less stiff and your skin would look visibly less dry.",
+      "If you ate **kimchi** every day for 2 weeks, your digestion would speed up and bloating after meals would fade.",
+      "If you ate **beef liver pâté** every day for 10 days, your iron levels would climb and afternoon fatigue would ease.",
+      "If you ate **grapefruit** every day for 1 week, your blood sugar spikes after meals would flatten out.",
+      "If you ate **chia pudding** every day for 30 days, your bathroom habits would become far more regular.",
+      "If you ate **dark chocolate (85%+)** every day for 2 weeks, your stress response would feel calmer and your focus would sharpen.",
+      "If you ate **bone broth** every day for 3 weeks, your joints would feel more mobile and your nails would stop splitting so easily.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "New parent life runs on a few small, repeatable moves. Hydrate before coffee matters more than people think — after broken sleep your body is already running low on fluid, and caffeine is a mild diuretic, so pairing it with water first keeps your energy from crashing an hour later. Batch protein snacks work because steady protein keeps blood sugar from spiking and dropping, which is exactly what makes exhaustion feel unbearable during nighttime feeds. And skipping the scale for 6 weeks isn't just a mood thing — your blood volume, fluid retention, and uterus are all still shifting back, so an early number on a scale doesn't reflect what's actually happening inside your body. Everyone's recovery timeline is different, listen to yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and small daily habits that fit into real life. Our mission is to help you build small, realistic routines instead of chasing perfection, especially during seasons of life like this one.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.",
+    "caption": "A few of these deserve a closer look. Beets are loaded with nitrates, which your body converts into nitric oxide — this widens blood vessels, which is exactly why blood pressure and stamina respond so fast. Sardines are one of the few whole foods rich in both omega-3s and vitamin D, a combo that calms inflammation in joints while also feeding collagen production in skin. And kimchi works because it's packed with live bacteria strains that recolonize your gut, which is why digestion often shifts within just a couple weeks of regular eating. Everyone's gut and body chemistry is a little different, so results won't look identical for everyone.\n\nThis is the kind of small, food-first shift @smarthealthfix focuses on across nutrition, common health issues, organs, and daily habits. Our goal isn't quick fixes — it's helping you understand what your body is actually asking for.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#newparent",
-      "#postpartumrecovery",
-      "#parentingtips",
-      "#momhealth",
-      "#dadlife",
-      "#sleepdeprived",
-      "#wellnessforparents",
       "#healthtips",
-      "#babysleep",
-      "#selfcareformoms"
+      "#wellnessjourney",
+      "#guttips",
+      "#antiinflammatory",
+      "#bloodsugar",
+      "#nutritionfacts",
+      "#fermentedfoods",
+      "#omega3",
+      "#ironrich",
+      "#dailyhabits"
     ],
     "extra_keywords": [
-      "newmomtips",
-      "postpartumhealth",
-      "parentingjourney",
-      "wellnesshabits"
+      "naturalhealing",
+      "wellnesstips",
+      "foodismedicine",
+      "guthealth"
     ]
   },
-  "shape": "imperative_advice_list",
-  "caption": "New parent life runs on a few small, repeatable moves. Hydrate before coffee matters more than people think — after broken sleep your body is already running low on fluid, and caffeine is a mild diuretic, so pairing it with water first keeps your energy from crashing an hour later. Batch protein snacks work because steady protein keeps blood sugar from spiking and dropping, which is exactly what makes exhaustion feel unbearable during nighttime feeds. And skipping the scale for 6 weeks isn't just a mood thing — your blood volume, fluid retention, and uterus are all still shifting back, so an early number on a scale doesn't reflect what's actually happening inside your body. Everyone's recovery timeline is different, listen to yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and small daily habits that fit into real life. Our mission is to help you build small, realistic routines instead of chasing perfection, especially during seasons of life like this one.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.\n\n#newparent #postpartumrecovery #parentingtips #momhealth #dadlife #sleepdeprived #wellnessforparents #healthtips #babysleep #selfcareformoms newmomtips postpartumhealth parentingjourney wellnesshabits"
+  "shape": "conditional_transformation",
+  "caption": "A few of these deserve a closer look. Beets are loaded with nitrates, which your body converts into nitric oxide — this widens blood vessels, which is exactly why blood pressure and stamina respond so fast. Sardines are one of the few whole foods rich in both omega-3s and vitamin D, a combo that calms inflammation in joints while also feeding collagen production in skin. And kimchi works because it's packed with live bacteria strains that recolonize your gut, which is why digestion often shifts within just a couple weeks of regular eating. Everyone's gut and body chemistry is a little different, so results won't look identical for everyone.\n\nThis is the kind of small, food-first shift @smarthealthfix focuses on across nutrition, common health issues, organs, and daily habits. Our goal isn't quick fixes — it's helping you understand what your body is actually asking for.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellnessjourney #guttips #antiinflammatory #bloodsugar #nutritionfacts #fermentedfoods #omega3 #ironrich #dailyhabits naturalhealing wellnesstips foodismedicine guthealth"
 }
