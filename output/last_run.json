@@ -1,43 +1,44 @@
 {
-  "png": "output/reel_20260925_191322.png",
-  "mp4": "output/reel_20260925_191322.mp4",
-  "cover": "output/cover_20260925_191322.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260925_230729.png",
+  "mp4": "output/reel_20260925_230729.mp4",
+  "cover": "output/cover_20260925_230729.png",
+  "cover_bg": "green",
   "content": {
-    "title": "KITCHEN MISTAKES THAT ARE QUIETLY MAKING YOUR {{FOOD}} DANGEROUS",
+    "title": "THE FOOD-TO-ORGAN CHEAT SHEET NOBODY HANDED YOU",
     "facts": [
-      "**Melon** – Leaving cut melon out at room temperature for hours (bacteria like Salmonella and Listeria multiply fast on its moist, low-acid flesh).",
-      "**Chicken** – Rinsing raw chicken under the tap before cooking (splashes spread Campylobacter and Salmonella across your sink, counters, and dishes).",
-      "**Potatoes** – Storing them in the fridge (cold temps convert starch to sugar, which can form more acrylamide when fried or roasted at high heat).",
-      "**Leftover pasta or rice** – Cooling it slowly on the counter for hours (Bacillus cereus spores survive cooking and multiply as food sits warm).",
-      "**Eggs** – Storing them on the fridge door (temperature swings every time the door opens speed up bacterial growth and shorten shelf life).",
-      "**Garlic in oil** – Making a homemade garlic-oil infusion and leaving it unrefrigerated (low-oxygen environment lets Clostridium botulinum spores grow).",
-      "**Ground beef** – Judging doneness by color alone (only a food thermometer confirms it's hit a safe internal temperature, since browning can happen before bacteria are killed).",
-      "**Berries** – Washing them right after buying instead of right before eating (extra moisture sitting in the fridge speeds up mold growth).",
-      "**Follow along** – for more daily health tips like this."
+      "**Sardines** are good for BRAIN — the omega-3s in tiny fatty fish feed the membrane of every neuron you have, 2x/week is plenty.",
+      "**Asparagus** is good for KIDNEYS — it acts like a gentle diuretic, helping flush excess fluid and sodium out through urine.",
+      "**Oats** are good for GUT LINING — the beta-glucan fiber turns gel-like in your stomach and feeds the bacteria that keep your gut wall strong.",
+      "**Walnuts** are good for BLOOD VESSELS — 1 small handful/day supplies plant omega-3s that keep artery walls flexible.",
+      "**Pumpkin seeds** are good for BLADDER — their fatty acids and antioxidants help calm an overactive, irritated bladder lining.",
+      "**Turmeric** is good for LIVER — its active compound curcumin helps your liver's detox enzymes work more efficiently, pair with black pepper.",
+      "**Cranberries** are good for URINARY TRACT — compounds inside stop certain bacteria from sticking to the tract walls in the first place.",
+      "**Fermented foods** like kimchi are good for IMMUNE SYSTEM — roughly 70% of your immune cells live in your gut, so feeding good bacteria matters.",
+      "**Bell peppers** are good for EYES — they're loaded with vitamin C, which lowers the risk of cataracts over time.",
+      "**Buckwheat** is good for CIRCULATION — it's rich in rutin, a compound that strengthens capillary walls and improves blood flow.",
+      "**Follow along** – for more daily food-to-organ pairings like this."
     ],
     "claims": [],
-    "caption": "Quick real talk on a few of these: cut **melon** is one of the riskiest fruits to leave out because its flesh has almost no acidity to slow bacteria down, so what starts as a small amount of Salmonella on the rind can spread through the fruit within hours at room temp. With **chicken**, rinsing feels like a hygiene habit, but water droplets can travel up to 3 feet from your sink, landing on sponges, towels, and countertops where they linger long after you've moved on. And that **garlic** in oil situation is sneaky — botulism spores don't need much oxygen to grow, and infused oil sitting on the counter is exactly the low-oxygen, room-temp environment they thrive in, even though everything still looks and smells fine. Everyone's kitchen habits are a little different, so it's worth double-checking your own routine against these.\n\nThis is what @smarthealthfix is all about — practical nutrition tips, everyday health issues, how your organs actually work, and small daily habits that add up. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these deserve more explanation than fits on the image. Sardines aren't just \"fish\" — they're one of the few whole foods with meaningful DHA, the exact fatty acid your brain uses to build and repair cell membranes, which is why regular small amounts are linked to sharper memory over time. Asparagus works almost like a natural water pill: certain compounds in it increase how often your kidneys filter and release fluid, which is why you might notice it literally within an hour of eating it. And turmeric only shows its real liver benefits when curcumin actually gets absorbed — on its own your body barely uses it, but adding black pepper (or a bit of fat) boosts absorption dramatically. Everyone's body responds a little differently, so treat this as a starting point, not a strict rulebook.\n\nThis is exactly the kind of pairing @smarthealthfix shares daily — connecting everyday nutrition, common symptoms, your organs, and small sustainable habits so it all actually clicks. Our mission isn't quick fixes, it's helping you understand your body well enough to make small choices that add up.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#foodsafety",
       "#healthtips",
-      "#kitchentips",
-      "#foodpoisoningprevention",
-      "#mealprep",
-      "#homecooking",
-      "#wellness",
-      "#foodstorage",
-      "#healthyhabits",
-      "#cookingtips"
+      "#organhealth",
+      "#nutritionfacts",
+      "#guthealth",
+      "#liverdetox",
+      "#brainfood",
+      "#kidneyhealth",
+      "#wellnessjourney",
+      "#foodismedicine",
+      "#healthyhabits"
     ],
     "extra_keywords": [
-      "foodsafetytips",
-      "kitchenhacks",
-      "healthyeating",
-      "wellnessjourney",
-      "cleaneating"
+      "naturalhealing",
+      "wellnesstips",
+      "healthyliving",
+      "nutritioneducation"
     ]
   },
-  "shape": "food_safety_mistake",
-  "caption": "Quick real talk on a few of these: cut **melon** is one of the riskiest fruits to leave out because its flesh has almost no acidity to slow bacteria down, so what starts as a small amount of Salmonella on the rind can spread through the fruit within hours at room temp. With **chicken**, rinsing feels like a hygiene habit, but water droplets can travel up to 3 feet from your sink, landing on sponges, towels, and countertops where they linger long after you've moved on. And that **garlic** in oil situation is sneaky — botulism spores don't need much oxygen to grow, and infused oil sitting on the counter is exactly the low-oxygen, room-temp environment they thrive in, even though everything still looks and smells fine. Everyone's kitchen habits are a little different, so it's worth double-checking your own routine against these.\n\nThis is what @smarthealthfix is all about — practical nutrition tips, everyday health issues, how your organs actually work, and small daily habits that add up. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodsafety #healthtips #kitchentips #foodpoisoningprevention #mealprep #homecooking #wellness #foodstorage #healthyhabits #cookingtips foodsafetytips kitchenhacks healthyeating wellnessjourney cleaneating"
+  "shape": "allcaps_benefit",
+  "caption": "A few of these deserve more explanation than fits on the image. Sardines aren't just \"fish\" — they're one of the few whole foods with meaningful DHA, the exact fatty acid your brain uses to build and repair cell membranes, which is why regular small amounts are linked to sharper memory over time. Asparagus works almost like a natural water pill: certain compounds in it increase how often your kidneys filter and release fluid, which is why you might notice it literally within an hour of eating it. And turmeric only shows its real liver benefits when curcumin actually gets absorbed — on its own your body barely uses it, but adding black pepper (or a bit of fat) boosts absorption dramatically. Everyone's body responds a little differently, so treat this as a starting point, not a strict rulebook.\n\nThis is exactly the kind of pairing @smarthealthfix shares daily — connecting everyday nutrition, common symptoms, your organs, and small sustainable habits so it all actually clicks. Our mission isn't quick fixes, it's helping you understand your body well enough to make small choices that add up.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #organhealth #nutritionfacts #guthealth #liverdetox #brainfood #kidneyhealth #wellnessjourney #foodismedicine #healthyhabits naturalhealing wellnesstips healthyliving nutritioneducation"
 }
