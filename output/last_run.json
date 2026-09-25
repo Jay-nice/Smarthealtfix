@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20260924_230224.png",
-  "mp4": "output/reel_20260924_230224.mp4",
-  "cover": "output/cover_20260924_230224.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260925_150415.png",
+  "mp4": "output/reel_20260925_150415.mp4",
+  "cover": "output/cover_20260925_150415.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE MINERAL YOUR THYROID CAN'T FUNCTION WITHOUT (AND MOST PEOPLE ARE LOW ON {{IODINE}})",
+    "title": "KITCHEN CABINET FIXES {{DOCTORS ACTUALLY APPROVE}}",
     "facts": [
-      "**Iodine** (Thyroid Fuel) — Seaweed | Cod | Shrimp | Dairy Milk",
-      "**Copper** (Energy Spark) — Oysters | Sesame Seeds | Lentils | Shiitake Mushrooms",
-      "**Manganese** (Bone Builder) — Pineapple | Brown Rice | Mussels | Cloves",
-      "**Selenium** (Cell Shield) — Brazil Nuts | Tuna | Eggs | Turkey",
-      "**Potassium** (Pressure Regulator) — Sweet Potatoes | Coconut Water | White Beans | Swiss Chard",
-      "**Zinc** (Immune Gatekeeper) — Pumpkin Seeds | Crab | Chickpeas | Lamb",
-      "**Calcium** (Signal Sender) — Sardines with Bones | Tahini | Collard Greens | Yogurt",
+      "**Burnt Tongue** – Press a sugar cube against the roof of your mouth and let it dissolve slowly to numb the sting.",
+      "**Hiccups That Won't Quit** – Swallow a spoonful of peanut butter; the sticky texture forces a longer swallow that resets your diaphragm.",
+      "**Stuffy Nose** – Press your tongue to the roof of your mouth and press a finger between your eyebrows for 20 seconds to loosen sinus pressure.",
+      "**Splinter Stuck Deep** – Soak the area in warm water with a spoon of baking soda for 10 minutes; the swelling pushes it closer to the surface.",
+      "**Toothache Ache** – Dab a used, cooled tea bag on the sore spot; the tannins calm inflamed gum tissue.",
+      "**Leg Cramp at Night** – Pinch your upper lip firmly for 30 seconds, a pressure-point trick that can interrupt the muscle spasm signal.",
+      "**Sore Throat Scratch** – Gargle warm water with **1/2 tsp salt** every few hours to pull fluid out of swollen throat tissue.",
+      "**Nosebleed** – Pinch the soft part of your nose and lean forward, not back, for 10 full minutes without checking early.",
+      "**Bee Sting Swelling** – Make a paste of baking soda and water and let it sit for 15 minutes to neutralize the sting's acidity.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these minerals do more than people realize. Iodine gets pulled straight into your thyroid to make the hormones that set your metabolism speed — too little and your body quite literally slows itself down. Copper works quietly alongside iron, helping your cells actually use the iron you eat instead of letting it sit unused in your blood. And selenium acts like a shield inside your cells, helping neutralize damage before it builds up over time — just one or two Brazil nuts a day covers most people's needs. Everyone's body is different, so pay attention to how you personally feel.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits so you can actually understand your body instead of guessing. Our mission is to make small, realistic changes feel doable instead of overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these tiny fixes actually have real science behind them. Take the sugar cube trick for a burnt tongue — the fine crystals distract the pain receptors on your tongue's surface just long enough for the sting to fade, almost like a mini local anesthetic. The peanut butter hack for hiccups works because a thick, sticky bite forces a slower, more deliberate swallow, which helps reset the vagus nerve pathway that controls your diaphragm spasm. And that baking soda paste for a bee sting isn't just an old wives' tale — bee venom is slightly acidic, and baking soda is alkaline, so it can genuinely help calm the burning and swelling when applied early. Of course, everyone's body reacts a little differently, so pay attention to what actually works for you.\n\nAt @smarthealthfix we cover everyday nutrition, common health annoyances, how your organs actually function, and the small daily habits that add up over time. Our mission is to make health feel practical and doable, not overwhelming or expensive.\n\nSave this post so you don't lose it, and share it with someone who needs a quick fix today.",
     "hashtags": [
-      "#iodine",
-      "#thyroidhealth",
-      "#selenium",
-      "#mineralbalance",
-      "#nutritiontips",
-      "#zincbenefits",
-      "#healthyeating",
-      "#wellnessjourney",
-      "#guttohealth",
-      "#micronutrients"
+      "#homeremedies",
+      "#healthtips",
+      "#quickfix",
+      "#naturalremedy",
+      "#wellnesshacks",
+      "#everydayhealth",
+      "#firstaidtips",
+      "#selfcaretips",
+      "#healthhacks",
+      "#kitchenremedies"
     ],
     "extra_keywords": [
-      "mineraldeficiency",
-      "thyroidsupport",
-      "nutrienttips",
-      "healthyfoods",
-      "bodyfunctions"
+      "naturalhealing",
+      "wellnessjourney",
+      "homeremedytips",
+      "healthyliving"
     ]
   },
-  "shape": "mineral_sources",
-  "caption": "A few of these minerals do more than people realize. Iodine gets pulled straight into your thyroid to make the hormones that set your metabolism speed — too little and your body quite literally slows itself down. Copper works quietly alongside iron, helping your cells actually use the iron you eat instead of letting it sit unused in your blood. And selenium acts like a shield inside your cells, helping neutralize damage before it builds up over time — just one or two Brazil nuts a day covers most people's needs. Everyone's body is different, so pay attention to how you personally feel.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits so you can actually understand your body instead of guessing. Our mission is to make small, realistic changes feel doable instead of overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#iodine #thyroidhealth #selenium #mineralbalance #nutritiontips #zincbenefits #healthyeating #wellnessjourney #guttohealth #micronutrients mineraldeficiency thyroidsupport nutrienttips healthyfoods bodyfunctions"
+  "shape": "boxed_hacks",
+  "caption": "A few of these tiny fixes actually have real science behind them. Take the sugar cube trick for a burnt tongue — the fine crystals distract the pain receptors on your tongue's surface just long enough for the sting to fade, almost like a mini local anesthetic. The peanut butter hack for hiccups works because a thick, sticky bite forces a slower, more deliberate swallow, which helps reset the vagus nerve pathway that controls your diaphragm spasm. And that baking soda paste for a bee sting isn't just an old wives' tale — bee venom is slightly acidic, and baking soda is alkaline, so it can genuinely help calm the burning and swelling when applied early. Of course, everyone's body reacts a little differently, so pay attention to what actually works for you.\n\nAt @smarthealthfix we cover everyday nutrition, common health annoyances, how your organs actually function, and the small daily habits that add up over time. Our mission is to make health feel practical and doable, not overwhelming or expensive.\n\nSave this post so you don't lose it, and share it with someone who needs a quick fix today.\n\n#homeremedies #healthtips #quickfix #naturalremedy #wellnesshacks #everydayhealth #firstaidtips #selfcaretips #healthhacks #kitchenremedies naturalhealing wellnessjourney homeremedytips healthyliving"
 }
