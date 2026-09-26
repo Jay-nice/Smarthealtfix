@@ -1,41 +1,41 @@
 {
-  "png": "output/reel_20260926_183044.png",
-  "mp4": "output/reel_20260926_183044.mp4",
-  "cover": "output/cover_20260926_183044.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260926_222431.png",
+  "mp4": "output/reel_20260926_222431.mp4",
+  "cover": "output/cover_20260926_222431.png",
+  "cover_bg": "white",
   "content": {
-    "title": "FOOD FACTS THAT SOUND MADE UP BUT ARE 100% REAL",
+    "title": "THE MINERAL THAT DECIDES IF YOU WAKE UP TIRED OR RESTED",
     "facts": [
-      "**Nutmeg** contains a natural compound called myristicin that, in large enough doses, causes hallucinations — a teaspoon or two eaten at once has sent people to the ER thinking they took a drug.",
-      "**Cashews** are never sold in their raw shell to consumers because the shell contains a resin closely related to poison ivy's — the nuts you eat have already been steam-treated to remove it.",
-      "**Rhubarb** leaves contain enough oxalic acid to be genuinely toxic, while the stalks right next to them are perfectly safe and turned into pie for generations.",
-      "**Nutritional yeast** is a living organism (Saccharomyces cerevisiae) that's deliberately deactivated with heat — it's the same species used to brew beer and bake bread, just grown for its B-vitamin content instead.",
-      "**Star fruit** contains a neurotoxin that healthy kidneys filter out easily, but in people with kidney disease it can cause hiccups, confusion, and seizures — a fruit doctors actually warn dialysis patients away from.",
-      "**Cinnamon** sticks are literally rolled tree bark — the spice jar in your cabinet is dried, curled bark from the Cinnamomum tree, harvested the same way for over 2,000 years.",
-      "**Black pepper** was once so valuable it was used as currency to pay rent and dowries in medieval Europe, earning the nickname 'black gold.'",
-      "**Follow along** – for more surprising food facts like this, verified and explained."
+      "**Manganese** (Bone Builder) — Mussels | Pineapple | Brown Rice | Cloves",
+      "**Copper** (Energy Spark) — Beef Liver | Shiitake Mushrooms | Dark Cherries | Sesame Seeds",
+      "**Potassium** (Sleep Regulator) — Swiss Chard | Coconut Water | Dried Apricots | White Beans",
+      "**Selenium** (Cell Defender) — Brazil Nuts | Tuna | Turkey | Brown Mushrooms",
+      "**Zinc** (Deep Sleep Trigger) — Oysters | Chickpeas | Beef | Hemp Seeds",
+      "**Calcium** (Nerve Calmer) — Sardines with Bones | Bok Choy | Tahini | Yogurt",
+      "**Iron** (Oxygen Carrier) — Lentils | Dark Turkey Meat | Molasses | Spinach",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "The nutmeg fact still gets people every time — myristicin is metabolized in your liver into a compound structurally similar to amphetamines, which is why more than a teaspoon or two can cause real hallucinations and a racing heart, not just a spicy pie. Cashews are a great one too: that toxic shell resin (urushiol) is destroyed through steam or roasting before the nuts ever leave the processing facility, which is also why you'll never find a 'raw cashew in shell' at the store — it's not marketing, it's safety. And star fruit is a genuinely underrated warning: the neurotoxin caramboxin is normally cleared by your kidneys within hours, but if kidney function is impaired it builds up in the bloodstream and can cross into the brain. Everyone's body handles things differently, so when in doubt, check with a doctor about anything you're unsure of.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organs, and the small daily habits that actually move the needle. Our mission is to make science-backed health facts easy to understand and actually useful, not just interesting trivia.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Struggling to fall asleep even when you're exhausted? A few minerals matter way more here than people realize. Take potassium — it helps relax your blood vessels and nervous system at night, which is why a potassium dip can leave you tossing and turning even when you're tired. Zinc plays a quieter role: it's involved in the process that helps you reach deeper, more restorative sleep stages, not just falling asleep faster. And calcium actually helps your brain use tryptophan to produce melatonin, so a low intake can throw off your natural sleep signal without you ever connecting the dots. Everyone's body is different, so listen to yours before assuming it's \"just stress\" keeping you up.\n\n@smarthealthfix is all about the small stuff that adds up — nutrition, common health issues, how your organs actually work, and daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#foodfacts",
+      "#minerals",
+      "#sleeptips",
+      "#zincbenefits",
+      "#potassium",
+      "#calciumrich",
+      "#healthyhabits",
       "#nutritionfacts",
-      "#didyouknow",
-      "#healthfacts",
-      "#wellness",
-      "#foodscience",
-      "#healthyeating",
-      "#nutrition",
-      "#surprisingfacts",
+      "#wellnesstips",
+      "#betterSleep",
       "#healthtips"
     ],
     "extra_keywords": [
-      "foodtrivia",
-      "nutritionscience",
-      "healthawareness",
+      "mineraldeficiency",
+      "sleepbetter",
+      "nutritiontips",
       "wellnessjourney"
     ]
   },
-  "shape": "surprising_true_fact",
-  "caption": "The nutmeg fact still gets people every time — myristicin is metabolized in your liver into a compound structurally similar to amphetamines, which is why more than a teaspoon or two can cause real hallucinations and a racing heart, not just a spicy pie. Cashews are a great one too: that toxic shell resin (urushiol) is destroyed through steam or roasting before the nuts ever leave the processing facility, which is also why you'll never find a 'raw cashew in shell' at the store — it's not marketing, it's safety. And star fruit is a genuinely underrated warning: the neurotoxin caramboxin is normally cleared by your kidneys within hours, but if kidney function is impaired it builds up in the bloodstream and can cross into the brain. Everyone's body handles things differently, so when in doubt, check with a doctor about anything you're unsure of.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organs, and the small daily habits that actually move the needle. Our mission is to make science-backed health facts easy to understand and actually useful, not just interesting trivia.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodfacts #nutritionfacts #didyouknow #healthfacts #wellness #foodscience #healthyeating #nutrition #surprisingfacts #healthtips foodtrivia nutritionscience healthawareness wellnessjourney"
+  "shape": "mineral_sources",
+  "caption": "Struggling to fall asleep even when you're exhausted? A few minerals matter way more here than people realize. Take potassium — it helps relax your blood vessels and nervous system at night, which is why a potassium dip can leave you tossing and turning even when you're tired. Zinc plays a quieter role: it's involved in the process that helps you reach deeper, more restorative sleep stages, not just falling asleep faster. And calcium actually helps your brain use tryptophan to produce melatonin, so a low intake can throw off your natural sleep signal without you ever connecting the dots. Everyone's body is different, so listen to yours before assuming it's \"just stress\" keeping you up.\n\n@smarthealthfix is all about the small stuff that adds up — nutrition, common health issues, how your organs actually work, and daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#minerals #sleeptips #zincbenefits #potassium #calciumrich #healthyhabits #nutritionfacts #wellnesstips #betterSleep #healthtips mineraldeficiency sleepbetter nutritiontips wellnessjourney"
 }
