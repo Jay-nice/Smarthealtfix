@@ -1,41 +1,43 @@
 {
-  "png": "output/reel_20260926_222431.png",
-  "mp4": "output/reel_20260926_222431.mp4",
-  "cover": "output/cover_20260926_222431.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260927_150237.png",
+  "mp4": "output/reel_20260927_150237.mp4",
+  "cover": "output/cover_20260927_150237.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE MINERAL THAT DECIDES IF YOU WAKE UP TIRED OR RESTED",
+    "title": "ORGANS YOU NEVER THINK ABOUT UNTIL SOMETHING GOES WRONG",
     "facts": [
-      "**Manganese** (Bone Builder) — Mussels | Pineapple | Brown Rice | Cloves",
-      "**Copper** (Energy Spark) — Beef Liver | Shiitake Mushrooms | Dark Cherries | Sesame Seeds",
-      "**Potassium** (Sleep Regulator) — Swiss Chard | Coconut Water | Dried Apricots | White Beans",
-      "**Selenium** (Cell Defender) — Brazil Nuts | Tuna | Turkey | Brown Mushrooms",
-      "**Zinc** (Deep Sleep Trigger) — Oysters | Chickpeas | Beef | Hemp Seeds",
-      "**Calcium** (Nerve Calmer) — Sardines with Bones | Bok Choy | Tahini | Yogurt",
-      "**Iron** (Oxygen Carrier) — Lentils | Dark Turkey Meat | Molasses | Spinach",
-      "**Follow along** – for more daily health tips like this."
+      "**BEETS** are good for LIVER – their pigment compounds help it flush out toxins faster instead of letting them sit.",
+      "**ASPARAGUS** is good for KIDNEYS – it acts like a natural diuretic, helping flush excess fluid and waste through urine.",
+      "**FENNEL** is good for GALLBLADDER – it eases bile flow, which can lower the ache after a fatty meal.",
+      "**WALNUTS** are good for TESTES/REPRODUCTIVE HEALTH – their fatty acid profile supports healthy hormone production.",
+      "**BEEF LIVER** is good for THYROID – it's one of the richest natural sources of the minerals your thyroid needs to make hormones.",
+      "**CELERY** is good for BLOOD VESSELS – compounds in it help relax vessel walls, easing pressure on your circulation.",
+      "**TURMERIC** is good for JOINTS – its active compound curcumin calms the inflammation that stiffens knees and knuckles.",
+      "**DARK LEAFY GREENS LIKE COLLARDS** are good for EYES – their pigments build up in the retina and filter damaging light.",
+      "**Follow along** – for more daily food-to-body tips like this."
     ],
     "claims": [],
-    "caption": "Struggling to fall asleep even when you're exhausted? A few minerals matter way more here than people realize. Take potassium — it helps relax your blood vessels and nervous system at night, which is why a potassium dip can leave you tossing and turning even when you're tired. Zinc plays a quieter role: it's involved in the process that helps you reach deeper, more restorative sleep stages, not just falling asleep faster. And calcium actually helps your brain use tryptophan to produce melatonin, so a low intake can throw off your natural sleep signal without you ever connecting the dots. Everyone's body is different, so listen to yours before assuming it's \"just stress\" keeping you up.\n\n@smarthealthfix is all about the small stuff that adds up — nutrition, common health issues, how your organs actually work, and daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these deserve a closer look. Beets contain betalains, plant pigments that support the liver's detox enzymes so it can break down and clear waste more efficiently instead of storing it. Asparagus works a bit differently — it contains an amino acid called asparagine that gently increases urine output, which helps your kidneys clear excess salt and fluid without you even noticing. And fennel's plant compounds relax the muscles around your bile ducts, so bile moves more smoothly instead of backing up after a heavy meal. Everyone's body is different, so pay attention to what actually makes you feel better.\n\nThis is what @smarthealthfix is all about — connecting everyday nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our mission is to help you understand your body a little better, one simple food swap at a time, instead of chasing complicated fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#minerals",
-      "#sleeptips",
-      "#zincbenefits",
-      "#potassium",
-      "#calciumrich",
-      "#healthyhabits",
-      "#nutritionfacts",
-      "#wellnesstips",
-      "#betterSleep",
-      "#healthtips"
+      "#organhealth",
+      "#liverhealth",
+      "#kidneyhealth",
+      "#thyroidhealth",
+      "#eyehealth",
+      "#jointhealth",
+      "#foodismedicine",
+      "#healthtips",
+      "#wellnessjourney",
+      "#nutritionfacts"
     ],
     "extra_keywords": [
-      "mineraldeficiency",
-      "sleepbetter",
-      "nutritiontips",
-      "wellnessjourney"
+      "naturalhealing",
+      "healthyorgans",
+      "foodfacts",
+      "wellnesstips",
+      "detoxfoods"
     ]
   },
-  "shape": "mineral_sources",
-  "caption": "Struggling to fall asleep even when you're exhausted? A few minerals matter way more here than people realize. Take potassium — it helps relax your blood vessels and nervous system at night, which is why a potassium dip can leave you tossing and turning even when you're tired. Zinc plays a quieter role: it's involved in the process that helps you reach deeper, more restorative sleep stages, not just falling asleep faster. And calcium actually helps your brain use tryptophan to produce melatonin, so a low intake can throw off your natural sleep signal without you ever connecting the dots. Everyone's body is different, so listen to yours before assuming it's \"just stress\" keeping you up.\n\n@smarthealthfix is all about the small stuff that adds up — nutrition, common health issues, how your organs actually work, and daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#minerals #sleeptips #zincbenefits #potassium #calciumrich #healthyhabits #nutritionfacts #wellnesstips #betterSleep #healthtips mineraldeficiency sleepbetter nutritiontips wellnessjourney"
+  "shape": "allcaps_benefit",
+  "caption": "A few of these deserve a closer look. Beets contain betalains, plant pigments that support the liver's detox enzymes so it can break down and clear waste more efficiently instead of storing it. Asparagus works a bit differently — it contains an amino acid called asparagine that gently increases urine output, which helps your kidneys clear excess salt and fluid without you even noticing. And fennel's plant compounds relax the muscles around your bile ducts, so bile moves more smoothly instead of backing up after a heavy meal. Everyone's body is different, so pay attention to what actually makes you feel better.\n\nThis is what @smarthealthfix is all about — connecting everyday nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our mission is to help you understand your body a little better, one simple food swap at a time, instead of chasing complicated fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #liverhealth #kidneyhealth #thyroidhealth #eyehealth #jointhealth #foodismedicine #healthtips #wellnessjourney #nutritionfacts naturalhealing healthyorgans foodfacts wellnesstips detoxfoods"
 }
