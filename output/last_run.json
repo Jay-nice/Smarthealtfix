@@ -1,43 +1,42 @@
 {
-  "png": "output/reel_20260927_150237.png",
-  "mp4": "output/reel_20260927_150237.mp4",
-  "cover": "output/cover_20260927_150237.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260927_185825.png",
+  "mp4": "output/reel_20260927_185825.mp4",
+  "cover": "output/cover_20260927_185825.png",
+  "cover_bg": "white",
   "content": {
-    "title": "ORGANS YOU NEVER THINK ABOUT UNTIL SOMETHING GOES WRONG",
+    "title": "SIGNS YOUR BODY IS QUIETLY RUNNING ON EMPTY",
     "facts": [
-      "**BEETS** are good for LIVER – their pigment compounds help it flush out toxins faster instead of letting them sit.",
-      "**ASPARAGUS** is good for KIDNEYS – it acts like a natural diuretic, helping flush excess fluid and waste through urine.",
-      "**FENNEL** is good for GALLBLADDER – it eases bile flow, which can lower the ache after a fatty meal.",
-      "**WALNUTS** are good for TESTES/REPRODUCTIVE HEALTH – their fatty acid profile supports healthy hormone production.",
-      "**BEEF LIVER** is good for THYROID – it's one of the richest natural sources of the minerals your thyroid needs to make hormones.",
-      "**CELERY** is good for BLOOD VESSELS – compounds in it help relax vessel walls, easing pressure on your circulation.",
-      "**TURMERIC** is good for JOINTS – its active compound curcumin calms the inflammation that stiffens knees and knuckles.",
-      "**DARK LEAFY GREENS LIKE COLLARDS** are good for EYES – their pigments build up in the retina and filter damaging light.",
-      "**Follow along** – for more daily food-to-body tips like this."
+      "**Iodine** – Puffy face, constant fatigue, feeling cold all the time, and an unexplained weight gain.",
+      "**Vitamin A** – Trouble seeing in dim light, dry itchy eyes, and rough bumpy patches on the skin.",
+      "**Folate** – Persistent tiredness, pale skin, mouth sores, and trouble concentrating.",
+      "**Vitamin E** – Muscle weakness, poor balance, and numbness or tingling in the limbs.",
+      "**Omega-3** – Dry flaky skin, brittle nails, joint stiffness, and trouble focusing.",
+      "**Vitamin C** – Bleeding gums, slow-healing cuts, easy bruising, and constant joint pain.",
+      "**Vitamin D** – Bone aches, low mood in winter months, and getting sick more often than usual.",
+      "**Vitamin B12** – Tingling in hands/feet, weakness, memory problems, and low mood.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these deserve a closer look. Beets contain betalains, plant pigments that support the liver's detox enzymes so it can break down and clear waste more efficiently instead of storing it. Asparagus works a bit differently — it contains an amino acid called asparagine that gently increases urine output, which helps your kidneys clear excess salt and fluid without you even noticing. And fennel's plant compounds relax the muscles around your bile ducts, so bile moves more smoothly instead of backing up after a heavy meal. Everyone's body is different, so pay attention to what actually makes you feel better.\n\nThis is what @smarthealthfix is all about — connecting everyday nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our mission is to help you understand your body a little better, one simple food swap at a time, instead of chasing complicated fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A folate shortage often shows up as pale skin and constant tiredness because folate is essential for making healthy red blood cells that carry oxygen through your body — without enough, your cells simply run out of fuel. Low vitamin E can quietly weaken your muscles and throw off your balance since it protects nerve membranes from damage, and over time that protective layer starts to break down. And an iodine gap can leave you feeling cold and puffy because your thyroid depends on iodine to produce the hormones that control your metabolism — without it, everything slows down. Everyone's body is different, so listen to yours and don't ignore patterns that keep repeating.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#organhealth",
-      "#liverhealth",
-      "#kidneyhealth",
-      "#thyroidhealth",
-      "#eyehealth",
-      "#jointhealth",
-      "#foodismedicine",
       "#healthtips",
-      "#wellnessjourney",
-      "#nutritionfacts"
+      "#nutrientdeficiency",
+      "#vitaminD",
+      "#vitaminB12",
+      "#folate",
+      "#iodine",
+      "#omega3",
+      "#wellnesstips",
+      "#guthealth",
+      "#energylevels"
     ],
     "extra_keywords": [
+      "nutrientgaps",
+      "wellnessjourney",
       "naturalhealing",
-      "healthyorgans",
-      "foodfacts",
-      "wellnesstips",
-      "detoxfoods"
+      "healthyhabits"
     ]
   },
-  "shape": "allcaps_benefit",
-  "caption": "A few of these deserve a closer look. Beets contain betalains, plant pigments that support the liver's detox enzymes so it can break down and clear waste more efficiently instead of storing it. Asparagus works a bit differently — it contains an amino acid called asparagine that gently increases urine output, which helps your kidneys clear excess salt and fluid without you even noticing. And fennel's plant compounds relax the muscles around your bile ducts, so bile moves more smoothly instead of backing up after a heavy meal. Everyone's body is different, so pay attention to what actually makes you feel better.\n\nThis is what @smarthealthfix is all about — connecting everyday nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our mission is to help you understand your body a little better, one simple food swap at a time, instead of chasing complicated fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #liverhealth #kidneyhealth #thyroidhealth #eyehealth #jointhealth #foodismedicine #healthtips #wellnessjourney #nutritionfacts naturalhealing healthyorgans foodfacts wellnesstips detoxfoods"
+  "shape": "symptom_list",
+  "caption": "A folate shortage often shows up as pale skin and constant tiredness because folate is essential for making healthy red blood cells that carry oxygen through your body — without enough, your cells simply run out of fuel. Low vitamin E can quietly weaken your muscles and throw off your balance since it protects nerve membranes from damage, and over time that protective layer starts to break down. And an iodine gap can leave you feeling cold and puffy because your thyroid depends on iodine to produce the hormones that control your metabolism — without it, everything slows down. Everyone's body is different, so listen to yours and don't ignore patterns that keep repeating.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #nutrientdeficiency #vitaminD #vitaminB12 #folate #iodine #omega3 #wellnesstips #guthealth #energylevels nutrientgaps wellnessjourney naturalhealing healthyhabits"
 }
