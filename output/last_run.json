@@ -1,42 +1,44 @@
 {
-  "png": "output/reel_20260927_185825.png",
-  "mp4": "output/reel_20260927_185825.mp4",
-  "cover": "output/cover_20260927_185825.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260927_225051.png",
+  "mp4": "output/reel_20260927_225051.mp4",
+  "cover": "output/cover_20260927_225051.png",
+  "cover_bg": "green",
   "content": {
-    "title": "SIGNS YOUR BODY IS QUIETLY RUNNING ON EMPTY",
+    "title": "SIGNS YOU'RE ACTUALLY HEALTHIER THAN YOU {{THINK}}",
     "facts": [
-      "**Iodine** – Puffy face, constant fatigue, feeling cold all the time, and an unexplained weight gain.",
-      "**Vitamin A** – Trouble seeing in dim light, dry itchy eyes, and rough bumpy patches on the skin.",
-      "**Folate** – Persistent tiredness, pale skin, mouth sores, and trouble concentrating.",
-      "**Vitamin E** – Muscle weakness, poor balance, and numbness or tingling in the limbs.",
-      "**Omega-3** – Dry flaky skin, brittle nails, joint stiffness, and trouble focusing.",
-      "**Vitamin C** – Bleeding gums, slow-healing cuts, easy bruising, and constant joint pain.",
-      "**Vitamin D** – Bone aches, low mood in winter months, and getting sick more often than usual.",
-      "**Vitamin B12** – Tingling in hands/feet, weakness, memory problems, and low mood.",
+      "**Sneezing in sunlight** -> a sharp, reactive nervous system, not a weak one",
+      "**Loud stomach growling** -> strong migrating motor complex sweeping your gut clean between meals",
+      "**Waking up thirsty** -> your kidneys are efficiently concentrating urine overnight, not a sign of dehydration damage",
+      "**Sweating fast during exercise** -> a well-trained cooling system that reacts quicker than an unconditioned body",
+      "**Vivid, weird dreams** -> longer stretches of REM sleep, a marker of deep, restorative rest",
+      "**Yawning a lot around others** -> a socially wired brain, since contagious yawning tracks with empathy",
+      "**Cold hands after a hot shower** -> healthy blood vessels rapidly redirecting blood flow to your core",
+      "**Getting a stitch when running** -> a sign you're pushing your fitness level, not that something's wrong",
+      "**Frequent burping after meals** -> normal, efficient release of swallowed air during healthy digestion",
+      "**Goosebumps during music** -> a highly responsive dopamine system reacting to reward",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A folate shortage often shows up as pale skin and constant tiredness because folate is essential for making healthy red blood cells that carry oxygen through your body — without enough, your cells simply run out of fuel. Low vitamin E can quietly weaken your muscles and throw off your balance since it protects nerve membranes from damage, and over time that protective layer starts to break down. And an iodine gap can leave you feeling cold and puffy because your thyroid depends on iodine to produce the hormones that control your metabolism — without it, everything slows down. Everyone's body is different, so listen to yours and don't ignore patterns that keep repeating.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Let's talk about a few of these. Waking up thirsty freaks people out, but it actually shows your kidneys did their overnight job well, filtering waste and concentrating urine so you lose less water while you sleep. Loud stomach growling (borborygmi, if you want the fancy word) means your migrating motor complex is sweeping leftover food and bacteria through your intestines between meals, which is a sign of good gut motility, not hunger or trouble. And those vivid, strange dreams? They usually happen during longer REM cycles, which is actually a marker that you're getting deep, restorative sleep rather than shallow, broken rest. Everyone's body is different, so use these as general signals, not a diagnosis.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs, and small daily habits that quietly shape how you feel. Our mission is to help you understand your body a little better every day, instead of panicking over things that are actually completely normal.\n\nSave this post so you don't lose it, and share it with someone who worries too much about the little things.",
     "hashtags": [
       "#healthtips",
-      "#nutrientdeficiency",
-      "#vitaminD",
-      "#vitaminB12",
-      "#folate",
-      "#iodine",
-      "#omega3",
-      "#wellnesstips",
+      "#bodysignals",
+      "#wellness",
       "#guthealth",
-      "#energylevels"
+      "#sleepscience",
+      "#digestivehealth",
+      "#healthymind",
+      "#bodyawareness",
+      "#restorativesleep",
+      "#wellnessjourney"
     ],
     "extra_keywords": [
-      "nutrientgaps",
-      "wellnessjourney",
       "naturalhealing",
-      "healthyhabits"
+      "healthyhabits",
+      "bodysignals101",
+      "wellnesstips"
     ]
   },
-  "shape": "symptom_list",
-  "caption": "A folate shortage often shows up as pale skin and constant tiredness because folate is essential for making healthy red blood cells that carry oxygen through your body — without enough, your cells simply run out of fuel. Low vitamin E can quietly weaken your muscles and throw off your balance since it protects nerve membranes from damage, and over time that protective layer starts to break down. And an iodine gap can leave you feeling cold and puffy because your thyroid depends on iodine to produce the hormones that control your metabolism — without it, everything slows down. Everyone's body is different, so listen to yours and don't ignore patterns that keep repeating.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #nutrientdeficiency #vitaminD #vitaminB12 #folate #iodine #omega3 #wellnesstips #guthealth #energylevels nutrientgaps wellnessjourney naturalhealing healthyhabits"
+  "shape": "counterintuitive_healthy_sign",
+  "caption": "Let's talk about a few of these. Waking up thirsty freaks people out, but it actually shows your kidneys did their overnight job well, filtering waste and concentrating urine so you lose less water while you sleep. Loud stomach growling (borborygmi, if you want the fancy word) means your migrating motor complex is sweeping leftover food and bacteria through your intestines between meals, which is a sign of good gut motility, not hunger or trouble. And those vivid, strange dreams? They usually happen during longer REM cycles, which is actually a marker that you're getting deep, restorative sleep rather than shallow, broken rest. Everyone's body is different, so use these as general signals, not a diagnosis.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs, and small daily habits that quietly shape how you feel. Our mission is to help you understand your body a little better every day, instead of panicking over things that are actually completely normal.\n\nSave this post so you don't lose it, and share it with someone who worries too much about the little things.\n\n#healthtips #bodysignals #wellness #guthealth #sleepscience #digestivehealth #healthymind #bodyawareness #restorativesleep #wellnessjourney naturalhealing healthyhabits bodysignals101 wellnesstips"
 }
