@@ -1,0 +1,117 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "THIS COMMON SNACK BEATS A BANANA AT ITS OWN GAME",
+    "facts": [
+      "**Dried apricots** pack nearly triple the potassium of a banana, gram for gram — a handful can outdo the fruit famous for it.",
+      "**Pumpkin seeds** carry more magnesium per ounce than a serving of spinach, and you don't need to cook them down to get it.",
+      "**Brazil nuts** are so loaded with selenium that just 2 nuts a day covers your full daily need.",
+      "**Sun-dried tomatoes** hold far more vitamin K than fresh tomatoes, since drying concentrates it.",
+      "**Pomegranate seeds** give you more fiber per cup than an apple, seeds and all.",
+      "**Kale** has more calcium per calorie than a glass of milk, which surprises most people who only chase dairy for it.",
+      "**Lentils** deliver more iron per cup than a beef steak of the same size, minus the saturated fat.",
+      "**Hemp seeds** contain more zinc per ounce than most cuts of chicken.",
+      "**Chia seeds** are one of the richest plant sources of omega-3 ALA around, 2 tbsp/day is enough to make a real dent.",
+      "**Mushrooms left in sunlight** for 10 minutes can develop meaningful vitamin D, unlike almost any other produce.",
+      "**Follow along** – for more daily health tips like this."
+    ],
+    "claims": [
+      {
+        "food_a": "Dried apricots",
+        "food_b": "Banana",
+        "nutrient_key": "potassium"
+      },
+      {
+        "food_a": "Pumpkin seeds",
+        "food_b": "Spinach",
+        "nutrient_key": "magnesium"
+      },
+      {
+        "food_a": "Sun-dried tomatoes",
+        "food_b": "Fresh tomatoes",
+        "nutrient_key": "vitamin_k"
+      },
+      {
+        "food_a": "Pomegranate seeds",
+        "food_b": "Apple",
+        "nutrient_key": "fiber"
+      },
+      {
+        "food_a": "Kale",
+        "food_b": "Milk",
+        "nutrient_key": "calcium"
+      },
+      {
+        "food_a": "Lentils",
+        "food_b": "Beef steak",
+        "nutrient_key": "iron"
+      },
+      {
+        "food_a": "Hemp seeds",
+        "food_b": "Chicken",
+        "nutrient_key": "zinc"
+      }
+    ],
+    "caption": "A few of these are worth slowing down on. Brazil nuts are one of the only foods where you can genuinely overdo a mineral — selenium builds up in your system, so 2 a day is the sweet spot, not a handful. Lentils punch above their weight on iron because pairing them with something high in vitamin C, like tomatoes or citrus, helps your body actually absorb the plant-based form, which is normally harder to use than the iron in meat. And chia seeds only release their omega-3s well once they've soaked or been ground — tossing whole dry seeds on top of food means you miss out on a chunk of the benefit. Everyone's body is different, so treat these as starting points, not rules.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and the small daily habits that quietly shape how you feel. Our goal is to help you build realistic habits you'll actually stick with, instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "hashtags": [
+      "#healthtips",
+      "#nutritionfacts",
+      "#wellness",
+      "#micronutrients",
+      "#magnesium",
+      "#potassium",
+      "#plantbased",
+      "#ironrich",
+      "#seleniumbenefits",
+      "#omega3"
+    ],
+    "extra_keywords": [
+      "nutrientdensefoods",
+      "wellnessjourney",
+      "healthyeatinghabits",
+      "foodismedicine"
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 7,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "Dried apricots",
+          "food_b": "Banana",
+          "nutrient_key": "potassium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Pumpkin seeds",
+          "food_b": "Spinach",
+          "nutrient_key": "magnesium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Hemp seeds",
+          "food_b": "Chicken",
+          "nutrient_key": "zinc"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      }
+    ]
+  }
+}
