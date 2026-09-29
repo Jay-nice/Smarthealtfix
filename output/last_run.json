@@ -1,43 +1,41 @@
 {
-  "png": "output/reel_20260929_162347.png",
-  "mp4": "output/reel_20260929_162347.mp4",
-  "cover": "output/cover_20260929_162347.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260929_195648.png",
+  "mp4": "output/reel_20260929_195648.mp4",
+  "cover": "output/cover_20260929_195648.png",
+  "cover_bg": "green",
   "content": {
-    "title": "HOUSEHOLD FIXES THAT WORK FASTER THAN YOUR MEDICINE CABINET",
+    "title": "THE {{FIX}} FOR THINGS THAT ANNOY YOU EVERY WEEK",
     "facts": [
-      "**Hiccups** – Plug both ears with your fingers for 30 seconds while sipping water through a straw, it resets the nerve signal causing the spasm.",
-      "**Toothache** – Press a small piece of raw clove against the tooth, its natural numbing compound calms the nerve within minutes.",
-      "**Splinter** – Soak the area in a bowl of warm water with 1 tbsp baking soda for 10 minutes, it draws the splinter closer to the surface.",
-      "**Nosebleed** – Pinch the soft part of your nose and lean slightly forward, not back, for 5 straight minutes to let the vessel clot properly.",
-      "**Sore throat** – Gargle warm water with 1/2 tsp salt every few hours, it pulls fluid out of inflamed tissue and eases the swelling.",
-      "**Bug bite itch** – Press a hot spoon (run under hot tap water) onto the bite for 10 seconds, heat breaks down the itch-causing compound.",
-      "**Charley horse cramp** – Pull your toes firmly upward toward your shin, it stretches the calf muscle and interrupts the spasm signal.",
-      "**Stuffy nose** – Press your tongue to the roof of your mouth, then press a finger between your eyebrows, hold 20 seconds, it loosens sinus drainage.",
-      "**Hangnail pain** – Soak the finger in warm water with a few drops of olive oil for 5 minutes to soften the skin before trimming.",
+      "**Bloating** – Fennel seeds, 1 tsp chewed after meals, relax the gut muscles and let trapped gas move through faster.",
+      "**Bad Breath** – A slice of apple or a stick of celery scrubs odor-causing bacteria off the tongue when you can't brush.",
+      "**Leg Cramps** – 1 cup coconut water replaces the potassium and electrolytes your muscles need to stop seizing up.",
+      "**Brain Fog** – A square of dark chocolate (70%+) gives a slow caffeine-like lift without the crash of coffee.",
+      "**Dry, Cracked Lips** – Sunflower seeds, a small handful a day, supply zinc that speeds up skin barrier repair.",
+      "**Restless Legs at Night** – A banana before bed brings potassium and magnesium together to calm nerve signals.",
+      "**Puffy Under-Eyes** – Cucumber slices or just eating cucumber adds water and reduces the sodium bloat that causes puffiness.",
+      "**Constant Yawning at Your Desk** – A handful of walnuts mid-afternoon steadies blood sugar so your brain stops signaling low energy.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are worth understanding a bit deeper. The clove trick for a **toothache** works because clove contains a natural compound called eugenol, which acts almost like a mild local anesthetic on exposed nerve endings. For a **nosebleed**, leaning forward instead of tilting your head back matters because it keeps blood from draining down your throat and lets gravity help the vessel seal faster. And with a **splinter**, warm water with baking soda softens the outer layer of skin just enough that the sliver naturally migrates upward, making it far easier to remove without digging. Everyone's body reacts a little differently, so give these a try gently and see what works for you.\n\nAt @smarthealthfix we cover the everyday side of health — nutrition, common aches and symptoms, how your organs actually function, and small daily habits that add up over time. Our mission is to make feeling better feel simple, not complicated.\n\nSave this post so you don't lose it, and share it with someone who needs it today.",
+    "caption": "Fennel seeds are one of the easiest fixes on this list because they actually work on contact — chewing them releases anethole, a compound that relaxes the smooth muscle lining your intestines, which is why bloating eases within minutes instead of hours. Coconut water gets overlooked for cramps because people reach for plain water first, but plain water can't replace the potassium and sodium your muscles lose through sweat or just a long day on your feet — that's the actual reason the cramp keeps coming back. And walnuts work on afternoon yawning because their fat and fiber combo slows down digestion, which prevents the blood sugar dip that makes your brain think it needs sleep. Everyone's body reacts a little differently, so pay attention to what actually helps yours.\n\n@smarthealthfix is all about connecting the small stuff — nutrition, everyday symptoms, your organs, and the tiny daily habits that tie it all together. Our mission is to make health feel manageable, one small realistic change at a time instead of another overwhelming overhaul.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#homeremedies",
       "#healthtips",
-      "#naturalremedy",
-      "#quickfix",
-      "#wellness",
-      "#firstaid",
-      "#kitchenremedy",
-      "#healthhacks",
-      "#selfcare",
-      "#everydayhealth"
+      "#naturalremedies",
+      "#bloatingrelief",
+      "#legcramps",
+      "#brainfog",
+      "#wellnesstips",
+      "#guthealth",
+      "#everydayhealth",
+      "#foodismedicine"
     ],
     "extra_keywords": [
       "naturalhealing",
-      "homeremedy",
-      "wellnesstips",
-      "healthhacks"
+      "wellnessjourney",
+      "smallhealthwins",
+      "dailyhealthtips"
     ]
   },
-  "shape": "boxed_hacks",
-  "caption": "A few of these are worth understanding a bit deeper. The clove trick for a **toothache** works because clove contains a natural compound called eugenol, which acts almost like a mild local anesthetic on exposed nerve endings. For a **nosebleed**, leaning forward instead of tilting your head back matters because it keeps blood from draining down your throat and lets gravity help the vessel seal faster. And with a **splinter**, warm water with baking soda softens the outer layer of skin just enough that the sliver naturally migrates upward, making it far easier to remove without digging. Everyone's body reacts a little differently, so give these a try gently and see what works for you.\n\nAt @smarthealthfix we cover the everyday side of health — nutrition, common aches and symptoms, how your organs actually function, and small daily habits that add up over time. Our mission is to make feeling better feel simple, not complicated.\n\nSave this post so you don't lose it, and share it with someone who needs it today.\n\n#homeremedies #healthtips #naturalremedy #quickfix #wellness #firstaid #kitchenremedy #healthhacks #selfcare #everydayhealth naturalhealing homeremedy wellnesstips healthhacks"
+  "shape": "problem_food_mapping",
+  "caption": "Fennel seeds are one of the easiest fixes on this list because they actually work on contact — chewing them releases anethole, a compound that relaxes the smooth muscle lining your intestines, which is why bloating eases within minutes instead of hours. Coconut water gets overlooked for cramps because people reach for plain water first, but plain water can't replace the potassium and sodium your muscles lose through sweat or just a long day on your feet — that's the actual reason the cramp keeps coming back. And walnuts work on afternoon yawning because their fat and fiber combo slows down digestion, which prevents the blood sugar dip that makes your brain think it needs sleep. Everyone's body reacts a little differently, so pay attention to what actually helps yours.\n\n@smarthealthfix is all about connecting the small stuff — nutrition, everyday symptoms, your organs, and the tiny daily habits that tie it all together. Our mission is to make health feel manageable, one small realistic change at a time instead of another overwhelming overhaul.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #naturalremedies #bloatingrelief #legcramps #brainfog #wellnesstips #guthealth #everydayhealth #foodismedicine naturalhealing wellnessjourney smallhealthwins dailyhealthtips"
 }
