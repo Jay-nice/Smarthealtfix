@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20260928_180105.png",
-  "mp4": "output/reel_20260928_180105.mp4",
-  "cover": "output/cover_20260928_180105.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260929_001338.png",
+  "mp4": "output/reel_20260929_001338.mp4",
+  "cover": "output/cover_20260929_001338.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE KITCHEN MISTAKES {{MOST PEOPLE}} MAKE WITHOUT KNOWING",
+    "title": "THE FOOD-TO-ORGAN MATCH LIST NOBODY TAUGHT YOU",
     "facts": [
-      "**Chicken** – Washing it in the sink before cooking (splashes spread bacteria like Salmonella onto counters, sponges, and other food).",
-      "**Mushrooms** – Storing them in a sealed plastic bag (trapped moisture speeds up sliminess and mold growth).",
-      "**Melon** – Leaving cut melon out on the counter for hours (moist, low-acid flesh lets Listeria and Salmonella multiply fast).",
-      "**Eggs** – Keeping them in the fridge door (temperature swings there speed up spoilage compared to the colder inner shelves).",
-      "**Garlic-in-oil** – Making a homemade garlic oil and storing it at room temperature (low-oxygen environment can allow botulism spores to grow).",
-      "**Leftover pasta or rice dishes** – Cooling them slowly on the counter before refrigerating (bacteria multiply fastest in the 'danger zone' between 4°C and 60°C).",
-      "**Berries** – Washing them right after buying instead of right before eating (extra moisture sitting on them encourages mold days sooner).",
+      "**OATS** are good for HEART — the beta-glucan fiber grabs cholesterol in your gut and pulls it out before it ever reaches your arteries.",
+      "**SARDINES** are good for BRAIN — small oily fish like this deliver a dense dose of omega-3s that keep brain cell membranes flexible.",
+      "**PUMPKIN SEEDS** are good for PROSTATE — 1 oz/day gives you zinc that this gland needs more of than almost any other tissue in the body.",
+      "**BLUEBERRIES** are good for MEMORY — their deep pigment compounds cross into brain tissue and calm inflammation tied to age-related decline.",
+      "**YOGURT** is good for GUT LINING — live cultures, 1 cup/day, help rebuild the barrier that keeps toxins from leaking into your bloodstream.",
+      "**PINEAPPLE** is good for DIGESTION — the enzyme bromelain breaks down protein faster, easing that heavy feeling after big meals.",
+      "**SPINACH** is good for EYES — its lutein settles into the retina like a pair of built-in sunglasses against blue light damage.",
+      "**LENTILS** are good for BLOOD SUGAR — 1/2 cup/day slows glucose absorption, sparing your pancreas from constant insulin spikes.",
+      "**CACAO** is good for BLOOD PRESSURE — a small square, a few times a week, relaxes blood vessel walls thanks to its flavanol content.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are easy to miss but worth knowing. Take chicken: rinsing it under the tap feels like a hygiene habit, but it actually launches tiny water droplets carrying bacteria straight onto your sink, counters, and towels, cooking it fully is what actually kills those pathogens. Garlic-in-oil is another sneaky one, at room temperature, the oil blocks oxygen and creates exactly the low-oxygen conditions Clostridium botulinum spores need to grow, which is why homemade versions belong in the fridge and get used within days. And that leftover rice or pasta dish? Cooling it slowly on the counter gives Bacillus cereus spores time to multiply before the fridge ever gets a chance to slow them down, splitting food into shallow containers cools it faster and safer. Everyone's kitchen habits are a little different, but small tweaks here go a long way.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these deserve a closer look. Oats work so well for the heart because that beta-glucan fiber turns into a gel in your gut, physically trapping cholesterol before your body can reabsorb it — that's a mechanical effect, not just a vague 'heart healthy' label. Pumpkin seeds matter for the prostate because this gland holds one of the highest zinc concentrations in the entire body, and low zinc intake is consistently linked to prostate tissue changes over time. And blueberries help memory through anthocyanins, the pigments that give them their color — they actually cross the blood-brain barrier and calm the low-grade inflammation that speeds up cognitive aging. Everyone's body responds a little differently, so treat these as a starting point, not a guarantee.\n\nThis is what @smarthealthfix is all about — connecting everyday nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our mission is to help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#foodsafety",
-      "#kitchentips",
       "#healthtips",
-      "#wellness",
-      "#mealprep",
-      "#foodstorage",
-      "#kitchenhacks",
-      "#healthyhabits",
-      "#foodpoisoningprevention",
-      "#homecooking"
+      "#nutritionfacts",
+      "#organhealth",
+      "#brainhealth",
+      "#hearthealth",
+      "#eyehealth",
+      "#guthealth",
+      "#bloodsugarbalance",
+      "#wellnessjourney",
+      "#foodismedicine"
     ],
     "extra_keywords": [
-      "foodsafetytips",
-      "kitchenmistakes",
-      "wellnessjourney",
-      "cookingsmart",
-      "naturalhealing"
+      "naturalhealing",
+      "healthyeatinghabits",
+      "nutrientdense",
+      "wholefoods"
     ]
   },
-  "shape": "food_safety_mistake",
-  "caption": "A few of these are easy to miss but worth knowing. Take chicken: rinsing it under the tap feels like a hygiene habit, but it actually launches tiny water droplets carrying bacteria straight onto your sink, counters, and towels, cooking it fully is what actually kills those pathogens. Garlic-in-oil is another sneaky one, at room temperature, the oil blocks oxygen and creates exactly the low-oxygen conditions Clostridium botulinum spores need to grow, which is why homemade versions belong in the fridge and get used within days. And that leftover rice or pasta dish? Cooling it slowly on the counter gives Bacillus cereus spores time to multiply before the fridge ever gets a chance to slow them down, splitting food into shallow containers cools it faster and safer. Everyone's kitchen habits are a little different, but small tweaks here go a long way.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodsafety #kitchentips #healthtips #wellness #mealprep #foodstorage #kitchenhacks #healthyhabits #foodpoisoningprevention #homecooking foodsafetytips kitchenmistakes wellnessjourney cookingsmart naturalhealing"
+  "shape": "allcaps_benefit",
+  "caption": "A few of these deserve a closer look. Oats work so well for the heart because that beta-glucan fiber turns into a gel in your gut, physically trapping cholesterol before your body can reabsorb it — that's a mechanical effect, not just a vague 'heart healthy' label. Pumpkin seeds matter for the prostate because this gland holds one of the highest zinc concentrations in the entire body, and low zinc intake is consistently linked to prostate tissue changes over time. And blueberries help memory through anthocyanins, the pigments that give them their color — they actually cross the blood-brain barrier and calm the low-grade inflammation that speeds up cognitive aging. Everyone's body responds a little differently, so treat these as a starting point, not a guarantee.\n\nThis is what @smarthealthfix is all about — connecting everyday nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our mission is to help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #nutritionfacts #organhealth #brainhealth #hearthealth #eyehealth #guthealth #bloodsugarbalance #wellnessjourney #foodismedicine naturalhealing healthyeatinghabits nutrientdense wholefoods"
 }
