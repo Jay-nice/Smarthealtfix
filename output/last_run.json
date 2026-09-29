@@ -1,41 +1,41 @@
 {
-  "png": "output/reel_20260929_195648.png",
-  "mp4": "output/reel_20260929_195648.mp4",
-  "cover": "output/cover_20260929_195648.png",
-  "cover_bg": "green",
+  "png": "output/reel_20260929_232813.png",
+  "mp4": "output/reel_20260929_232813.mp4",
+  "cover": "output/cover_20260929_232813.png",
+  "cover_bg": "white",
   "content": {
-    "title": "THE {{FIX}} FOR THINGS THAT ANNOY YOU EVERY WEEK",
+    "title": "THE ORGAN-FOOD PAIRINGS YOUR BODY IS WAITING FOR",
     "facts": [
-      "**Bloating** – Fennel seeds, 1 tsp chewed after meals, relax the gut muscles and let trapped gas move through faster.",
-      "**Bad Breath** – A slice of apple or a stick of celery scrubs odor-causing bacteria off the tongue when you can't brush.",
-      "**Leg Cramps** – 1 cup coconut water replaces the potassium and electrolytes your muscles need to stop seizing up.",
-      "**Brain Fog** – A square of dark chocolate (70%+) gives a slow caffeine-like lift without the crash of coffee.",
-      "**Dry, Cracked Lips** – Sunflower seeds, a small handful a day, supply zinc that speeds up skin barrier repair.",
-      "**Restless Legs at Night** – A banana before bed brings potassium and magnesium together to calm nerve signals.",
-      "**Puffy Under-Eyes** – Cucumber slices or just eating cucumber adds water and reduces the sodium bloat that causes puffiness.",
-      "**Constant Yawning at Your Desk** – A handful of walnuts mid-afternoon steadies blood sugar so your brain stops signaling low energy.",
-      "**Follow along** – for more daily health tips like this."
+      "**Kidneys** - Cranberries, Beets, Parsley: cranberries help stop bacteria from clinging to the urinary tract, beets improve blood flow to filter waste faster.",
+      "**Liver** - Beetroot, Turmeric, Walnuts: turmeric supports enzymes that break down toxins, walnuts supply amino acids the liver uses for detox.",
+      "**Bladder** - Watermelon, Celery, Cucumber: these high-water foods flush the urinary tract and dilute irritants that cause discomfort.",
+      "**Thyroid** - Brazil nuts, Seaweed, Eggs: 2 Brazil nuts/day cover your selenium needs, seaweed provides iodine the thyroid needs to make hormones.",
+      "**Joints** - Bone broth, Cherries, Turmeric: cherries carry compounds that calm inflammation around stiff joints.",
+      "**Bones** - Sardines' cousin, canned salmon, Kale, Sesame seeds: 1 tbsp sesame seeds/day delivers a solid calcium boost for bone density.",
+      "**Ears** - Bananas, Dark chocolate, Sunflower seeds: potassium in bananas helps regulate fluid balance in the inner ear.",
+      "**Follow along** - for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Fennel seeds are one of the easiest fixes on this list because they actually work on contact — chewing them releases anethole, a compound that relaxes the smooth muscle lining your intestines, which is why bloating eases within minutes instead of hours. Coconut water gets overlooked for cramps because people reach for plain water first, but plain water can't replace the potassium and sodium your muscles lose through sweat or just a long day on your feet — that's the actual reason the cramp keeps coming back. And walnuts work on afternoon yawning because their fat and fiber combo slows down digestion, which prevents the blood sugar dip that makes your brain think it needs sleep. Everyone's body reacts a little differently, so pay attention to what actually helps yours.\n\n@smarthealthfix is all about connecting the small stuff — nutrition, everyday symptoms, your organs, and the tiny daily habits that tie it all together. Our mission is to make health feel manageable, one small realistic change at a time instead of another overwhelming overhaul.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Your kidneys work around the clock, and cranberries can actually make their job easier - compounds in cranberries make it harder for bacteria to stick to the urinary tract walls, which is why they're often recommended for anyone prone to discomfort down there. Turmeric does something similar for your liver: it supports the enzyme pathways your liver relies on to break down and clear out toxins, so a little goes a long way when added to food regularly. And Brazil nuts are almost too easy to overlook - just 2 a day can cover your daily selenium needs, a mineral your thyroid depends on to produce hormones properly. Everyone's body is different, so listen to yours and adjust from there.\n\n@smarthealthfix is all about the basics that actually move the needle: nutrition, common health issues, the organs doing the quiet work behind the scenes, and small daily habits that add up. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#kidneyhealth",
+      "#liverhealth",
+      "#thyroidhealth",
+      "#bonehealth",
+      "#jointpain",
       "#healthtips",
-      "#naturalremedies",
-      "#bloatingrelief",
-      "#legcramps",
-      "#brainfog",
-      "#wellnesstips",
-      "#guthealth",
-      "#everydayhealth",
-      "#foodismedicine"
+      "#organhealth",
+      "#wellness",
+      "#nutritiontips",
+      "#healthyhabits"
     ],
     "extra_keywords": [
       "naturalhealing",
       "wellnessjourney",
-      "smallhealthwins",
-      "dailyhealthtips"
+      "organhealthtips",
+      "everydaywellness"
     ]
   },
-  "shape": "problem_food_mapping",
-  "caption": "Fennel seeds are one of the easiest fixes on this list because they actually work on contact — chewing them releases anethole, a compound that relaxes the smooth muscle lining your intestines, which is why bloating eases within minutes instead of hours. Coconut water gets overlooked for cramps because people reach for plain water first, but plain water can't replace the potassium and sodium your muscles lose through sweat or just a long day on your feet — that's the actual reason the cramp keeps coming back. And walnuts work on afternoon yawning because their fat and fiber combo slows down digestion, which prevents the blood sugar dip that makes your brain think it needs sleep. Everyone's body reacts a little differently, so pay attention to what actually helps yours.\n\n@smarthealthfix is all about connecting the small stuff — nutrition, everyday symptoms, your organs, and the tiny daily habits that tie it all together. Our mission is to make health feel manageable, one small realistic change at a time instead of another overwhelming overhaul.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #naturalremedies #bloatingrelief #legcramps #brainfog #wellnesstips #guthealth #everydayhealth #foodismedicine naturalhealing wellnessjourney smallhealthwins dailyhealthtips"
+  "shape": "organ_food_list",
+  "caption": "Your kidneys work around the clock, and cranberries can actually make their job easier - compounds in cranberries make it harder for bacteria to stick to the urinary tract walls, which is why they're often recommended for anyone prone to discomfort down there. Turmeric does something similar for your liver: it supports the enzyme pathways your liver relies on to break down and clear out toxins, so a little goes a long way when added to food regularly. And Brazil nuts are almost too easy to overlook - just 2 a day can cover your daily selenium needs, a mineral your thyroid depends on to produce hormones properly. Everyone's body is different, so listen to yours and adjust from there.\n\n@smarthealthfix is all about the basics that actually move the needle: nutrition, common health issues, the organs doing the quiet work behind the scenes, and small daily habits that add up. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#kidneyhealth #liverhealth #thyroidhealth #bonehealth #jointpain #healthtips #organhealth #wellness #nutritiontips #healthyhabits naturalhealing wellnessjourney organhealthtips everydaywellness"
 }
