@@ -1,0 +1,126 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "THE {{NUTRIENT}} GAPS MOST DIETS DON'T COVER",
+    "facts": [
+      "**Pumpkin** has nearly double the potassium of a banana, gram for gram, and most people don't even think to compare the two.",
+      "**Swiss chard** delivers more vitamin K in one cooked cup than a whole steak has protein per serving in terms of daily value coverage.",
+      "**Dried apricots** pack more iron per 100g than the same amount of red meat, but without the saturated fat.",
+      "**Brazil nuts** are so loaded with selenium that just 1-2 nuts a day covers your entire daily requirement.",
+      "**Mushrooms** left in sunlight for 10-15 minutes before cooking can spike their vitamin D content dramatically — most people toss them straight in the pan without knowing this.",
+      "**Chickpeas** carry more fiber per cup than a bowl of oatmeal, making them a sneaky gut-health upgrade.",
+      "**Sardines** contain more calcium per serving than a glass of milk, edible bones included.",
+      "**Hemp seeds** are one of the few plant foods with a meaningful dose of omega-3 ALA, close to 2 tablespoons/day covering a solid chunk of your needs.",
+      "**Oysters** have more zinc per serving than any other food on the planet, several times more than red meat.",
+      "**Follow along** – for more daily health tips like this."
+    ],
+    "claims": [
+      {
+        "food_a": "Pumpkin",
+        "food_b": "Banana",
+        "nutrient_key": "potassium"
+      },
+      {
+        "food_a": "Swiss chard",
+        "food_b": "Steak",
+        "nutrient_key": "vitamin_k"
+      },
+      {
+        "food_a": "Dried apricots",
+        "food_b": "Red meat",
+        "nutrient_key": "iron"
+      },
+      {
+        "food_a": "Chickpeas",
+        "food_b": "Oatmeal",
+        "nutrient_key": "fiber"
+      },
+      {
+        "food_a": "Sardines",
+        "food_b": "Milk",
+        "nutrient_key": "calcium"
+      },
+      {
+        "food_a": "Oysters",
+        "food_b": "Red meat",
+        "nutrient_key": "zinc"
+      }
+    ],
+    "caption": "Let's talk about a few of these because the mechanisms are actually wild. Brazil nuts are so selenium-dense because the trees pull the mineral from selenium-rich soil and concentrate it in the nut — which is exactly why just 1-2 a day is the max most people should eat, more than that and you risk overshooting your needs. Mushrooms work differently: they contain a compound called ergosterol that converts to vitamin D2 when hit with UV light, basically turning your countertop into a mini solar panel for 10-15 minutes. And sardines get their calcium boost from their soft, edible bones, which is why canned sardines often beat fresh fish nutritionally. Everyone's body and needs are different, so treat this as a starting point, not a prescription.\n\n@smarthealthfix is all about breaking down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you build realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "hashtags": [
+      "#healthtips",
+      "#wellness",
+      "#nutritionfacts",
+      "#vitamindeficiency",
+      "#mineralrich",
+      "#guthealth",
+      "#omega3",
+      "#seleniumrich",
+      "#plantbasednutrition",
+      "#eatthisnotthat"
+    ],
+    "extra_keywords": [
+      "nutrientdense",
+      "wellnessjourney",
+      "foodismedicine",
+      "healthyeatinghabits"
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 6,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "Pumpkin",
+          "food_b": "Banana",
+          "nutrient_key": "potassium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Swiss chard",
+          "food_b": "Steak",
+          "nutrient_key": "vitamin_k"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Chickpeas",
+          "food_b": "Oatmeal",
+          "nutrient_key": "fiber"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "Chickpeas",
+          "food_b": "Oatmeal",
+          "nutrient": "fiber",
+          "amount_a": {
+            "amount": 4.0,
+            "unit": "G",
+            "food_description": "CHICKPEAS",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 11.1,
+            "unit": "G",
+            "food_description": "OATMEAL",
+            "per": "100g"
+          },
+          "ratio": 0.36
+        }
+      }
+    ]
+  }
+}
