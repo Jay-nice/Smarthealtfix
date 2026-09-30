@@ -1,41 +1,42 @@
 {
-  "png": "output/reel_20260929_232813.png",
-  "mp4": "output/reel_20260929_232813.mp4",
-  "cover": "output/cover_20260929_232813.png",
-  "cover_bg": "white",
+  "png": "output/reel_20260930_161919.png",
+  "mp4": "output/reel_20260930_161919.mp4",
+  "cover": "output/cover_20260930_161919.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE ORGAN-FOOD PAIRINGS YOUR BODY IS WAITING FOR",
+    "title": "FOOD FACTS THAT SOUND MADE UP BUT ARE 100% REAL",
     "facts": [
-      "**Kidneys** - Cranberries, Beets, Parsley: cranberries help stop bacteria from clinging to the urinary tract, beets improve blood flow to filter waste faster.",
-      "**Liver** - Beetroot, Turmeric, Walnuts: turmeric supports enzymes that break down toxins, walnuts supply amino acids the liver uses for detox.",
-      "**Bladder** - Watermelon, Celery, Cucumber: these high-water foods flush the urinary tract and dilute irritants that cause discomfort.",
-      "**Thyroid** - Brazil nuts, Seaweed, Eggs: 2 Brazil nuts/day cover your selenium needs, seaweed provides iodine the thyroid needs to make hormones.",
-      "**Joints** - Bone broth, Cherries, Turmeric: cherries carry compounds that calm inflammation around stiff joints.",
-      "**Bones** - Sardines' cousin, canned salmon, Kale, Sesame seeds: 1 tbsp sesame seeds/day delivers a solid calcium boost for bone density.",
-      "**Ears** - Bananas, Dark chocolate, Sunflower seeds: potassium in bananas helps regulate fluid balance in the inner ear.",
-      "**Follow along** - for more daily health tips like this."
+      "**Cashews** are never sold in their shell to consumers — the shell contains a resin closely related to poison ivy's, and it has to be steamed off before the nut is safe to touch.",
+      "**Nutmeg** contains a natural compound called myristicin that, in large doses, is genuinely hallucinogenic — the same class of effect found in some synthetic drugs.",
+      "**Carrots** were originally purple, not orange — the orange variety was bred by Dutch growers in the 1600s, likely as a tribute to the House of Orange.",
+      "**Strawberries** aren't technically berries, but bananas are — botanically, a true berry needs seeds inside its flesh, which bananas have and strawberries don't.",
+      "**Almonds** are actually seeds of a fruit closely related to peaches — the fuzzy green fruit around them is usually stripped away before you ever see it.",
+      "**Wasabi** sold in most restaurants outside Japan isn't real wasabi at all — it's typically dyed horseradish, because real wasabi root is expensive and spoils fast.",
+      "**Chewing gum** has been found in the stomachs of mummies from ancient Sweden dating back over 9,000 years, made from birch bark tar people chewed for its antiseptic taste.",
+      "**Follow along** – for more surprising, fact-checked nutrition trivia like this."
     ],
     "claims": [],
-    "caption": "Your kidneys work around the clock, and cranberries can actually make their job easier - compounds in cranberries make it harder for bacteria to stick to the urinary tract walls, which is why they're often recommended for anyone prone to discomfort down there. Turmeric does something similar for your liver: it supports the enzyme pathways your liver relies on to break down and clear out toxins, so a little goes a long way when added to food regularly. And Brazil nuts are almost too easy to overlook - just 2 a day can cover your daily selenium needs, a mineral your thyroid depends on to produce hormones properly. Everyone's body is different, so listen to yours and adjust from there.\n\n@smarthealthfix is all about the basics that actually move the needle: nutrition, common health issues, the organs doing the quiet work behind the scenes, and small daily habits that add up. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these deserve a second look. Cashews are one of the only common nuts you'll never see sold raw in the shell to regular shoppers — the resin between the shell and the nut is chemically similar to urushiol, the same irritant in poison ivy, so processors steam or roast it away industrially before it ever reaches a store. Nutmeg seems harmless sprinkled on your latte, but myristicin, one of its natural oils, is metabolized by the body into a compound structurally similar to certain amphetamines — which is exactly why more than a tablespoon or two can cause real, unpleasant hallucinogenic effects. And wasabi is the one that surprises people most: true wasabi root oxidizes and loses its flavor within about 15 minutes of being grated, so almost no restaurant outside Japan can keep up with fresh supply, which is why dyed horseradish paste became the global stand-in.\n\nAt @smarthealthfix, we cover the full picture of health — nutrition, common symptoms, the organs behind them, and the small daily habits that tie it all together. Our mission is to make real, verifiable health knowledge easy to actually use, not just interesting to read.\n\nSave this post so you don't lose it, and share it with someone who loves a good random fact.",
     "hashtags": [
-      "#kidneyhealth",
-      "#liverhealth",
-      "#thyroidhealth",
-      "#bonehealth",
-      "#jointpain",
+      "#foodfacts",
+      "#nutritionfacts",
       "#healthtips",
-      "#organhealth",
       "#wellness",
-      "#nutritiontips",
-      "#healthyhabits"
+      "#didyouknow",
+      "#foodtrivia",
+      "#healthyeating",
+      "#nutritionscience",
+      "#surprisingfacts",
+      "#eatsmart"
     ],
     "extra_keywords": [
-      "naturalhealing",
+      "foodfactsdaily",
+      "nutritiontrivia",
       "wellnessjourney",
-      "organhealthtips",
-      "everydaywellness"
+      "healthyhabits",
+      "sciencefacts"
     ]
   },
-  "shape": "organ_food_list",
-  "caption": "Your kidneys work around the clock, and cranberries can actually make their job easier - compounds in cranberries make it harder for bacteria to stick to the urinary tract walls, which is why they're often recommended for anyone prone to discomfort down there. Turmeric does something similar for your liver: it supports the enzyme pathways your liver relies on to break down and clear out toxins, so a little goes a long way when added to food regularly. And Brazil nuts are almost too easy to overlook - just 2 a day can cover your daily selenium needs, a mineral your thyroid depends on to produce hormones properly. Everyone's body is different, so listen to yours and adjust from there.\n\n@smarthealthfix is all about the basics that actually move the needle: nutrition, common health issues, the organs doing the quiet work behind the scenes, and small daily habits that add up. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#kidneyhealth #liverhealth #thyroidhealth #bonehealth #jointpain #healthtips #organhealth #wellness #nutritiontips #healthyhabits naturalhealing wellnessjourney organhealthtips everydaywellness"
+  "shape": "surprising_true_fact",
+  "caption": "A few of these deserve a second look. Cashews are one of the only common nuts you'll never see sold raw in the shell to regular shoppers — the resin between the shell and the nut is chemically similar to urushiol, the same irritant in poison ivy, so processors steam or roast it away industrially before it ever reaches a store. Nutmeg seems harmless sprinkled on your latte, but myristicin, one of its natural oils, is metabolized by the body into a compound structurally similar to certain amphetamines — which is exactly why more than a tablespoon or two can cause real, unpleasant hallucinogenic effects. And wasabi is the one that surprises people most: true wasabi root oxidizes and loses its flavor within about 15 minutes of being grated, so almost no restaurant outside Japan can keep up with fresh supply, which is why dyed horseradish paste became the global stand-in.\n\nAt @smarthealthfix, we cover the full picture of health — nutrition, common symptoms, the organs behind them, and the small daily habits that tie it all together. Our mission is to make real, verifiable health knowledge easy to actually use, not just interesting to read.\n\nSave this post so you don't lose it, and share it with someone who loves a good random fact.\n\n#foodfacts #nutritionfacts #healthtips #wellness #didyouknow #foodtrivia #healthyeating #nutritionscience #surprisingfacts #eatsmart foodfactsdaily nutritiontrivia wellnessjourney healthyhabits sciencefacts"
 }
