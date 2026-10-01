@@ -1,41 +1,43 @@
 {
-  "png": "output/reel_20260930_233101.png",
-  "mp4": "output/reel_20260930_233101.mp4",
-  "cover": "output/cover_20260930_233101.png",
-  "cover_bg": "white",
+  "png": "output/reel_20261001_172225.png",
+  "mp4": "output/reel_20261001_172225.mp4",
+  "cover": "output/cover_20261001_172225.png",
+  "cover_bg": "green",
   "content": {
-    "title": "WHY YOUR 'HEALTHY' {{MORNING}} ROUTINE MIGHT BE WORKING AGAINST YOU",
+    "title": "TINY HABITS THAT QUIETLY CHANGE YOUR {{BODY}} WITHIN A WEEK",
     "facts": [
-      "**Drinking coffee first thing on an empty stomach** -> spikes cortisol and can leave your stomach lining irritated before it's had anything else to buffer it.",
-      "**Checking your phone in bed the moment you wake up** -> jolts your nervous system into alert mode before your body has naturally finished its wake-up hormone shift.",
-      "**Squeezing in a long run every single morning** -> without rest days, keeps cortisol elevated and can quietly slow muscle recovery over weeks.",
-      "**Doing an intense workout on zero breakfast** -> pushes your body to burn muscle tissue for fuel instead of fat, especially if the session runs long.",
-      "**Drinking a big glass of orange juice to 'start healthy'** -> delivers a sugar hit nearly as fast as soda, since the fiber that would slow it down is gone.",
-      "**Taking a hot shower right after waking up** -> can actually make you feel more sluggish, since heat pulls blood away from your brain and toward your skin.",
-      "**Skipping breakfast because you read fasting is trendy** -> can trigger overeating later in the day for people not used to it, undoing the intended benefit.",
+      "**Walk for 10 minutes** right after dinner — your blood sugar spike flattens out and digestion speeds up instead of sitting heavy in your stomach.",
+      "**Breathe through your nose only** for an hour a day — it filters air better and slowly trains your lungs to use oxygen more efficiently.",
+      "**Press your tongue to the roof of your mouth** while walking — it quietly strengthens posture muscles in your neck and jaw.",
+      "**Stand up every 45 minutes** at work — it keeps blood from pooling in your legs and takes pressure off your lower spine.",
+      "**Rinse dishes in cold water** before washing — it's a small habit that trains your hands to tolerate temperature stress, which can support circulation over time.",
+      "**Write down 1 thing you're grateful for** before bed — it lowers racing thoughts so you fall asleep faster.",
+      "**Chew each bite 20 times** at dinner — your stomach gets a head start on digestion and you naturally eat less without trying.",
+      "**Keep your phone in another room overnight** — your brain gets uninterrupted deep sleep instead of fragmented light sleep from notification glow.",
+      "**Stretch your calves for 60 seconds** before bed — it eases tension that builds up from a full day of standing or sitting.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Let's talk about a few of these. **Coffee** on an empty stomach doesn't just wake you up — it stacks caffeine's own cortisol spike on top of your body's natural morning cortisol surge, which is why some people feel jittery or get an upset stomach within the hour. **Orange juice** feels like a fresh, virtuous choice, but once the fiber is stripped out during juicing, that natural sugar hits your bloodstream almost as fast as a soda would, spiking insulin before 9am. And that **hot shower** habit? Heat dilates blood vessels near your skin, pulling blood flow away from your core and brain, which is part of why some people feel groggier, not sharper, right after. Everyone's body responds a little differently, so notice what actually leaves you feeling good.\n\n@smarthealthfix is all about the small stuff — nutrition, common aches and symptoms, how your organs actually work, and the tiny daily habits that quietly shape your health. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Small changes add up faster than people expect. Take the nose breathing habit — breathing through your nose instead of your mouth adds natural resistance to your airflow, which slowly builds lung efficiency and even helps regulate your nervous system toward calm. Then there's the tongue posture trick — resting your tongue on the roof of your mouth activates small stabilizing muscles around your jaw and neck that most people never engage, which can ease tension headaches over time. And chewing slowly isn't just about digestion — it gives your brain time to register fullness signals from your stomach, so you stop eating before you're overly full. Everyone's body responds a little differently, so pay attention to what you notice in yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits like these. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs a little nudge today.",
     "hashtags": [
+      "#dailyhabits",
       "#healthtips",
-      "#morningroutine",
       "#wellness",
-      "#guthealth",
-      "#cortisol",
-      "#healthyhabits",
-      "#nutritionfacts",
-      "#hormonebalance",
-      "#mindfulmorning",
-      "#wellnessjourney"
+      "#smallhabits",
+      "#betterposture",
+      "#sleephacks",
+      "#mindfuleating",
+      "#nervoussystem",
+      "#selfcare",
+      "#healthylifestyle"
     ],
     "extra_keywords": [
+      "habitstacking",
+      "wellnessjourney",
       "naturalhealing",
-      "dailyhabits",
-      "healthawareness",
-      "bodytips"
+      "healthyroutine"
     ]
   },
-  "shape": "habit_harm_reveal",
-  "caption": "Let's talk about a few of these. **Coffee** on an empty stomach doesn't just wake you up — it stacks caffeine's own cortisol spike on top of your body's natural morning cortisol surge, which is why some people feel jittery or get an upset stomach within the hour. **Orange juice** feels like a fresh, virtuous choice, but once the fiber is stripped out during juicing, that natural sugar hits your bloodstream almost as fast as a soda would, spiking insulin before 9am. And that **hot shower** habit? Heat dilates blood vessels near your skin, pulling blood flow away from your core and brain, which is part of why some people feel groggier, not sharper, right after. Everyone's body responds a little differently, so notice what actually leaves you feeling good.\n\n@smarthealthfix is all about the small stuff — nutrition, common aches and symptoms, how your organs actually work, and the tiny daily habits that quietly shape your health. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #morningroutine #wellness #guthealth #cortisol #healthyhabits #nutritionfacts #hormonebalance #mindfulmorning #wellnessjourney naturalhealing dailyhabits healthawareness bodytips"
+  "shape": "numbered_explainer",
+  "caption": "Small changes add up faster than people expect. Take the nose breathing habit — breathing through your nose instead of your mouth adds natural resistance to your airflow, which slowly builds lung efficiency and even helps regulate your nervous system toward calm. Then there's the tongue posture trick — resting your tongue on the roof of your mouth activates small stabilizing muscles around your jaw and neck that most people never engage, which can ease tension headaches over time. And chewing slowly isn't just about digestion — it gives your brain time to register fullness signals from your stomach, so you stop eating before you're overly full. Everyone's body responds a little differently, so pay attention to what you notice in yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits like these. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs a little nudge today.\n\n#dailyhabits #healthtips #wellness #smallhabits #betterposture #sleephacks #mindfuleating #nervoussystem #selfcare #healthylifestyle habitstacking wellnessjourney naturalhealing healthyroutine"
 }
