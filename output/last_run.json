@@ -1,43 +1,44 @@
 {
-  "png": "output/reel_20261001_201919.png",
-  "mp4": "output/reel_20261001_201919.mp4",
-  "cover": "output/cover_20261001_201919.png",
-  "cover_bg": "white",
+  "png": "output/reel_20261001_234315.png",
+  "mp4": "output/reel_20261001_234315.mp4",
+  "cover": "output/cover_20261001_234315.png",
+  "cover_bg": "green",
   "content": {
-    "title": "COOKING MISTAKES THAT QUIETLY DRAIN THE NUTRIENTS RIGHT OUT OF YOUR FOOD",
+    "title": "YOUR DAILY HEALTH CHEAT SHEET {{NOBODY}} GAVE YOU",
     "facts": [
-      "**Boiling broccoli** – Dunking it in water for more than a few minutes leaches out most of its vitamin C; steam it for 5 minutes instead to keep it intact.",
-      "**Draining pasta water** – You're pouring starchy, mineral-rich water down the sink; save a splash for sauces to thicken them naturally without extra cream.",
-      "**Microwaving in plastic** – Heat can cause containers to leach chemicals into your food; switch to glass or ceramic before reheating.",
-      "**Searing cold meat** – Cooking straight from the fridge makes the outside burn before the inside finishes; let meat sit out 20 minutes first for even cooking.",
-      "**Tossing egg yolks** – The yolk holds nearly all the egg's vitamin D, choline, and healthy fats; the white is mostly just protein.",
-      "**Overcrowding the pan** – Too many vegetables at once traps steam and makes them soggy instead of browned; cook in batches for better texture and flavor.",
-      "**Adding oil too early** – Heating oil past its smoke point breaks it down into harmful compounds; add delicate oils like olive oil after cooking instead.",
-      "**Rinsing cooked rice** – Washing it after cooking strips away the surface starch that helps sauces and seasonings cling to each grain.",
-      "**Salting vegetables too late** – Seasoning only at the end means the flavor stays on the surface; a pinch early on lets it absorb throughout.",
+      "**Pumpkin seeds** -> 1 oz (28g)/day -> Calmer nervous system",
+      "**Cold water** -> 2 liters/day -> Sharper focus",
+      "**Sunlight** -> 15 min before noon -> Deeper sleep tonight",
+      "**Dark chocolate** -> 1 small square/day -> Lower stress hormones",
+      "**Bodyweight squats** -> 20 reps/day -> Stronger joints fast",
+      "**Journaling** -> 3 minutes before bed -> Quieter racing mind",
+      "**Sardines** -> 2x/week -> Smoother joint movement",
+      "**Deep breathing** -> 5 minutes/day -> Lower resting heart rate",
+      "**Power naps** -> 20 minutes max -> Sharper afternoon energy",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Let's talk about a few of these, because the 'why' matters more than the rule. Boiling broccoli isn't just about losing a vitamin on a label — vitamin C is water-soluble, so the longer it sits in hot water, the more it literally dissolves out of the florets and ends up down your drain. Steaming keeps the nutrient trapped inside where it belongs. Egg yolks get a bad reputation, but that golden center is where choline lives, a nutrient your brain and liver actually rely on daily — skipping it for egg whites only means you're left with protein and missing out on everything else. And that pasta water you're dumping? It's loaded with resistant starch that acts almost like a natural thickener, binding your sauce to the noodles instead of leaving it pooling at the bottom of the bowl. Everyone's kitchen habits are different, so just notice which of these you're doing without realizing it.\n\nThis is what @smarthealthfix is all about — breaking down nutrition, common health issues, organs, and small daily habits into things you can actually use. Our mission is to help you build small, realistic changes instead of chasing extreme diets or quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of today's picks do more than they get credit for. Pumpkin seeds are loaded with magnesium and tryptophan, two compounds your brain uses to calm overactive stress signals and ease you into rest. Sardines bring a dose of omega-3s straight to your joints, helping reduce the low-grade inflammation that makes mornings feel stiffer than they should. And that short burst of sunlight before noon isn't just pleasant, it helps set your internal clock so your body knows when to release melatonin hours later, which is why it quietly improves sleep that same night. Everyone's body responds a little differently, so pay attention to what actually shifts for you.\n\nThis is what we do over at @smarthealthfix: we connect the dots between nutrition, common health complaints, your organs, and the tiny daily habits that influence all of it. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
-      "#cookingmistakes",
-      "#healthycooking",
-      "#nutritionfacts",
-      "#mealprep",
-      "#kitchentips",
       "#wellness",
-      "#eatclean",
-      "#foodfacts",
-      "#healthykitchen"
+      "#dailyhabits",
+      "#guthealth",
+      "#betterSleep",
+      "#stressrelief",
+      "#nutritionfacts",
+      "#healthyhabits",
+      "#jointhealth",
+      "#mindsettips"
     ],
     "extra_keywords": [
-      "nutritiontips",
-      "healthyeating",
-      "cookingsmarter",
-      "wellnessjourney"
+      "naturalhealing",
+      "wellnessjourney",
+      "healthyroutine",
+      "dailyhealthtips",
+      "selfcarehabits"
     ]
   },
-  "shape": "myth_bust",
-  "caption": "Let's talk about a few of these, because the 'why' matters more than the rule. Boiling broccoli isn't just about losing a vitamin on a label — vitamin C is water-soluble, so the longer it sits in hot water, the more it literally dissolves out of the florets and ends up down your drain. Steaming keeps the nutrient trapped inside where it belongs. Egg yolks get a bad reputation, but that golden center is where choline lives, a nutrient your brain and liver actually rely on daily — skipping it for egg whites only means you're left with protein and missing out on everything else. And that pasta water you're dumping? It's loaded with resistant starch that acts almost like a natural thickener, binding your sauce to the noodles instead of leaving it pooling at the bottom of the bowl. Everyone's kitchen habits are different, so just notice which of these you're doing without realizing it.\n\nThis is what @smarthealthfix is all about — breaking down nutrition, common health issues, organs, and small daily habits into things you can actually use. Our mission is to help you build small, realistic changes instead of chasing extreme diets or quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #cookingmistakes #healthycooking #nutritionfacts #mealprep #kitchentips #wellness #eatclean #foodfacts #healthykitchen nutritiontips healthyeating cookingsmarter wellnessjourney"
+  "shape": "daily_dose_habit",
+  "caption": "A few of today's picks do more than they get credit for. Pumpkin seeds are loaded with magnesium and tryptophan, two compounds your brain uses to calm overactive stress signals and ease you into rest. Sardines bring a dose of omega-3s straight to your joints, helping reduce the low-grade inflammation that makes mornings feel stiffer than they should. And that short burst of sunlight before noon isn't just pleasant, it helps set your internal clock so your body knows when to release melatonin hours later, which is why it quietly improves sleep that same night. Everyone's body responds a little differently, so pay attention to what actually shifts for you.\n\nThis is what we do over at @smarthealthfix: we connect the dots between nutrition, common health complaints, your organs, and the tiny daily habits that influence all of it. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #dailyhabits #guthealth #betterSleep #stressrelief #nutritionfacts #healthyhabits #jointhealth #mindsettips naturalhealing wellnessjourney healthyroutine dailyhealthtips selfcarehabits"
 }
