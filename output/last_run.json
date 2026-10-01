@@ -1,43 +1,43 @@
 {
-  "png": "output/reel_20261001_172225.png",
-  "mp4": "output/reel_20261001_172225.mp4",
-  "cover": "output/cover_20261001_172225.png",
-  "cover_bg": "green",
+  "png": "output/reel_20261001_201919.png",
+  "mp4": "output/reel_20261001_201919.mp4",
+  "cover": "output/cover_20261001_201919.png",
+  "cover_bg": "white",
   "content": {
-    "title": "TINY HABITS THAT QUIETLY CHANGE YOUR {{BODY}} WITHIN A WEEK",
+    "title": "COOKING MISTAKES THAT QUIETLY DRAIN THE NUTRIENTS RIGHT OUT OF YOUR FOOD",
     "facts": [
-      "**Walk for 10 minutes** right after dinner — your blood sugar spike flattens out and digestion speeds up instead of sitting heavy in your stomach.",
-      "**Breathe through your nose only** for an hour a day — it filters air better and slowly trains your lungs to use oxygen more efficiently.",
-      "**Press your tongue to the roof of your mouth** while walking — it quietly strengthens posture muscles in your neck and jaw.",
-      "**Stand up every 45 minutes** at work — it keeps blood from pooling in your legs and takes pressure off your lower spine.",
-      "**Rinse dishes in cold water** before washing — it's a small habit that trains your hands to tolerate temperature stress, which can support circulation over time.",
-      "**Write down 1 thing you're grateful for** before bed — it lowers racing thoughts so you fall asleep faster.",
-      "**Chew each bite 20 times** at dinner — your stomach gets a head start on digestion and you naturally eat less without trying.",
-      "**Keep your phone in another room overnight** — your brain gets uninterrupted deep sleep instead of fragmented light sleep from notification glow.",
-      "**Stretch your calves for 60 seconds** before bed — it eases tension that builds up from a full day of standing or sitting.",
+      "**Boiling broccoli** – Dunking it in water for more than a few minutes leaches out most of its vitamin C; steam it for 5 minutes instead to keep it intact.",
+      "**Draining pasta water** – You're pouring starchy, mineral-rich water down the sink; save a splash for sauces to thicken them naturally without extra cream.",
+      "**Microwaving in plastic** – Heat can cause containers to leach chemicals into your food; switch to glass or ceramic before reheating.",
+      "**Searing cold meat** – Cooking straight from the fridge makes the outside burn before the inside finishes; let meat sit out 20 minutes first for even cooking.",
+      "**Tossing egg yolks** – The yolk holds nearly all the egg's vitamin D, choline, and healthy fats; the white is mostly just protein.",
+      "**Overcrowding the pan** – Too many vegetables at once traps steam and makes them soggy instead of browned; cook in batches for better texture and flavor.",
+      "**Adding oil too early** – Heating oil past its smoke point breaks it down into harmful compounds; add delicate oils like olive oil after cooking instead.",
+      "**Rinsing cooked rice** – Washing it after cooking strips away the surface starch that helps sauces and seasonings cling to each grain.",
+      "**Salting vegetables too late** – Seasoning only at the end means the flavor stays on the surface; a pinch early on lets it absorb throughout.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Small changes add up faster than people expect. Take the nose breathing habit — breathing through your nose instead of your mouth adds natural resistance to your airflow, which slowly builds lung efficiency and even helps regulate your nervous system toward calm. Then there's the tongue posture trick — resting your tongue on the roof of your mouth activates small stabilizing muscles around your jaw and neck that most people never engage, which can ease tension headaches over time. And chewing slowly isn't just about digestion — it gives your brain time to register fullness signals from your stomach, so you stop eating before you're overly full. Everyone's body responds a little differently, so pay attention to what you notice in yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits like these. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs a little nudge today.",
+    "caption": "Let's talk about a few of these, because the 'why' matters more than the rule. Boiling broccoli isn't just about losing a vitamin on a label — vitamin C is water-soluble, so the longer it sits in hot water, the more it literally dissolves out of the florets and ends up down your drain. Steaming keeps the nutrient trapped inside where it belongs. Egg yolks get a bad reputation, but that golden center is where choline lives, a nutrient your brain and liver actually rely on daily — skipping it for egg whites only means you're left with protein and missing out on everything else. And that pasta water you're dumping? It's loaded with resistant starch that acts almost like a natural thickener, binding your sauce to the noodles instead of leaving it pooling at the bottom of the bowl. Everyone's kitchen habits are different, so just notice which of these you're doing without realizing it.\n\nThis is what @smarthealthfix is all about — breaking down nutrition, common health issues, organs, and small daily habits into things you can actually use. Our mission is to help you build small, realistic changes instead of chasing extreme diets or quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#dailyhabits",
       "#healthtips",
+      "#cookingmistakes",
+      "#healthycooking",
+      "#nutritionfacts",
+      "#mealprep",
+      "#kitchentips",
       "#wellness",
-      "#smallhabits",
-      "#betterposture",
-      "#sleephacks",
-      "#mindfuleating",
-      "#nervoussystem",
-      "#selfcare",
-      "#healthylifestyle"
+      "#eatclean",
+      "#foodfacts",
+      "#healthykitchen"
     ],
     "extra_keywords": [
-      "habitstacking",
-      "wellnessjourney",
-      "naturalhealing",
-      "healthyroutine"
+      "nutritiontips",
+      "healthyeating",
+      "cookingsmarter",
+      "wellnessjourney"
     ]
   },
-  "shape": "numbered_explainer",
-  "caption": "Small changes add up faster than people expect. Take the nose breathing habit — breathing through your nose instead of your mouth adds natural resistance to your airflow, which slowly builds lung efficiency and even helps regulate your nervous system toward calm. Then there's the tongue posture trick — resting your tongue on the roof of your mouth activates small stabilizing muscles around your jaw and neck that most people never engage, which can ease tension headaches over time. And chewing slowly isn't just about digestion — it gives your brain time to register fullness signals from your stomach, so you stop eating before you're overly full. Everyone's body responds a little differently, so pay attention to what you notice in yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits like these. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs a little nudge today.\n\n#dailyhabits #healthtips #wellness #smallhabits #betterposture #sleephacks #mindfuleating #nervoussystem #selfcare #healthylifestyle habitstacking wellnessjourney naturalhealing healthyroutine"
+  "shape": "myth_bust",
+  "caption": "Let's talk about a few of these, because the 'why' matters more than the rule. Boiling broccoli isn't just about losing a vitamin on a label — vitamin C is water-soluble, so the longer it sits in hot water, the more it literally dissolves out of the florets and ends up down your drain. Steaming keeps the nutrient trapped inside where it belongs. Egg yolks get a bad reputation, but that golden center is where choline lives, a nutrient your brain and liver actually rely on daily — skipping it for egg whites only means you're left with protein and missing out on everything else. And that pasta water you're dumping? It's loaded with resistant starch that acts almost like a natural thickener, binding your sauce to the noodles instead of leaving it pooling at the bottom of the bowl. Everyone's kitchen habits are different, so just notice which of these you're doing without realizing it.\n\nThis is what @smarthealthfix is all about — breaking down nutrition, common health issues, organs, and small daily habits into things you can actually use. Our mission is to help you build small, realistic changes instead of chasing extreme diets or quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #cookingmistakes #healthycooking #nutritionfacts #mealprep #kitchentips #wellness #eatclean #foodfacts #healthykitchen nutritiontips healthyeating cookingsmarter wellnessjourney"
 }
