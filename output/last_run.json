@@ -1,44 +1,40 @@
 {
-  "png": "output/reel_20261001_234315.png",
-  "mp4": "output/reel_20261001_234315.mp4",
-  "cover": "output/cover_20261001_234315.png",
-  "cover_bg": "green",
+  "png": "output/reel_20261002_160932.png",
+  "mp4": "output/reel_20261002_160932.mp4",
+  "cover": "output/cover_20261002_160932.png",
+  "cover_bg": "white",
   "content": {
-    "title": "YOUR DAILY HEALTH CHEAT SHEET {{NOBODY}} GAVE YOU",
+    "title": "THE SNACK DRAWER FIX FOR {{BLOATING}} NOBODY TALKS ABOUT",
     "facts": [
-      "**Pumpkin seeds** -> 1 oz (28g)/day -> Calmer nervous system",
-      "**Cold water** -> 2 liters/day -> Sharper focus",
-      "**Sunlight** -> 15 min before noon -> Deeper sleep tonight",
-      "**Dark chocolate** -> 1 small square/day -> Lower stress hormones",
-      "**Bodyweight squats** -> 20 reps/day -> Stronger joints fast",
-      "**Journaling** -> 3 minutes before bed -> Quieter racing mind",
-      "**Sardines** -> 2x/week -> Smoother joint movement",
-      "**Deep breathing** -> 5 minutes/day -> Lower resting heart rate",
-      "**Power naps** -> 20 minutes max -> Sharper afternoon energy",
+      "**Fennel seeds** – chew 1 tsp after a heavy meal, they relax gut muscles and ease trapped gas fast.",
+      "**Papaya** – contains papain, an enzyme that breaks down protein so it stops sitting heavy in your stomach.",
+      "**Peppermint tea** – 1 cup after eating calms the intestinal spasms behind that tight, swollen feeling.",
+      "**Cucumber** – high water content flushes out the extra sodium that makes you puff up overnight.",
+      "**Ginger slices** – steep 3-4 slices in hot water to speed up stomach emptying when you feel stuck and full.",
+      "**Asparagus** – acts as a natural diuretic, helping your body release water weight within hours.",
+      "**Plain yogurt** – 1 small bowl adds live cultures that quiet down gas-producing bacteria in your gut.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of today's picks do more than they get credit for. Pumpkin seeds are loaded with magnesium and tryptophan, two compounds your brain uses to calm overactive stress signals and ease you into rest. Sardines bring a dose of omega-3s straight to your joints, helping reduce the low-grade inflammation that makes mornings feel stiffer than they should. And that short burst of sunlight before noon isn't just pleasant, it helps set your internal clock so your body knows when to release melatonin hours later, which is why it quietly improves sleep that same night. Everyone's body responds a little differently, so pay attention to what actually shifts for you.\n\nThis is what we do over at @smarthealthfix: we connect the dots between nutrition, common health complaints, your organs, and the tiny daily habits that influence all of it. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "If bloating hits you after almost every meal, a few kitchen staples can calm it down faster than you'd expect. Fennel seeds work because they relax the smooth muscle lining your gut, which lets trapped gas move through instead of sitting there pressing on your stomach. Papaya helps for a different reason: the papain enzyme it contains pre-digests protein, so your stomach doesn't have to work as hard after a heavy meal, which means less fermentation and less gas. Peppermint tea calms the spasms in your intestinal wall, the same spasms that create that tight, swollen feeling about an hour after eating. Everyone's gut reacts a little differently, so pay attention to which one actually settles yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and small daily habits that add up over time. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#bloatingrelief",
+      "#guthealth",
+      "#digestivehealth",
       "#healthtips",
       "#wellness",
-      "#dailyhabits",
-      "#guthealth",
-      "#betterSleep",
-      "#stressrelief",
-      "#nutritionfacts",
+      "#naturalremedies",
+      "#foodismedicine",
       "#healthyhabits",
-      "#jointhealth",
-      "#mindsettips"
+      "#stomachissues"
     ],
     "extra_keywords": [
+      "guttips",
+      "digestivehealthtips",
       "naturalhealing",
-      "wellnessjourney",
-      "healthyroutine",
-      "dailyhealthtips",
-      "selfcarehabits"
+      "bloatfree"
     ]
   },
-  "shape": "daily_dose_habit",
-  "caption": "A few of today's picks do more than they get credit for. Pumpkin seeds are loaded with magnesium and tryptophan, two compounds your brain uses to calm overactive stress signals and ease you into rest. Sardines bring a dose of omega-3s straight to your joints, helping reduce the low-grade inflammation that makes mornings feel stiffer than they should. And that short burst of sunlight before noon isn't just pleasant, it helps set your internal clock so your body knows when to release melatonin hours later, which is why it quietly improves sleep that same night. Everyone's body responds a little differently, so pay attention to what actually shifts for you.\n\nThis is what we do over at @smarthealthfix: we connect the dots between nutrition, common health complaints, your organs, and the tiny daily habits that influence all of it. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #dailyhabits #guthealth #betterSleep #stressrelief #nutritionfacts #healthyhabits #jointhealth #mindsettips naturalhealing wellnessjourney healthyroutine dailyhealthtips selfcarehabits"
+  "shape": "problem_food_mapping",
+  "caption": "If bloating hits you after almost every meal, a few kitchen staples can calm it down faster than you'd expect. Fennel seeds work because they relax the smooth muscle lining your gut, which lets trapped gas move through instead of sitting there pressing on your stomach. Papaya helps for a different reason: the papain enzyme it contains pre-digests protein, so your stomach doesn't have to work as hard after a heavy meal, which means less fermentation and less gas. Peppermint tea calms the spasms in your intestinal wall, the same spasms that create that tight, swollen feeling about an hour after eating. Everyone's gut reacts a little differently, so pay attention to which one actually settles yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and small daily habits that add up over time. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#bloatingrelief #guthealth #digestivehealth #healthtips #wellness #naturalremedies #foodismedicine #healthyhabits #stomachissues guttips digestivehealthtips naturalhealing bloatfree"
 }
