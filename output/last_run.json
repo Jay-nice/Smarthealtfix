@@ -1,40 +1,41 @@
 {
-  "png": "output/reel_20261002_160932.png",
-  "mp4": "output/reel_20261002_160932.mp4",
-  "cover": "output/cover_20261002_160932.png",
-  "cover_bg": "white",
+  "png": "output/reel_20261002_195319.png",
+  "mp4": "output/reel_20261002_195319.mp4",
+  "cover": "output/cover_20261002_195319.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE SNACK DRAWER FIX FOR {{BLOATING}} NOBODY TALKS ABOUT",
+    "title": "THE {{ORGANS}} NOBODY THINKS TO FEED UNTIL THEY FAIL",
     "facts": [
-      "**Fennel seeds** – chew 1 tsp after a heavy meal, they relax gut muscles and ease trapped gas fast.",
-      "**Papaya** – contains papain, an enzyme that breaks down protein so it stops sitting heavy in your stomach.",
-      "**Peppermint tea** – 1 cup after eating calms the intestinal spasms behind that tight, swollen feeling.",
-      "**Cucumber** – high water content flushes out the extra sodium that makes you puff up overnight.",
-      "**Ginger slices** – steep 3-4 slices in hot water to speed up stomach emptying when you feel stuck and full.",
-      "**Asparagus** – acts as a natural diuretic, helping your body release water weight within hours.",
-      "**Plain yogurt** – 1 small bowl adds live cultures that quiet down gas-producing bacteria in your gut.",
-      "**Follow along** – for more daily health tips like this."
+      "**Pancreas** - Broccoli sprouts, Spinach, Turmeric",
+      "**Bladder** - Cranberries, Celery, Watermelon",
+      "**Gallbladder** - Beets, Lemon water, Olive oil",
+      "**Thyroid** - Brazil nuts, Seaweed, Eggs",
+      "**Spleen** - Beef liver, Pomegranate, Lentils",
+      "**Joints & cartilage** - Bone broth, Oranges, Walnuts",
+      "**Follow along** - for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "If bloating hits you after almost every meal, a few kitchen staples can calm it down faster than you'd expect. Fennel seeds work because they relax the smooth muscle lining your gut, which lets trapped gas move through instead of sitting there pressing on your stomach. Papaya helps for a different reason: the papain enzyme it contains pre-digests protein, so your stomach doesn't have to work as hard after a heavy meal, which means less fermentation and less gas. Peppermint tea calms the spasms in your intestinal wall, the same spasms that create that tight, swollen feeling about an hour after eating. Everyone's gut reacts a little differently, so pay attention to which one actually settles yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and small daily habits that add up over time. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Your pancreas quietly runs your blood sugar behind the scenes, and broccoli sprouts are loaded with sulforaphane, a compound that helps calm inflammation around insulin-producing cells. Spinach adds magnesium, a mineral that's directly involved in how your body processes glucose, so a shortage can leave your pancreas working overtime. Your bladder gets a lot less love, but cranberries contain compounds that make it harder for bacteria to cling to the bladder wall in the first place, which is why they're linked to fewer recurring infections. And don't sleep on your thyroid - brazil nuts are one of the richest natural sources of selenium, a mineral your thyroid needs to convert its hormones into the active form your cells can actually use. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we focus on nutrition, common health issues, the organs behind them, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#bloatingrelief",
-      "#guthealth",
-      "#digestivehealth",
+      "#pancreashealth",
+      "#bladderhealth",
+      "#thyroidsupport",
+      "#organhealth",
       "#healthtips",
       "#wellness",
-      "#naturalremedies",
-      "#foodismedicine",
-      "#healthyhabits",
-      "#stomachissues"
+      "#guthealth",
+      "#antiinflammatory",
+      "#nutritiontips",
+      "#healthyliving"
     ],
     "extra_keywords": [
-      "guttips",
-      "digestivehealthtips",
+      "organhealth",
+      "wellnessjourney",
       "naturalhealing",
-      "bloatfree"
+      "healthyeating",
+      "bodyawareness"
     ]
   },
-  "shape": "problem_food_mapping",
-  "caption": "If bloating hits you after almost every meal, a few kitchen staples can calm it down faster than you'd expect. Fennel seeds work because they relax the smooth muscle lining your gut, which lets trapped gas move through instead of sitting there pressing on your stomach. Papaya helps for a different reason: the papain enzyme it contains pre-digests protein, so your stomach doesn't have to work as hard after a heavy meal, which means less fermentation and less gas. Peppermint tea calms the spasms in your intestinal wall, the same spasms that create that tight, swollen feeling about an hour after eating. Everyone's gut reacts a little differently, so pay attention to which one actually settles yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and small daily habits that add up over time. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#bloatingrelief #guthealth #digestivehealth #healthtips #wellness #naturalremedies #foodismedicine #healthyhabits #stomachissues guttips digestivehealthtips naturalhealing bloatfree"
+  "shape": "organ_food_list",
+  "caption": "Your pancreas quietly runs your blood sugar behind the scenes, and broccoli sprouts are loaded with sulforaphane, a compound that helps calm inflammation around insulin-producing cells. Spinach adds magnesium, a mineral that's directly involved in how your body processes glucose, so a shortage can leave your pancreas working overtime. Your bladder gets a lot less love, but cranberries contain compounds that make it harder for bacteria to cling to the bladder wall in the first place, which is why they're linked to fewer recurring infections. And don't sleep on your thyroid - brazil nuts are one of the richest natural sources of selenium, a mineral your thyroid needs to convert its hormones into the active form your cells can actually use. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we focus on nutrition, common health issues, the organs behind them, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#pancreashealth #bladderhealth #thyroidsupport #organhealth #healthtips #wellness #guthealth #antiinflammatory #nutritiontips #healthyliving organhealth wellnessjourney naturalhealing healthyeating bodyawareness"
 }
