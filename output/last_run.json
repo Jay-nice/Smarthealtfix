@@ -1,41 +1,41 @@
 {
-  "png": "output/reel_20261002_195319.png",
-  "mp4": "output/reel_20261002_195319.mp4",
-  "cover": "output/cover_20261002_195319.png",
-  "cover_bg": "green",
+  "png": "output/reel_20261002_233437.png",
+  "mp4": "output/reel_20261002_233437.mp4",
+  "cover": "output/cover_20261002_233437.png",
+  "cover_bg": "white",
   "content": {
-    "title": "THE {{ORGANS}} NOBODY THINKS TO FEED UNTIL THEY FAIL",
+    "title": "THE MINERAL YOUR {{THYROID}} CAN'T FUNCTION WITHOUT",
     "facts": [
-      "**Pancreas** - Broccoli sprouts, Spinach, Turmeric",
-      "**Bladder** - Cranberries, Celery, Watermelon",
-      "**Gallbladder** - Beets, Lemon water, Olive oil",
-      "**Thyroid** - Brazil nuts, Seaweed, Eggs",
-      "**Spleen** - Beef liver, Pomegranate, Lentils",
-      "**Joints & cartilage** - Bone broth, Oranges, Walnuts",
-      "**Follow along** - for more daily health tips like this."
+      "**Iodine** (Thyroid's Best Friend) — Seaweed | Cod | Dairy Milk | Eggs",
+      "**Copper** (Energy Converter) — Beef Liver | Cashew Butter | Lentils | Shiitake Mushrooms",
+      "**Manganese** (Bone Builder) — Mussels | Brown Rice | Pineapple | Hazelnuts",
+      "**Potassium** (Blood Pressure Tamer) — Sweet Potato | White Beans | Coconut Water | Dried Apricots",
+      "**Selenium** (Cell Defender) — Brazil Nuts | Tuna | Turkey | Brown Rice",
+      "**Zinc** (Wound Healer) — Oysters | Pumpkin Hummus | Chickpeas | Beef",
+      "**Calcium** (Nerve Signal Sender) — Sardine Bones | Kale | Tahini | Fortified Tofu",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Your pancreas quietly runs your blood sugar behind the scenes, and broccoli sprouts are loaded with sulforaphane, a compound that helps calm inflammation around insulin-producing cells. Spinach adds magnesium, a mineral that's directly involved in how your body processes glucose, so a shortage can leave your pancreas working overtime. Your bladder gets a lot less love, but cranberries contain compounds that make it harder for bacteria to cling to the bladder wall in the first place, which is why they're linked to fewer recurring infections. And don't sleep on your thyroid - brazil nuts are one of the richest natural sources of selenium, a mineral your thyroid needs to convert its hormones into the active form your cells can actually use. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we focus on nutrition, common health issues, the organs behind them, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Your thyroid runs almost entirely on iodine — without enough of it, the gland can't produce the hormones that control your metabolism, so even perfect eating habits can feel like they're not working. Copper quietly works alongside iron to help your red blood cells carry oxygen efficiently, which is why low copper can leave you feeling drained even when your iron levels look fine. And selenium acts like a shield inside your cells, helping neutralize the oxidative stress that builds up from everyday life, stress, and poor sleep. Everyone's body is different, so it's worth paying attention to how you personally respond.\n\n@smarthealthfix is all about the small, overlooked pieces of your health — nutrition, common symptoms, organ function, and daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#pancreashealth",
-      "#bladderhealth",
-      "#thyroidsupport",
-      "#organhealth",
-      "#healthtips",
-      "#wellness",
+      "#mineralhealth",
+      "#thyroidhealth",
+      "#iodine",
+      "#selenium",
+      "#zincrich",
       "#guthealth",
-      "#antiinflammatory",
-      "#nutritiontips",
-      "#healthyliving"
+      "#nutritionfacts",
+      "#healthtips",
+      "#wellnessjourney",
+      "#nutrientdense"
     ],
     "extra_keywords": [
-      "organhealth",
-      "wellnessjourney",
-      "naturalhealing",
-      "healthyeating",
-      "bodyawareness"
+      "mineraldeficiency",
+      "wholefoodnutrition",
+      "healthyhabits",
+      "nutritiontips"
     ]
   },
-  "shape": "organ_food_list",
-  "caption": "Your pancreas quietly runs your blood sugar behind the scenes, and broccoli sprouts are loaded with sulforaphane, a compound that helps calm inflammation around insulin-producing cells. Spinach adds magnesium, a mineral that's directly involved in how your body processes glucose, so a shortage can leave your pancreas working overtime. Your bladder gets a lot less love, but cranberries contain compounds that make it harder for bacteria to cling to the bladder wall in the first place, which is why they're linked to fewer recurring infections. And don't sleep on your thyroid - brazil nuts are one of the richest natural sources of selenium, a mineral your thyroid needs to convert its hormones into the active form your cells can actually use. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we focus on nutrition, common health issues, the organs behind them, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#pancreashealth #bladderhealth #thyroidsupport #organhealth #healthtips #wellness #guthealth #antiinflammatory #nutritiontips #healthyliving organhealth wellnessjourney naturalhealing healthyeating bodyawareness"
+  "shape": "mineral_sources",
+  "caption": "Your thyroid runs almost entirely on iodine — without enough of it, the gland can't produce the hormones that control your metabolism, so even perfect eating habits can feel like they're not working. Copper quietly works alongside iron to help your red blood cells carry oxygen efficiently, which is why low copper can leave you feeling drained even when your iron levels look fine. And selenium acts like a shield inside your cells, helping neutralize the oxidative stress that builds up from everyday life, stress, and poor sleep. Everyone's body is different, so it's worth paying attention to how you personally respond.\n\n@smarthealthfix is all about the small, overlooked pieces of your health — nutrition, common symptoms, organ function, and daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#mineralhealth #thyroidhealth #iodine #selenium #zincrich #guthealth #nutritionfacts #healthtips #wellnessjourney #nutrientdense mineraldeficiency wholefoodnutrition healthyhabits nutritiontips"
 }
