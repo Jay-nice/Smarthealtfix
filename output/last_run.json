@@ -1,41 +1,44 @@
 {
-  "png": "output/reel_20261002_233437.png",
-  "mp4": "output/reel_20261002_233437.mp4",
-  "cover": "output/cover_20261002_233437.png",
-  "cover_bg": "white",
+  "png": "output/reel_20261003_143649.png",
+  "mp4": "output/reel_20261003_143649.mp4",
+  "cover": "output/cover_20261003_143649.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE MINERAL YOUR {{THYROID}} CAN'T FUNCTION WITHOUT",
+    "title": "THE ORGAN-FOOD PAIRINGS MOST PEOPLE GET BACKWARDS",
     "facts": [
-      "**Iodine** (Thyroid's Best Friend) — Seaweed | Cod | Dairy Milk | Eggs",
-      "**Copper** (Energy Converter) — Beef Liver | Cashew Butter | Lentils | Shiitake Mushrooms",
-      "**Manganese** (Bone Builder) — Mussels | Brown Rice | Pineapple | Hazelnuts",
-      "**Potassium** (Blood Pressure Tamer) — Sweet Potato | White Beans | Coconut Water | Dried Apricots",
-      "**Selenium** (Cell Defender) — Brazil Nuts | Tuna | Turkey | Brown Rice",
-      "**Zinc** (Wound Healer) — Oysters | Pumpkin Hummus | Chickpeas | Beef",
-      "**Calcium** (Nerve Signal Sender) — Sardine Bones | Kale | Tahini | Fortified Tofu",
+      "**BEETS are good for LIVER** – the natural pigment betalain helps your liver flush out toxins instead of letting them recirculate.",
+      "**WALNUTS are good for BRAIN** – their omega-3 fats cross the blood-brain barrier and support memory and focus, 7 walnuts/day is plenty.",
+      "**OATS are good for HEART** – the beta-glucan fiber forms a gel in your gut that grabs cholesterol before it enters your bloodstream.",
+      "**BLUEBERRIES are good for EYES** – anthocyanins protect the tiny blood vessels in your retina from everyday oxidative stress.",
+      "**LENTILS are good for GUT** – 1 cup cooked feeds the good bacteria lining your intestines, keeping digestion steady.",
+      "**POMEGRANATE is good for ARTERIES** – its polyphenols help keep artery walls flexible instead of stiff and narrow.",
+      "**TURMERIC is good for JOINTS** – curcumin calms the low-grade inflammation that makes knees and fingers feel stiff, pair it with black pepper for absorption.",
+      "**SPINACH is good for BONES** – just 1 cup cooked delivers a solid dose of vitamin K, which helps calcium actually bind to bone.",
+      "**ORANGES are good for SKIN** – vitamin C is required for your body to build collagen, the protein that keeps skin firm.",
+      "**BANANAS are good for KIDNEYS** – their potassium helps balance sodium levels, easing the workload on your kidneys.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Your thyroid runs almost entirely on iodine — without enough of it, the gland can't produce the hormones that control your metabolism, so even perfect eating habits can feel like they're not working. Copper quietly works alongside iron to help your red blood cells carry oxygen efficiently, which is why low copper can leave you feeling drained even when your iron levels look fine. And selenium acts like a shield inside your cells, helping neutralize the oxidative stress that builds up from everyday life, stress, and poor sleep. Everyone's body is different, so it's worth paying attention to how you personally respond.\n\n@smarthealthfix is all about the small, overlooked pieces of your health — nutrition, common symptoms, organ function, and daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these pairings deserve a closer look. Beets contain nitrates that your body converts into nitric oxide, which widens blood vessels and makes it easier for your liver to filter blood efficiently — that's on top of the toxin-flushing benefit. Walnuts aren't just \"good fats\" in general; their specific omega-3 (ALA) gets converted in small amounts to the same fatty acids found in fish oil, which is why they're linked to sharper memory over time. And oats work almost like a sponge — the beta-glucan fiber swells in your stomach, slows digestion, and literally traps cholesterol molecules so they leave your body instead of your bloodstream. Everyone's body responds a little differently, so treat these as a starting point, not a prescription.\n\nAt @smarthealthfix we focus on four things: nutrition, common health issues, your organs and body functions, and the small daily habits that tie it all together. Our mission is simple — help you make small, realistic swaps instead of chasing extreme diets or quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#mineralhealth",
-      "#thyroidhealth",
-      "#iodine",
-      "#selenium",
-      "#zincrich",
+      "#organhealth",
+      "#foodismedicine",
       "#guthealth",
-      "#nutritionfacts",
-      "#healthtips",
+      "#brainfood",
+      "#hearthealth",
+      "#antiinflammatory",
+      "#nutritiontips",
+      "#healthyeating",
       "#wellnessjourney",
-      "#nutrientdense"
+      "#eatclean"
     ],
     "extra_keywords": [
-      "mineraldeficiency",
-      "wholefoodnutrition",
+      "naturalhealing",
+      "wholefoods",
       "healthyhabits",
-      "nutritiontips"
+      "nutrientdense"
     ]
   },
-  "shape": "mineral_sources",
-  "caption": "Your thyroid runs almost entirely on iodine — without enough of it, the gland can't produce the hormones that control your metabolism, so even perfect eating habits can feel like they're not working. Copper quietly works alongside iron to help your red blood cells carry oxygen efficiently, which is why low copper can leave you feeling drained even when your iron levels look fine. And selenium acts like a shield inside your cells, helping neutralize the oxidative stress that builds up from everyday life, stress, and poor sleep. Everyone's body is different, so it's worth paying attention to how you personally respond.\n\n@smarthealthfix is all about the small, overlooked pieces of your health — nutrition, common symptoms, organ function, and daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#mineralhealth #thyroidhealth #iodine #selenium #zincrich #guthealth #nutritionfacts #healthtips #wellnessjourney #nutrientdense mineraldeficiency wholefoodnutrition healthyhabits nutritiontips"
+  "shape": "allcaps_benefit",
+  "caption": "A few of these pairings deserve a closer look. Beets contain nitrates that your body converts into nitric oxide, which widens blood vessels and makes it easier for your liver to filter blood efficiently — that's on top of the toxin-flushing benefit. Walnuts aren't just \"good fats\" in general; their specific omega-3 (ALA) gets converted in small amounts to the same fatty acids found in fish oil, which is why they're linked to sharper memory over time. And oats work almost like a sponge — the beta-glucan fiber swells in your stomach, slows digestion, and literally traps cholesterol molecules so they leave your body instead of your bloodstream. Everyone's body responds a little differently, so treat these as a starting point, not a prescription.\n\nAt @smarthealthfix we focus on four things: nutrition, common health issues, your organs and body functions, and the small daily habits that tie it all together. Our mission is simple — help you make small, realistic swaps instead of chasing extreme diets or quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #foodismedicine #guthealth #brainfood #hearthealth #antiinflammatory #nutritiontips #healthyeating #wellnessjourney #eatclean naturalhealing wholefoods healthyhabits nutrientdense"
 }
