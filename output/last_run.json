@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20261004_151202.png",
-  "mp4": "output/reel_20261004_151202.mp4",
-  "cover": "output/cover_20261004_151202.png",
-  "cover_bg": "white",
+  "png": "output/reel_20261004_183637.png",
+  "mp4": "output/reel_20261004_183637.mp4",
+  "cover": "output/cover_20261004_183637.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE ORGAN-FOOD PARTNERSHIPS YOUR {{BODY}} IS QUIETLY BEGGING FOR",
+    "title": "THE DAILY CHEAT SHEET YOUR {{BODY}} IS WAITING FOR",
     "facts": [
-      "**Pancreas** - Okra, Broccoli, Cinnamon: okra's slippery fiber eases the strain of insulin production, while 1/2 tsp cinnamon/day helps smooth out blood sugar swings.",
-      "**Bladder** - Cranberries, Celery, Parsley: cranberries make it harder for bacteria to cling to the bladder wall, and celery's natural water content helps flush things through.",
-      "**Lymphatic system** - Citrus, Watercress, Ginger: these foods keep lymph fluid moving instead of pooling, which is why puffiness often fades when you add them in.",
-      "**Esophagus** - Papaya, Fennel, Aloe vera juice: papaya's enzymes help break down protein before it irritates the lining, easing that post-meal burning feeling.",
-      "**Gallbladder** - Beets greens, Artichoke, Olive oil: artichoke stimulates bile flow, which keeps fat digestion smooth and may lower the odds of stone formation.",
-      "**Adrenal glands** - Brazil nuts, Avocado, Sea salt (in moderation): these support the cortisol response so your body isn't running on fumes by 3pm.",
-      "**Thymus** - Mushrooms, Sunflower seeds, Green tea: this often-forgotten gland trains your immune cells, and these foods give it the raw material to do that job well.",
+      "**Cold shower** -> 60 seconds at the end -> Less afternoon fatigue",
+      "**Pumpkin seeds** -> 1 oz before bed -> Deeper sleep",
+      "**Daylight walk** -> 10 min before 10am -> Resets sleep clock",
+      "**Journaling** -> 3 lines before bed -> Lowers racing thoughts",
+      "**Sauerkraut** -> 2 tbsp/day -> Calmer digestion",
+      "**Deep breathing** -> 4 breaths in, 8 out, x5 -> Drops stress fast",
+      "**Dark chocolate** -> 2 squares/day -> Steadier mood",
+      "**Standing breaks** -> 2 min every hour -> Less stiffness by evening",
+      "**Cherries** -> 1 cup, 2 hours before bed -> Falls asleep faster",
       "**Follow along** - for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Your pancreas works overtime every single day, and okra is one of the easiest ways to give it a break - its soluble fiber slows down how fast sugar hits your bloodstream, so insulin doesn't have to spike to keep up. Cranberries get a lot of hype for bladder health, and it's deserved: compounds in them change the surface of E. coli bacteria so it can't attach to your bladder wall as easily, which is a big part of why infections are less likely to take hold. And artichoke is a quiet gallbladder hero - it ramps up bile production and flow, which keeps fat digestion efficient and may reduce the sludge buildup that leads to gallstones over time. Everyone's body responds a little differently, so pay attention to what actually makes you feel better.\n\nAt @smarthealthfix we dig into nutrition, common symptoms, the organs and body functions behind them, and the small daily habits that tie it all together. Our mission is to make health feel practical again - small, consistent choices instead of chasing the next quick fix.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Small daily doses add up faster than people expect. Take pumpkin seeds - they're loaded with magnesium and tryptophan, two things your nervous system needs to wind down, which is why a small handful before bed can quietly improve sleep quality. Sauerkraut works differently: it's a natural source of live bacteria, and feeding your gut microbiome consistently has been linked to steadier digestion and even mood, since so much serotonin is produced in the gut. And that cold shower habit isn't just a trend - a short blast of cold water triggers a spike in alertness hormones, which is why it curbs that 3pm energy crash better than a second coffee for a lot of people.\n\nThis is what @smarthealthfix is all about: simple nutrition, everyday habits, common symptoms, and the organs and body functions behind them, explained in a way that's actually usable. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#guthealth",
-      "#organhealth",
-      "#pancreashealth",
-      "#bladderhealth",
-      "#lymphaticsystem",
-      "#digestivehealth",
       "#healthtips",
-      "#wellnessjourney",
-      "#foodsformedicine",
-      "#naturalhealth"
+      "#wellness",
+      "#dailyhabits",
+      "#betterhealth",
+      "#guthealth",
+      "#stressrelief",
+      "#sleeptips",
+      "#selfcare",
+      "#healthyliving",
+      "#mindbodyhealth"
     ],
     "extra_keywords": [
-      "organhealth",
-      "holistichealing",
-      "digestivewellness",
-      "healthyhabits",
-      "bodyawareness"
+      "dailyhealthhabits",
+      "wellnessjourney",
+      "naturalhealing",
+      "healthyroutine"
     ]
   },
-  "shape": "organ_food_list",
-  "caption": "Your pancreas works overtime every single day, and okra is one of the easiest ways to give it a break - its soluble fiber slows down how fast sugar hits your bloodstream, so insulin doesn't have to spike to keep up. Cranberries get a lot of hype for bladder health, and it's deserved: compounds in them change the surface of E. coli bacteria so it can't attach to your bladder wall as easily, which is a big part of why infections are less likely to take hold. And artichoke is a quiet gallbladder hero - it ramps up bile production and flow, which keeps fat digestion efficient and may reduce the sludge buildup that leads to gallstones over time. Everyone's body responds a little differently, so pay attention to what actually makes you feel better.\n\nAt @smarthealthfix we dig into nutrition, common symptoms, the organs and body functions behind them, and the small daily habits that tie it all together. Our mission is to make health feel practical again - small, consistent choices instead of chasing the next quick fix.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#guthealth #organhealth #pancreashealth #bladderhealth #lymphaticsystem #digestivehealth #healthtips #wellnessjourney #foodsformedicine #naturalhealth organhealth holistichealing digestivewellness healthyhabits bodyawareness"
+  "shape": "daily_dose_habit",
+  "caption": "Small daily doses add up faster than people expect. Take pumpkin seeds - they're loaded with magnesium and tryptophan, two things your nervous system needs to wind down, which is why a small handful before bed can quietly improve sleep quality. Sauerkraut works differently: it's a natural source of live bacteria, and feeding your gut microbiome consistently has been linked to steadier digestion and even mood, since so much serotonin is produced in the gut. And that cold shower habit isn't just a trend - a short blast of cold water triggers a spike in alertness hormones, which is why it curbs that 3pm energy crash better than a second coffee for a lot of people.\n\nThis is what @smarthealthfix is all about: simple nutrition, everyday habits, common symptoms, and the organs and body functions behind them, explained in a way that's actually usable. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #dailyhabits #betterhealth #guthealth #stressrelief #sleeptips #selfcare #healthyliving #mindbodyhealth dailyhealthhabits wellnessjourney naturalhealing healthyroutine"
 }
