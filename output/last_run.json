@@ -1,44 +1,40 @@
 {
-  "png": "output/reel_20261004_224810.png",
-  "mp4": "output/reel_20261004_224810.mp4",
-  "cover": "output/cover_20261004_224810.png",
-  "cover_bg": "white",
+  "png": "output/reel_20261005_190842.png",
+  "mp4": "output/reel_20261005_190842.mp4",
+  "cover": "output/cover_20261005_190842.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE SNACK DRAWER FIX FOR YOUR MOST ANNOYING EVERYDAY PROBLEMS",
+    "title": "THE MINERAL MOST {{TIRED}} PEOPLE ARE SECRETLY SHORT ON",
     "facts": [
-      "**Bloating** ----- Fennel Seeds",
-      "**Brain Fog** ----- Walnuts",
-      "**Headaches** ----- Watermelon",
-      "**Muscle Cramps** ----- Bananas",
-      "**Bad Breath** ----- Fresh Parsley",
-      "**Restless Legs** ----- Chickpeas",
-      "**Low Mood** ----- Oranges",
-      "**Dry Skin** ----- Avocado",
-      "**Constipation** ----- Chia-Soaked Water",
-      "**Follow along** – for more simple food fixes like this."
+      "**Iodine** (Thyroid Fuel) — Cod | Seaweed Snacks | Eggs | Prunes",
+      "**Potassium** (Heart Rhythm Keeper) — Butternut Squash | White Beans | Coconut Water | Swiss Chard",
+      "**Copper** (Energy Enzyme Helper) — Oysters | Cashew Butter | Shiitake Mushrooms | Dark Leafy Greens",
+      "**Manganese** (Bone Builder) — Mussels | Brown Rice | Pineapple | Pecans",
+      "**Selenium** (Cell Shield) — Brazil Nuts | Sardines | Sunflower Seeds | Brown Rice",
+      "**Zinc** (Wound Healer) — Hemp Seeds | Chickpeas | Turkey | Oats",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Fennel seeds are an old-school fix for bloating because they relax the smooth muscle lining your gut, which lets trapped gas move through instead of sitting there building pressure. Walnuts help with brain fog thanks to their omega-3 content, which supports blood flow to the brain and keeps communication between neurons running smoothly. And bananas work on muscle cramps because they're loaded with potassium, a mineral your muscles need to contract and relax properly — low levels are one of the most common hidden causes of that sudden charley horse. Everyone's body is different, so pay attention to what actually helps yours.\n\nAt @smarthealthfix we focus on four things: everyday nutrition, common health complaints, the organs that keep you running, and the small daily habits that quietly shape how you feel. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Iodine barely gets talked about, but your thyroid can't make its hormones without it — and those hormones set the pace for your metabolism, energy, and even body temperature. A couple servings of cod or a handful of seaweed snacks a week can go a long way. Copper is another quiet one: it helps your body form red blood cells and actually works alongside iron, so a copper gap can leave you feeling drained even if your iron looks fine. And manganese is one of those unsung minerals your bones and connective tissue lean on daily — a cup of pineapple or a small handful of pecans helps keep that supply steady. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix, we dig into nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#healthtips",
-      "#wellness",
-      "#guthealth",
-      "#naturalremedies",
-      "#foodismedicine",
-      "#bloatingrelief",
-      "#brainfog",
-      "#musclecramps",
-      "#holistichealth",
-      "#nutritiontips"
+      "#mineraldeficiency",
+      "#thyroidhealth",
+      "#ironvszinc",
+      "#hiddendeficiency",
+      "#nutritiontips",
+      "#healthyeating",
+      "#wellnessjourney",
+      "#eatrealfood",
+      "#bodyminerals",
+      "#healthtips"
     ],
     "extra_keywords": [
-      "naturalhealing",
-      "wellnessjourney",
-      "guttips",
-      "everydayhealth",
-      "healthyhabits"
+      "mineralbalance",
+      "nutrientdense",
+      "healthyhabits",
+      "foodismedicine"
     ]
   },
-  "shape": "problem_food_mapping",
-  "caption": "Fennel seeds are an old-school fix for bloating because they relax the smooth muscle lining your gut, which lets trapped gas move through instead of sitting there building pressure. Walnuts help with brain fog thanks to their omega-3 content, which supports blood flow to the brain and keeps communication between neurons running smoothly. And bananas work on muscle cramps because they're loaded with potassium, a mineral your muscles need to contract and relax properly — low levels are one of the most common hidden causes of that sudden charley horse. Everyone's body is different, so pay attention to what actually helps yours.\n\nAt @smarthealthfix we focus on four things: everyday nutrition, common health complaints, the organs that keep you running, and the small daily habits that quietly shape how you feel. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #naturalremedies #foodismedicine #bloatingrelief #brainfog #musclecramps #holistichealth #nutritiontips naturalhealing wellnessjourney guttips everydayhealth healthyhabits"
+  "shape": "mineral_sources",
+  "caption": "Iodine barely gets talked about, but your thyroid can't make its hormones without it — and those hormones set the pace for your metabolism, energy, and even body temperature. A couple servings of cod or a handful of seaweed snacks a week can go a long way. Copper is another quiet one: it helps your body form red blood cells and actually works alongside iron, so a copper gap can leave you feeling drained even if your iron looks fine. And manganese is one of those unsung minerals your bones and connective tissue lean on daily — a cup of pineapple or a small handful of pecans helps keep that supply steady. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix, we dig into nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#mineraldeficiency #thyroidhealth #ironvszinc #hiddendeficiency #nutritiontips #healthyeating #wellnessjourney #eatrealfood #bodyminerals #healthtips mineralbalance nutrientdense healthyhabits foodismedicine"
 }
