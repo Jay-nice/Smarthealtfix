@@ -1,40 +1,41 @@
 {
-  "png": "output/reel_20261005_190842.png",
-  "mp4": "output/reel_20261005_190842.mp4",
-  "cover": "output/cover_20261005_190842.png",
-  "cover_bg": "green",
+  "png": "output/reel_20261005_215825.png",
+  "mp4": "output/reel_20261005_215825.mp4",
+  "cover": "output/cover_20261005_215825.png",
+  "cover_bg": "white",
   "content": {
-    "title": "THE MINERAL MOST {{TIRED}} PEOPLE ARE SECRETLY SHORT ON",
+    "title": "WHY THESE {{NORMAL FOODS}} SOUND MADE UP",
     "facts": [
-      "**Iodine** (Thyroid Fuel) — Cod | Seaweed Snacks | Eggs | Prunes",
-      "**Potassium** (Heart Rhythm Keeper) — Butternut Squash | White Beans | Coconut Water | Swiss Chard",
-      "**Copper** (Energy Enzyme Helper) — Oysters | Cashew Butter | Shiitake Mushrooms | Dark Leafy Greens",
-      "**Manganese** (Bone Builder) — Mussels | Brown Rice | Pineapple | Pecans",
-      "**Selenium** (Cell Shield) — Brazil Nuts | Sardines | Sunflower Seeds | Brown Rice",
-      "**Zinc** (Wound Healer) — Hemp Seeds | Chickpeas | Turkey | Oats",
-      "**Follow along** – for more daily health tips like this."
+      "**Nutmeg** – eating just 2 whole nutmeg seeds at once can cause hallucinations and a racing heart; it contains a natural compound chemically similar to amphetamines.",
+      "**Cashews** – the \"raw cashews\" sold in stores are never actually raw. Truly raw cashews contain a toxin related to poison ivy's, so every cashew is steamed or roasted before it reaches you.",
+      "**Rhubarb** – its stalks are a popular dessert fruit, but its leaves contain enough oxalic acid that eating a few of them can damage your kidneys.",
+      "**Star fruit** – a single star fruit can be dangerous for people with kidney problems, because a neurotoxin in it that healthy kidneys filter out easily can instead build up and reach the brain.",
+      "**Apple seeds** – they contain a compound that turns into cyanide when digested; you'd need to chew and swallow a cup full of crushed seeds for it to matter, but the seeds themselves are technically toxic.",
+      "**Lychee** – outbreaks of sudden illness in children in parts of India and Vietnam were traced back to eating lychee on an empty stomach, due to a compound in the unripe fruit that drops blood sugar dangerously low.",
+      "**Water** – it's possible to drink enough water in a short time to be fatal; the condition is called water intoxication, and it has caused real deaths at radio station contests and endurance events.",
+      "**Follow along** – for more surprising, 100% true food facts like this."
     ],
     "claims": [],
-    "caption": "Iodine barely gets talked about, but your thyroid can't make its hormones without it — and those hormones set the pace for your metabolism, energy, and even body temperature. A couple servings of cod or a handful of seaweed snacks a week can go a long way. Copper is another quiet one: it helps your body form red blood cells and actually works alongside iron, so a copper gap can leave you feeling drained even if your iron looks fine. And manganese is one of those unsung minerals your bones and connective tissue lean on daily — a cup of pineapple or a small handful of pecans helps keep that supply steady. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix, we dig into nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these deserve a closer look. Nutmeg's wild effect comes from a compound called myristicin — your liver tries to process it, but in large amounts it gets converted into something resembling a stimulant drug, which is why just a couple of whole seeds can genuinely mess with your heart rate and mind. Cashews get steamed before packaging because their raw shells contain urushiol, the same irritant family found in poison ivy — it's removed through heat, which is why you've never actually eaten a truly raw one. And lychee's effect on blood sugar happens because unripe fruit contains a compound that blocks your body from making new glucose, which is especially risky if a child hasn't eaten much that day. None of this means panic — ripe, properly prepared versions of these foods are completely normal to enjoy, your body just needs them handled correctly.\n\n@smarthealthfix is all about the small, surprising details behind nutrition, common symptoms, your organs, and everyday habits that actually move the needle. Our mission is to make real food science feel interesting instead of overwhelming, one fact at a time.\n\nSave this post so you don't lose it, and share it with someone who'll be shocked these are all real.",
     "hashtags": [
-      "#mineraldeficiency",
-      "#thyroidhealth",
-      "#ironvszinc",
-      "#hiddendeficiency",
-      "#nutritiontips",
+      "#foodfacts",
+      "#nutritionfacts",
+      "#healthtips",
+      "#didyouknow",
+      "#wellness",
+      "#foodscience",
+      "#weirdfacts",
       "#healthyeating",
-      "#wellnessjourney",
-      "#eatrealfood",
-      "#bodyminerals",
-      "#healthtips"
+      "#nutritionscience",
+      "#foodsafety"
     ],
     "extra_keywords": [
-      "mineralbalance",
-      "nutrientdense",
-      "healthyhabits",
-      "foodismedicine"
+      "foodtrivia",
+      "surprisingfacts",
+      "nutritionmyths",
+      "healthknowledge"
     ]
   },
-  "shape": "mineral_sources",
-  "caption": "Iodine barely gets talked about, but your thyroid can't make its hormones without it — and those hormones set the pace for your metabolism, energy, and even body temperature. A couple servings of cod or a handful of seaweed snacks a week can go a long way. Copper is another quiet one: it helps your body form red blood cells and actually works alongside iron, so a copper gap can leave you feeling drained even if your iron looks fine. And manganese is one of those unsung minerals your bones and connective tissue lean on daily — a cup of pineapple or a small handful of pecans helps keep that supply steady. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix, we dig into nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#mineraldeficiency #thyroidhealth #ironvszinc #hiddendeficiency #nutritiontips #healthyeating #wellnessjourney #eatrealfood #bodyminerals #healthtips mineralbalance nutrientdense healthyhabits foodismedicine"
+  "shape": "surprising_true_fact",
+  "caption": "A few of these deserve a closer look. Nutmeg's wild effect comes from a compound called myristicin — your liver tries to process it, but in large amounts it gets converted into something resembling a stimulant drug, which is why just a couple of whole seeds can genuinely mess with your heart rate and mind. Cashews get steamed before packaging because their raw shells contain urushiol, the same irritant family found in poison ivy — it's removed through heat, which is why you've never actually eaten a truly raw one. And lychee's effect on blood sugar happens because unripe fruit contains a compound that blocks your body from making new glucose, which is especially risky if a child hasn't eaten much that day. None of this means panic — ripe, properly prepared versions of these foods are completely normal to enjoy, your body just needs them handled correctly.\n\n@smarthealthfix is all about the small, surprising details behind nutrition, common symptoms, your organs, and everyday habits that actually move the needle. Our mission is to make real food science feel interesting instead of overwhelming, one fact at a time.\n\nSave this post so you don't lose it, and share it with someone who'll be shocked these are all real.\n\n#foodfacts #nutritionfacts #healthtips #didyouknow #wellness #foodscience #weirdfacts #healthyeating #nutritionscience #foodsafety foodtrivia surprisingfacts nutritionmyths healthknowledge"
 }
