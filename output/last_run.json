@@ -1,43 +1,43 @@
 {
-  "png": "output/reel_20261006_163514.png",
-  "mp4": "output/reel_20261006_163514.mp4",
-  "cover": "output/cover_20261006_163514.png",
-  "cover_bg": "white",
+  "png": "output/reel_20261006_201134.png",
+  "mp4": "output/reel_20261006_201134.mp4",
+  "cover": "output/cover_20261006_201134.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE DAILY {{MINIMUMS}} YOUR BODY SECRETLY RUNS ON",
+    "title": "IF YOU ATE THIS EVERY DAY FOR {{30 DAYS}}, YOUR BODY WOULD CHANGE LIKE THIS",
     "facts": [
-      "**Sunlight** -> 10 min before 9am -> Resets sleep clock",
-      "**Walking** -> 20 min/day -> Lowers stress hormone",
-      "**Cold water** -> 1 glass on waking -> Jumpstarts digestion",
-      "**Deep breathing** -> 5 min/day -> Calms racing thoughts",
-      "**Leafy greens** -> 1 cup/day -> Steadies energy levels",
-      "**Stretching** -> 5 min before bed -> Fewer night wakeups",
-      "**Social connection** -> 1 real conversation/day -> Boosts mood stability",
-      "**Darkness** -> Screens off 1 hour before bed -> Deeper sleep cycles",
-      "**Protein** -> 20-30g at breakfast -> Curbs afternoon cravings",
-      "**Follow along** -> for more daily health tips like this -> Stay consistent"
+      "If you ate **beets** every day for 2 weeks, your stamina during workouts would noticeably improve as nitrates widen your blood vessels and your muscles get more oxygen per breath.",
+      "If you ate **oats** every day for 30 days, your cholesterol numbers would likely drop as the beta-glucan fiber grabs onto bile acids and drags them out of your body.",
+      "If you ate **fermented yogurt** every day for 3 weeks, your bloating would ease as live cultures crowd out gas-producing bacteria in your gut.",
+      "If you ate **pumpkin seeds** every day for 2 weeks, you'd likely fall asleep faster thanks to their natural tryptophan and magnesium working together at night.",
+      "If you ate **blueberries** every day for 1 month, your memory recall would sharpen as their antioxidants reduce inflammation around brain cells.",
+      "If you ate **sardines** every day for 2 weeks, your joint stiffness would fade as the omega-3s calm down inflammatory compounds in your blood.",
+      "If you ate **lentils** every day for 10 days, your blood sugar swings would smooth out as the slow-digesting fiber and protein blunt glucose spikes.",
+      "If you ate **sauerkraut** every day for 3 weeks, your skin breakouts could clear up as gut bacteria shift and reduce overall body inflammation.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these daily minimums do more than people realize. Sunlight exposure early in the day helps anchor your circadian rhythm by signaling to your brain when to release and later suppress melatonin, which is why that simple habit can make falling asleep at night so much easier. Walking for even 20 minutes taps into your parasympathetic nervous system, slowing your heart rate and helping clear out built-up cortisol from a stressful day. And that cup of leafy greens isn't just filler - the slow-digesting fiber and steady micronutrient release keep your blood sugar from spiking and crashing, which is often the real reason for that 3pm energy dip. Everyone's body is different, so start with whichever one feels most doable for you.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits into pieces that are actually easy to apply. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these deserve a second look. Beets are loaded with natural nitrates that your body converts into nitric oxide, which relaxes blood vessel walls so oxygen-rich blood reaches working muscles faster — that's why endurance athletes swear by beet juice before a race. Oats work differently: their beta-glucan fiber forms a gel in your gut that binds to cholesterol-carrying bile acids, forcing your liver to pull more cholesterol out of your bloodstream to make new ones. And sardines are one of the few whole foods packed with both omega-3s and vitamin D, a combo that helps turn down the inflammatory signals your joints send out when they're overworked. Everyone's body responds a little differently, so pay attention to what actually changes for you.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs and body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
       "#wellness",
-      "#dailyhabits",
-      "#circadianrhythm",
-      "#stressrelief",
-      "#morningroutine",
+      "#nutritionfacts",
       "#guthealth",
-      "#energylevels",
-      "#sleepbetter",
-      "#selfcare"
+      "#antiinflammatory",
+      "#bloodsugarbalance",
+      "#heartheal",
+      "#fermentedfoods",
+      "#eatclean",
+      "#foodismedicine"
     ],
     "extra_keywords": [
-      "dailyhabits",
+      "naturalhealing",
       "wellnessjourney",
-      "healthyroutine",
-      "mindbodyconnection"
+      "nutritiontips",
+      "healthyhabits",
+      "guttips"
     ]
   },
-  "shape": "daily_dose_habit",
-  "caption": "A few of these daily minimums do more than people realize. Sunlight exposure early in the day helps anchor your circadian rhythm by signaling to your brain when to release and later suppress melatonin, which is why that simple habit can make falling asleep at night so much easier. Walking for even 20 minutes taps into your parasympathetic nervous system, slowing your heart rate and helping clear out built-up cortisol from a stressful day. And that cup of leafy greens isn't just filler - the slow-digesting fiber and steady micronutrient release keep your blood sugar from spiking and crashing, which is often the real reason for that 3pm energy dip. Everyone's body is different, so start with whichever one feels most doable for you.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits into pieces that are actually easy to apply. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #dailyhabits #circadianrhythm #stressrelief #morningroutine #guthealth #energylevels #sleepbetter #selfcare dailyhabits wellnessjourney healthyroutine mindbodyconnection"
+  "shape": "conditional_transformation",
+  "caption": "A few of these deserve a second look. Beets are loaded with natural nitrates that your body converts into nitric oxide, which relaxes blood vessel walls so oxygen-rich blood reaches working muscles faster — that's why endurance athletes swear by beet juice before a race. Oats work differently: their beta-glucan fiber forms a gel in your gut that binds to cholesterol-carrying bile acids, forcing your liver to pull more cholesterol out of your bloodstream to make new ones. And sardines are one of the few whole foods packed with both omega-3s and vitamin D, a combo that helps turn down the inflammatory signals your joints send out when they're overworked. Everyone's body responds a little differently, so pay attention to what actually changes for you.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs and body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #nutritionfacts #guthealth #antiinflammatory #bloodsugarbalance #heartheal #fermentedfoods #eatclean #foodismedicine naturalhealing wellnessjourney nutritiontips healthyhabits guttips"
 }
