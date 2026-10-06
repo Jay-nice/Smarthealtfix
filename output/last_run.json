@@ -1,43 +1,43 @@
 {
-  "png": "output/reel_20261006_010931.png",
-  "mp4": "output/reel_20261006_010931.mp4",
-  "cover": "output/cover_20261006_010931.png",
-  "cover_bg": "green",
+  "png": "output/reel_20261006_163514.png",
+  "mp4": "output/reel_20261006_163514.mp4",
+  "cover": "output/cover_20261006_163514.png",
+  "cover_bg": "white",
   "content": {
-    "title": "THE KITCHEN CABINET CHEAT SHEET FOR ANNOYING LITTLE BODY GLITCHES",
+    "title": "THE DAILY {{MINIMUMS}} YOUR BODY SECRETLY RUNS ON",
     "facts": [
-      "**Hiccups That Won't Quit** – Swallow a spoonful of sugar, dry. The grainy texture interrupts the nerve spasm causing your diaphragm to twitch.",
-      "**Stuffy Nose** – Press a warm, damp washcloth over your sinuses for 60 seconds to loosen mucus and ease pressure fast.",
-      "**Toothache Before the Dentist** – Dab a cotton ball soaked in clove oil onto the sore spot; it numbs the area almost instantly.",
-      "**Burnt Tongue** – Press a spoonful of plain yogurt against the roof of your mouth for soothing, cooling relief.",
-      "**Splinter Won't Budge** – Soak the area in warm water with 1 tbsp baking soda for 10 minutes; the skin swells and pushes it out.",
-      "**Hoarse Voice** – Sip warm water with 1 tsp honey and a squeeze of lemon every few hours to coat and calm the throat.",
-      "**Itchy Bug Bite** – Press a warm spoon against the bite for 20 seconds; the heat breaks down the itch-causing compounds.",
-      "**Sore Throat Scratch** – Gargle warm salt water (1/2 tsp salt per cup) for 30 seconds to pull out swelling and bacteria.",
-      "**Hangnail Pain** – Soak your fingertip in warm olive oil for 5 minutes to soften skin before gently trimming.",
-      "**Follow along** – for more quick, harmless fixes you can actually use today."
+      "**Sunlight** -> 10 min before 9am -> Resets sleep clock",
+      "**Walking** -> 20 min/day -> Lowers stress hormone",
+      "**Cold water** -> 1 glass on waking -> Jumpstarts digestion",
+      "**Deep breathing** -> 5 min/day -> Calms racing thoughts",
+      "**Leafy greens** -> 1 cup/day -> Steadies energy levels",
+      "**Stretching** -> 5 min before bed -> Fewer night wakeups",
+      "**Social connection** -> 1 real conversation/day -> Boosts mood stability",
+      "**Darkness** -> Screens off 1 hour before bed -> Deeper sleep cycles",
+      "**Protein** -> 20-30g at breakfast -> Curbs afternoon cravings",
+      "**Follow along** -> for more daily health tips like this -> Stay consistent"
     ],
     "claims": [],
-    "caption": "A few of these deserve a closer look. That spoonful of sugar for hiccups isn't a myth — the sudden sensory distraction on your tongue actually overrides the nerve signal telling your diaphragm to spasm, which is what causes the hiccup in the first place. Clove oil for a toothache works because it contains eugenol, a natural compound with numbing and mild antibacterial properties, which is why dentists have used it for decades before synthetic numbing agents existed. And gargling warm salt water isn't just comforting — the salt creates an environment that draws fluid out of swollen throat tissue through osmosis, which is why the swelling and irritation calm down so quickly. Everyone's body responds a little differently, so take these as a helpful starting point, not a replacement for real care when something doesn't improve.\n\nAt @smarthealthfix, we focus on the everyday stuff that actually matters — nutrition, common health issues, how your organs function, and small daily habits that add up over time. Our mission is to make health feel simple and doable, not overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs a quick fix today.",
+    "caption": "A few of these daily minimums do more than people realize. Sunlight exposure early in the day helps anchor your circadian rhythm by signaling to your brain when to release and later suppress melatonin, which is why that simple habit can make falling asleep at night so much easier. Walking for even 20 minutes taps into your parasympathetic nervous system, slowing your heart rate and helping clear out built-up cortisol from a stressful day. And that cup of leafy greens isn't just filler - the slow-digesting fiber and steady micronutrient release keep your blood sugar from spiking and crashing, which is often the real reason for that 3pm energy dip. Everyone's body is different, so start with whichever one feels most doable for you.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits into pieces that are actually easy to apply. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#homeremedies",
-      "#naturalremedy",
-      "#healthhacks",
-      "#wellnesstips",
-      "#kitchenremedies",
-      "#quickfix",
       "#healthtips",
-      "#naturalhealthcare",
-      "#everydayhealth",
-      "#selfcaretips"
+      "#wellness",
+      "#dailyhabits",
+      "#circadianrhythm",
+      "#stressrelief",
+      "#morningroutine",
+      "#guthealth",
+      "#energylevels",
+      "#sleepbetter",
+      "#selfcare"
     ],
     "extra_keywords": [
-      "naturalhealing",
-      "diyremedy",
-      "wellnesshacks",
-      "homehealthtips"
+      "dailyhabits",
+      "wellnessjourney",
+      "healthyroutine",
+      "mindbodyconnection"
     ]
   },
-  "shape": "boxed_hacks",
-  "caption": "A few of these deserve a closer look. That spoonful of sugar for hiccups isn't a myth — the sudden sensory distraction on your tongue actually overrides the nerve signal telling your diaphragm to spasm, which is what causes the hiccup in the first place. Clove oil for a toothache works because it contains eugenol, a natural compound with numbing and mild antibacterial properties, which is why dentists have used it for decades before synthetic numbing agents existed. And gargling warm salt water isn't just comforting — the salt creates an environment that draws fluid out of swollen throat tissue through osmosis, which is why the swelling and irritation calm down so quickly. Everyone's body responds a little differently, so take these as a helpful starting point, not a replacement for real care when something doesn't improve.\n\nAt @smarthealthfix, we focus on the everyday stuff that actually matters — nutrition, common health issues, how your organs function, and small daily habits that add up over time. Our mission is to make health feel simple and doable, not overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs a quick fix today.\n\n#homeremedies #naturalremedy #healthhacks #wellnesstips #kitchenremedies #quickfix #healthtips #naturalhealthcare #everydayhealth #selfcaretips naturalhealing diyremedy wellnesshacks homehealthtips"
+  "shape": "daily_dose_habit",
+  "caption": "A few of these daily minimums do more than people realize. Sunlight exposure early in the day helps anchor your circadian rhythm by signaling to your brain when to release and later suppress melatonin, which is why that simple habit can make falling asleep at night so much easier. Walking for even 20 minutes taps into your parasympathetic nervous system, slowing your heart rate and helping clear out built-up cortisol from a stressful day. And that cup of leafy greens isn't just filler - the slow-digesting fiber and steady micronutrient release keep your blood sugar from spiking and crashing, which is often the real reason for that 3pm energy dip. Everyone's body is different, so start with whichever one feels most doable for you.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits into pieces that are actually easy to apply. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #dailyhabits #circadianrhythm #stressrelief #morningroutine #guthealth #energylevels #sleepbetter #selfcare dailyhabits wellnessjourney healthyroutine mindbodyconnection"
 }
