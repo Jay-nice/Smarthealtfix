@@ -1,43 +1,41 @@
 {
-  "png": "output/reel_20261006_201134.png",
-  "mp4": "output/reel_20261006_201134.mp4",
-  "cover": "output/cover_20261006_201134.png",
-  "cover_bg": "green",
+  "png": "output/reel_20261006_233654.png",
+  "mp4": "output/reel_20261006_233654.mp4",
+  "cover": "output/cover_20261006_233654.png",
+  "cover_bg": "white",
   "content": {
-    "title": "IF YOU ATE THIS EVERY DAY FOR {{30 DAYS}}, YOUR BODY WOULD CHANGE LIKE THIS",
+    "title": "RULES EVERY NEW PARENT SHOULD FOLLOW FOR THE FIRST YEAR",
     "facts": [
-      "If you ate **beets** every day for 2 weeks, your stamina during workouts would noticeably improve as nitrates widen your blood vessels and your muscles get more oxygen per breath.",
-      "If you ate **oats** every day for 30 days, your cholesterol numbers would likely drop as the beta-glucan fiber grabs onto bile acids and drags them out of your body.",
-      "If you ate **fermented yogurt** every day for 3 weeks, your bloating would ease as live cultures crowd out gas-producing bacteria in your gut.",
-      "If you ate **pumpkin seeds** every day for 2 weeks, you'd likely fall asleep faster thanks to their natural tryptophan and magnesium working together at night.",
-      "If you ate **blueberries** every day for 1 month, your memory recall would sharpen as their antioxidants reduce inflammation around brain cells.",
-      "If you ate **sardines** every day for 2 weeks, your joint stiffness would fade as the omega-3s calm down inflammatory compounds in your blood.",
-      "If you ate **lentils** every day for 10 days, your blood sugar swings would smooth out as the slow-digesting fiber and protein blunt glucose spikes.",
-      "If you ate **sauerkraut** every day for 3 weeks, your skin breakouts could clear up as gut bacteria shift and reduce overall body inflammation.",
+      "**Nap when the baby naps** – skipping sleep for chores wrecks your recovery and mood faster than a messy kitchen ever will.",
+      "**Batch cook on Sundays** – freeze 4-5 meals in single portions so exhaustion never means skipping a real meal.",
+      "**Keep a water bottle by the feeding chair** – breastfeeding and late nights drain fluids fast, sip every time you sit down.",
+      "**Accept the first 2 offers of help** – let someone bring food or hold the baby, isolation slows healing and raises stress hormones.",
+      "**Step outside for 10 minutes daily** – fresh air resets your nervous system even on zero hours of sleep.",
+      "**Lower the bar on day 1** – showered and fed is a successful day, not a failed one.",
+      "**Check in with your own doctor at 6 weeks, not just the baby's** – postpartum checkups catch issues parents often brush off.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these deserve a second look. Beets are loaded with natural nitrates that your body converts into nitric oxide, which relaxes blood vessel walls so oxygen-rich blood reaches working muscles faster — that's why endurance athletes swear by beet juice before a race. Oats work differently: their beta-glucan fiber forms a gel in your gut that binds to cholesterol-carrying bile acids, forcing your liver to pull more cholesterol out of your bloodstream to make new ones. And sardines are one of the few whole foods packed with both omega-3s and vitamin D, a combo that helps turn down the inflammatory signals your joints send out when they're overworked. Everyone's body responds a little differently, so pay attention to what actually changes for you.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs and body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "The first months with a new baby are brutal on your body, so a few small swaps matter more than people admit. Napping when the baby naps isn't lazy, it's how your body gets back into deep sleep cycles that actual rest (not just lying down) requires to repair tissue and regulate hormones. Batch cooking on a calmer day means on the hard days you're not running on coffee and crackers, which keeps blood sugar steady and mood more stable. And that water bottle by the feeding chair matters more than it sounds, dehydration during feeding windows can worsen fatigue and even milk supply. Everyone's recovery looks different, listen to your own body first.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and small daily habits that actually fit real life. Our mission is to help you build small, realistic routines instead of chasing perfection.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.",
     "hashtags": [
+      "#newparent",
+      "#postpartumrecovery",
+      "#parentinglife",
       "#healthtips",
       "#wellness",
-      "#nutritionfacts",
-      "#guthealth",
-      "#antiinflammatory",
-      "#bloodsugarbalance",
-      "#heartheal",
-      "#fermentedfoods",
-      "#eatclean",
-      "#foodismedicine"
+      "#babycare",
+      "#momhealth",
+      "#selfcaretips",
+      "#postpartumhealth",
+      "#parentingtips"
     ],
     "extra_keywords": [
-      "naturalhealing",
-      "wellnessjourney",
-      "nutritiontips",
-      "healthyhabits",
-      "guttips"
+      "newmomlife",
+      "postpartumwellness",
+      "parentinghacks",
+      "healthyhabits"
     ]
   },
-  "shape": "conditional_transformation",
-  "caption": "A few of these deserve a second look. Beets are loaded with natural nitrates that your body converts into nitric oxide, which relaxes blood vessel walls so oxygen-rich blood reaches working muscles faster — that's why endurance athletes swear by beet juice before a race. Oats work differently: their beta-glucan fiber forms a gel in your gut that binds to cholesterol-carrying bile acids, forcing your liver to pull more cholesterol out of your bloodstream to make new ones. And sardines are one of the few whole foods packed with both omega-3s and vitamin D, a combo that helps turn down the inflammatory signals your joints send out when they're overworked. Everyone's body responds a little differently, so pay attention to what actually changes for you.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs and body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #nutritionfacts #guthealth #antiinflammatory #bloodsugarbalance #heartheal #fermentedfoods #eatclean #foodismedicine naturalhealing wellnessjourney nutritiontips healthyhabits guttips"
+  "shape": "imperative_advice_list",
+  "caption": "The first months with a new baby are brutal on your body, so a few small swaps matter more than people admit. Napping when the baby naps isn't lazy, it's how your body gets back into deep sleep cycles that actual rest (not just lying down) requires to repair tissue and regulate hormones. Batch cooking on a calmer day means on the hard days you're not running on coffee and crackers, which keeps blood sugar steady and mood more stable. And that water bottle by the feeding chair matters more than it sounds, dehydration during feeding windows can worsen fatigue and even milk supply. Everyone's recovery looks different, listen to your own body first.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and small daily habits that actually fit real life. Our mission is to help you build small, realistic routines instead of chasing perfection.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.\n\n#newparent #postpartumrecovery #parentinglife #healthtips #wellness #babycare #momhealth #selfcaretips #postpartumhealth #parentingtips newmomlife postpartumwellness parentinghacks healthyhabits"
 }
