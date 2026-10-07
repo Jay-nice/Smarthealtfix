@@ -1,44 +1,43 @@
 {
-  "png": "output/reel_20261007_172128.png",
-  "mp4": "output/reel_20261007_172128.mp4",
-  "cover": "output/cover_20261007_172128.png",
-  "cover_bg": "green",
+  "png": "output/reel_20261007_203545.png",
+  "mp4": "output/reel_20261007_203545.mp4",
+  "cover": "output/cover_20261007_203545.png",
+  "cover_bg": "white",
   "content": {
-    "title": "WEIRD HOUSEHOLD FIXES FOR {{ANNOYING}} BODY PROBLEMS",
+    "title": "WEIRD SIGNS YOU'RE ACTUALLY MISSING A KEY NUTRIENT (NOT JUST TIRED)",
     "facts": [
-      "**Leg Cramp at Night** – Pinch the top lip firmly for 20 seconds, a pressure-point trick that often interrupts the muscle spasm.",
-      "**Nosebleed** – Lean forward (not back) and pinch the soft part of your nose for 10 full minutes without checking early.",
-      "**Brain Freeze** – Press your tongue flat against the roof of your mouth to warm the area fast and stop the throb.",
-      "**Dry, Cracked Heels** – Rub petroleum jelly on feet and cover with socks overnight to lock in moisture.",
-      "**Clogged Pen or Sticky Zipper** – Rub a bit of olive oil on the mechanism to loosen it instantly.",
-      "**Minor Burn Sting** – Hold the area under cool (not icy) running water for a full 10 minutes to pull out heat.",
-      "**Charley Horse Cramp** – Stand up and press your heel into the floor while pushing your toes upward to force the muscle to release.",
-      "**Static Cling on Clothes** – Rub a damp dryer sheet or metal hanger over the fabric to neutralize the charge.",
-      "**Smelly Cutting Board** – Rub coarse salt and half a lemon over it to lift odor without harsh chemicals.",
+      "**White spots on nails** – Not calcium, usually a sign of low **zinc**, often paired with slow wound healing and a weaker sense of taste.",
+      "**Restless legs at night** – An itchy, crawly urge to move your legs can point to low **iron** stores, even if blood counts look 'normal enough.'",
+      "**Cracking at the corners of your mouth** – Painful little splits that won't heal often signal low **B12** or **iron**, not just dry weather.",
+      "**Muscle twitches under your eye** – Random, random eyelid or calf twitching is a classic quiet sign of low **magnesium**.",
+      "**Bruising easily** – Bruises from barely bumping into something can mean low **vitamin C**, which your body needs to build strong blood vessel walls.",
+      "**Numbness or pins-and-needles in hands** – A tingling, 'asleep' feeling in fingers or toes is linked to low **B12**, affecting nerve signals over time.",
+      "**Brittle, ridged nails that peel** – Thin nails that split in layers often trace back to low **iron** or **biotin**, not just harsh soap.",
+      "**Night blindness** – Struggling to adjust when headlights hit your eyes in the dark can be an early sign of low **vitamin A**.",
+      "**Muscle cramps and irregular heartbeat flutters** – Both can point to low **potassium**, especially after sweating a lot or cutting carbs hard.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A **leg cramp** at night happens when a muscle suddenly contracts due to dehydration or nerve overload — pinching the lip stimulates a nerve point that can interrupt the signal telling your muscle to stay clenched. A **nosebleed** mostly comes from a burst tiny vessel at the front of the nose, and leaning forward keeps blood from running down your throat while steady pressure lets the vessel seal itself. A **burn** keeps cooking your skin from the inside out even after you pull away from the heat source, so a full 10 minutes of cool water is what actually stops the deeper tissue damage, not just the surface sting. Everyone's body reacts a little differently, so go gently and stop if something feels off.\n\n@smarthealthfix is all about the small stuff — nutrition, everyday symptoms, how your organs actually work, and tiny daily habits that add up. Our mission is to make health feel practical and doable instead of overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs a quick fix today.",
+    "caption": "A few of these deserve a closer look. Low **zinc** doesn't just show up as white nail spots — zinc is needed to make the enzymes that repair skin and the taste buds on your tongue, so a deficiency quietly dulls both. **Magnesium** twitches happen because this mineral calms nerve signals to your muscles; without enough of it, nerves misfire and you get that annoying under-eye or calf flutter. And that tingling in your hands tied to low **B12** isn't random either — B12 is essential for the protective coating around your nerves, so when levels drop, nerve signals literally start to short-circuit. Everyone's body is different, so treat these as clues worth checking, not a diagnosis.\n\nThis is what we do at @smarthealthfix — we break down nutrition, common health issues, organs and body functions, and small daily habits into things you can actually act on. Our mission is to help you notice what your body is telling you and build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who's been feeling 'off' lately.",
     "hashtags": [
-      "#healthhacks",
-      "#homeremedies",
-      "#wellnesstips",
-      "#quickfix",
-      "#bodyglitches",
-      "#naturalremedy",
+      "#nutrientdeficiency",
       "#healthtips",
-      "#selfcare",
-      "#lifehacks",
-      "#everydayhealth"
+      "#zinc",
+      "#magnesium",
+      "#vitaminb12",
+      "#irondeficiency",
+      "#wellness",
+      "#guthealth",
+      "#nutritionfacts",
+      "#bodysignals"
     ],
     "extra_keywords": [
-      "householdtips",
-      "naturalhealing",
+      "nutritiontips",
       "wellnessjourney",
-      "quickrelief",
-      "homehacks"
+      "deficiencysigns",
+      "healthyhabits"
     ]
   },
-  "shape": "boxed_hacks",
-  "caption": "A **leg cramp** at night happens when a muscle suddenly contracts due to dehydration or nerve overload — pinching the lip stimulates a nerve point that can interrupt the signal telling your muscle to stay clenched. A **nosebleed** mostly comes from a burst tiny vessel at the front of the nose, and leaning forward keeps blood from running down your throat while steady pressure lets the vessel seal itself. A **burn** keeps cooking your skin from the inside out even after you pull away from the heat source, so a full 10 minutes of cool water is what actually stops the deeper tissue damage, not just the surface sting. Everyone's body reacts a little differently, so go gently and stop if something feels off.\n\n@smarthealthfix is all about the small stuff — nutrition, everyday symptoms, how your organs actually work, and tiny daily habits that add up. Our mission is to make health feel practical and doable instead of overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs a quick fix today.\n\n#healthhacks #homeremedies #wellnesstips #quickfix #bodyglitches #naturalremedy #healthtips #selfcare #lifehacks #everydayhealth householdtips naturalhealing wellnessjourney quickrelief homehacks"
+  "shape": "symptom_list",
+  "caption": "A few of these deserve a closer look. Low **zinc** doesn't just show up as white nail spots — zinc is needed to make the enzymes that repair skin and the taste buds on your tongue, so a deficiency quietly dulls both. **Magnesium** twitches happen because this mineral calms nerve signals to your muscles; without enough of it, nerves misfire and you get that annoying under-eye or calf flutter. And that tingling in your hands tied to low **B12** isn't random either — B12 is essential for the protective coating around your nerves, so when levels drop, nerve signals literally start to short-circuit. Everyone's body is different, so treat these as clues worth checking, not a diagnosis.\n\nThis is what we do at @smarthealthfix — we break down nutrition, common health issues, organs and body functions, and small daily habits into things you can actually act on. Our mission is to help you notice what your body is telling you and build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who's been feeling 'off' lately.\n\n#nutrientdeficiency #healthtips #zinc #magnesium #vitaminb12 #irondeficiency #wellness #guthealth #nutritionfacts #bodysignals nutritiontips wellnessjourney deficiencysigns healthyhabits"
 }
