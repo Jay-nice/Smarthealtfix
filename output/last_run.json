@@ -1,41 +1,44 @@
 {
-  "png": "output/reel_20261006_233654.png",
-  "mp4": "output/reel_20261006_233654.mp4",
-  "cover": "output/cover_20261006_233654.png",
-  "cover_bg": "white",
+  "png": "output/reel_20261007_172128.png",
+  "mp4": "output/reel_20261007_172128.mp4",
+  "cover": "output/cover_20261007_172128.png",
+  "cover_bg": "green",
   "content": {
-    "title": "RULES EVERY NEW PARENT SHOULD FOLLOW FOR THE FIRST YEAR",
+    "title": "WEIRD HOUSEHOLD FIXES FOR {{ANNOYING}} BODY PROBLEMS",
     "facts": [
-      "**Nap when the baby naps** – skipping sleep for chores wrecks your recovery and mood faster than a messy kitchen ever will.",
-      "**Batch cook on Sundays** – freeze 4-5 meals in single portions so exhaustion never means skipping a real meal.",
-      "**Keep a water bottle by the feeding chair** – breastfeeding and late nights drain fluids fast, sip every time you sit down.",
-      "**Accept the first 2 offers of help** – let someone bring food or hold the baby, isolation slows healing and raises stress hormones.",
-      "**Step outside for 10 minutes daily** – fresh air resets your nervous system even on zero hours of sleep.",
-      "**Lower the bar on day 1** – showered and fed is a successful day, not a failed one.",
-      "**Check in with your own doctor at 6 weeks, not just the baby's** – postpartum checkups catch issues parents often brush off.",
+      "**Leg Cramp at Night** – Pinch the top lip firmly for 20 seconds, a pressure-point trick that often interrupts the muscle spasm.",
+      "**Nosebleed** – Lean forward (not back) and pinch the soft part of your nose for 10 full minutes without checking early.",
+      "**Brain Freeze** – Press your tongue flat against the roof of your mouth to warm the area fast and stop the throb.",
+      "**Dry, Cracked Heels** – Rub petroleum jelly on feet and cover with socks overnight to lock in moisture.",
+      "**Clogged Pen or Sticky Zipper** – Rub a bit of olive oil on the mechanism to loosen it instantly.",
+      "**Minor Burn Sting** – Hold the area under cool (not icy) running water for a full 10 minutes to pull out heat.",
+      "**Charley Horse Cramp** – Stand up and press your heel into the floor while pushing your toes upward to force the muscle to release.",
+      "**Static Cling on Clothes** – Rub a damp dryer sheet or metal hanger over the fabric to neutralize the charge.",
+      "**Smelly Cutting Board** – Rub coarse salt and half a lemon over it to lift odor without harsh chemicals.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "The first months with a new baby are brutal on your body, so a few small swaps matter more than people admit. Napping when the baby naps isn't lazy, it's how your body gets back into deep sleep cycles that actual rest (not just lying down) requires to repair tissue and regulate hormones. Batch cooking on a calmer day means on the hard days you're not running on coffee and crackers, which keeps blood sugar steady and mood more stable. And that water bottle by the feeding chair matters more than it sounds, dehydration during feeding windows can worsen fatigue and even milk supply. Everyone's recovery looks different, listen to your own body first.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and small daily habits that actually fit real life. Our mission is to help you build small, realistic routines instead of chasing perfection.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.",
+    "caption": "A **leg cramp** at night happens when a muscle suddenly contracts due to dehydration or nerve overload — pinching the lip stimulates a nerve point that can interrupt the signal telling your muscle to stay clenched. A **nosebleed** mostly comes from a burst tiny vessel at the front of the nose, and leaning forward keeps blood from running down your throat while steady pressure lets the vessel seal itself. A **burn** keeps cooking your skin from the inside out even after you pull away from the heat source, so a full 10 minutes of cool water is what actually stops the deeper tissue damage, not just the surface sting. Everyone's body reacts a little differently, so go gently and stop if something feels off.\n\n@smarthealthfix is all about the small stuff — nutrition, everyday symptoms, how your organs actually work, and tiny daily habits that add up. Our mission is to make health feel practical and doable instead of overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs a quick fix today.",
     "hashtags": [
-      "#newparent",
-      "#postpartumrecovery",
-      "#parentinglife",
+      "#healthhacks",
+      "#homeremedies",
+      "#wellnesstips",
+      "#quickfix",
+      "#bodyglitches",
+      "#naturalremedy",
       "#healthtips",
-      "#wellness",
-      "#babycare",
-      "#momhealth",
-      "#selfcaretips",
-      "#postpartumhealth",
-      "#parentingtips"
+      "#selfcare",
+      "#lifehacks",
+      "#everydayhealth"
     ],
     "extra_keywords": [
-      "newmomlife",
-      "postpartumwellness",
-      "parentinghacks",
-      "healthyhabits"
+      "householdtips",
+      "naturalhealing",
+      "wellnessjourney",
+      "quickrelief",
+      "homehacks"
     ]
   },
-  "shape": "imperative_advice_list",
-  "caption": "The first months with a new baby are brutal on your body, so a few small swaps matter more than people admit. Napping when the baby naps isn't lazy, it's how your body gets back into deep sleep cycles that actual rest (not just lying down) requires to repair tissue and regulate hormones. Batch cooking on a calmer day means on the hard days you're not running on coffee and crackers, which keeps blood sugar steady and mood more stable. And that water bottle by the feeding chair matters more than it sounds, dehydration during feeding windows can worsen fatigue and even milk supply. Everyone's recovery looks different, listen to your own body first.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and small daily habits that actually fit real life. Our mission is to help you build small, realistic routines instead of chasing perfection.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.\n\n#newparent #postpartumrecovery #parentinglife #healthtips #wellness #babycare #momhealth #selfcaretips #postpartumhealth #parentingtips newmomlife postpartumwellness parentinghacks healthyhabits"
+  "shape": "boxed_hacks",
+  "caption": "A **leg cramp** at night happens when a muscle suddenly contracts due to dehydration or nerve overload — pinching the lip stimulates a nerve point that can interrupt the signal telling your muscle to stay clenched. A **nosebleed** mostly comes from a burst tiny vessel at the front of the nose, and leaning forward keeps blood from running down your throat while steady pressure lets the vessel seal itself. A **burn** keeps cooking your skin from the inside out even after you pull away from the heat source, so a full 10 minutes of cool water is what actually stops the deeper tissue damage, not just the surface sting. Everyone's body reacts a little differently, so go gently and stop if something feels off.\n\n@smarthealthfix is all about the small stuff — nutrition, everyday symptoms, how your organs actually work, and tiny daily habits that add up. Our mission is to make health feel practical and doable instead of overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs a quick fix today.\n\n#healthhacks #homeremedies #wellnesstips #quickfix #bodyglitches #naturalremedy #healthtips #selfcare #lifehacks #everydayhealth householdtips naturalhealing wellnessjourney quickrelief homehacks"
 }
