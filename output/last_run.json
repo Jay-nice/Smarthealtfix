@@ -1,43 +1,41 @@
 {
-  "png": "output/reel_20261008_000643.png",
-  "mp4": "output/reel_20261008_000643.mp4",
-  "cover": "output/cover_20261008_000643.png",
-  "cover_bg": "green",
+  "png": "output/reel_20261008_171657.png",
+  "mp4": "output/reel_20261008_171657.mp4",
+  "cover": "output/cover_20261008_171657.png",
+  "cover_bg": "white",
   "content": {
-    "title": "WHY YOUR {{HEALTHY}} MEALS AREN'T PAYING OFF",
+    "title": "THE {{MINERAL}} MOST PEOPLE ONLY GET FROM SHELLFISH AND NUTS",
     "facts": [
-      "**Overcooked broccoli** – Boiling it until mushy drains most of its vitamin C into the water; steam it for 4-5 minutes instead to keep nutrients intact.",
-      "**Draining canned tuna fully** – You're pouring out omega-3-rich oil and liquid; use it in the dressing instead of tossing it down the sink.",
-      "**Microwaving in the wrong container** – Reheating in certain plastics can leach chemicals into fatty or acidic foods; switch to glass or ceramic.",
-      "**Salting meat too early** – Salting right before cooking pulls out moisture and leaves it dry; salt 40 minutes ahead or right at the pan.",
-      "**Tossing egg yolks** – Egg-white-only omelets skip most of the choline and vitamin D the egg actually has; the yolk isn't the villain you think it is.",
-      "**Peeling vegetables out of habit** – Potato and cucumber skins hold a good chunk of the fiber; a quick scrub beats peeling for most veggies.",
-      "**Cooking with the lid off** – Letting steam escape means water-soluble vitamins evaporate faster; a lid traps both heat and nutrients.",
-      "**Adding oil to boiling pasta water** – It doesn't stop sticking, it just coats the noodles so sauce slides right off later; a good stir does the real work.",
+      "**Copper** (Energy Spark) — Cashews | Sesame Seeds | Shiitake Mushrooms | Dark Leafy Greens",
+      "**Manganese** (Bone Builder) — Pineapple | Brown Rice | Pecans | Mussels",
+      "**Iodine** (Thyroid Fuel) — Seaweed | Cod | Dairy | Eggs",
+      "**Selenium** (Cell Shield) — Brazil Nuts | Sardines | Sunflower Seeds | Turkey",
+      "**Calcium** (Signal Sender) — Sardines with Bones | Bok Choy | Almonds | Yogurt",
+      "**Potassium** (Fluid Balancer) — Swiss Chard | Butternut Squash | Coconut Water | Lima Beans",
+      "**Chromium** (Blood Sugar Helper) — Broccoli | Grapes | Barley | Oats",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Small cooking habits quietly cancel out the effort you put into eating well. Take broccoli – once it's boiled past that bright green stage, a big chunk of its vitamin C has already leached into the cooking water, so steaming or a quick stir-fry protects far more of it. The same goes for egg yolks: skipping them to \"save calories\" also means skipping choline, which your brain and liver actually rely on daily, and most of the vitamin D the egg provides. And with vegetables like potatoes or cucumbers, peeling out of habit strips away fiber sitting just under the skin that helps slow digestion and keep you full longer. Everyone's kitchen shortcuts are different, so it's worth noticing which ones you actually do.\n\nAt @smarthealthfix, we cover nutrition, common health issues, organ function, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes or perfect diets.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Copper quietly runs the show for your energy levels — it helps your body actually absorb and use the iron you eat, so without enough copper, even an iron-rich diet can leave you running low on fuel. Manganese works behind the scenes in collagen production, meaning it's not just about bone strength but also how well your joints and skin hold up over time. And iodine is the one your thyroid can't function without — too little, and your metabolism basically runs in slow motion, even if everything else in your diet looks perfect. Everyone's body is different, so pay attention to how yours responds.\n\n@smarthealthfix is all about the small, overlooked stuff — nutrition, common health issues, how your organs actually work, and the daily habits that quietly shape your health. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
-      "#wellness",
-      "#cookingmistakes",
+      "#mineraldeficiency",
+      "#copperbenefits",
+      "#thyroidhealth",
+      "#seleniumsource",
       "#nutritionfacts",
-      "#healthykitchen",
-      "#foodprep",
-      "#eatclean",
-      "#mealprep",
-      "#nutritiontips",
-      "#healthyhabits"
+      "#wellnessjourney",
+      "#guttips",
+      "#bonehealth",
+      "#eatrealfood"
     ],
     "extra_keywords": [
-      "cookingtips",
-      "nutritionhacks",
+      "naturalhealing",
+      "mineralbalance",
       "healthyeating",
-      "kitchenmistakes",
-      "wellnessjourney"
+      "nutritiontips"
     ]
   },
-  "shape": "myth_bust",
-  "caption": "Small cooking habits quietly cancel out the effort you put into eating well. Take broccoli – once it's boiled past that bright green stage, a big chunk of its vitamin C has already leached into the cooking water, so steaming or a quick stir-fry protects far more of it. The same goes for egg yolks: skipping them to \"save calories\" also means skipping choline, which your brain and liver actually rely on daily, and most of the vitamin D the egg provides. And with vegetables like potatoes or cucumbers, peeling out of habit strips away fiber sitting just under the skin that helps slow digestion and keep you full longer. Everyone's kitchen shortcuts are different, so it's worth noticing which ones you actually do.\n\nAt @smarthealthfix, we cover nutrition, common health issues, organ function, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes or perfect diets.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #cookingmistakes #nutritionfacts #healthykitchen #foodprep #eatclean #mealprep #nutritiontips #healthyhabits cookingtips nutritionhacks healthyeating kitchenmistakes wellnessjourney"
+  "shape": "mineral_sources",
+  "caption": "Copper quietly runs the show for your energy levels — it helps your body actually absorb and use the iron you eat, so without enough copper, even an iron-rich diet can leave you running low on fuel. Manganese works behind the scenes in collagen production, meaning it's not just about bone strength but also how well your joints and skin hold up over time. And iodine is the one your thyroid can't function without — too little, and your metabolism basically runs in slow motion, even if everything else in your diet looks perfect. Everyone's body is different, so pay attention to how yours responds.\n\n@smarthealthfix is all about the small, overlooked stuff — nutrition, common health issues, how your organs actually work, and the daily habits that quietly shape your health. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #mineraldeficiency #copperbenefits #thyroidhealth #seleniumsource #nutritionfacts #wellnessjourney #guttips #bonehealth #eatrealfood naturalhealing mineralbalance healthyeating nutritiontips"
 }
