@@ -1,40 +1,41 @@
 {
-  "png": "output/reel_20261009_000959.png",
-  "mp4": "output/reel_20261009_000959.mp4",
-  "cover": "output/cover_20261009_000959.png",
-  "cover_bg": "white",
+  "png": "output/reel_20261009_165237.png",
+  "mp4": "output/reel_20261009_165237.mp4",
+  "cover": "output/cover_20261009_165237.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE AISLE SNACK FOR THAT {{AWKWARD}} BLOATED FEELING",
+    "title": "HABITS THAT FEEL PRODUCTIVE BUT QUIETLY {{BACKFIRE}}",
     "facts": [
-      "**Fennel seeds** – chew 1/2 tsp after a heavy meal, they relax gut muscles and push trapped gas through faster.",
-      "**Papaya** – 1 cup fresh (not canned) has papain, an enzyme that breaks down protein so your stomach isn't stuck doing all the work.",
-      "**Ginger tea** – 1 cup steeped fresh ginger speeds up stomach emptying, so that heavy, stuck feeling after eating fades quicker.",
-      "**Cucumber** – 90% water plus quercetin, a combo that eases swelling in the gut lining after a salty meal.",
-      "**Peppermint tea** – 1 cup between meals relaxes the intestinal wall, taking the edge off cramping and pressure.",
-      "**Pineapple** – 1/2 cup has bromelain, another protein-digesting enzyme that works especially well after meat-heavy meals.",
-      "**Plain yogurt** – 1 small bowl with live cultures helps rebalance gut bacteria that get thrown off by processed food.",
+      "**Journaling right before bed** -> keeps your brain in analytical mode, delaying the melatonin dip that should be pulling you toward sleep.",
+      "**Starting the day with a hard workout on empty stomach** -> can spike cortisol further on top of your natural morning peak, leaving some people wired and shaky instead of energized.",
+      "**Rinsing your mouth with mouthwash right after brushing** -> washes away the concentrated fluoride your toothpaste just left behind, so teeth get less protection than you think.",
+      "**Taking long weekend naps to 'catch up' on sleep** -> can shift your internal clock enough that falling asleep Sunday night gets harder, starting the week in a mild deficit.",
+      "**Drinking a big glass of water with every meal** -> can dilute stomach acid just enough to slow protein breakdown, leaving you feeling heavier afterward.",
+      "**Standing at your desk all day instead of sitting** -> keeps leg veins under constant static pressure, which can leave ankles puffier by evening than regular sitting-standing breaks would.",
+      "**Stretching cold muscles first thing in the morning** -> pulls on stiff, under-lubricated tissue, raising strain risk instead of preventing it the way a warm-up would.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Fennel seeds are an old trick worth bringing back — chewing just half a teaspoon slowly signals your digestive muscles to relax, which is why trapped gas moves on instead of sitting there uncomfortably. Papaya works differently: it's packed with papain, an enzyme your own stomach doesn't always produce enough of, so it basically does pre-digestion work for you on heavier meals. Ginger is the one to reach for when you feel stuffed and sluggish — it speeds up how fast your stomach empties its contents into the intestine, which shortens that uncomfortable \"heavy\" window. Everyone's gut reacts a little differently though, so pay attention to what actually settles yours.\n\nThis is what we focus on at @smarthealthfix — practical nutrition, everyday symptoms, how your organs actually work, and small daily habits that add up. Our mission is to help you build small, realistic routines instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these are worth sitting with. Journaling before bed feels calming, but it keeps your brain in problem-solving mode right when it should be winding down, which is why some people journal and still lie awake replaying thoughts. Mouthwash right after brushing feels extra thorough, but it rinses away the concentrated fluoride layer your toothpaste just deposited, so your teeth actually end up less protected for the day. And that big glass of water with meals? It feels like good hydration habit, but it can dilute stomach acid enough to slow down how efficiently you break down protein, which is part of why some people feel unusually heavy after a meal that water. Everyone's body reacts a little differently, so pay attention to what yours is telling you.\n\n@smarthealthfix breaks down nutrition, common health issues, organs & body functions, and small daily habits like these — the small stuff that rarely gets explained. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#guthealth",
-      "#bloatingrelief",
-      "#digestivehealth",
-      "#naturalremedies",
       "#healthtips",
       "#wellness",
-      "#foodasmedicine",
-      "#stomachissues",
-      "#healthyhabits"
+      "#sleephygiene",
+      "#guthealth",
+      "#dailyhabits",
+      "#healthyliving",
+      "#selfcare",
+      "#biohacking",
+      "#mindbodyconnection",
+      "#smallhabits"
     ],
     "extra_keywords": [
-      "bloatingtips",
-      "digestivehealth",
-      "guttips",
-      "naturalhealing"
+      "wellnessjourney",
+      "naturalhealing",
+      "healthyhabits",
+      "bodyawareness"
     ]
   },
-  "shape": "problem_food_mapping",
-  "caption": "Fennel seeds are an old trick worth bringing back — chewing just half a teaspoon slowly signals your digestive muscles to relax, which is why trapped gas moves on instead of sitting there uncomfortably. Papaya works differently: it's packed with papain, an enzyme your own stomach doesn't always produce enough of, so it basically does pre-digestion work for you on heavier meals. Ginger is the one to reach for when you feel stuffed and sluggish — it speeds up how fast your stomach empties its contents into the intestine, which shortens that uncomfortable \"heavy\" window. Everyone's gut reacts a little differently though, so pay attention to what actually settles yours.\n\nThis is what we focus on at @smarthealthfix — practical nutrition, everyday symptoms, how your organs actually work, and small daily habits that add up. Our mission is to help you build small, realistic routines instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#guthealth #bloatingrelief #digestivehealth #naturalremedies #healthtips #wellness #foodasmedicine #stomachissues #healthyhabits bloatingtips digestivehealth guttips naturalhealing"
+  "shape": "habit_harm_reveal",
+  "caption": "A few of these are worth sitting with. Journaling before bed feels calming, but it keeps your brain in problem-solving mode right when it should be winding down, which is why some people journal and still lie awake replaying thoughts. Mouthwash right after brushing feels extra thorough, but it rinses away the concentrated fluoride layer your toothpaste just deposited, so your teeth actually end up less protected for the day. And that big glass of water with meals? It feels like good hydration habit, but it can dilute stomach acid enough to slow down how efficiently you break down protein, which is part of why some people feel unusually heavy after a meal that water. Everyone's body reacts a little differently, so pay attention to what yours is telling you.\n\n@smarthealthfix breaks down nutrition, common health issues, organs & body functions, and small daily habits like these — the small stuff that rarely gets explained. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #sleephygiene #guthealth #dailyhabits #healthyliving #selfcare #biohacking #mindbodyconnection #smallhabits wellnessjourney naturalhealing healthyhabits bodyawareness"
 }
