@@ -1,41 +1,43 @@
 {
-  "png": "output/reel_20261009_165237.png",
-  "mp4": "output/reel_20261009_165237.mp4",
-  "cover": "output/cover_20261009_165237.png",
-  "cover_bg": "green",
+  "png": "output/reel_20261009_200503.png",
+  "mp4": "output/reel_20261009_200503.mp4",
+  "cover": "output/cover_20261009_200503.png",
+  "cover_bg": "white",
   "content": {
-    "title": "HABITS THAT FEEL PRODUCTIVE BUT QUIETLY {{BACKFIRE}}",
+    "title": "THE DAILY CHEAT SHEET YOUR {{BODY}} IS WAITING FOR",
     "facts": [
-      "**Journaling right before bed** -> keeps your brain in analytical mode, delaying the melatonin dip that should be pulling you toward sleep.",
-      "**Starting the day with a hard workout on empty stomach** -> can spike cortisol further on top of your natural morning peak, leaving some people wired and shaky instead of energized.",
-      "**Rinsing your mouth with mouthwash right after brushing** -> washes away the concentrated fluoride your toothpaste just left behind, so teeth get less protection than you think.",
-      "**Taking long weekend naps to 'catch up' on sleep** -> can shift your internal clock enough that falling asleep Sunday night gets harder, starting the week in a mild deficit.",
-      "**Drinking a big glass of water with every meal** -> can dilute stomach acid just enough to slow protein breakdown, leaving you feeling heavier afterward.",
-      "**Standing at your desk all day instead of sitting** -> keeps leg veins under constant static pressure, which can leave ankles puffier by evening than regular sitting-standing breaks would.",
-      "**Stretching cold muscles first thing in the morning** -> pulls on stiff, under-lubricated tissue, raising strain risk instead of preventing it the way a warm-up would.",
-      "**Follow along** – for more daily health tips like this."
+      "**Cold water** -> 1 glass right after waking up -> Kickstarts alertness",
+      "**Walking** -> 10 min after a meal -> Flattens sugar spikes",
+      "**Sunlight** -> 10 min within an hour of waking -> Sets sleep clock",
+      "**Deep breathing** -> 4 min, box breathing pattern -> Lowers stress fast",
+      "**Garlic** -> 1 clove crushed, raw, daily -> Supports heart health",
+      "**Dark chocolate** -> 1 square, 70%+ cacao -> Calms cortisol levels",
+      "**Pumpkin seeds** -> 1 small handful daily -> Eases muscle tension",
+      "**Silence** -> 5 min with no screens, no noise -> Resets a busy mind",
+      "**Stretching** -> 5 min before bed, not morning -> Deepens sleep quality",
+      "**Follow along** -> for more daily health tips like this -> Builds better habits"
     ],
     "claims": [],
-    "caption": "A few of these are worth sitting with. Journaling before bed feels calming, but it keeps your brain in problem-solving mode right when it should be winding down, which is why some people journal and still lie awake replaying thoughts. Mouthwash right after brushing feels extra thorough, but it rinses away the concentrated fluoride layer your toothpaste just deposited, so your teeth actually end up less protected for the day. And that big glass of water with meals? It feels like good hydration habit, but it can dilute stomach acid enough to slow down how efficiently you break down protein, which is part of why some people feel unusually heavy after a meal that water. Everyone's body reacts a little differently, so pay attention to what yours is telling you.\n\n@smarthealthfix breaks down nutrition, common health issues, organs & body functions, and small daily habits like these — the small stuff that rarely gets explained. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these are easier wins than people expect. Garlic works because it contains allicin, a compound that's released when you crush or chop it, and it's linked to supporting healthy blood pressure and circulation when eaten raw instead of cooked. Pumpkin seeds carry a solid dose of magnesium, a mineral that helps muscles actually let go of tension instead of staying tight, which is why a small handful in the evening can feel so calming. And that short walk after a meal isn't just about steps, it helps your muscles pull glucose out of your bloodstream right when your body is flooded with it from eating, which takes real pressure off your insulin response. Everyone's body is different, listen to yours and adjust what fits your day.\n\nAt @smarthealthfix, we focus on four things: nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
-      "#wellness",
-      "#sleephygiene",
-      "#guthealth",
       "#dailyhabits",
-      "#healthyliving",
-      "#selfcare",
-      "#biohacking",
-      "#mindbodyconnection",
-      "#smallhabits"
+      "#wellnessjourney",
+      "#bloodsugarbalance",
+      "#stressrelief",
+      "#guthealth",
+      "#sleepbetter",
+      "#morningroutine",
+      "#hearthealth",
+      "#selfcare"
     ],
     "extra_keywords": [
-      "wellnessjourney",
       "naturalhealing",
+      "wellnesstips",
       "healthyhabits",
-      "bodyawareness"
+      "mindbodyhealth"
     ]
   },
-  "shape": "habit_harm_reveal",
-  "caption": "A few of these are worth sitting with. Journaling before bed feels calming, but it keeps your brain in problem-solving mode right when it should be winding down, which is why some people journal and still lie awake replaying thoughts. Mouthwash right after brushing feels extra thorough, but it rinses away the concentrated fluoride layer your toothpaste just deposited, so your teeth actually end up less protected for the day. And that big glass of water with meals? It feels like good hydration habit, but it can dilute stomach acid enough to slow down how efficiently you break down protein, which is part of why some people feel unusually heavy after a meal that water. Everyone's body reacts a little differently, so pay attention to what yours is telling you.\n\n@smarthealthfix breaks down nutrition, common health issues, organs & body functions, and small daily habits like these — the small stuff that rarely gets explained. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #sleephygiene #guthealth #dailyhabits #healthyliving #selfcare #biohacking #mindbodyconnection #smallhabits wellnessjourney naturalhealing healthyhabits bodyawareness"
+  "shape": "daily_dose_habit",
+  "caption": "A few of these are easier wins than people expect. Garlic works because it contains allicin, a compound that's released when you crush or chop it, and it's linked to supporting healthy blood pressure and circulation when eaten raw instead of cooked. Pumpkin seeds carry a solid dose of magnesium, a mineral that helps muscles actually let go of tension instead of staying tight, which is why a small handful in the evening can feel so calming. And that short walk after a meal isn't just about steps, it helps your muscles pull glucose out of your bloodstream right when your body is flooded with it from eating, which takes real pressure off your insulin response. Everyone's body is different, listen to yours and adjust what fits your day.\n\nAt @smarthealthfix, we focus on four things: nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #dailyhabits #wellnessjourney #bloodsugarbalance #stressrelief #guthealth #sleepbetter #morningroutine #hearthealth #selfcare naturalhealing wellnesstips healthyhabits mindbodyhealth"
 }
