@@ -1,43 +1,43 @@
 {
-  "png": "output/reel_20261009_200503.png",
-  "mp4": "output/reel_20261009_200503.mp4",
-  "cover": "output/cover_20261009_200503.png",
-  "cover_bg": "white",
+  "png": "output/reel_20261009_235026.png",
+  "mp4": "output/reel_20261009_235026.mp4",
+  "cover": "output/cover_20261009_235026.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE DAILY CHEAT SHEET YOUR {{BODY}} IS WAITING FOR",
+    "title": "ORGANS IN YOUR BODY THAT ARE QUIETLY BEGGING FOR {{FOOD}}",
     "facts": [
-      "**Cold water** -> 1 glass right after waking up -> Kickstarts alertness",
-      "**Walking** -> 10 min after a meal -> Flattens sugar spikes",
-      "**Sunlight** -> 10 min within an hour of waking -> Sets sleep clock",
-      "**Deep breathing** -> 4 min, box breathing pattern -> Lowers stress fast",
-      "**Garlic** -> 1 clove crushed, raw, daily -> Supports heart health",
-      "**Dark chocolate** -> 1 square, 70%+ cacao -> Calms cortisol levels",
-      "**Pumpkin seeds** -> 1 small handful daily -> Eases muscle tension",
-      "**Silence** -> 5 min with no screens, no noise -> Resets a busy mind",
-      "**Stretching** -> 5 min before bed, not morning -> Deepens sleep quality",
-      "**Follow along** -> for more daily health tips like this -> Builds better habits"
+      "**Beets** are good for LIVER – the pigments in beets help your liver flush out waste more efficiently, a process called detox support.",
+      "**Walnuts** are good for BRAIN – their omega-3 fats help keep brain cell membranes flexible, which supports memory and focus.",
+      "**Oats** are good for HEART – the beta-glucan fiber in oats grabs onto cholesterol in your gut and carries it out before it reaches your arteries.",
+      "**Sardines** are good for BONES – they're eaten with their soft bones in, giving you a direct dose of calcium and vitamin D in one bite.",
+      "**Beans** are good for GUT – 1/2 cup a day feeds the good bacteria lining your intestines, keeping digestion running smoothly.",
+      "**Carrots** are good for EYES – the beta-carotene converts into vitamin A, which your retina needs to process light properly.",
+      "**Turmeric** is good for JOINTS – its active compound curcumin calms the inflammation that makes joints feel stiff and achy.",
+      "**Spinach** is good for LUNGS – its nitrates may help relax airway muscles, making it a bit easier to breathe deeply.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are easier wins than people expect. Garlic works because it contains allicin, a compound that's released when you crush or chop it, and it's linked to supporting healthy blood pressure and circulation when eaten raw instead of cooked. Pumpkin seeds carry a solid dose of magnesium, a mineral that helps muscles actually let go of tension instead of staying tight, which is why a small handful in the evening can feel so calming. And that short walk after a meal isn't just about steps, it helps your muscles pull glucose out of your bloodstream right when your body is flooded with it from eating, which takes real pressure off your insulin response. Everyone's body is different, listen to yours and adjust what fits your day.\n\nAt @smarthealthfix, we focus on four things: nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Your beets aren't just a salad topping — the natural pigments in them (called betalains) specifically support phase 2 liver detox, the stage where your liver packages up waste so your body can actually get rid of it. Walnuts work differently: the omega-3s in them get built directly into your brain cell membranes, which is why people who eat them regularly often notice sharper focus over time. And sardines deserve way more credit than they get — eating the tiny soft bones gives you a rare food source that delivers both calcium AND vitamin D together, which matters because your body needs vitamin D just to absorb the calcium in the first place. Everyone's body is different, so pay attention to what actually makes you feel good.\n\nThis is what we do at @smarthealthfix — we connect the dots between everyday nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our mission is to make real health science feel simple and doable, not overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#healthtips",
-      "#dailyhabits",
-      "#wellnessjourney",
-      "#bloodsugarbalance",
-      "#stressrelief",
-      "#guthealth",
-      "#sleepbetter",
-      "#morningroutine",
+      "#organhealth",
+      "#liverhealth",
+      "#brainfood",
       "#hearthealth",
-      "#selfcare"
+      "#guthealth",
+      "#bonehealth",
+      "#antiinflammatory",
+      "#nutritiontips",
+      "#eatwellbewell",
+      "#wholefoods"
     ],
     "extra_keywords": [
-      "naturalhealing",
+      "foodismedicine",
+      "healthyorgans",
+      "nutritionfacts",
       "wellnesstips",
-      "healthyhabits",
-      "mindbodyhealth"
+      "cleaneating"
     ]
   },
-  "shape": "daily_dose_habit",
-  "caption": "A few of these are easier wins than people expect. Garlic works because it contains allicin, a compound that's released when you crush or chop it, and it's linked to supporting healthy blood pressure and circulation when eaten raw instead of cooked. Pumpkin seeds carry a solid dose of magnesium, a mineral that helps muscles actually let go of tension instead of staying tight, which is why a small handful in the evening can feel so calming. And that short walk after a meal isn't just about steps, it helps your muscles pull glucose out of your bloodstream right when your body is flooded with it from eating, which takes real pressure off your insulin response. Everyone's body is different, listen to yours and adjust what fits your day.\n\nAt @smarthealthfix, we focus on four things: nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #dailyhabits #wellnessjourney #bloodsugarbalance #stressrelief #guthealth #sleepbetter #morningroutine #hearthealth #selfcare naturalhealing wellnesstips healthyhabits mindbodyhealth"
+  "shape": "allcaps_benefit",
+  "caption": "Your beets aren't just a salad topping — the natural pigments in them (called betalains) specifically support phase 2 liver detox, the stage where your liver packages up waste so your body can actually get rid of it. Walnuts work differently: the omega-3s in them get built directly into your brain cell membranes, which is why people who eat them regularly often notice sharper focus over time. And sardines deserve way more credit than they get — eating the tiny soft bones gives you a rare food source that delivers both calcium AND vitamin D together, which matters because your body needs vitamin D just to absorb the calcium in the first place. Everyone's body is different, so pay attention to what actually makes you feel good.\n\nThis is what we do at @smarthealthfix — we connect the dots between everyday nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our mission is to make real health science feel simple and doable, not overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #liverhealth #brainfood #hearthealth #guthealth #bonehealth #antiinflammatory #nutritiontips #eatwellbewell #wholefoods foodismedicine healthyorgans nutritionfacts wellnesstips cleaneating"
 }
