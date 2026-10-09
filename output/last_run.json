@@ -1,43 +1,40 @@
 {
-  "png": "output/reel_20261008_205223.png",
-  "mp4": "output/reel_20261008_205223.mp4",
-  "cover": "output/cover_20261008_205223.png",
-  "cover_bg": "green",
+  "png": "output/reel_20261009_000959.png",
+  "mp4": "output/reel_20261009_000959.mp4",
+  "cover": "output/cover_20261009_000959.png",
+  "cover_bg": "white",
   "content": {
-    "title": "KITCHEN FIXES FOR ANNOYING LITTLE PROBLEMS THAT USUALLY SEND YOU TO THE PHARMACY",
+    "title": "THE AISLE SNACK FOR THAT {{AWKWARD}} BLOATED FEELING",
     "facts": [
-      "**Hiccups** – Swallow a teaspoon of sugar; the grainy texture distracts the nerve that triggers the spasm.",
-      "**Sore Throat** – Gargle warm salt water (1/2 tsp salt in 1 cup water) 3x/day to pull swelling out of the tissue.",
-      "**Burnt Tongue** – Press a spoonful of plain yogurt against the roof of your mouth for instant cooling relief.",
-      "**Stuffy Nose** – Hold a warm, damp washcloth over your sinuses for 2 minutes to loosen trapped mucus.",
-      "**Bug Bite Itch** – Press a hot spoon (dipped in hot water) onto the bite for 10 seconds to stop the itch signal.",
-      "**Bad Breath Fast** – Chew a sprig of fresh parsley; its chlorophyll neutralizes odor-causing compounds on contact.",
-      "**Hangnail Pain** – Soak the finger in warm olive oil for 5 minutes to soften the skin before trimming.",
-      "**Dry, Cracked Heels** – Rub petroleum jelly on heels then cover with socks overnight to lock in moisture.",
-      "**Minor Burns** – Run cool (not ice-cold) water over the area for a full 10 minutes to stop the burn from spreading deeper.",
+      "**Fennel seeds** – chew 1/2 tsp after a heavy meal, they relax gut muscles and push trapped gas through faster.",
+      "**Papaya** – 1 cup fresh (not canned) has papain, an enzyme that breaks down protein so your stomach isn't stuck doing all the work.",
+      "**Ginger tea** – 1 cup steeped fresh ginger speeds up stomach emptying, so that heavy, stuck feeling after eating fades quicker.",
+      "**Cucumber** – 90% water plus quercetin, a combo that eases swelling in the gut lining after a salty meal.",
+      "**Peppermint tea** – 1 cup between meals relaxes the intestinal wall, taking the edge off cramping and pressure.",
+      "**Pineapple** – 1/2 cup has bromelain, another protein-digesting enzyme that works especially well after meat-heavy meals.",
+      "**Plain yogurt** – 1 small bowl with live cultures helps rebalance gut bacteria that get thrown off by processed food.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these have real mechanisms behind them worth knowing. The sugar trick for hiccups works because the sweet, gritty texture overrides the signal your vagus nerve is sending to your diaphragm, basically short-circuiting the spasm loop. For a sore throat, warm salt water isn't just soothing — the saline draws excess fluid out of inflamed tissue through osmosis, which is why the swelling and scratchiness calm down so fast. And parsley for bad breath isn't just masking smell like gum does; its high chlorophyll content actually binds to sulfur compounds in your mouth and breaks them down instead of just covering them up. Simple tricks, but your body still reacts differently, so pay attention to what actually works for you.\n\nThis is what we love sharing at @smarthealthfix — easy wins across nutrition, everyday health issues, how your organs actually work, and small daily habits that add up. Our mission is to make feeling better simple, not complicated or expensive.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Fennel seeds are an old trick worth bringing back — chewing just half a teaspoon slowly signals your digestive muscles to relax, which is why trapped gas moves on instead of sitting there uncomfortably. Papaya works differently: it's packed with papain, an enzyme your own stomach doesn't always produce enough of, so it basically does pre-digestion work for you on heavier meals. Ginger is the one to reach for when you feel stuffed and sluggish — it speeds up how fast your stomach empties its contents into the intestine, which shortens that uncomfortable \"heavy\" window. Everyone's gut reacts a little differently though, so pay attention to what actually settles yours.\n\nThis is what we focus on at @smarthealthfix — practical nutrition, everyday symptoms, how your organs actually work, and small daily habits that add up. Our mission is to help you build small, realistic routines instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#homeremedies",
+      "#guthealth",
+      "#bloatingrelief",
+      "#digestivehealth",
       "#naturalremedies",
-      "#healthhacks",
-      "#wellnesstips",
-      "#quickfix",
-      "#selfcare",
-      "#healthylifestyle",
-      "#diyhealth",
-      "#everydayhealth",
-      "#bodytips"
+      "#healthtips",
+      "#wellness",
+      "#foodasmedicine",
+      "#stomachissues",
+      "#healthyhabits"
     ],
     "extra_keywords": [
-      "householdhacks",
-      "naturalhealing",
-      "wellnessjourney",
-      "simplehealthtips"
+      "bloatingtips",
+      "digestivehealth",
+      "guttips",
+      "naturalhealing"
     ]
   },
-  "shape": "boxed_hacks",
-  "caption": "A few of these have real mechanisms behind them worth knowing. The sugar trick for hiccups works because the sweet, gritty texture overrides the signal your vagus nerve is sending to your diaphragm, basically short-circuiting the spasm loop. For a sore throat, warm salt water isn't just soothing — the saline draws excess fluid out of inflamed tissue through osmosis, which is why the swelling and scratchiness calm down so fast. And parsley for bad breath isn't just masking smell like gum does; its high chlorophyll content actually binds to sulfur compounds in your mouth and breaks them down instead of just covering them up. Simple tricks, but your body still reacts differently, so pay attention to what actually works for you.\n\nThis is what we love sharing at @smarthealthfix — easy wins across nutrition, everyday health issues, how your organs actually work, and small daily habits that add up. Our mission is to make feeling better simple, not complicated or expensive.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#homeremedies #naturalremedies #healthhacks #wellnesstips #quickfix #selfcare #healthylifestyle #diyhealth #everydayhealth #bodytips householdhacks naturalhealing wellnessjourney simplehealthtips"
+  "shape": "problem_food_mapping",
+  "caption": "Fennel seeds are an old trick worth bringing back — chewing just half a teaspoon slowly signals your digestive muscles to relax, which is why trapped gas moves on instead of sitting there uncomfortably. Papaya works differently: it's packed with papain, an enzyme your own stomach doesn't always produce enough of, so it basically does pre-digestion work for you on heavier meals. Ginger is the one to reach for when you feel stuffed and sluggish — it speeds up how fast your stomach empties its contents into the intestine, which shortens that uncomfortable \"heavy\" window. Everyone's gut reacts a little differently though, so pay attention to what actually settles yours.\n\nThis is what we focus on at @smarthealthfix — practical nutrition, everyday symptoms, how your organs actually work, and small daily habits that add up. Our mission is to help you build small, realistic routines instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#guthealth #bloatingrelief #digestivehealth #naturalremedies #healthtips #wellness #foodasmedicine #stomachissues #healthyhabits bloatingtips digestivehealth guttips naturalhealing"
 }
