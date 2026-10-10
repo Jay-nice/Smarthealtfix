@@ -1,0 +1,214 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "WHY {{SWAPPING}} ONE FRUIT FOR ANOTHER CHANGES MORE THAN YOU THINK",
+    "facts": [
+      "A single **kiwi** has more vitamin C than an orange, skin and all — your body absorbs it fast and uses it to build collagen within hours.",
+      "**Swiss chard** has more potassium per cup than a banana, which helps your muscles relax instead of cramping up at night.",
+      "**Pomegranate seeds** carry more vitamin K than most leafy greens people reach for first, and it's the nutrient your blood needs to clot properly.",
+      "**Brazil nuts** are loaded with selenium — just 2 nuts a day cover what your thyroid needs for the whole day.",
+      "**Dried figs** have more calcium than a glass of milk, ounce for ounce, making them a sneaky bone-support snack.",
+      "**Lentils** pack more iron than a serving of red meat by weight, though your body absorbs it slower without vitamin C alongside it.",
+      "**Raspberries** have more fiber per cup than most whole-grain cereals, keeping you full without the sugar crash.",
+      "**Chickpeas** contain more zinc than most people expect from a plant food, supporting wound healing and your immune defenses.",
+      "**Flaxseeds** are one of the richest plant sources of omega-3s — 1 tbsp ground daily is enough to notice the difference in skin and joints.",
+      "**Mushrooms** left in sunlight for 10 minutes can develop more vitamin D than a glass of fortified milk.",
+      "**Follow along** – for more daily nutrition comparisons like this."
+    ],
+    "claims": [
+      {
+        "food_a": "Kiwi",
+        "food_b": "Orange",
+        "nutrient_key": "vitamin_c"
+      },
+      {
+        "food_a": "Swiss chard",
+        "food_b": "Banana",
+        "nutrient_key": "potassium"
+      },
+      {
+        "food_a": "Pomegranate seeds",
+        "food_b": "Leafy greens",
+        "nutrient_key": "vitamin_k"
+      },
+      {
+        "food_a": "Brazil nuts",
+        "food_b": "Most foods",
+        "nutrient_key": "selenium"
+      },
+      {
+        "food_a": "Dried figs",
+        "food_b": "Milk",
+        "nutrient_key": "calcium"
+      },
+      {
+        "food_a": "Lentils",
+        "food_b": "Red meat",
+        "nutrient_key": "iron"
+      },
+      {
+        "food_a": "Raspberries",
+        "food_b": "Whole-grain cereal",
+        "nutrient_key": "fiber"
+      },
+      {
+        "food_a": "Chickpeas",
+        "food_b": "Typical plant foods",
+        "nutrient_key": "zinc"
+      },
+      {
+        "food_a": "Flaxseeds",
+        "food_b": "Most plant foods",
+        "nutrient_key": "omega3_ala"
+      },
+      {
+        "food_a": "Sun-exposed mushrooms",
+        "food_b": "Fortified milk",
+        "nutrient_key": "vitamin_d"
+      }
+    ],
+    "caption": "Small swaps add up more than people realize. Take kiwi — it doesn't just match an orange's vitamin C, it edges it out, and that vitamin C gets straight to work helping your body produce collagen, which is why it shows up in skin and joint health advice so often. Then there's chard, which quietly outperforms the banana everyone defaults to for potassium — potassium is what keeps the electrical signals in your muscles firing smoothly, so low levels are a common hidden reason for nighttime leg cramps. And flaxseeds deserve more credit too: a tablespoon a day gives you a steady plant-based source of omega-3s, which your body uses to calm inflammation over time rather than instantly, so the benefits build the longer you stick with it. Everyone's body absorbs and uses nutrients a little differently, so treat these as a starting point, not a strict rule.\n\nAt @smarthealthfix we focus on the stuff that actually moves the needle long-term: nutrition, common health issues, how your organs function, and the small daily habits that tie it all together. Our mission is to make real nutrition facts easy to act on, instead of chasing whatever trend shows up next.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "hashtags": [
+      "#healthtips",
+      "#nutritionfacts",
+      "#wellness",
+      "#vitaminc",
+      "#magnesium",
+      "#potassium",
+      "#fiberrich",
+      "#plantbasednutrition",
+      "#micronutrients",
+      "#healthyeating",
+      "#guthealth"
+    ],
+    "extra_keywords": [
+      "nutrientdense",
+      "wellnessjourney",
+      "foodfacts",
+      "healthyhabits",
+      "eatthis"
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 10,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "Swiss chard",
+          "food_b": "Banana",
+          "nutrient_key": "potassium"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "Swiss chard",
+          "food_b": "Banana",
+          "nutrient": "potassium",
+          "amount_a": {
+            "amount": 379,
+            "unit": "MG",
+            "food_description": "Chard, swiss, raw",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 422,
+            "unit": "mg",
+            "per": "1 medium (118g)"
+          },
+          "ratio": 0.9
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Pomegranate seeds",
+          "food_b": "Leafy greens",
+          "nutrient_key": "vitamin_k"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Dried figs",
+          "food_b": "Milk",
+          "nutrient_key": "calcium"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "Dried figs",
+          "food_b": "Milk",
+          "nutrient": "calcium",
+          "amount_a": {
+            "amount": 93.0,
+            "unit": "MG",
+            "food_description": "DRIED FIGS",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 127,
+            "unit": "MG",
+            "food_description": "MILK",
+            "per": "100g"
+          },
+          "ratio": 0.73
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Raspberries",
+          "food_b": "Whole-grain cereal",
+          "nutrient_key": "fiber"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "Raspberries",
+          "food_b": "Whole-grain cereal",
+          "nutrient": "fiber",
+          "amount_a": {
+            "amount": 4.2,
+            "unit": "G",
+            "food_description": "RASPBERRIES",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 11.4,
+            "unit": "G",
+            "food_description": "Cereals ready-to-eat, WEETABIX whole grain cereal",
+            "per": "100g"
+          },
+          "ratio": 0.37
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Chickpeas",
+          "food_b": "Typical plant foods",
+          "nutrient_key": "zinc"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Flaxseeds",
+          "food_b": "Most plant foods",
+          "nutrient_key": "omega3_ala"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      }
+    ]
+  }
+}
