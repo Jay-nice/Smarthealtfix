@@ -1,43 +1,41 @@
 {
-  "png": "output/reel_20261009_235026.png",
-  "mp4": "output/reel_20261009_235026.mp4",
-  "cover": "output/cover_20261009_235026.png",
-  "cover_bg": "green",
+  "png": "output/reel_20261010_191447.png",
+  "mp4": "output/reel_20261010_191447.mp4",
+  "cover": "output/cover_20261010_191447.png",
+  "cover_bg": "white",
   "content": {
-    "title": "ORGANS IN YOUR BODY THAT ARE QUIETLY BEGGING FOR {{FOOD}}",
+    "title": "THE MINERAL THAT CONTROLS YOUR {{THYROID}} AND NOBODY TALKS ABOUT IT",
     "facts": [
-      "**Beets** are good for LIVER – the pigments in beets help your liver flush out waste more efficiently, a process called detox support.",
-      "**Walnuts** are good for BRAIN – their omega-3 fats help keep brain cell membranes flexible, which supports memory and focus.",
-      "**Oats** are good for HEART – the beta-glucan fiber in oats grabs onto cholesterol in your gut and carries it out before it reaches your arteries.",
-      "**Sardines** are good for BONES – they're eaten with their soft bones in, giving you a direct dose of calcium and vitamin D in one bite.",
-      "**Beans** are good for GUT – 1/2 cup a day feeds the good bacteria lining your intestines, keeping digestion running smoothly.",
-      "**Carrots** are good for EYES – the beta-carotene converts into vitamin A, which your retina needs to process light properly.",
-      "**Turmeric** is good for JOINTS – its active compound curcumin calms the inflammation that makes joints feel stiff and achy.",
-      "**Spinach** is good for LUNGS – its nitrates may help relax airway muscles, making it a bit easier to breathe deeply.",
+      "**Iodine** – your thyroid literally cannot make its hormones without it, and those hormones run your metabolism, energy, and body temperature.",
+      "**Cod** – a 3oz serving covers most of your daily iodine needs in one simple meal.",
+      "**Seaweed Snacks** – even a small dried sheet packs a surprising amount of iodine, way more than most land foods.",
+      "**Eggs** – 2 eggs/day gives you a steady, easy iodine boost most people overlook.",
+      "**Baked Potato (with skin)** – an underrated source, especially if you rarely eat seafood.",
+      "**Dairy Milk** – 1 cup/day contributes meaningfully, thanks to iodine-based sanitizers used in dairy farming.",
+      "**Prunes** – 5 prunes/day is a quiet, fruity way to sneak in extra iodine.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Your beets aren't just a salad topping — the natural pigments in them (called betalains) specifically support phase 2 liver detox, the stage where your liver packages up waste so your body can actually get rid of it. Walnuts work differently: the omega-3s in them get built directly into your brain cell membranes, which is why people who eat them regularly often notice sharper focus over time. And sardines deserve way more credit than they get — eating the tiny soft bones gives you a rare food source that delivers both calcium AND vitamin D together, which matters because your body needs vitamin D just to absorb the calcium in the first place. Everyone's body is different, so pay attention to what actually makes you feel good.\n\nThis is what we do at @smarthealthfix — we connect the dots between everyday nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our mission is to make real health science feel simple and doable, not overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Let's talk about iodine, because almost nobody brings it up until something feels off. Cod is one of the easiest wins here — your thyroid uses iodine from foods like this to build T3 and T4, the hormones that basically set the pace for your whole metabolism, so even a mild shortfall can leave you feeling sluggish. Seaweed snacks are a sneaky powerhouse too, since ocean plants pull iodine straight from seawater, making them one of the most concentrated natural sources around. And prunes might be the most underrated one on this list — they're not just a fiber food, they quietly add iodine to your day without you even noticing. Everyone's needs are a little different, so listen to your body and check with a doctor if something feels persistently off.\n\nThis is what we do over at @smarthealthfix — breaking down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#organhealth",
-      "#liverhealth",
-      "#brainfood",
-      "#hearthealth",
-      "#guthealth",
-      "#bonehealth",
-      "#antiinflammatory",
-      "#nutritiontips",
-      "#eatwellbewell",
-      "#wholefoods"
+      "#iodine",
+      "#thyroidhealth",
+      "#healthtips",
+      "#nutritionfacts",
+      "#metabolismboost",
+      "#wellnessjourney",
+      "#eatsmart",
+      "#thyroidsupport",
+      "#hormonehealth",
+      "#nutritiontips"
     ],
     "extra_keywords": [
+      "mineraldeficiency",
+      "healthyeating",
       "foodismedicine",
-      "healthyorgans",
-      "nutritionfacts",
-      "wellnesstips",
-      "cleaneating"
+      "wellnesstips"
     ]
   },
-  "shape": "allcaps_benefit",
-  "caption": "Your beets aren't just a salad topping — the natural pigments in them (called betalains) specifically support phase 2 liver detox, the stage where your liver packages up waste so your body can actually get rid of it. Walnuts work differently: the omega-3s in them get built directly into your brain cell membranes, which is why people who eat them regularly often notice sharper focus over time. And sardines deserve way more credit than they get — eating the tiny soft bones gives you a rare food source that delivers both calcium AND vitamin D together, which matters because your body needs vitamin D just to absorb the calcium in the first place. Everyone's body is different, so pay attention to what actually makes you feel good.\n\nThis is what we do at @smarthealthfix — we connect the dots between everyday nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our mission is to make real health science feel simple and doable, not overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #liverhealth #brainfood #hearthealth #guthealth #bonehealth #antiinflammatory #nutritiontips #eatwellbewell #wholefoods foodismedicine healthyorgans nutritionfacts wellnesstips cleaneating"
+  "shape": "mineral_sources",
+  "caption": "Let's talk about iodine, because almost nobody brings it up until something feels off. Cod is one of the easiest wins here — your thyroid uses iodine from foods like this to build T3 and T4, the hormones that basically set the pace for your whole metabolism, so even a mild shortfall can leave you feeling sluggish. Seaweed snacks are a sneaky powerhouse too, since ocean plants pull iodine straight from seawater, making them one of the most concentrated natural sources around. And prunes might be the most underrated one on this list — they're not just a fiber food, they quietly add iodine to your day without you even noticing. Everyone's needs are a little different, so listen to your body and check with a doctor if something feels persistently off.\n\nThis is what we do over at @smarthealthfix — breaking down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#iodine #thyroidhealth #healthtips #nutritionfacts #metabolismboost #wellnessjourney #eatsmart #thyroidsupport #hormonehealth #nutritiontips mineraldeficiency healthyeating foodismedicine wellnesstips"
 }
