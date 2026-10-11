@@ -1,42 +1,42 @@
 {
-  "png": "output/reel_20261011_161147.png",
-  "mp4": "output/reel_20261011_161147.mp4",
-  "cover": "output/cover_20261011_161147.png",
-  "cover_bg": "white",
+  "png": "output/reel_20261011_192832.png",
+  "mp4": "output/reel_20261011_192832.mp4",
+  "cover": "output/cover_20261011_192832.png",
+  "cover_bg": "green",
   "content": {
-    "title": "THE REAL REASON YOUR {{HEADACHES}} KEEP COMING BACK",
+    "title": "ORGANS YOU DIDN'T EVEN KNOW YOU COULD FEED WITH {{BREAKFAST}}",
     "facts": [
-      "**Pumpkin seeds** – a handful (about 1 oz) daily supplies magnesium, which eases the blood vessel tension behind tension headaches.",
-      "**Dehydration** is the #1 trigger doctors see, yet most people blame everything else first. Start with 1-2 glasses of water before reaching for pills.",
-      "**Watermelon** – 1 cup after a workout or hot day replaces fluids and electrolytes faster than water alone.",
-      "**Skipped meals** drop your blood sugar and pull on blood vessels in the brain. A small snack every 3-4 hours keeps it steady.",
-      "**Ginger tea** – 1 cup at the first sign of a headache can calm nausea and dull throbbing pain.",
-      "**Almonds** – 10-12 a day deliver riboflavin, a B-vitamin linked to fewer migraine days.",
-      "**Dark chocolate** (70%+) in small amounts can ease a headache for some, but too much triggers one in others — know your own pattern.",
-      "**Bananas** – 1 a day replenishes potassium lost through sweat or caffeine, which can trigger throbbing pain.",
+      "**Fennel** is good for DIGESTION — it relaxes gut muscles and eases trapped gas within a half hour of eating it raw or as tea.",
+      "**Pomegranate** is good for ARTERIES — its polyphenols help keep artery walls flexible, which keeps blood flowing smoothly.",
+      "**Clams** are good for IRON STORES — just 3 oz covers your entire day's iron needs, more than a serving of red meat.",
+      "**Asparagus** is good for KIDNEYS — it acts as a natural diuretic, helping flush excess fluid and sodium out of your system.",
+      "**Brazil Nuts** are good for THYROID — 1-2 nuts a day supply enough selenium to support healthy hormone production.",
+      "**Cabbage** is good for STOMACH LINING — its glutamine content helps soothe and rebuild irritated gut tissue.",
+      "**Mussels** are good for NERVE FUNCTION — they're loaded with vitamin B12, which keeps nerve signals firing properly.",
+      "**Celery** is good for BLOOD PRESSURE — compounds called phthalides help relax the walls of your blood vessels.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "If headaches keep sneaking up on you, a few food tweaks might matter more than you think. Pumpkin seeds are loaded with magnesium, a mineral that relaxes blood vessel walls and calms the nerve signals that trigger tension headaches in the first place. Ginger works differently — it has natural anti-inflammatory compounds that can settle the stomach and reduce swelling around blood vessels when pain starts brewing. And bananas replace potassium you lose through sweating, caffeine, or stress, which matters because low potassium makes blood vessels more reactive to pain triggers. Everyone's body is different, so pay attention to what actually helps yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who deals with headaches all the time.",
+    "caption": "Fennel does more than freshen your breath — the natural compounds in it relax the smooth muscle lining your intestines, which is exactly why it's been used for centuries to quiet down bloating after a heavy meal. Pomegranate works differently: the polyphenols it's packed with reduce oxidative stress on your artery walls, helping them stay flexible instead of stiff, which matters more for long-term circulation than most people realize. And clams are an underrated iron source — unlike iron from plants, the iron in clams is heme iron, which your body absorbs far more easily, making it one of the most efficient ways to top up your stores. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix we focus on the everyday connections between nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#headacherelief",
-      "#migrainerelief",
       "#healthtips",
       "#wellness",
-      "#magnesium",
-      "#naturalremedies",
-      "#hydration",
       "#guthealth",
-      "#foodasmedicine",
-      "#healthyhabits"
+      "#thyroidhealth",
+      "#ironrich",
+      "#heartsmart",
+      "#nutritionfacts",
+      "#eatrealfood",
+      "#organhealth",
+      "#kidneyhealth"
     ],
     "extra_keywords": [
-      "headachetips",
-      "naturalhealing",
+      "foodismedicine",
       "wellnessjourney",
-      "migrainehelp"
+      "healthyhabits",
+      "nutritiontips"
     ]
   },
-  "shape": "problem_food_mapping",
-  "caption": "If headaches keep sneaking up on you, a few food tweaks might matter more than you think. Pumpkin seeds are loaded with magnesium, a mineral that relaxes blood vessel walls and calms the nerve signals that trigger tension headaches in the first place. Ginger works differently — it has natural anti-inflammatory compounds that can settle the stomach and reduce swelling around blood vessels when pain starts brewing. And bananas replace potassium you lose through sweating, caffeine, or stress, which matters because low potassium makes blood vessels more reactive to pain triggers. Everyone's body is different, so pay attention to what actually helps yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who deals with headaches all the time.\n\n#headacherelief #migrainerelief #healthtips #wellness #magnesium #naturalremedies #hydration #guthealth #foodasmedicine #healthyhabits headachetips naturalhealing wellnessjourney migrainehelp"
+  "shape": "allcaps_benefit",
+  "caption": "Fennel does more than freshen your breath — the natural compounds in it relax the smooth muscle lining your intestines, which is exactly why it's been used for centuries to quiet down bloating after a heavy meal. Pomegranate works differently: the polyphenols it's packed with reduce oxidative stress on your artery walls, helping them stay flexible instead of stiff, which matters more for long-term circulation than most people realize. And clams are an underrated iron source — unlike iron from plants, the iron in clams is heme iron, which your body absorbs far more easily, making it one of the most efficient ways to top up your stores. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix we focus on the everyday connections between nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #thyroidhealth #ironrich #heartsmart #nutritionfacts #eatrealfood #organhealth #kidneyhealth foodismedicine wellnessjourney healthyhabits nutritiontips"
 }
