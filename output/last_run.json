@@ -1,42 +1,41 @@
 {
-  "png": "output/reel_20261011_192832.png",
-  "mp4": "output/reel_20261011_192832.mp4",
-  "cover": "output/cover_20261011_192832.png",
-  "cover_bg": "green",
+  "png": "output/reel_20261011_232815.png",
+  "mp4": "output/reel_20261011_232815.mp4",
+  "cover": "output/cover_20261011_232815.png",
+  "cover_bg": "white",
   "content": {
-    "title": "ORGANS YOU DIDN'T EVEN KNOW YOU COULD FEED WITH {{BREAKFAST}}",
+    "title": "ORGANS THAT GO UNNOTICED UNTIL THEY START FAILING YOU",
     "facts": [
-      "**Fennel** is good for DIGESTION — it relaxes gut muscles and eases trapped gas within a half hour of eating it raw or as tea.",
-      "**Pomegranate** is good for ARTERIES — its polyphenols help keep artery walls flexible, which keeps blood flowing smoothly.",
-      "**Clams** are good for IRON STORES — just 3 oz covers your entire day's iron needs, more than a serving of red meat.",
-      "**Asparagus** is good for KIDNEYS — it acts as a natural diuretic, helping flush excess fluid and sodium out of your system.",
-      "**Brazil Nuts** are good for THYROID — 1-2 nuts a day supply enough selenium to support healthy hormone production.",
-      "**Cabbage** is good for STOMACH LINING — its glutamine content helps soothe and rebuild irritated gut tissue.",
-      "**Mussels** are good for NERVE FUNCTION — they're loaded with vitamin B12, which keeps nerve signals firing properly.",
-      "**Celery** is good for BLOOD PRESSURE — compounds called phthalides help relax the walls of your blood vessels.",
-      "**Follow along** – for more daily health tips like this."
+      "**Gallbladder** - Beets, Olive oil, Turmeric - helps keep bile flowing so fat actually gets digested instead of sitting heavy.",
+      "**Pancreas** - Spinach, Oats, Walnuts - steadies blood sugar swings so insulin production isn't constantly spiked.",
+      "**Bladder** - Blueberries, Cucumber, Parsley - flushes out irritants and keeps the lining from getting inflamed.",
+      "**Liver** - Grapefruit, Beets, Garlic - supports the enzymes that break down toxins before they build up.",
+      "**Thyroid** - Spinach, Pumpkin, Eggs (yolk) - delivers the building blocks needed for steady hormone output.",
+      "**Spleen** - Pomegranate juice, Beets, Oats - supports healthy blood filtering and immune cell production.",
+      "**Follow along** - for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Fennel does more than freshen your breath — the natural compounds in it relax the smooth muscle lining your intestines, which is exactly why it's been used for centuries to quiet down bloating after a heavy meal. Pomegranate works differently: the polyphenols it's packed with reduce oxidative stress on your artery walls, helping them stay flexible instead of stiff, which matters more for long-term circulation than most people realize. And clams are an underrated iron source — unlike iron from plants, the iron in clams is heme iron, which your body absorbs far more easily, making it one of the most efficient ways to top up your stores. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix we focus on the everyday connections between nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A lot of these organs don't get much attention until something feels off. Beets show up twice here because they're genuinely a quiet workhorse — they contain compounds called betalains that support the liver's detox enzymes while also helping bile move properly for the gallbladder, which is why sluggish digestion after fatty meals often traces back to this one. Turmeric isn't just a spice trend either: curcumin stimulates bile production, so pairing it with a bit of black pepper or fat actually helps your body absorb it and put it to work. And oats deserve more credit than they get for the pancreas — their soluble fiber slows down how fast sugar hits your bloodstream, which means less demand on insulin production over time. Everyone's body is different, so listen to yours and adjust from there.\n\n@smarthealthfix is all about the basics that actually move the needle — nutrition, common health issues, how your organs function, and the small daily habits that tie it all together. Our mission is to help you build realistic, sustainable habits instead of chasing the next quick fix.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#liverhealth",
+      "#thyroidhealth",
+      "#pancreashealth",
+      "#guthealth",
+      "#organhealth",
       "#healthtips",
       "#wellness",
-      "#guthealth",
-      "#thyroidhealth",
-      "#ironrich",
-      "#heartsmart",
-      "#nutritionfacts",
-      "#eatrealfood",
-      "#organhealth",
-      "#kidneyhealth"
+      "#nutritiontips",
+      "#bodyhealth",
+      "#healthyliving"
     ],
     "extra_keywords": [
-      "foodismedicine",
+      "naturalhealing",
       "wellnessjourney",
+      "foodismedicine",
       "healthyhabits",
-      "nutritiontips"
+      "detoxfoods"
     ]
   },
-  "shape": "allcaps_benefit",
-  "caption": "Fennel does more than freshen your breath — the natural compounds in it relax the smooth muscle lining your intestines, which is exactly why it's been used for centuries to quiet down bloating after a heavy meal. Pomegranate works differently: the polyphenols it's packed with reduce oxidative stress on your artery walls, helping them stay flexible instead of stiff, which matters more for long-term circulation than most people realize. And clams are an underrated iron source — unlike iron from plants, the iron in clams is heme iron, which your body absorbs far more easily, making it one of the most efficient ways to top up your stores. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix we focus on the everyday connections between nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #thyroidhealth #ironrich #heartsmart #nutritionfacts #eatrealfood #organhealth #kidneyhealth foodismedicine wellnessjourney healthyhabits nutritiontips"
+  "shape": "organ_food_list",
+  "caption": "A lot of these organs don't get much attention until something feels off. Beets show up twice here because they're genuinely a quiet workhorse — they contain compounds called betalains that support the liver's detox enzymes while also helping bile move properly for the gallbladder, which is why sluggish digestion after fatty meals often traces back to this one. Turmeric isn't just a spice trend either: curcumin stimulates bile production, so pairing it with a bit of black pepper or fat actually helps your body absorb it and put it to work. And oats deserve more credit than they get for the pancreas — their soluble fiber slows down how fast sugar hits your bloodstream, which means less demand on insulin production over time. Everyone's body is different, so listen to yours and adjust from there.\n\n@smarthealthfix is all about the basics that actually move the needle — nutrition, common health issues, how your organs function, and the small daily habits that tie it all together. Our mission is to help you build realistic, sustainable habits instead of chasing the next quick fix.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#liverhealth #thyroidhealth #pancreashealth #guthealth #organhealth #healthtips #wellness #nutritiontips #bodyhealth #healthyliving naturalhealing wellnessjourney foodismedicine healthyhabits detoxfoods"
 }
