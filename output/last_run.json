@@ -1,41 +1,43 @@
 {
-  "png": "output/reel_20261011_232815.png",
-  "mp4": "output/reel_20261011_232815.mp4",
-  "cover": "output/cover_20261011_232815.png",
-  "cover_bg": "white",
+  "png": "output/reel_20261012_194146.png",
+  "mp4": "output/reel_20261012_194146.mp4",
+  "cover": "output/cover_20261012_194146.png",
+  "cover_bg": "green",
   "content": {
-    "title": "ORGANS THAT GO UNNOTICED UNTIL THEY START FAILING YOU",
+    "title": "YOUR DAILY HEALTH CHEAT SHEET NOBODY GAVE YOU",
     "facts": [
-      "**Gallbladder** - Beets, Olive oil, Turmeric - helps keep bile flowing so fat actually gets digested instead of sitting heavy.",
-      "**Pancreas** - Spinach, Oats, Walnuts - steadies blood sugar swings so insulin production isn't constantly spiked.",
-      "**Bladder** - Blueberries, Cucumber, Parsley - flushes out irritants and keeps the lining from getting inflamed.",
-      "**Liver** - Grapefruit, Beets, Garlic - supports the enzymes that break down toxins before they build up.",
-      "**Thyroid** - Spinach, Pumpkin, Eggs (yolk) - delivers the building blocks needed for steady hormone output.",
-      "**Spleen** - Pomegranate juice, Beets, Oats - supports healthy blood filtering and immune cell production.",
-      "**Follow along** - for more daily health tips like this."
+      "**Cold water** -> 1 glass right after waking up -> Jumpstarts metabolism",
+      "**Walking** -> 10 minutes after dinner -> Flattens blood sugar spike",
+      "**Sunlight** -> 10 min before 10am -> Resets sleep clock",
+      "**Deep breathing** -> 5 slow breaths, 3x/day -> Lowers stress hormones",
+      "**Oats** -> 1/2 cup/day -> Steadies energy levels",
+      "**Stretching** -> 5 minutes before bed -> Looser joints by morning",
+      "**Silence** -> 10 minutes screen-free -> Calms racing thoughts",
+      "**Grapes** -> 1 cup/day -> Supports heart rhythm",
+      "**Sleep consistency** -> same bedtime ±30 min -> Deeper sleep cycles",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A lot of these organs don't get much attention until something feels off. Beets show up twice here because they're genuinely a quiet workhorse — they contain compounds called betalains that support the liver's detox enzymes while also helping bile move properly for the gallbladder, which is why sluggish digestion after fatty meals often traces back to this one. Turmeric isn't just a spice trend either: curcumin stimulates bile production, so pairing it with a bit of black pepper or fat actually helps your body absorb it and put it to work. And oats deserve more credit than they get for the pancreas — their soluble fiber slows down how fast sugar hits your bloodstream, which means less demand on insulin production over time. Everyone's body is different, so listen to yours and adjust from there.\n\n@smarthealthfix is all about the basics that actually move the needle — nutrition, common health issues, how your organs function, and the small daily habits that tie it all together. Our mission is to help you build realistic, sustainable habits instead of chasing the next quick fix.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these are easy to overlook but actually do a lot behind the scenes. Oats are rich in beta-glucan fiber, which slows down how fast sugar hits your bloodstream, so you avoid that mid-morning energy crash. Grapes contain polyphenols like resveratrol that support the lining of your blood vessels, helping your heart maintain a steady, healthy rhythm over time. And something as simple as getting sunlight before 10am helps anchor your circadian rhythm, which is why it can make falling asleep at night noticeably easier. That said, everyone's body is different, listen to yours and adjust what fits your routine.\n\nAt @smarthealthfix we focus on the small, overlooked connections between nutrition, common health issues, your organs, and the daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#liverhealth",
-      "#thyroidhealth",
-      "#pancreashealth",
-      "#guthealth",
-      "#organhealth",
       "#healthtips",
       "#wellness",
-      "#nutritiontips",
-      "#bodyhealth",
-      "#healthyliving"
+      "#dailyhabits",
+      "#guthealth",
+      "#betterSleep",
+      "#stressrelief",
+      "#morningroutine",
+      "#hearthealth",
+      "#mindfulliving",
+      "#healthyhabits"
     ],
     "extra_keywords": [
-      "naturalhealing",
       "wellnessjourney",
-      "foodismedicine",
-      "healthyhabits",
-      "detoxfoods"
+      "naturalhealing",
+      "healthyroutine",
+      "selfcaretips"
     ]
   },
-  "shape": "organ_food_list",
-  "caption": "A lot of these organs don't get much attention until something feels off. Beets show up twice here because they're genuinely a quiet workhorse — they contain compounds called betalains that support the liver's detox enzymes while also helping bile move properly for the gallbladder, which is why sluggish digestion after fatty meals often traces back to this one. Turmeric isn't just a spice trend either: curcumin stimulates bile production, so pairing it with a bit of black pepper or fat actually helps your body absorb it and put it to work. And oats deserve more credit than they get for the pancreas — their soluble fiber slows down how fast sugar hits your bloodstream, which means less demand on insulin production over time. Everyone's body is different, so listen to yours and adjust from there.\n\n@smarthealthfix is all about the basics that actually move the needle — nutrition, common health issues, how your organs function, and the small daily habits that tie it all together. Our mission is to help you build realistic, sustainable habits instead of chasing the next quick fix.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#liverhealth #thyroidhealth #pancreashealth #guthealth #organhealth #healthtips #wellness #nutritiontips #bodyhealth #healthyliving naturalhealing wellnessjourney foodismedicine healthyhabits detoxfoods"
+  "shape": "daily_dose_habit",
+  "caption": "A few of these are easy to overlook but actually do a lot behind the scenes. Oats are rich in beta-glucan fiber, which slows down how fast sugar hits your bloodstream, so you avoid that mid-morning energy crash. Grapes contain polyphenols like resveratrol that support the lining of your blood vessels, helping your heart maintain a steady, healthy rhythm over time. And something as simple as getting sunlight before 10am helps anchor your circadian rhythm, which is why it can make falling asleep at night noticeably easier. That said, everyone's body is different, listen to yours and adjust what fits your routine.\n\nAt @smarthealthfix we focus on the small, overlooked connections between nutrition, common health issues, your organs, and the daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #dailyhabits #guthealth #betterSleep #stressrelief #morningroutine #hearthealth #mindfulliving #healthyhabits wellnessjourney naturalhealing healthyroutine selfcaretips"
 }
