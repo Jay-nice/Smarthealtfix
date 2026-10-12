@@ -1,43 +1,45 @@
 {
-  "png": "output/reel_20261012_194146.png",
-  "mp4": "output/reel_20261012_194146.mp4",
-  "cover": "output/cover_20261012_194146.png",
-  "cover_bg": "green",
+  "png": "output/reel_20261012_222848.png",
+  "mp4": "output/reel_20261012_222848.mp4",
+  "cover": "output/cover_20261012_222848.png",
+  "cover_bg": "white",
   "content": {
-    "title": "YOUR DAILY HEALTH CHEAT SHEET NOBODY GAVE YOU",
+    "title": "WEIRD SIGNS YOU'RE ACTUALLY {{HEALTHIER}} THAN YOU THINK",
     "facts": [
-      "**Cold water** -> 1 glass right after waking up -> Jumpstarts metabolism",
-      "**Walking** -> 10 minutes after dinner -> Flattens blood sugar spike",
-      "**Sunlight** -> 10 min before 10am -> Resets sleep clock",
-      "**Deep breathing** -> 5 slow breaths, 3x/day -> Lowers stress hormones",
-      "**Oats** -> 1/2 cup/day -> Steadies energy levels",
-      "**Stretching** -> 5 minutes before bed -> Looser joints by morning",
-      "**Silence** -> 10 minutes screen-free -> Calms racing thoughts",
-      "**Grapes** -> 1 cup/day -> Supports heart rhythm",
-      "**Sleep consistency** -> same bedtime ±30 min -> Deeper sleep cycles",
+      "**Loud stomach growls** -> strong migrating motor complex sweeping leftover food through your gut",
+      "**Sneezing in bright light** -> a well-wired optic nerve crossing signals with your trigeminal nerve",
+      "**Waking up before your alarm** -> a stable circadian rhythm running on its own clock",
+      "**Sweating fast during exercise** -> an efficient cooling system that reacts quicker than an untrained body",
+      "**Frequent yawning in group settings** -> a responsive nervous system picking up on social cues",
+      "**Vivid dreams most nights** -> long stretches of REM sleep, a sign your sleep cycles aren't getting cut short",
+      "**Getting thirsty right after salty food** -> your kidneys signaling fast to keep blood volume balanced",
+      "**Cold hands after a hot shower** -> healthy blood vessels redirecting flow to cool your core first",
+      "**Burping after carbonated drinks** -> a normal, responsive esophagus releasing trapped gas efficiently",
+      "**Needing more sleep after a workout** -> muscle repair processes pulling extra resources for recovery",
+      "**Goosebumps during music** -> a sensitive dopamine response, linked to emotional and reward processing",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are easy to overlook but actually do a lot behind the scenes. Oats are rich in beta-glucan fiber, which slows down how fast sugar hits your bloodstream, so you avoid that mid-morning energy crash. Grapes contain polyphenols like resveratrol that support the lining of your blood vessels, helping your heart maintain a steady, healthy rhythm over time. And something as simple as getting sunlight before 10am helps anchor your circadian rhythm, which is why it can make falling asleep at night noticeably easier. That said, everyone's body is different, listen to yours and adjust what fits your routine.\n\nAt @smarthealthfix we focus on the small, overlooked connections between nutrition, common health issues, your organs, and the daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these deserve a closer look. That loud stomach growling isn't your gut being 'unhappy' — it's the migrating motor complex, a wave of muscle contractions that sweeps through your intestines between meals to clear out leftover debris and bacteria, basically housekeeping for your gut. Vivid dreams most nights are a good sign too: they usually mean you're getting uninterrupted REM sleep, the stage where your brain consolidates memories and processes emotions, instead of waking up mid-cycle. And that fast sweating response during exercise? It means your thermoregulation system is efficient — trained bodies start cooling themselves sooner, not later, which actually protects you from overheating. Everyone's body is different, so use these as general signals, not diagnoses.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organs, and the small daily habits that quietly shape how you feel. Our goal is simple: help you understand your body a little better, one post at a time, instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
       "#wellness",
-      "#dailyhabits",
+      "#bodysignals",
+      "#gutivalid",
+      "#sleepquality",
+      "#circulation",
+      "#nervoussystem",
       "#guthealth",
-      "#betterSleep",
-      "#stressrelief",
-      "#morningroutine",
-      "#hearthealth",
-      "#mindfulliving",
-      "#healthyhabits"
+      "#healthyhabits",
+      "#bodyawareness"
     ],
     "extra_keywords": [
+      "bodysignals101",
+      "healthmyths",
       "wellnessjourney",
-      "naturalhealing",
-      "healthyroutine",
-      "selfcaretips"
+      "naturalhealing"
     ]
   },
-  "shape": "daily_dose_habit",
-  "caption": "A few of these are easy to overlook but actually do a lot behind the scenes. Oats are rich in beta-glucan fiber, which slows down how fast sugar hits your bloodstream, so you avoid that mid-morning energy crash. Grapes contain polyphenols like resveratrol that support the lining of your blood vessels, helping your heart maintain a steady, healthy rhythm over time. And something as simple as getting sunlight before 10am helps anchor your circadian rhythm, which is why it can make falling asleep at night noticeably easier. That said, everyone's body is different, listen to yours and adjust what fits your routine.\n\nAt @smarthealthfix we focus on the small, overlooked connections between nutrition, common health issues, your organs, and the daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #dailyhabits #guthealth #betterSleep #stressrelief #morningroutine #hearthealth #mindfulliving #healthyhabits wellnessjourney naturalhealing healthyroutine selfcaretips"
+  "shape": "counterintuitive_healthy_sign",
+  "caption": "A few of these deserve a closer look. That loud stomach growling isn't your gut being 'unhappy' — it's the migrating motor complex, a wave of muscle contractions that sweeps through your intestines between meals to clear out leftover debris and bacteria, basically housekeeping for your gut. Vivid dreams most nights are a good sign too: they usually mean you're getting uninterrupted REM sleep, the stage where your brain consolidates memories and processes emotions, instead of waking up mid-cycle. And that fast sweating response during exercise? It means your thermoregulation system is efficient — trained bodies start cooling themselves sooner, not later, which actually protects you from overheating. Everyone's body is different, so use these as general signals, not diagnoses.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organs, and the small daily habits that quietly shape how you feel. Our goal is simple: help you understand your body a little better, one post at a time, instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #bodysignals #gutivalid #sleepquality #circulation #nervoussystem #guthealth #healthyhabits #bodyawareness bodysignals101 healthmyths wellnessjourney naturalhealing"
 }
