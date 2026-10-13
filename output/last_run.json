@@ -1,43 +1,42 @@
 {
-  "png": "output/reel_20261013_015104.png",
-  "mp4": "output/reel_20261013_015104.mp4",
-  "cover": "output/cover_20261013_015104.png",
-  "cover_bg": "green",
+  "png": "output/reel_20261013_172631.png",
+  "mp4": "output/reel_20261013_172631.mp4",
+  "cover": "output/cover_20261013_172631.png",
+  "cover_bg": "white",
   "content": {
-    "title": "WEIRD BODY GLITCHES THAT ACTUALLY MEAN YOU'RE MISSING {{A NUTRIENT}}",
+    "title": "COOKING MISTAKES THAT QUIETLY {{DRAIN}} YOUR FOOD'S NUTRIENTS",
     "facts": [
-      "**Restless legs at night** – that crawling, twitchy urge to move your legs right as you try to fall asleep can point to low **iron**, especially if you also feel colder than everyone else in the room.",
-      "**Cracking at the corners of your mouth** – small painful splits there often trace back to low **zinc** or **B2/B12**, not just dry weather.",
-      "**Muscle cramps that hit at night** – sudden calf or foot cramps while you sleep are a classic low **magnesium** and **potassium** combo.",
-      "**White spots on your nails** – scattered white marks across the nail plate are commonly linked to low **zinc**.",
-      "**Bleeding gums when you brush** – gums that bleed easily, even with gentle brushing, can signal low **vitamin C**.",
-      "**Bone or joint aches with no injury** – unexplained deep bone pain, especially in the hips or lower back, is a known sign of low **vitamin D**.",
-      "**Dry eyes and trouble seeing at night** – struggling to adjust when lights go dim can point to low **vitamin A**.",
-      "**Numb or tingling fingertips** – a pins-and-needles feeling in your hands, not from sitting wrong, often ties back to low **B12**.",
-      "**Brittle hair that snaps mid-strand** – hair that breaks instead of stretching can reflect low **iron** or low **omega-3**.",
+      "**Boiling vegetables** – Submerging veggies in water leaches water-soluble vitamins straight into the pot; steam them instead and keep up to twice the nutrients.",
+      "**Draining and rinsing beans** – Rinsing canned beans washes away some of the soluble fiber and minerals clinging to the liquid; a quick rinse is fine, a long soak under the tap isn't.",
+      "**Overcrowding the pan** – Piling too much in one pan traps steam and makes food stew instead of sear, so you lose that caramelized flavor and end up with soggy, unevenly cooked meals.",
+      "**Tossing the cooking water** – Pasta or veggie water often holds minerals and starch that help sauces bind; save a splash instead of pouring it all down the drain.",
+      "**Cooking oil at high heat** – Heating delicate oils like extra virgin olive oil past their smoke point breaks them down and creates harsh-tasting compounds; save those for finishing, not frying.",
+      "**Salting too early** – Salting watery vegetables like zucchini or eggplant right before cooking pulls out moisture mid-pan, leaving you with limp, steamed-not-roasted results.",
+      "**Cutting veggies hours ahead** – Pre-chopping and storing cut produce for too long exposes more surface area to air, speeding up nutrient loss and wilting.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are easy to brush off, but they're worth paying attention to. Take restless legs at night: low iron lowers dopamine activity in the brain, and dopamine is what keeps those leg-movement signals calm — so when iron drops, your legs get twitchy right as you're trying to wind down. Cracking at the corners of your mouth happens because zinc and B2/B12 are needed to repair the thin skin there; without enough, that tissue breaks down faster than it can heal. And those white spots on your nails show up because zinc plays a role in how nail cells form as they grow out from the base, so a dip in zinc gets \"recorded\" in the nail over weeks. Everyone's body is different, so take these as prompts to look closer, not a diagnosis.\n\nAt @smarthealthfix, we break down nutrition, common symptoms, your organs, and small daily habits so health stops feeling like a mystery. Our mission is to help you notice what your body is already telling you, instead of waiting for things to get worse.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these habits are easier to fix than people think. Take boiling vegetables: once those vitamins seep into the water, they're gone unless you drink the broth, so switching to steaming or a quick sauté keeps far more of the good stuff where it belongs. Overcrowding the pan is another sneaky one — when food is packed too tight, the pan temperature drops and everything releases moisture, which means you're essentially steaming your dinner instead of browning it, losing both flavor and texture. And salting watery vegetables too early draws liquid out through osmosis before the heat even hits, so you end up fighting a soggy pan instead of getting that nice golden edge. Everyone's kitchen setup is different, so adjust as you go.\n\nAt @smarthealthfix we focus on nutrition, everyday symptoms, organ health, and the small daily habits that quietly shape how you feel. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#nutrientdeficiency",
-      "#irondeficiency",
-      "#zincdeficiency",
-      "#vitamind",
-      "#vitaminb12",
       "#healthtips",
-      "#wellness",
-      "#guthealth",
-      "#nutritiontips",
-      "#bodysignals"
+      "#cookingtips",
+      "#nutritionfacts",
+      "#mealprep",
+      "#healthyeating",
+      "#kitchenhacks",
+      "#wellnessjourney",
+      "#foodscience",
+      "#cleaneating",
+      "#nutritiontips"
     ],
     "extra_keywords": [
-      "nutrientgaps",
-      "wellnessjourney",
-      "naturalhealing",
-      "healthawareness"
+      "healthyhabits",
+      "foodprep",
+      "nutrientrich",
+      "cookingmistakes",
+      "wellnesstips"
     ]
   },
-  "shape": "symptom_list",
-  "caption": "A few of these are easy to brush off, but they're worth paying attention to. Take restless legs at night: low iron lowers dopamine activity in the brain, and dopamine is what keeps those leg-movement signals calm — so when iron drops, your legs get twitchy right as you're trying to wind down. Cracking at the corners of your mouth happens because zinc and B2/B12 are needed to repair the thin skin there; without enough, that tissue breaks down faster than it can heal. And those white spots on your nails show up because zinc plays a role in how nail cells form as they grow out from the base, so a dip in zinc gets \"recorded\" in the nail over weeks. Everyone's body is different, so take these as prompts to look closer, not a diagnosis.\n\nAt @smarthealthfix, we break down nutrition, common symptoms, your organs, and small daily habits so health stops feeling like a mystery. Our mission is to help you notice what your body is already telling you, instead of waiting for things to get worse.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #irondeficiency #zincdeficiency #vitamind #vitaminb12 #healthtips #wellness #guthealth #nutritiontips #bodysignals nutrientgaps wellnessjourney naturalhealing healthawareness"
+  "shape": "myth_bust",
+  "caption": "A few of these habits are easier to fix than people think. Take boiling vegetables: once those vitamins seep into the water, they're gone unless you drink the broth, so switching to steaming or a quick sauté keeps far more of the good stuff where it belongs. Overcrowding the pan is another sneaky one — when food is packed too tight, the pan temperature drops and everything releases moisture, which means you're essentially steaming your dinner instead of browning it, losing both flavor and texture. And salting watery vegetables too early draws liquid out through osmosis before the heat even hits, so you end up fighting a soggy pan instead of getting that nice golden edge. Everyone's kitchen setup is different, so adjust as you go.\n\nAt @smarthealthfix we focus on nutrition, everyday symptoms, organ health, and the small daily habits that quietly shape how you feel. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #cookingtips #nutritionfacts #mealprep #healthyeating #kitchenhacks #wellnessjourney #foodscience #cleaneating #nutritiontips healthyhabits foodprep nutrientrich cookingmistakes wellnesstips"
 }
