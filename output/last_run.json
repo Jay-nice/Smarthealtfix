@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20261013_172631.png",
-  "mp4": "output/reel_20261013_172631.mp4",
-  "cover": "output/cover_20261013_172631.png",
-  "cover_bg": "white",
+  "png": "output/reel_20261013_203700.png",
+  "mp4": "output/reel_20261013_203700.mp4",
+  "cover": "output/cover_20261013_203700.png",
+  "cover_bg": "green",
   "content": {
-    "title": "COOKING MISTAKES THAT QUIETLY {{DRAIN}} YOUR FOOD'S NUTRIENTS",
+    "title": "WHAT YOUR GROCERY LIST IS ACTUALLY DOING TO YOUR ORGANS",
     "facts": [
-      "**Boiling vegetables** – Submerging veggies in water leaches water-soluble vitamins straight into the pot; steam them instead and keep up to twice the nutrients.",
-      "**Draining and rinsing beans** – Rinsing canned beans washes away some of the soluble fiber and minerals clinging to the liquid; a quick rinse is fine, a long soak under the tap isn't.",
-      "**Overcrowding the pan** – Piling too much in one pan traps steam and makes food stew instead of sear, so you lose that caramelized flavor and end up with soggy, unevenly cooked meals.",
-      "**Tossing the cooking water** – Pasta or veggie water often holds minerals and starch that help sauces bind; save a splash instead of pouring it all down the drain.",
-      "**Cooking oil at high heat** – Heating delicate oils like extra virgin olive oil past their smoke point breaks them down and creates harsh-tasting compounds; save those for finishing, not frying.",
-      "**Salting too early** – Salting watery vegetables like zucchini or eggplant right before cooking pulls out moisture mid-pan, leaving you with limp, steamed-not-roasted results.",
-      "**Cutting veggies hours ahead** – Pre-chopping and storing cut produce for too long exposes more surface area to air, speeding up nutrient loss and wilting.",
+      "**Beets** flood your liver with betaine, helping it flush out toxins faster so it doesn't get sluggish and backed up.",
+      "**Oats** coat the inside of your gut lining, calming inflammation and feeding the good bacteria your digestion depends on.",
+      "**Walnuts** are shaped like a brain for a reason — their fats help keep the signals between neurons firing smoothly.",
+      "**Pumpkin seeds** carry a plant compound that relaxes your bladder muscles, easing that constant urge to go.",
+      "**Garlic** thins the blood just enough to keep it moving easily through narrow vessels, taking pressure off your heart.",
+      "**Turmeric** calms swelling around your joints, making stiff mornings feel a little less brutal.",
+      "**Cranberries** stop bacteria from clinging to the walls of your bladder and urinary tract, flushing them out instead.",
+      "**Dark leafy greens** like spinach feed your eyes a pigment that filters out harsh blue light before it causes damage.",
+      "**Fermented foods** like kimchi restock your gut with bacteria that quietly control nearly a third of your mood chemistry.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these habits are easier to fix than people think. Take boiling vegetables: once those vitamins seep into the water, they're gone unless you drink the broth, so switching to steaming or a quick sauté keeps far more of the good stuff where it belongs. Overcrowding the pan is another sneaky one — when food is packed too tight, the pan temperature drops and everything releases moisture, which means you're essentially steaming your dinner instead of browning it, losing both flavor and texture. And salting watery vegetables too early draws liquid out through osmosis before the heat even hits, so you end up fighting a soggy pan instead of getting that nice golden edge. Everyone's kitchen setup is different, so adjust as you go.\n\nAt @smarthealthfix we focus on nutrition, everyday symptoms, organ health, and the small daily habits that quietly shape how you feel. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Beets deserve way more credit than they get — the betaine inside them helps your liver process fat so it doesn't build up where it shouldn't, which is a big part of keeping that organ running clean long-term. Garlic works in a different way entirely: it contains allicin, a compound that forms when you crush or chop it, and that's actually what gives it its blood-thinning, circulation-friendly effect. And cranberries aren't just an old wives' tale for bladder health — the compounds in them physically stop bacteria from sticking to your urinary tract walls, so they get washed out before they can cause trouble. Everyone's body responds a little differently, so pay attention to what yours needs most.\n\nThis is what @smarthealthfix is all about: connecting the dots between everyday nutrition, the organs and body functions they quietly support, common symptoms people brush off, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#organhealth",
+      "#guthealth",
+      "#liverhealth",
+      "#brainfood",
+      "#hearthealthy",
+      "#eyehealth",
+      "#antiinflammatory",
+      "#foodismedicine",
       "#healthtips",
-      "#cookingtips",
-      "#nutritionfacts",
-      "#mealprep",
-      "#healthyeating",
-      "#kitchenhacks",
-      "#wellnessjourney",
-      "#foodscience",
-      "#cleaneating",
-      "#nutritiontips"
+      "#wellness"
     ],
     "extra_keywords": [
-      "healthyhabits",
-      "foodprep",
-      "nutrientrich",
-      "cookingmistakes",
-      "wellnesstips"
+      "naturalhealing",
+      "nutritiontips",
+      "healthyliving",
+      "wellnessjourney"
     ]
   },
-  "shape": "myth_bust",
-  "caption": "A few of these habits are easier to fix than people think. Take boiling vegetables: once those vitamins seep into the water, they're gone unless you drink the broth, so switching to steaming or a quick sauté keeps far more of the good stuff where it belongs. Overcrowding the pan is another sneaky one — when food is packed too tight, the pan temperature drops and everything releases moisture, which means you're essentially steaming your dinner instead of browning it, losing both flavor and texture. And salting watery vegetables too early draws liquid out through osmosis before the heat even hits, so you end up fighting a soggy pan instead of getting that nice golden edge. Everyone's kitchen setup is different, so adjust as you go.\n\nAt @smarthealthfix we focus on nutrition, everyday symptoms, organ health, and the small daily habits that quietly shape how you feel. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #cookingtips #nutritionfacts #mealprep #healthyeating #kitchenhacks #wellnessjourney #foodscience #cleaneating #nutritiontips healthyhabits foodprep nutrientrich cookingmistakes wellnesstips"
+  "shape": "allcaps_benefit",
+  "caption": "Beets deserve way more credit than they get — the betaine inside them helps your liver process fat so it doesn't build up where it shouldn't, which is a big part of keeping that organ running clean long-term. Garlic works in a different way entirely: it contains allicin, a compound that forms when you crush or chop it, and that's actually what gives it its blood-thinning, circulation-friendly effect. And cranberries aren't just an old wives' tale for bladder health — the compounds in them physically stop bacteria from sticking to your urinary tract walls, so they get washed out before they can cause trouble. Everyone's body responds a little differently, so pay attention to what yours needs most.\n\nThis is what @smarthealthfix is all about: connecting the dots between everyday nutrition, the organs and body functions they quietly support, common symptoms people brush off, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #guthealth #liverhealth #brainfood #hearthealthy #eyehealth #antiinflammatory #foodismedicine #healthtips #wellness naturalhealing nutritiontips healthyliving wellnessjourney"
 }
