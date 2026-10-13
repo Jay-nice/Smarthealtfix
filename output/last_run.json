@@ -1,45 +1,43 @@
 {
-  "png": "output/reel_20261012_222848.png",
-  "mp4": "output/reel_20261012_222848.mp4",
-  "cover": "output/cover_20261012_222848.png",
-  "cover_bg": "white",
+  "png": "output/reel_20261013_015104.png",
+  "mp4": "output/reel_20261013_015104.mp4",
+  "cover": "output/cover_20261013_015104.png",
+  "cover_bg": "green",
   "content": {
-    "title": "WEIRD SIGNS YOU'RE ACTUALLY {{HEALTHIER}} THAN YOU THINK",
+    "title": "WEIRD BODY GLITCHES THAT ACTUALLY MEAN YOU'RE MISSING {{A NUTRIENT}}",
     "facts": [
-      "**Loud stomach growls** -> strong migrating motor complex sweeping leftover food through your gut",
-      "**Sneezing in bright light** -> a well-wired optic nerve crossing signals with your trigeminal nerve",
-      "**Waking up before your alarm** -> a stable circadian rhythm running on its own clock",
-      "**Sweating fast during exercise** -> an efficient cooling system that reacts quicker than an untrained body",
-      "**Frequent yawning in group settings** -> a responsive nervous system picking up on social cues",
-      "**Vivid dreams most nights** -> long stretches of REM sleep, a sign your sleep cycles aren't getting cut short",
-      "**Getting thirsty right after salty food** -> your kidneys signaling fast to keep blood volume balanced",
-      "**Cold hands after a hot shower** -> healthy blood vessels redirecting flow to cool your core first",
-      "**Burping after carbonated drinks** -> a normal, responsive esophagus releasing trapped gas efficiently",
-      "**Needing more sleep after a workout** -> muscle repair processes pulling extra resources for recovery",
-      "**Goosebumps during music** -> a sensitive dopamine response, linked to emotional and reward processing",
+      "**Restless legs at night** – that crawling, twitchy urge to move your legs right as you try to fall asleep can point to low **iron**, especially if you also feel colder than everyone else in the room.",
+      "**Cracking at the corners of your mouth** – small painful splits there often trace back to low **zinc** or **B2/B12**, not just dry weather.",
+      "**Muscle cramps that hit at night** – sudden calf or foot cramps while you sleep are a classic low **magnesium** and **potassium** combo.",
+      "**White spots on your nails** – scattered white marks across the nail plate are commonly linked to low **zinc**.",
+      "**Bleeding gums when you brush** – gums that bleed easily, even with gentle brushing, can signal low **vitamin C**.",
+      "**Bone or joint aches with no injury** – unexplained deep bone pain, especially in the hips or lower back, is a known sign of low **vitamin D**.",
+      "**Dry eyes and trouble seeing at night** – struggling to adjust when lights go dim can point to low **vitamin A**.",
+      "**Numb or tingling fingertips** – a pins-and-needles feeling in your hands, not from sitting wrong, often ties back to low **B12**.",
+      "**Brittle hair that snaps mid-strand** – hair that breaks instead of stretching can reflect low **iron** or low **omega-3**.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these deserve a closer look. That loud stomach growling isn't your gut being 'unhappy' — it's the migrating motor complex, a wave of muscle contractions that sweeps through your intestines between meals to clear out leftover debris and bacteria, basically housekeeping for your gut. Vivid dreams most nights are a good sign too: they usually mean you're getting uninterrupted REM sleep, the stage where your brain consolidates memories and processes emotions, instead of waking up mid-cycle. And that fast sweating response during exercise? It means your thermoregulation system is efficient — trained bodies start cooling themselves sooner, not later, which actually protects you from overheating. Everyone's body is different, so use these as general signals, not diagnoses.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organs, and the small daily habits that quietly shape how you feel. Our goal is simple: help you understand your body a little better, one post at a time, instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these are easy to brush off, but they're worth paying attention to. Take restless legs at night: low iron lowers dopamine activity in the brain, and dopamine is what keeps those leg-movement signals calm — so when iron drops, your legs get twitchy right as you're trying to wind down. Cracking at the corners of your mouth happens because zinc and B2/B12 are needed to repair the thin skin there; without enough, that tissue breaks down faster than it can heal. And those white spots on your nails show up because zinc plays a role in how nail cells form as they grow out from the base, so a dip in zinc gets \"recorded\" in the nail over weeks. Everyone's body is different, so take these as prompts to look closer, not a diagnosis.\n\nAt @smarthealthfix, we break down nutrition, common symptoms, your organs, and small daily habits so health stops feeling like a mystery. Our mission is to help you notice what your body is already telling you, instead of waiting for things to get worse.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#nutrientdeficiency",
+      "#irondeficiency",
+      "#zincdeficiency",
+      "#vitamind",
+      "#vitaminb12",
       "#healthtips",
       "#wellness",
-      "#bodysignals",
-      "#gutivalid",
-      "#sleepquality",
-      "#circulation",
-      "#nervoussystem",
       "#guthealth",
-      "#healthyhabits",
-      "#bodyawareness"
+      "#nutritiontips",
+      "#bodysignals"
     ],
     "extra_keywords": [
-      "bodysignals101",
-      "healthmyths",
+      "nutrientgaps",
       "wellnessjourney",
-      "naturalhealing"
+      "naturalhealing",
+      "healthawareness"
     ]
   },
-  "shape": "counterintuitive_healthy_sign",
-  "caption": "A few of these deserve a closer look. That loud stomach growling isn't your gut being 'unhappy' — it's the migrating motor complex, a wave of muscle contractions that sweeps through your intestines between meals to clear out leftover debris and bacteria, basically housekeeping for your gut. Vivid dreams most nights are a good sign too: they usually mean you're getting uninterrupted REM sleep, the stage where your brain consolidates memories and processes emotions, instead of waking up mid-cycle. And that fast sweating response during exercise? It means your thermoregulation system is efficient — trained bodies start cooling themselves sooner, not later, which actually protects you from overheating. Everyone's body is different, so use these as general signals, not diagnoses.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organs, and the small daily habits that quietly shape how you feel. Our goal is simple: help you understand your body a little better, one post at a time, instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #bodysignals #gutivalid #sleepquality #circulation #nervoussystem #guthealth #healthyhabits #bodyawareness bodysignals101 healthmyths wellnessjourney naturalhealing"
+  "shape": "symptom_list",
+  "caption": "A few of these are easy to brush off, but they're worth paying attention to. Take restless legs at night: low iron lowers dopamine activity in the brain, and dopamine is what keeps those leg-movement signals calm — so when iron drops, your legs get twitchy right as you're trying to wind down. Cracking at the corners of your mouth happens because zinc and B2/B12 are needed to repair the thin skin there; without enough, that tissue breaks down faster than it can heal. And those white spots on your nails show up because zinc plays a role in how nail cells form as they grow out from the base, so a dip in zinc gets \"recorded\" in the nail over weeks. Everyone's body is different, so take these as prompts to look closer, not a diagnosis.\n\nAt @smarthealthfix, we break down nutrition, common symptoms, your organs, and small daily habits so health stops feeling like a mystery. Our mission is to help you notice what your body is already telling you, instead of waiting for things to get worse.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #irondeficiency #zincdeficiency #vitamind #vitaminb12 #healthtips #wellness #guthealth #nutritiontips #bodysignals nutrientgaps wellnessjourney naturalhealing healthawareness"
 }
