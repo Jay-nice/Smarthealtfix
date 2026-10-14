@@ -1,41 +1,42 @@
 {
-  "png": "output/reel_20261014_145700.png",
-  "mp4": "output/reel_20261014_145700.mp4",
-  "cover": "output/cover_20261014_145700.png",
+  "png": "output/reel_20261014_191741.png",
+  "mp4": "output/reel_20261014_191741.mp4",
+  "cover": "output/cover_20261014_191741.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE MINERAL {{YOUR THYROID}} IS BEGGING YOU FOR",
+    "title": "KITCHEN FIXES FOR {{EVERYDAY ACHES}} NOBODY TAUGHT YOU",
     "facts": [
-      "**Iodine** (Thyroid Fuel) — Cod | Seaweed | Dairy Milk | Eggs",
-      "**Copper** (Energy Spark) — Cashews | Shiitake Mushrooms | Lentils | Dark Chocolate",
-      "**Potassium** (Blood Pressure Balancer) — Sweet Potato | Coconut Water | White Beans | Bananas",
-      "**Manganese** (Bone Builder) — Pineapple | Brown Rice | Chickpeas | Pecans",
-      "**Selenium** (Antioxidant Shield) — Brazil Nuts | Tuna | Sunflower Seeds | Brown Rice",
-      "**Calcium** (Nerve Signal Sender) — Sardines | Tahini | Bok Choy | Almonds",
+      "**Hiccups** – Swallow a teaspoon of sugar; it resets the nerve signal that's causing the spasm.",
+      "**Sore Throat** – Gargle warm water with half a teaspoon of salt for 30 seconds, a few times a day.",
+      "**Stuffy Nose** – Hold a warm, damp washcloth over your sinuses for a few minutes to loosen congestion.",
+      "**Burnt Tongue** – Press a spoonful of plain yogurt or honey against the roof of your mouth to cool it fast.",
+      "**Toothache** – Press a small ice cube into the webbing between your thumb and index finger for a few minutes.",
+      "**Bad Breath Fast** – Chew a sprig of raw parsley; its chlorophyll neutralizes odor-causing compounds.",
+      "**Charley Horse Cramp** – Pinch your upper lip firmly for 20-30 seconds to interrupt the muscle spasm signal.",
+      "**Eye Twitch** – Press a cold spoon gently against the eyelid for a minute to calm the overactive nerve.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Your thyroid runs almost entirely on iodine, and most people don't think about it until something feels off — low energy, cold hands, slow metabolism. Just a couple servings of cod or a sprinkle of seaweed a week can cover what your thyroid needs to keep producing its hormones properly. Copper works quietly in the background too — it helps your body actually absorb and use the iron you already eat, so without enough copper, even an iron-rich diet can fall short. And potassium is the one most people only associate with bananas, but it's really working inside every cell to balance sodium and keep your blood pressure from creeping up. Everyone's body is different, so listen to yours.\n\nAt @smarthealthfix, we break down nutrition, common health symptoms, your organs, and the small daily habits that tie it all together. Our goal is simple: help you understand your body instead of guessing with trends.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these old-school tricks actually hold up under the science. The hiccup fix with **sugar** works because the granules stimulate the vagus nerve in your throat, which helps override the misfiring signal between your diaphragm and brain. For a **sore throat**, warm salt water pulls excess fluid out of inflamed throat tissue through osmosis, which reduces swelling and temporarily eases the pain and that scratchy feeling. And the **charley horse** lip pinch isn't just a weird old wives' tale — pressing on that nerve-dense spot sends a competing signal to your brain that can interrupt the muscle spasm cycle long enough for the cramp to release. Everyone's body responds a little differently, so take these as a starting point, not a guarantee.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs and body functions, and small daily habits that actually make a difference. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#iodine",
-      "#thyroidhealth",
-      "#copper",
-      "#potassium",
-      "#mineralsmatter",
-      "#nutritiontips",
-      "#healthyeating",
-      "#wellnessjourney",
-      "#foodismedicine",
-      "#balanceddiet"
+      "#healthtips",
+      "#homeremedies",
+      "#wellness",
+      "#naturalremedies",
+      "#quickfix",
+      "#selfcaretips",
+      "#bodyhacks",
+      "#kitchenremedies",
+      "#everydayhealth",
+      "#wellnesstips"
     ],
     "extra_keywords": [
-      "mineraldeficiency",
-      "thyroidsupport",
-      "healthyhabits",
-      "nutrienttips",
-      "wellnessfacts"
+      "naturalhealing",
+      "homeremedytips",
+      "wellnessjourney",
+      "healthhacks"
     ]
   },
-  "shape": "mineral_sources",
-  "caption": "Your thyroid runs almost entirely on iodine, and most people don't think about it until something feels off — low energy, cold hands, slow metabolism. Just a couple servings of cod or a sprinkle of seaweed a week can cover what your thyroid needs to keep producing its hormones properly. Copper works quietly in the background too — it helps your body actually absorb and use the iron you already eat, so without enough copper, even an iron-rich diet can fall short. And potassium is the one most people only associate with bananas, but it's really working inside every cell to balance sodium and keep your blood pressure from creeping up. Everyone's body is different, so listen to yours.\n\nAt @smarthealthfix, we break down nutrition, common health symptoms, your organs, and the small daily habits that tie it all together. Our goal is simple: help you understand your body instead of guessing with trends.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#iodine #thyroidhealth #copper #potassium #mineralsmatter #nutritiontips #healthyeating #wellnessjourney #foodismedicine #balanceddiet mineraldeficiency thyroidsupport healthyhabits nutrienttips wellnessfacts"
+  "shape": "boxed_hacks",
+  "caption": "A few of these old-school tricks actually hold up under the science. The hiccup fix with **sugar** works because the granules stimulate the vagus nerve in your throat, which helps override the misfiring signal between your diaphragm and brain. For a **sore throat**, warm salt water pulls excess fluid out of inflamed throat tissue through osmosis, which reduces swelling and temporarily eases the pain and that scratchy feeling. And the **charley horse** lip pinch isn't just a weird old wives' tale — pressing on that nerve-dense spot sends a competing signal to your brain that can interrupt the muscle spasm cycle long enough for the cramp to release. Everyone's body responds a little differently, so take these as a starting point, not a guarantee.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs and body functions, and small daily habits that actually make a difference. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #homeremedies #wellness #naturalremedies #quickfix #selfcaretips #bodyhacks #kitchenremedies #everydayhealth #wellnesstips naturalhealing homeremedytips wellnessjourney healthhacks"
 }
