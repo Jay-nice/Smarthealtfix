@@ -1,42 +1,41 @@
 {
-  "png": "output/reel_20261013_233749.png",
-  "mp4": "output/reel_20261013_233749.mp4",
-  "cover": "output/cover_20261013_233749.png",
+  "png": "output/reel_20261014_145700.png",
+  "mp4": "output/reel_20261014_145700.mp4",
+  "cover": "output/cover_20261014_145700.png",
   "cover_bg": "white",
   "content": {
-    "title": "HEALTHY HABITS THAT ARE SECRETLY WORKING {{AGAINST}} YOU",
+    "title": "THE MINERAL {{YOUR THYROID}} IS BEGGING YOU FOR",
     "facts": [
-      "**Drinking a gallon of water a day** -> can flush out sodium and leave you feeling foggy and fatigued instead of hydrated",
-      "**Sleeping in on weekends** -> shifts your internal clock and makes Monday mornings feel like jet lag",
-      "**Doing an intense workout every single day** -> keeps cortisol elevated and slows down muscle repair",
-      "**Eating a salad as your only meal** -> often leaves you under-fueled, causing energy crashes an hour later",
-      "**Taking long, hot showers before bed** -> can actually delay sleep onset if you hop straight under the covers after",
-      "**Snacking on dried fruit instead of candy** -> packs in more concentrated sugar per bite than you'd expect",
-      "**Standing at your desk all day** -> can pool blood in your legs and strain your lower back just like sitting too much",
-      "**Chewing gum to curb appetite** -> can trick your stomach into producing acid with nothing to digest",
-      "**Following along** – for more daily health tips like this."
+      "**Iodine** (Thyroid Fuel) — Cod | Seaweed | Dairy Milk | Eggs",
+      "**Copper** (Energy Spark) — Cashews | Shiitake Mushrooms | Lentils | Dark Chocolate",
+      "**Potassium** (Blood Pressure Balancer) — Sweet Potato | Coconut Water | White Beans | Bananas",
+      "**Manganese** (Bone Builder) — Pineapple | Brown Rice | Chickpeas | Pecans",
+      "**Selenium** (Antioxidant Shield) — Brazil Nuts | Tuna | Sunflower Seeds | Brown Rice",
+      "**Calcium** (Nerve Signal Sender) — Sardines | Tahini | Bok Choy | Almonds",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these habits deserve a closer look. Take water intake — chugging it nonstop without replacing electrolytes can dilute your blood sodium, which is why some people feel dizzy or 'foggy' despite drinking plenty. Then there's the hot shower before bed: your body actually needs to cool down to trigger melatonin release, so jumping straight under warm blankets right after can cancel that effect out. And daily intense workouts — without rest days, your muscles don't get the window they need to actually rebuild stronger, so you can train hard and still feel weaker over time. Everyone's body responds differently, so pay attention to how yours reacts.\n\nAt @smarthealthfix we dig into nutrition, everyday symptoms, organ function, and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Your thyroid runs almost entirely on iodine, and most people don't think about it until something feels off — low energy, cold hands, slow metabolism. Just a couple servings of cod or a sprinkle of seaweed a week can cover what your thyroid needs to keep producing its hormones properly. Copper works quietly in the background too — it helps your body actually absorb and use the iron you already eat, so without enough copper, even an iron-rich diet can fall short. And potassium is the one most people only associate with bananas, but it's really working inside every cell to balance sodium and keep your blood pressure from creeping up. Everyone's body is different, so listen to yours.\n\nAt @smarthealthfix, we break down nutrition, common health symptoms, your organs, and the small daily habits that tie it all together. Our goal is simple: help you understand your body instead of guessing with trends.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#healthtips",
-      "#wellness",
-      "#hydration",
-      "#sleepscience",
-      "#fitnessmyths",
-      "#guthealth",
-      "#recoveryday",
-      "#healthyhabits",
-      "#bodyawareness",
-      "#selfcare"
+      "#iodine",
+      "#thyroidhealth",
+      "#copper",
+      "#potassium",
+      "#mineralsmatter",
+      "#nutritiontips",
+      "#healthyeating",
+      "#wellnessjourney",
+      "#foodismedicine",
+      "#balanceddiet"
     ],
     "extra_keywords": [
-      "wellnessjourney",
-      "dailyhabits",
-      "healthmyths",
-      "balancedliving"
+      "mineraldeficiency",
+      "thyroidsupport",
+      "healthyhabits",
+      "nutrienttips",
+      "wellnessfacts"
     ]
   },
-  "shape": "habit_harm_reveal",
-  "caption": "A few of these habits deserve a closer look. Take water intake — chugging it nonstop without replacing electrolytes can dilute your blood sodium, which is why some people feel dizzy or 'foggy' despite drinking plenty. Then there's the hot shower before bed: your body actually needs to cool down to trigger melatonin release, so jumping straight under warm blankets right after can cancel that effect out. And daily intense workouts — without rest days, your muscles don't get the window they need to actually rebuild stronger, so you can train hard and still feel weaker over time. Everyone's body responds differently, so pay attention to how yours reacts.\n\nAt @smarthealthfix we dig into nutrition, everyday symptoms, organ function, and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #hydration #sleepscience #fitnessmyths #guthealth #recoveryday #healthyhabits #bodyawareness #selfcare wellnessjourney dailyhabits healthmyths balancedliving"
+  "shape": "mineral_sources",
+  "caption": "Your thyroid runs almost entirely on iodine, and most people don't think about it until something feels off — low energy, cold hands, slow metabolism. Just a couple servings of cod or a sprinkle of seaweed a week can cover what your thyroid needs to keep producing its hormones properly. Copper works quietly in the background too — it helps your body actually absorb and use the iron you already eat, so without enough copper, even an iron-rich diet can fall short. And potassium is the one most people only associate with bananas, but it's really working inside every cell to balance sodium and keep your blood pressure from creeping up. Everyone's body is different, so listen to yours.\n\nAt @smarthealthfix, we break down nutrition, common health symptoms, your organs, and the small daily habits that tie it all together. Our goal is simple: help you understand your body instead of guessing with trends.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#iodine #thyroidhealth #copper #potassium #mineralsmatter #nutritiontips #healthyeating #wellnessjourney #foodismedicine #balanceddiet mineraldeficiency thyroidsupport healthyhabits nutrienttips wellnessfacts"
 }
