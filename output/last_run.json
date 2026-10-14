@@ -1,42 +1,42 @@
 {
-  "png": "output/reel_20261014_191741.png",
-  "mp4": "output/reel_20261014_191741.mp4",
-  "cover": "output/cover_20261014_191741.png",
+  "png": "output/reel_20261014_230024.png",
+  "mp4": "output/reel_20261014_230024.mp4",
+  "cover": "output/cover_20261014_230024.png",
   "cover_bg": "white",
   "content": {
-    "title": "KITCHEN FIXES FOR {{EVERYDAY ACHES}} NOBODY TAUGHT YOU",
+    "title": "WEIRD SIGNS YOU'RE ACTUALLY LOW ON A {{NUTRIENT}}",
     "facts": [
-      "**Hiccups** – Swallow a teaspoon of sugar; it resets the nerve signal that's causing the spasm.",
-      "**Sore Throat** – Gargle warm water with half a teaspoon of salt for 30 seconds, a few times a day.",
-      "**Stuffy Nose** – Hold a warm, damp washcloth over your sinuses for a few minutes to loosen congestion.",
-      "**Burnt Tongue** – Press a spoonful of plain yogurt or honey against the roof of your mouth to cool it fast.",
-      "**Toothache** – Press a small ice cube into the webbing between your thumb and index finger for a few minutes.",
-      "**Bad Breath Fast** – Chew a sprig of raw parsley; its chlorophyll neutralizes odor-causing compounds.",
-      "**Charley Horse Cramp** – Pinch your upper lip firmly for 20-30 seconds to interrupt the muscle spasm signal.",
-      "**Eye Twitch** – Press a cold spoon gently against the eyelid for a minute to calm the overactive nerve.",
+      "**Vitamin A** – Struggling to see in dim light or at night, plus dry, gritty-feeling eyes.",
+      "**Zinc** – Food tastes bland, cuts heal slowly, and you're catching every cold going around.",
+      "**Magnesium** – Eyelid twitches, restless legs at night, and muscles that cramp out of nowhere.",
+      "**Vitamin B12** – Tingling or numbness in your fingers and toes, plus a pale or yellowish tint to your skin.",
+      "**Folate** – Constant fatigue, a sore smooth-looking tongue, and brain fog that won't lift.",
+      "**Iodine** – A puffy neck, feeling cold all the time, and unexplained weight gain.",
+      "**Vitamin E** – Muscle weakness, poor balance, and nerve pain in your legs.",
+      "**Omega-3** – Rough, sandpaper-like patches of skin and dry, brittle hair that won't grow.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these old-school tricks actually hold up under the science. The hiccup fix with **sugar** works because the granules stimulate the vagus nerve in your throat, which helps override the misfiring signal between your diaphragm and brain. For a **sore throat**, warm salt water pulls excess fluid out of inflamed throat tissue through osmosis, which reduces swelling and temporarily eases the pain and that scratchy feeling. And the **charley horse** lip pinch isn't just a weird old wives' tale — pressing on that nerve-dense spot sends a competing signal to your brain that can interrupt the muscle spasm cycle long enough for the cramp to release. Everyone's body responds a little differently, so take these as a starting point, not a guarantee.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs and body functions, and small daily habits that actually make a difference. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these are sneakier than people think. Low **zinc** doesn't just mess with immunity — it actually dulls your taste buds because zinc is needed to regenerate the taste receptor cells on your tongue, so food can start tasting weirdly flat. **Magnesium** shortage shows up in twitchy eyelids and restless legs because magnesium controls how your muscles and nerves relax after they contract — without enough, they stay slightly \"switched on.\" And with **vitamin B12**, that tingling in your hands and feet happens because B12 is essential for maintaining the protective coating around your nerves, so a long-term deficiency can literally affect nerve signaling. Everyone's body is different, so listen to yours and get levels checked before assuming.\n\n@smarthealthfix covers nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#nutrientdeficiency",
+      "#vitaminB12",
+      "#zincdeficiency",
+      "#magnesiumdeficiency",
+      "#hiddenhealthsigns",
       "#healthtips",
-      "#homeremedies",
       "#wellness",
-      "#naturalremedies",
-      "#quickfix",
-      "#selfcaretips",
-      "#bodyhacks",
-      "#kitchenremedies",
-      "#everydayhealth",
-      "#wellnesstips"
+      "#nutritionfacts",
+      "#guthealth",
+      "#micronutrients"
     ],
     "extra_keywords": [
-      "naturalhealing",
-      "homeremedytips",
+      "nutrientgaps",
       "wellnessjourney",
-      "healthhacks"
+      "vitamindeficiency",
+      "healthawareness"
     ]
   },
-  "shape": "boxed_hacks",
-  "caption": "A few of these old-school tricks actually hold up under the science. The hiccup fix with **sugar** works because the granules stimulate the vagus nerve in your throat, which helps override the misfiring signal between your diaphragm and brain. For a **sore throat**, warm salt water pulls excess fluid out of inflamed throat tissue through osmosis, which reduces swelling and temporarily eases the pain and that scratchy feeling. And the **charley horse** lip pinch isn't just a weird old wives' tale — pressing on that nerve-dense spot sends a competing signal to your brain that can interrupt the muscle spasm cycle long enough for the cramp to release. Everyone's body responds a little differently, so take these as a starting point, not a guarantee.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs and body functions, and small daily habits that actually make a difference. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #homeremedies #wellness #naturalremedies #quickfix #selfcaretips #bodyhacks #kitchenremedies #everydayhealth #wellnesstips naturalhealing homeremedytips wellnessjourney healthhacks"
+  "shape": "symptom_list",
+  "caption": "A few of these are sneakier than people think. Low **zinc** doesn't just mess with immunity — it actually dulls your taste buds because zinc is needed to regenerate the taste receptor cells on your tongue, so food can start tasting weirdly flat. **Magnesium** shortage shows up in twitchy eyelids and restless legs because magnesium controls how your muscles and nerves relax after they contract — without enough, they stay slightly \"switched on.\" And with **vitamin B12**, that tingling in your hands and feet happens because B12 is essential for maintaining the protective coating around your nerves, so a long-term deficiency can literally affect nerve signaling. Everyone's body is different, so listen to yours and get levels checked before assuming.\n\n@smarthealthfix covers nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #vitaminB12 #zincdeficiency #magnesiumdeficiency #hiddenhealthsigns #healthtips #wellness #nutritionfacts #guthealth #micronutrients nutrientgaps wellnessjourney vitamindeficiency healthawareness"
 }
