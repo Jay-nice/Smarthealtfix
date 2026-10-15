@@ -1,42 +1,44 @@
 {
-  "png": "output/reel_20261014_230024.png",
-  "mp4": "output/reel_20261014_230024.mp4",
-  "cover": "output/cover_20261014_230024.png",
+  "png": "output/reel_20261015_144538.png",
+  "mp4": "output/reel_20261015_144538.mp4",
+  "cover": "output/cover_20261015_144538.png",
   "cover_bg": "white",
   "content": {
-    "title": "WEIRD SIGNS YOU'RE ACTUALLY LOW ON A {{NUTRIENT}}",
+    "title": "THESE FOOD FACTS SOUND MADE UP BUT {{ARE 100% TRUE}}",
     "facts": [
-      "**Vitamin A** – Struggling to see in dim light or at night, plus dry, gritty-feeling eyes.",
-      "**Zinc** – Food tastes bland, cuts heal slowly, and you're catching every cold going around.",
-      "**Magnesium** – Eyelid twitches, restless legs at night, and muscles that cramp out of nowhere.",
-      "**Vitamin B12** – Tingling or numbness in your fingers and toes, plus a pale or yellowish tint to your skin.",
-      "**Folate** – Constant fatigue, a sore smooth-looking tongue, and brain fog that won't lift.",
-      "**Iodine** – A puffy neck, feeling cold all the time, and unexplained weight gain.",
-      "**Vitamin E** – Muscle weakness, poor balance, and nerve pain in your legs.",
-      "**Omega-3** – Rough, sandpaper-like patches of skin and dry, brittle hair that won't grow.",
-      "**Follow along** – for more daily health tips like this."
+      "**Nutmeg** can cause vivid hallucinations and is classified as a legal hallucinogen in large doses — just 2 whole nutmegs are enough to trigger it, thanks to a compound called myristicin.",
+      "**Cashews** never come in their shells at the store — their shell contains a resin so caustic it's chemically related to poison ivy, and must be steamed off before you ever see the nut.",
+      "**Nutritional yeast** is a living microorganism (deactivated after harvest) that's grown in giant tanks and can pack more B12 into 2 tbsp than a serving of meat.",
+      "**Carrots** were originally purple, not orange — the orange variety was bred in the 1600s in the Netherlands and became the default we know today.",
+      "**Apples** float in water because they're made up of about 25% air by volume — that's also why they bob in a bobbing-for-apples barrel.",
+      "**Rhubarb** stalks are a common dessert ingredient, but its leaves contain enough oxalic acid to be genuinely toxic if eaten in quantity.",
+      "**Strawberries** aren't technically berries, but bananas, avocados, and watermelons are — a real quirk of how botanists classify fruit.",
+      "**Pineapples** contain an enzyme called bromelain that actively digests proteins — it's strong enough to literally break down the meat of your tongue, which is why your mouth tingles after eating a lot of it.",
+      "**Cheese** is the most shoplifted food item in the world, according to retail loss-prevention data, beaten only by a handful of non-food items like razor blades.",
+      "**Follow along** – for more surprising, verified food facts like this."
     ],
     "claims": [],
-    "caption": "A few of these are sneakier than people think. Low **zinc** doesn't just mess with immunity — it actually dulls your taste buds because zinc is needed to regenerate the taste receptor cells on your tongue, so food can start tasting weirdly flat. **Magnesium** shortage shows up in twitchy eyelids and restless legs because magnesium controls how your muscles and nerves relax after they contract — without enough, they stay slightly \"switched on.\" And with **vitamin B12**, that tingling in your hands and feet happens because B12 is essential for maintaining the protective coating around your nerves, so a long-term deficiency can literally affect nerve signaling. Everyone's body is different, so listen to yours and get levels checked before assuming.\n\n@smarthealthfix covers nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Let's talk about a few of these because they're stranger than they sound. Nutmeg's hallucinogenic effect comes from myristicin, a compound your liver converts into something structurally similar to amphetamines — which is exactly why eating a whole nutmeg at once is genuinely dangerous, not just a fun fact. Pineapple's bromelain enzyme doesn't just tingle your tongue for fun either — it's a protease, meaning it's literally breaking down the proteins in your mouth's surface the same way it would tenderize a piece of meat, which is also why pineapple is used as a natural meat tenderizer in cooking. And rhubarb's oxalic acid works by binding to calcium in your body, which in large amounts can strain your kidneys — the leaves carry far more of it than the stalks ever do, which is why only the stalk ends up in your pie.\n\nAt @smarthealthfix we dig into the odd corners of nutrition, common symptoms, organ function, and the small daily habits that quietly shape your health. Our mission is to make real, verifiable health knowledge easy to actually use, not just interesting to read.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#nutrientdeficiency",
-      "#vitaminB12",
-      "#zincdeficiency",
-      "#magnesiumdeficiency",
-      "#hiddenhealthsigns",
+      "#foodfacts",
+      "#nutritionfacts",
       "#healthtips",
       "#wellness",
-      "#nutritionfacts",
-      "#guthealth",
-      "#micronutrients"
+      "#didyouknow",
+      "#foodtrivia",
+      "#nutritionscience",
+      "#healthyeating",
+      "#foodknowledge",
+      "#surprisingfacts"
     ],
     "extra_keywords": [
-      "nutrientgaps",
+      "foodfactsdaily",
+      "nutritiontips",
       "wellnessjourney",
-      "vitamindeficiency",
-      "healthawareness"
+      "healthyliving",
+      "foodscience"
     ]
   },
-  "shape": "symptom_list",
-  "caption": "A few of these are sneakier than people think. Low **zinc** doesn't just mess with immunity — it actually dulls your taste buds because zinc is needed to regenerate the taste receptor cells on your tongue, so food can start tasting weirdly flat. **Magnesium** shortage shows up in twitchy eyelids and restless legs because magnesium controls how your muscles and nerves relax after they contract — without enough, they stay slightly \"switched on.\" And with **vitamin B12**, that tingling in your hands and feet happens because B12 is essential for maintaining the protective coating around your nerves, so a long-term deficiency can literally affect nerve signaling. Everyone's body is different, so listen to yours and get levels checked before assuming.\n\n@smarthealthfix covers nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #vitaminB12 #zincdeficiency #magnesiumdeficiency #hiddenhealthsigns #healthtips #wellness #nutritionfacts #guthealth #micronutrients nutrientgaps wellnessjourney vitamindeficiency healthawareness"
+  "shape": "surprising_true_fact",
+  "caption": "Let's talk about a few of these because they're stranger than they sound. Nutmeg's hallucinogenic effect comes from myristicin, a compound your liver converts into something structurally similar to amphetamines — which is exactly why eating a whole nutmeg at once is genuinely dangerous, not just a fun fact. Pineapple's bromelain enzyme doesn't just tingle your tongue for fun either — it's a protease, meaning it's literally breaking down the proteins in your mouth's surface the same way it would tenderize a piece of meat, which is also why pineapple is used as a natural meat tenderizer in cooking. And rhubarb's oxalic acid works by binding to calcium in your body, which in large amounts can strain your kidneys — the leaves carry far more of it than the stalks ever do, which is why only the stalk ends up in your pie.\n\nAt @smarthealthfix we dig into the odd corners of nutrition, common symptoms, organ function, and the small daily habits that quietly shape your health. Our mission is to make real, verifiable health knowledge easy to actually use, not just interesting to read.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodfacts #nutritionfacts #healthtips #wellness #didyouknow #foodtrivia #nutritionscience #healthyeating #foodknowledge #surprisingfacts foodfactsdaily nutritiontips wellnessjourney healthyliving foodscience"
 }
