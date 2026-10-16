@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20261016_184535.png",
-  "mp4": "output/reel_20261016_184535.mp4",
-  "cover": "output/cover_20261016_184535.png",
+  "png": "output/reel_20261016_223551.png",
+  "mp4": "output/reel_20261016_223551.mp4",
+  "cover": "output/cover_20261016_223551.png",
   "cover_bg": "white",
   "content": {
-    "title": "ORGANS AND THE {{UNEXPECTED}} FOODS THAT QUIETLY KEEP THEM RUNNING",
+    "title": "THE DAILY CHEAT SHEET YOUR {{BODY}} IS QUIETLY BEGGING FOR",
     "facts": [
-      "**Pancreas** - Lentils, Broccoli, Walnuts",
-      "**Kidneys** - Red bell peppers, Blueberries, Cauliflower",
-      "**Liver** - Beets, Garlic, Green tea",
-      "**Eyes** - Spinach, Egg yolks, Sunflower seeds",
-      "**Bladder** - Pumpkin seeds, Celery, Watermelon",
-      "**Thyroid** - Brazil nuts, Seaweed, Pumpkin seeds",
-      "**Brain** - Walnuts, Blueberries, Pumpkin seeds",
-      "**Follow along** - for more daily health tips like this."
+      "**Cold shower** -> 60 seconds at the end -> Sharper focus",
+      "**Walking** -> 10 minutes after meals -> Flattens sugar spike",
+      "**Sunlight** -> 10 min before 9am -> Deeper sleep later",
+      "**Deep breathing** -> 5 min, slow exhale -> Lowers stress fast",
+      "**Pumpkin seeds** -> 1 small handful -> Calms muscle tension",
+      "**Journaling** -> 3 lines before bed -> Quiets racing thoughts",
+      "**Stretching** -> 5 minutes, morning -> Less joint stiffness",
+      "**Water** -> 1 glass upon waking -> Kickstarts alertness",
+      "**Beets** -> 1/2 cup, 3x/week -> Better blood flow",
+      "**Follow along** – for more daily habits like this."
     ],
     "claims": [],
-    "caption": "Your pancreas does more than people realize, and lentils actually help it out directly - they're packed with fiber that slows down sugar absorption, so your pancreas doesn't have to scramble to release insulin all at once. Garlic is another quiet workhorse, this time for your liver - it contains sulfur compounds that activate liver enzymes responsible for flushing out toxins. And if your eyes feel strained from screens, spinach deserves more credit than it gets - it's loaded with lutein, a plant compound that builds up in the retina and helps filter harsh light. Of course, everyone's body is different, so listen to yours and adjust as needed.\n\nAt @smarthealthfix, we're all about connecting the dots between nutrition, common health issues, your organs, and the small daily habits that shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these are worth understanding beyond the quick fact. Cold shower exposure at the end of your shower triggers a rush of norepinephrine, the chemical tied to alertness and mood, which is why 60 seconds can shift your whole morning. Walking after meals works because your leg muscles pull glucose out of the bloodstream for fuel, so even a short stroll blunts the sugar spike you'd otherwise get from sitting down right after eating. And beets contain natural nitrates that your body converts into nitric oxide, which relaxes blood vessels and helps blood move more efficiently to your muscles and brain. Everyone's body responds a little differently, so treat these as a starting point, not a strict rulebook.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a little nudge today.",
     "hashtags": [
-      "#organhealth",
-      "#pancreashealth",
-      "#liverdetox",
-      "#kidneyhealth",
-      "#eyehealth",
-      "#thyroidsupport",
-      "#brainfood",
       "#healthtips",
-      "#nutritionfacts",
-      "#wellnessjourney"
+      "#dailyhabits",
+      "#wellnessjourney",
+      "#bloodsugar",
+      "#betterSleep",
+      "#stressrelief",
+      "#morningroutine",
+      "#guthealth",
+      "#naturalenergy",
+      "#healthyhabits"
     ],
     "extra_keywords": [
-      "organhealthtips",
-      "foodismedicine",
-      "naturalhealing",
-      "healthyhabits",
-      "nutrientdense"
+      "wellnesstips",
+      "healthyroutine",
+      "mindbodyhealth",
+      "smallhabitsbigchanges"
     ]
   },
-  "shape": "organ_food_list",
-  "caption": "Your pancreas does more than people realize, and lentils actually help it out directly - they're packed with fiber that slows down sugar absorption, so your pancreas doesn't have to scramble to release insulin all at once. Garlic is another quiet workhorse, this time for your liver - it contains sulfur compounds that activate liver enzymes responsible for flushing out toxins. And if your eyes feel strained from screens, spinach deserves more credit than it gets - it's loaded with lutein, a plant compound that builds up in the retina and helps filter harsh light. Of course, everyone's body is different, so listen to yours and adjust as needed.\n\nAt @smarthealthfix, we're all about connecting the dots between nutrition, common health issues, your organs, and the small daily habits that shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #pancreashealth #liverdetox #kidneyhealth #eyehealth #thyroidsupport #brainfood #healthtips #nutritionfacts #wellnessjourney organhealthtips foodismedicine naturalhealing healthyhabits nutrientdense"
+  "shape": "daily_dose_habit",
+  "caption": "A few of these are worth understanding beyond the quick fact. Cold shower exposure at the end of your shower triggers a rush of norepinephrine, the chemical tied to alertness and mood, which is why 60 seconds can shift your whole morning. Walking after meals works because your leg muscles pull glucose out of the bloodstream for fuel, so even a short stroll blunts the sugar spike you'd otherwise get from sitting down right after eating. And beets contain natural nitrates that your body converts into nitric oxide, which relaxes blood vessels and helps blood move more efficiently to your muscles and brain. Everyone's body responds a little differently, so treat these as a starting point, not a strict rulebook.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a little nudge today.\n\n#healthtips #dailyhabits #wellnessjourney #bloodsugar #betterSleep #stressrelief #morningroutine #guthealth #naturalenergy #healthyhabits wellnesstips healthyroutine mindbodyhealth smallhabitsbigchanges"
 }
