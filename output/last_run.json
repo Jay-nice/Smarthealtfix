@@ -1,45 +1,41 @@
 {
-  "png": "output/reel_20261015_225511.png",
-  "mp4": "output/reel_20261015_225511.mp4",
-  "cover": "output/cover_20261015_225511.png",
+  "png": "output/reel_20261016_143953.png",
+  "mp4": "output/reel_20261016_143953.mp4",
+  "cover": "output/cover_20261016_143953.png",
   "cover_bg": "white",
   "content": {
-    "title": "RANDOM HOUSEHOLD TRICKS THAT QUIETLY FIX {{ANNOYING}} PROBLEMS",
+    "title": "THE REAL REASON YOUR {{BLOATING}} WON'T GO AWAY",
     "facts": [
-      "**Brain Freeze** – Press your tongue flat against the roof of your mouth until the pain fades, it warms the nerves instantly.",
-      "**Hangnail** – Soak the finger in warm olive oil for 5 minutes to soften the skin before trimming, it stops the tearing.",
-      "**Splinter** – Cover it with a piece of banana peel taped down overnight, the enzymes help draw it closer to the surface.",
-      "**Stuck Zipper** – Rub a bit of candle wax or lip balm along the teeth so it glides instead of snagging skin.",
-      "**Itchy Mosquito Bite** – Press a hot spoon (dipped in hot water) onto the bite for 10 seconds, heat breaks down the itch-causing compound.",
-      "**Minor Burn on Finger** – Run it under cold water for a full 10 minutes, then wrap loosely in plastic wrap to lock in moisture and ease pain.",
-      "**Foggy Glasses** – Wipe the lenses with a tiny dab of shaving cream, buff clean, it leaves an anti-fog film for hours.",
-      "**Squeaky Door Hinge** – Rub a sliced potato or a dab of cooking oil on the hinge, both cut the friction instantly.",
-      "**Static Cling on Clothes** – Rub a dry dryer sheet or a metal hanger along the fabric to neutralize the charge in seconds.",
-      "**Dry, Cracked Heels** – Mix 1 tbsp honey with warm water, soak feet 10 minutes, honey pulls moisture into the skin.",
-      "**Follow along** – for more quick fixes you can actually use the same day."
+      "**Fennel seeds** – chew 1 tsp after meals, they relax gut muscles and let trapped gas escape faster.",
+      "**Papaya** – 1 cup after lunch; its enzyme papain breaks down stubborn proteins your gut struggles with.",
+      "**Peppermint tea** – 1 cup post-meal calms the intestinal lining and eases cramping within minutes.",
+      "**Cucumber** – 90% water plus quercetin, it flushes excess sodium that causes puffy, bloated bellies.",
+      "**Ginger root** – a thumb-sized piece grated into tea speeds up stomach emptying so food doesn't sit and ferment.",
+      "**Bananas** – 1 ripe banana/day balances potassium levels, pulling extra water out from under the skin.",
+      "**Asparagus** – a natural diuretic that works with your kidneys to drain water weight overnight.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are worth explaining a little more. The brain freeze trick works because pressing your tongue to the roof of your mouth warms the blood vessels behind your palate, which calms the sudden nerve signal that causes the sharp pain. The banana peel trick for splinters isn't magic either — the enzymes and moisture in the peel soften the top layer of skin, making it easier for the splinter to work its way out on its own instead of staying lodged. And that honey soak for cracked heels works because honey is a natural humectant, meaning it actually pulls water into the skin instead of just sitting on top of it like regular lotion. Everyone's skin and body react a little differently, so take these as a starting point, not a guarantee.\n\n@smarthealthfix is all about the small stuff: nutrition, everyday aches and symptoms, how your organs actually work, and tiny daily habits that add up. Our mission is to make health feel simple again, without needing a cabinet full of products for every little problem.\n\nSave this post so you don't lose it, and share it with someone who deals with one of these annoying little problems weekly.",
+    "caption": "Bloating is one of those small, annoying problems almost nobody talks about, but your kitchen probably already has the fix. Fennel seeds work by relaxing the smooth muscles lining your digestive tract, which lets gas move through instead of getting trapped and causing that tight, swollen feeling. Papaya contains papain, an enzyme that breaks down proteins your stomach acid alone can't fully digest, so less undigested food sits around fermenting and producing gas. Ginger speeds up gastric emptying, meaning food spends less time sitting in your stomach where it can bubble and cause pressure. Everyone's gut reacts a little differently, so pay attention to what actually settles yours.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs and body functions, and the small daily habits that tie it all together. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that never last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#homeremedies",
+      "#bloating",
+      "#guthealth",
+      "#digestivehealth",
       "#healthtips",
-      "#lifehacks",
-      "#kitchenremedies",
-      "#naturalremedies",
       "#wellness",
-      "#quickfix",
-      "#everydayhealth",
-      "#selfcaretips",
-      "#smarthealthfix"
+      "#naturalremedies",
+      "#fennel",
+      "#ginger",
+      "#stomachissues",
+      "#healthyliving"
     ],
     "extra_keywords": [
-      "householdtricks",
+      "guttips",
+      "digestionhacks",
       "naturalhealing",
-      "wellnesshacks",
-      "diyremedies",
-      "healthyhabits"
+      "wellnessjourney"
     ]
   },
-  "shape": "boxed_hacks",
-  "caption": "A few of these are worth explaining a little more. The brain freeze trick works because pressing your tongue to the roof of your mouth warms the blood vessels behind your palate, which calms the sudden nerve signal that causes the sharp pain. The banana peel trick for splinters isn't magic either — the enzymes and moisture in the peel soften the top layer of skin, making it easier for the splinter to work its way out on its own instead of staying lodged. And that honey soak for cracked heels works because honey is a natural humectant, meaning it actually pulls water into the skin instead of just sitting on top of it like regular lotion. Everyone's skin and body react a little differently, so take these as a starting point, not a guarantee.\n\n@smarthealthfix is all about the small stuff: nutrition, everyday aches and symptoms, how your organs actually work, and tiny daily habits that add up. Our mission is to make health feel simple again, without needing a cabinet full of products for every little problem.\n\nSave this post so you don't lose it, and share it with someone who deals with one of these annoying little problems weekly.\n\n#homeremedies #healthtips #lifehacks #kitchenremedies #naturalremedies #wellness #quickfix #everydayhealth #selfcaretips #smarthealthfix householdtricks naturalhealing wellnesshacks diyremedies healthyhabits"
+  "shape": "problem_food_mapping",
+  "caption": "Bloating is one of those small, annoying problems almost nobody talks about, but your kitchen probably already has the fix. Fennel seeds work by relaxing the smooth muscles lining your digestive tract, which lets gas move through instead of getting trapped and causing that tight, swollen feeling. Papaya contains papain, an enzyme that breaks down proteins your stomach acid alone can't fully digest, so less undigested food sits around fermenting and producing gas. Ginger speeds up gastric emptying, meaning food spends less time sitting in your stomach where it can bubble and cause pressure. Everyone's gut reacts a little differently, so pay attention to what actually settles yours.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs and body functions, and the small daily habits that tie it all together. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that never last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#bloating #guthealth #digestivehealth #healthtips #wellness #naturalremedies #fennel #ginger #stomachissues #healthyliving guttips digestionhacks naturalhealing wellnessjourney"
 }
