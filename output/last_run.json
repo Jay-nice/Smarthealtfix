@@ -1,41 +1,42 @@
 {
-  "png": "output/reel_20261016_143953.png",
-  "mp4": "output/reel_20261016_143953.mp4",
-  "cover": "output/cover_20261016_143953.png",
+  "png": "output/reel_20261016_184535.png",
+  "mp4": "output/reel_20261016_184535.mp4",
+  "cover": "output/cover_20261016_184535.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE REAL REASON YOUR {{BLOATING}} WON'T GO AWAY",
+    "title": "ORGANS AND THE {{UNEXPECTED}} FOODS THAT QUIETLY KEEP THEM RUNNING",
     "facts": [
-      "**Fennel seeds** – chew 1 tsp after meals, they relax gut muscles and let trapped gas escape faster.",
-      "**Papaya** – 1 cup after lunch; its enzyme papain breaks down stubborn proteins your gut struggles with.",
-      "**Peppermint tea** – 1 cup post-meal calms the intestinal lining and eases cramping within minutes.",
-      "**Cucumber** – 90% water plus quercetin, it flushes excess sodium that causes puffy, bloated bellies.",
-      "**Ginger root** – a thumb-sized piece grated into tea speeds up stomach emptying so food doesn't sit and ferment.",
-      "**Bananas** – 1 ripe banana/day balances potassium levels, pulling extra water out from under the skin.",
-      "**Asparagus** – a natural diuretic that works with your kidneys to drain water weight overnight.",
-      "**Follow along** – for more daily health tips like this."
+      "**Pancreas** - Lentils, Broccoli, Walnuts",
+      "**Kidneys** - Red bell peppers, Blueberries, Cauliflower",
+      "**Liver** - Beets, Garlic, Green tea",
+      "**Eyes** - Spinach, Egg yolks, Sunflower seeds",
+      "**Bladder** - Pumpkin seeds, Celery, Watermelon",
+      "**Thyroid** - Brazil nuts, Seaweed, Pumpkin seeds",
+      "**Brain** - Walnuts, Blueberries, Pumpkin seeds",
+      "**Follow along** - for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Bloating is one of those small, annoying problems almost nobody talks about, but your kitchen probably already has the fix. Fennel seeds work by relaxing the smooth muscles lining your digestive tract, which lets gas move through instead of getting trapped and causing that tight, swollen feeling. Papaya contains papain, an enzyme that breaks down proteins your stomach acid alone can't fully digest, so less undigested food sits around fermenting and producing gas. Ginger speeds up gastric emptying, meaning food spends less time sitting in your stomach where it can bubble and cause pressure. Everyone's gut reacts a little differently, so pay attention to what actually settles yours.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs and body functions, and the small daily habits that tie it all together. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that never last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Your pancreas does more than people realize, and lentils actually help it out directly - they're packed with fiber that slows down sugar absorption, so your pancreas doesn't have to scramble to release insulin all at once. Garlic is another quiet workhorse, this time for your liver - it contains sulfur compounds that activate liver enzymes responsible for flushing out toxins. And if your eyes feel strained from screens, spinach deserves more credit than it gets - it's loaded with lutein, a plant compound that builds up in the retina and helps filter harsh light. Of course, everyone's body is different, so listen to yours and adjust as needed.\n\nAt @smarthealthfix, we're all about connecting the dots between nutrition, common health issues, your organs, and the small daily habits that shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#bloating",
-      "#guthealth",
-      "#digestivehealth",
+      "#organhealth",
+      "#pancreashealth",
+      "#liverdetox",
+      "#kidneyhealth",
+      "#eyehealth",
+      "#thyroidsupport",
+      "#brainfood",
       "#healthtips",
-      "#wellness",
-      "#naturalremedies",
-      "#fennel",
-      "#ginger",
-      "#stomachissues",
-      "#healthyliving"
+      "#nutritionfacts",
+      "#wellnessjourney"
     ],
     "extra_keywords": [
-      "guttips",
-      "digestionhacks",
+      "organhealthtips",
+      "foodismedicine",
       "naturalhealing",
-      "wellnessjourney"
+      "healthyhabits",
+      "nutrientdense"
     ]
   },
-  "shape": "problem_food_mapping",
-  "caption": "Bloating is one of those small, annoying problems almost nobody talks about, but your kitchen probably already has the fix. Fennel seeds work by relaxing the smooth muscles lining your digestive tract, which lets gas move through instead of getting trapped and causing that tight, swollen feeling. Papaya contains papain, an enzyme that breaks down proteins your stomach acid alone can't fully digest, so less undigested food sits around fermenting and producing gas. Ginger speeds up gastric emptying, meaning food spends less time sitting in your stomach where it can bubble and cause pressure. Everyone's gut reacts a little differently, so pay attention to what actually settles yours.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs and body functions, and the small daily habits that tie it all together. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that never last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#bloating #guthealth #digestivehealth #healthtips #wellness #naturalremedies #fennel #ginger #stomachissues #healthyliving guttips digestionhacks naturalhealing wellnessjourney"
+  "shape": "organ_food_list",
+  "caption": "Your pancreas does more than people realize, and lentils actually help it out directly - they're packed with fiber that slows down sugar absorption, so your pancreas doesn't have to scramble to release insulin all at once. Garlic is another quiet workhorse, this time for your liver - it contains sulfur compounds that activate liver enzymes responsible for flushing out toxins. And if your eyes feel strained from screens, spinach deserves more credit than it gets - it's loaded with lutein, a plant compound that builds up in the retina and helps filter harsh light. Of course, everyone's body is different, so listen to yours and adjust as needed.\n\nAt @smarthealthfix, we're all about connecting the dots between nutrition, common health issues, your organs, and the small daily habits that shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #pancreashealth #liverdetox #kidneyhealth #eyehealth #thyroidsupport #brainfood #healthtips #nutritionfacts #wellnessjourney organhealthtips foodismedicine naturalhealing healthyhabits nutrientdense"
 }
