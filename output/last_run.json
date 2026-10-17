@@ -1,42 +1,41 @@
 {
-  "png": "output/reel_20261017_133134.png",
-  "mp4": "output/reel_20261017_133134.mp4",
-  "cover": "output/cover_20261017_133134.png",
+  "png": "output/reel_20261017_175056.png",
+  "mp4": "output/reel_20261017_175056.mp4",
+  "cover": "output/cover_20261017_175056.png",
   "cover_bg": "white",
   "content": {
-    "title": "RULES EVERY NEW PARENT NEEDS FOR THEIR OWN {{BODY}}",
+    "title": "WEIRD BODY SIGNALS MOST PEOPLE BLAME ON {{STRESS}}",
     "facts": [
-      "**Hydrate before coffee** – drink a full glass of water before your first cup to counter the dehydration from broken sleep.",
-      "**Nap in 20-minute blocks** – anything longer pushes you into deep sleep and leaves you groggier when the baby wakes you.",
-      "**Eat protein first thing** – 2 eggs or a handful of nuts in the morning blunts the energy crash that comes from running on adrenaline.",
-      "**Step outside for 5 minutes** – morning light resets your body clock even if your sleep schedule is completely broken.",
-      "**Stretch your neck and shoulders 2x/day** – constant bending over a crib or car seat tightens this area fast.",
-      "**Set a 7pm caffeine cutoff** – even exhausted, late caffeine will wreck the little sleep window you do get.",
-      "**Keep a snack stash within reach** – almonds, dates, or oat bars prevent the blood sugar dips that fuel short tempers.",
-      "**Ask for a 30-minute solo break daily** – your nervous system needs this to reset, not just your to-do list.",
+      "**Iodine** – Unexplained weight gain, constant fatigue, dry skin, and a swollen neck or throat.",
+      "**Vitamin K** – Easy bruising, cuts that won't stop bleeding, and bleeding gums.",
+      "**Folate** – Pale skin, irritability, shortness of breath, and a swollen or sore tongue.",
+      "**Vitamin A** – Night blindness, dry eyes, frequent infections, and rough, bumpy skin on the arms.",
+      "**Vitamin E** – Muscle weakness, poor balance and coordination, and numbness in the hands or feet.",
+      "**Potassium** – Muscle cramps, heart palpitations, constipation, and persistent fatigue.",
+      "**Zinc** – Slow wound healing, loss of taste or smell, frequent colds, and thinning hair.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "New parents run on fumes, and a few small swaps make a real difference. Drinking water before coffee matters because overnight dehydration shrinks blood volume slightly, which makes your heart work harder and amplifies that wired-but-tired feeling caffeine alone won't fix. Protein in the morning works because it slows glucose absorption, keeping your blood sugar steadier through the first chaotic hours instead of spiking and crashing. And that 5-minute step outside isn't just fresh air — morning light exposure helps suppress melatonin at the right time, which keeps your circadian rhythm from drifting further out of sync when your sleep is already fragmented. Everyone's situation is different, so adjust what fits your days.\n\n@smarthealthfix covers nutrition, common health issues, organ function, and small daily habits that actually fit real life. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't survive contact with daily life.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.",
+    "caption": "A swollen neck isn't always 'just your thyroid acting up' — low iodine makes the thyroid gland physically enlarge as it struggles to produce enough hormone, which is why that pressure in your throat can be the first real clue. Bruising way too easily from tiny bumps often points to low vitamin K, since your body needs it to activate the proteins that actually form a blood clot. And that constant pale, washed-out, breathless feeling people chalk up to 'just being tired' can trace back to low folate, which your body needs to make healthy red blood cells that carry oxygen efficiently. Everyone's body is different, so use these as a starting point, not a diagnosis.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and the small daily habits that tie it all together. Our mission is to help you notice what your body is actually telling you, instead of guessing or chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#newparent",
-      "#parentingtips",
-      "#postpartumhealth",
-      "#tiredmom",
-      "#dadlife",
-      "#sleepdeprived",
+      "#nutrientdeficiency",
+      "#iodine",
+      "#vitaminK",
+      "#folate",
+      "#vitaminA",
+      "#vitaminE",
+      "#potassium",
+      "#zincdeficiency",
       "#healthtips",
-      "#wellness",
-      "#momlife",
-      "#babycare"
+      "#wellness"
     ],
     "extra_keywords": [
-      "parentwellness",
-      "newmomtips",
-      "selfcarefortiredparents",
-      "babyandme"
+      "nutrientgaps",
+      "healthsignals",
+      "wellnessjourney",
+      "vitamindeficiencysigns"
     ]
   },
-  "shape": "imperative_advice_list",
-  "caption": "New parents run on fumes, and a few small swaps make a real difference. Drinking water before coffee matters because overnight dehydration shrinks blood volume slightly, which makes your heart work harder and amplifies that wired-but-tired feeling caffeine alone won't fix. Protein in the morning works because it slows glucose absorption, keeping your blood sugar steadier through the first chaotic hours instead of spiking and crashing. And that 5-minute step outside isn't just fresh air — morning light exposure helps suppress melatonin at the right time, which keeps your circadian rhythm from drifting further out of sync when your sleep is already fragmented. Everyone's situation is different, so adjust what fits your days.\n\n@smarthealthfix covers nutrition, common health issues, organ function, and small daily habits that actually fit real life. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't survive contact with daily life.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.\n\n#newparent #parentingtips #postpartumhealth #tiredmom #dadlife #sleepdeprived #healthtips #wellness #momlife #babycare parentwellness newmomtips selfcarefortiredparents babyandme"
+  "shape": "symptom_list",
+  "caption": "A swollen neck isn't always 'just your thyroid acting up' — low iodine makes the thyroid gland physically enlarge as it struggles to produce enough hormone, which is why that pressure in your throat can be the first real clue. Bruising way too easily from tiny bumps often points to low vitamin K, since your body needs it to activate the proteins that actually form a blood clot. And that constant pale, washed-out, breathless feeling people chalk up to 'just being tired' can trace back to low folate, which your body needs to make healthy red blood cells that carry oxygen efficiently. Everyone's body is different, so use these as a starting point, not a diagnosis.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and the small daily habits that tie it all together. Our mission is to help you notice what your body is actually telling you, instead of guessing or chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #iodine #vitaminK #folate #vitaminA #vitaminE #potassium #zincdeficiency #healthtips #wellness nutrientgaps healthsignals wellnessjourney vitamindeficiencysigns"
 }
