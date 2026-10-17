@@ -1,41 +1,45 @@
 {
-  "png": "output/reel_20261017_175056.png",
-  "mp4": "output/reel_20261017_175056.mp4",
-  "cover": "output/cover_20261017_175056.png",
+  "png": "output/reel_20261017_215935.png",
+  "mp4": "output/reel_20261017_215935.mp4",
+  "cover": "output/cover_20261017_215935.png",
   "cover_bg": "white",
   "content": {
-    "title": "WEIRD BODY SIGNALS MOST PEOPLE BLAME ON {{STRESS}}",
+    "title": "KITCHEN FIXES THAT WORK FASTER THAN YOUR MEDICINE CABINET",
     "facts": [
-      "**Iodine** – Unexplained weight gain, constant fatigue, dry skin, and a swollen neck or throat.",
-      "**Vitamin K** – Easy bruising, cuts that won't stop bleeding, and bleeding gums.",
-      "**Folate** – Pale skin, irritability, shortness of breath, and a swollen or sore tongue.",
-      "**Vitamin A** – Night blindness, dry eyes, frequent infections, and rough, bumpy skin on the arms.",
-      "**Vitamin E** – Muscle weakness, poor balance and coordination, and numbness in the hands or feet.",
-      "**Potassium** – Muscle cramps, heart palpitations, constipation, and persistent fatigue.",
-      "**Zinc** – Slow wound healing, loss of taste or smell, frequent colds, and thinning hair.",
-      "**Follow along** – for more daily health tips like this."
+      "**Hiccups** – Swallow 1 teaspoon of dry sugar; it resets the nerve that's misfiring.",
+      "**Burnt Tongue** – Press a spoonful of plain yogurt on it for instant cooling relief.",
+      "**Stuffy Nose** – Hold a warm, damp washcloth over your sinuses for 2 minutes to loosen mucus.",
+      "**Toothache** – Dab a small amount of clove oil on the sore spot to numb it naturally.",
+      "**Bad Breath** – Chew 1 teaspoon of fennel seeds; their oils neutralize odor-causing bacteria.",
+      "**Sore Throat** – Gargle warm water with 1/2 teaspoon salt every few hours to pull out swelling.",
+      "**Leg Cramp at Night** – Pull your toes toward your shin for 15 seconds to force the muscle to release.",
+      "**Stinky Hands After Cooking** – Rub them on stainless steel under running water to neutralize garlic/onion smell.",
+      "**Dry, Cracked Lips** – Dab a thin layer of honey on them before bed to lock in moisture overnight.",
+      "**Hangnail Pain** – Soak the finger in warm water with 1 tablespoon olive oil for 5 minutes to soften skin.",
+      "**Follow along** – for more quick, harmless fixes you can use the same day."
     ],
     "claims": [],
-    "caption": "A swollen neck isn't always 'just your thyroid acting up' — low iodine makes the thyroid gland physically enlarge as it struggles to produce enough hormone, which is why that pressure in your throat can be the first real clue. Bruising way too easily from tiny bumps often points to low vitamin K, since your body needs it to activate the proteins that actually form a blood clot. And that constant pale, washed-out, breathless feeling people chalk up to 'just being tired' can trace back to low folate, which your body needs to make healthy red blood cells that carry oxygen efficiently. Everyone's body is different, so use these as a starting point, not a diagnosis.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and the small daily habits that tie it all together. Our mission is to help you notice what your body is actually telling you, instead of guessing or chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these are oddly satisfying once you know why they work. The dry sugar trick for hiccups isn't a myth — the granules scratch the back of your throat just enough to interrupt the phrenic nerve spasm that's causing the hiccup in the first place. Clove oil for a toothache works because it contains eugenol, a natural compound that numbs nerve endings almost like a mild anesthetic. And that leg cramp stretch — pulling your toes toward your shin — physically forces the calf muscle to lengthen, which overrides the spasm signal your nerves are sending. Everyone's body responds a little differently, so give these a try and see what works for you.\n\nAt @smarthealthfix, we're all about connecting the dots between nutrition, common everyday health issues, your organs, and the small daily habits that quietly shape how you feel. Our goal isn't quick fixes for the sake of it — it's helping you build simple, realistic habits that actually stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#nutrientdeficiency",
-      "#iodine",
-      "#vitaminK",
-      "#folate",
-      "#vitaminA",
-      "#vitaminE",
-      "#potassium",
-      "#zincdeficiency",
+      "#homeremedies",
+      "#naturalremedy",
+      "#kitchenhacks",
+      "#quickfix",
       "#healthtips",
-      "#wellness"
+      "#wellness",
+      "#naturalhealth",
+      "#everydayhealth",
+      "#bodyhacks",
+      "#selfcare"
     ],
     "extra_keywords": [
-      "nutrientgaps",
-      "healthsignals",
-      "wellnessjourney",
-      "vitamindeficiencysigns"
+      "homeremedies",
+      "naturalhealing",
+      "wellnesstips",
+      "lifehacks",
+      "healthyliving"
     ]
   },
-  "shape": "symptom_list",
-  "caption": "A swollen neck isn't always 'just your thyroid acting up' — low iodine makes the thyroid gland physically enlarge as it struggles to produce enough hormone, which is why that pressure in your throat can be the first real clue. Bruising way too easily from tiny bumps often points to low vitamin K, since your body needs it to activate the proteins that actually form a blood clot. And that constant pale, washed-out, breathless feeling people chalk up to 'just being tired' can trace back to low folate, which your body needs to make healthy red blood cells that carry oxygen efficiently. Everyone's body is different, so use these as a starting point, not a diagnosis.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and the small daily habits that tie it all together. Our mission is to help you notice what your body is actually telling you, instead of guessing or chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #iodine #vitaminK #folate #vitaminA #vitaminE #potassium #zincdeficiency #healthtips #wellness nutrientgaps healthsignals wellnessjourney vitamindeficiencysigns"
+  "shape": "boxed_hacks",
+  "caption": "A few of these are oddly satisfying once you know why they work. The dry sugar trick for hiccups isn't a myth — the granules scratch the back of your throat just enough to interrupt the phrenic nerve spasm that's causing the hiccup in the first place. Clove oil for a toothache works because it contains eugenol, a natural compound that numbs nerve endings almost like a mild anesthetic. And that leg cramp stretch — pulling your toes toward your shin — physically forces the calf muscle to lengthen, which overrides the spasm signal your nerves are sending. Everyone's body responds a little differently, so give these a try and see what works for you.\n\nAt @smarthealthfix, we're all about connecting the dots between nutrition, common everyday health issues, your organs, and the small daily habits that quietly shape how you feel. Our goal isn't quick fixes for the sake of it — it's helping you build simple, realistic habits that actually stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#homeremedies #naturalremedy #kitchenhacks #quickfix #healthtips #wellness #naturalhealth #everydayhealth #bodyhacks #selfcare homeremedies naturalhealing wellnesstips lifehacks healthyliving"
 }
