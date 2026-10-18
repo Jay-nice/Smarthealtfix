@@ -1,44 +1,44 @@
 {
-  "png": "output/reel_20261018_135013.png",
-  "mp4": "output/reel_20261018_135013.mp4",
-  "cover": "output/cover_20261018_135013.png",
+  "png": "output/reel_20261018_180123.png",
+  "mp4": "output/reel_20261018_180123.mp4",
+  "cover": "output/cover_20261018_180123.png",
   "cover_bg": "white",
   "content": {
-    "title": "SMALL DAILY DOSES THAT QUIETLY FIX YOUR {{BODY}}",
+    "title": "THE GROCERY LIST FOR PROBLEMS YOU DEAL WITH {{EVERY WEEK}}",
     "facts": [
-      "**Cold brewed tea** -> 1 cup/day -> Steadier energy",
-      "**Dark chocolate** -> 2 squares/day (70%+) -> Calmer mood",
-      "**Jump rope** -> 3 minutes/day -> Stronger bones",
-      "**Fermented yogurt** -> 1 cup/day -> Fewer bloating flare-ups",
-      "**Gratitude note** -> 3 sentences/night -> Lower stress load",
-      "**Garlic** -> 1 clove/day -> Supports healthy blood pressure",
-      "**Deep sleep window** -> 7-9 hours/night -> Faster muscle recovery",
-      "**Chia seeds** -> 1 tbsp/day -> Steadier blood sugar",
-      "**Laughing out loud** -> 10 minutes/day -> Lower cortisol",
-      "**Follow along** -> for more daily health tips like this."
+      "**Bloating** ----- Fennel Seeds",
+      "**Brain Fog** ----- Walnuts",
+      "**Canker Sores** ----- Coconut Water",
+      "**Dandruff** ----- Pumpkin Seeds",
+      "**Eye Strain** ----- Carrots",
+      "**Heartburn** ----- Oatmeal",
+      "**Muscle Soreness** ----- Tart Cherries",
+      "**Restless Legs** ----- Bananas",
+      "**Skin Breakouts** ----- Green Tea",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these tiny daily habits do more than they get credit for. Garlic isn't just flavor - it contains allicin, a compound released when you chop or crush it, which research links to relaxed blood vessels and easier blood flow. Chia seeds work differently: once they hit liquid in your stomach, they form a gel that slows down how fast sugar enters your bloodstream, which is why they help you avoid that mid-afternoon crash. And fermented yogurt feeds the good bacteria already living in your gut, which can mean less gas and a calmer digestive system within days of eating it consistently. Everyone's body responds a little differently, so pay attention to what actually works for yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and the small daily habits that tie it all together. Our mission is to help you build realistic, sustainable routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these are worth slowing down on. Fennel seeds get overlooked, but chewing a small pinch after eating relaxes the muscles lining your gut, which is exactly what eases that tight, swollen feeling after a big meal. Walnuts show up a lot for brain health, and it's because they're one of the few plant foods carrying a meaningful dose of omega-3s that your brain uses to keep nerve cells communicating quickly, which is why that foggy, sluggish feeling can lift with regular intake. Tart cherries are another underrated one — they contain natural compounds that calm inflammation in overworked muscles, which is part of why some people reach for them after a tough workout instead of reaching for a pill. Everyone's body responds a little differently, so pay attention to what actually helps yours.\n\nThis is what @smarthealthfix is all about — connecting everyday nutrition, common health issues, your organs, and small daily habits so the dots actually connect. Our mission is to make health feel practical again, one small food swap at a time instead of chasing the next big fix.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
-      "#wellness",
-      "#dailyhabits",
       "#guthealth",
-      "#bloodsugarbalance",
-      "#stressrelief",
-      "#betterrecovery",
       "#naturalremedies",
-      "#healthyroutine",
-      "#selfcare"
+      "#foodismedicine",
+      "#wellnesstips",
+      "#brainhealth",
+      "#inflammation",
+      "#healthyhabits",
+      "#nutritionfacts",
+      "#holistichealth"
     ],
     "extra_keywords": [
-      "wellnessjourney",
-      "healthyhabits",
       "naturalhealing",
-      "mindbodyhealth",
-      "smallchangesbigresults"
+      "wellnessjourney",
+      "everydayhealth",
+      "foodremedies",
+      "healthyliving"
     ]
   },
-  "shape": "daily_dose_habit",
-  "caption": "A few of these tiny daily habits do more than they get credit for. Garlic isn't just flavor - it contains allicin, a compound released when you chop or crush it, which research links to relaxed blood vessels and easier blood flow. Chia seeds work differently: once they hit liquid in your stomach, they form a gel that slows down how fast sugar enters your bloodstream, which is why they help you avoid that mid-afternoon crash. And fermented yogurt feeds the good bacteria already living in your gut, which can mean less gas and a calmer digestive system within days of eating it consistently. Everyone's body responds a little differently, so pay attention to what actually works for yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and the small daily habits that tie it all together. Our mission is to help you build realistic, sustainable routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #dailyhabits #guthealth #bloodsugarbalance #stressrelief #betterrecovery #naturalremedies #healthyroutine #selfcare wellnessjourney healthyhabits naturalhealing mindbodyhealth smallchangesbigresults"
+  "shape": "problem_food_mapping",
+  "caption": "A few of these are worth slowing down on. Fennel seeds get overlooked, but chewing a small pinch after eating relaxes the muscles lining your gut, which is exactly what eases that tight, swollen feeling after a big meal. Walnuts show up a lot for brain health, and it's because they're one of the few plant foods carrying a meaningful dose of omega-3s that your brain uses to keep nerve cells communicating quickly, which is why that foggy, sluggish feeling can lift with regular intake. Tart cherries are another underrated one — they contain natural compounds that calm inflammation in overworked muscles, which is part of why some people reach for them after a tough workout instead of reaching for a pill. Everyone's body responds a little differently, so pay attention to what actually helps yours.\n\nThis is what @smarthealthfix is all about — connecting everyday nutrition, common health issues, your organs, and small daily habits so the dots actually connect. Our mission is to make health feel practical again, one small food swap at a time instead of chasing the next big fix.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #guthealth #naturalremedies #foodismedicine #wellnesstips #brainhealth #inflammation #healthyhabits #nutritionfacts #holistichealth naturalhealing wellnessjourney everydayhealth foodremedies healthyliving"
 }
