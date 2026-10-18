@@ -1,45 +1,44 @@
 {
-  "png": "output/reel_20261017_215935.png",
-  "mp4": "output/reel_20261017_215935.mp4",
-  "cover": "output/cover_20261017_215935.png",
+  "png": "output/reel_20261018_135013.png",
+  "mp4": "output/reel_20261018_135013.mp4",
+  "cover": "output/cover_20261018_135013.png",
   "cover_bg": "white",
   "content": {
-    "title": "KITCHEN FIXES THAT WORK FASTER THAN YOUR MEDICINE CABINET",
+    "title": "SMALL DAILY DOSES THAT QUIETLY FIX YOUR {{BODY}}",
     "facts": [
-      "**Hiccups** – Swallow 1 teaspoon of dry sugar; it resets the nerve that's misfiring.",
-      "**Burnt Tongue** – Press a spoonful of plain yogurt on it for instant cooling relief.",
-      "**Stuffy Nose** – Hold a warm, damp washcloth over your sinuses for 2 minutes to loosen mucus.",
-      "**Toothache** – Dab a small amount of clove oil on the sore spot to numb it naturally.",
-      "**Bad Breath** – Chew 1 teaspoon of fennel seeds; their oils neutralize odor-causing bacteria.",
-      "**Sore Throat** – Gargle warm water with 1/2 teaspoon salt every few hours to pull out swelling.",
-      "**Leg Cramp at Night** – Pull your toes toward your shin for 15 seconds to force the muscle to release.",
-      "**Stinky Hands After Cooking** – Rub them on stainless steel under running water to neutralize garlic/onion smell.",
-      "**Dry, Cracked Lips** – Dab a thin layer of honey on them before bed to lock in moisture overnight.",
-      "**Hangnail Pain** – Soak the finger in warm water with 1 tablespoon olive oil for 5 minutes to soften skin.",
-      "**Follow along** – for more quick, harmless fixes you can use the same day."
+      "**Cold brewed tea** -> 1 cup/day -> Steadier energy",
+      "**Dark chocolate** -> 2 squares/day (70%+) -> Calmer mood",
+      "**Jump rope** -> 3 minutes/day -> Stronger bones",
+      "**Fermented yogurt** -> 1 cup/day -> Fewer bloating flare-ups",
+      "**Gratitude note** -> 3 sentences/night -> Lower stress load",
+      "**Garlic** -> 1 clove/day -> Supports healthy blood pressure",
+      "**Deep sleep window** -> 7-9 hours/night -> Faster muscle recovery",
+      "**Chia seeds** -> 1 tbsp/day -> Steadier blood sugar",
+      "**Laughing out loud** -> 10 minutes/day -> Lower cortisol",
+      "**Follow along** -> for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are oddly satisfying once you know why they work. The dry sugar trick for hiccups isn't a myth — the granules scratch the back of your throat just enough to interrupt the phrenic nerve spasm that's causing the hiccup in the first place. Clove oil for a toothache works because it contains eugenol, a natural compound that numbs nerve endings almost like a mild anesthetic. And that leg cramp stretch — pulling your toes toward your shin — physically forces the calf muscle to lengthen, which overrides the spasm signal your nerves are sending. Everyone's body responds a little differently, so give these a try and see what works for you.\n\nAt @smarthealthfix, we're all about connecting the dots between nutrition, common everyday health issues, your organs, and the small daily habits that quietly shape how you feel. Our goal isn't quick fixes for the sake of it — it's helping you build simple, realistic habits that actually stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these tiny daily habits do more than they get credit for. Garlic isn't just flavor - it contains allicin, a compound released when you chop or crush it, which research links to relaxed blood vessels and easier blood flow. Chia seeds work differently: once they hit liquid in your stomach, they form a gel that slows down how fast sugar enters your bloodstream, which is why they help you avoid that mid-afternoon crash. And fermented yogurt feeds the good bacteria already living in your gut, which can mean less gas and a calmer digestive system within days of eating it consistently. Everyone's body responds a little differently, so pay attention to what actually works for yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and the small daily habits that tie it all together. Our mission is to help you build realistic, sustainable routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#homeremedies",
-      "#naturalremedy",
-      "#kitchenhacks",
-      "#quickfix",
       "#healthtips",
       "#wellness",
-      "#naturalhealth",
-      "#everydayhealth",
-      "#bodyhacks",
+      "#dailyhabits",
+      "#guthealth",
+      "#bloodsugarbalance",
+      "#stressrelief",
+      "#betterrecovery",
+      "#naturalremedies",
+      "#healthyroutine",
       "#selfcare"
     ],
     "extra_keywords": [
-      "homeremedies",
+      "wellnessjourney",
+      "healthyhabits",
       "naturalhealing",
-      "wellnesstips",
-      "lifehacks",
-      "healthyliving"
+      "mindbodyhealth",
+      "smallchangesbigresults"
     ]
   },
-  "shape": "boxed_hacks",
-  "caption": "A few of these are oddly satisfying once you know why they work. The dry sugar trick for hiccups isn't a myth — the granules scratch the back of your throat just enough to interrupt the phrenic nerve spasm that's causing the hiccup in the first place. Clove oil for a toothache works because it contains eugenol, a natural compound that numbs nerve endings almost like a mild anesthetic. And that leg cramp stretch — pulling your toes toward your shin — physically forces the calf muscle to lengthen, which overrides the spasm signal your nerves are sending. Everyone's body responds a little differently, so give these a try and see what works for you.\n\nAt @smarthealthfix, we're all about connecting the dots between nutrition, common everyday health issues, your organs, and the small daily habits that quietly shape how you feel. Our goal isn't quick fixes for the sake of it — it's helping you build simple, realistic habits that actually stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#homeremedies #naturalremedy #kitchenhacks #quickfix #healthtips #wellness #naturalhealth #everydayhealth #bodyhacks #selfcare homeremedies naturalhealing wellnesstips lifehacks healthyliving"
+  "shape": "daily_dose_habit",
+  "caption": "A few of these tiny daily habits do more than they get credit for. Garlic isn't just flavor - it contains allicin, a compound released when you chop or crush it, which research links to relaxed blood vessels and easier blood flow. Chia seeds work differently: once they hit liquid in your stomach, they form a gel that slows down how fast sugar enters your bloodstream, which is why they help you avoid that mid-afternoon crash. And fermented yogurt feeds the good bacteria already living in your gut, which can mean less gas and a calmer digestive system within days of eating it consistently. Everyone's body responds a little differently, so pay attention to what actually works for yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and the small daily habits that tie it all together. Our mission is to help you build realistic, sustainable routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #dailyhabits #guthealth #bloodsugarbalance #stressrelief #betterrecovery #naturalremedies #healthyroutine #selfcare wellnessjourney healthyhabits naturalhealing mindbodyhealth smallchangesbigresults"
 }
