@@ -1,44 +1,45 @@
 {
-  "png": "output/reel_20261018_180123.png",
-  "mp4": "output/reel_20261018_180123.mp4",
-  "cover": "output/cover_20261018_180123.png",
+  "png": "output/reel_20261018_221531.png",
+  "mp4": "output/reel_20261018_221531.mp4",
+  "cover": "output/cover_20261018_221531.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE GROCERY LIST FOR PROBLEMS YOU DEAL WITH {{EVERY WEEK}}",
+    "title": "SIGNS YOU'RE ACTUALLY {{HEALTHIER}} THAN YOU THINK",
     "facts": [
-      "**Bloating** ----- Fennel Seeds",
-      "**Brain Fog** ----- Walnuts",
-      "**Canker Sores** ----- Coconut Water",
-      "**Dandruff** ----- Pumpkin Seeds",
-      "**Eye Strain** ----- Carrots",
-      "**Heartburn** ----- Oatmeal",
-      "**Muscle Soreness** ----- Tart Cherries",
-      "**Restless Legs** ----- Bananas",
-      "**Skin Breakouts** ----- Green Tea",
+      "**Sneezing twice in a row** -> your nose is thoroughly clearing irritants instead of letting them settle in your airway",
+      "**Loud stomach growling** -> your migrating motor complex is sweeping leftover food through your gut between meals",
+      "**Waking up thirsty** -> your kidneys are efficiently concentrating urine overnight instead of wasting water",
+      "**Sweating heavily during a workout** -> your body is cooling itself fast, a sign of good cardiovascular fitness",
+      "**Yawning in a boring meeting** -> your brain is actively regulating its own temperature to stay alert",
+      "**Goosebumps during music** -> a strong, responsive nervous system reacting to emotional peaks",
+      "**Vivid, weird dreams** -> you're getting enough REM sleep, the stage tied to memory and mood",
+      "**Waking up once to pee at night** -> your bladder and hormones are communicating normally, not a sign of poor sleep",
+      "**Shivering when cold** -> your muscles are generating heat fast to protect your core temperature",
+      "**Cracking knuckles with no pain** -> healthy joint fluid releasing gas bubbles, not joint damage",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are worth slowing down on. Fennel seeds get overlooked, but chewing a small pinch after eating relaxes the muscles lining your gut, which is exactly what eases that tight, swollen feeling after a big meal. Walnuts show up a lot for brain health, and it's because they're one of the few plant foods carrying a meaningful dose of omega-3s that your brain uses to keep nerve cells communicating quickly, which is why that foggy, sluggish feeling can lift with regular intake. Tart cherries are another underrated one — they contain natural compounds that calm inflammation in overworked muscles, which is part of why some people reach for them after a tough workout instead of reaching for a pill. Everyone's body responds a little differently, so pay attention to what actually helps yours.\n\nThis is what @smarthealthfix is all about — connecting everyday nutrition, common health issues, your organs, and small daily habits so the dots actually connect. Our mission is to make health feel practical again, one small food swap at a time instead of chasing the next big fix.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these deserve more explanation. Take the stomach growling (borborygmi, if you want the fancy term) — that sound is your migrating motor complex, a cleanup wave that moves through your intestines every 90 minutes or so once food has mostly cleared, pushing out leftover debris and bacteria. The louder it is, the more effectively that housekeeping is happening. Then there's waking up thirsty: your kidneys spend the night concentrating urine so you lose less water while you sleep, and that slight dry-mouth feeling in the morning is actually a sign that system is working exactly as designed, not that you're dangerously dehydrated. And vivid dreams tie directly to REM sleep, the stage where your brain consolidates memories and processes emotions — the weirder the dream, the more likely you spent solid time in that restorative stage. Everyone's body is different, so use these as general signals, not strict rules.\n\n@smarthealthfix breaks down everyday stuff like this across nutrition, common symptoms, your organs, and the small daily habits that quietly shape your health. Our mission is to help you actually understand your body instead of panicking over every weird little signal it sends.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
+      "#bodysignals",
       "#guthealth",
-      "#naturalremedies",
-      "#foodismedicine",
-      "#wellnesstips",
-      "#brainhealth",
-      "#inflammation",
+      "#sleepscience",
+      "#wellness",
       "#healthyhabits",
-      "#nutritionfacts",
-      "#holistichealth"
+      "#immuneboost",
+      "#naturalbody",
+      "#selfcare",
+      "#healthfacts"
     ],
     "extra_keywords": [
-      "naturalhealing",
+      "bodyawareness",
       "wellnessjourney",
-      "everydayhealth",
-      "foodremedies",
-      "healthyliving"
+      "healthmyths",
+      "sleephealth",
+      "naturalhealing"
     ]
   },
-  "shape": "problem_food_mapping",
-  "caption": "A few of these are worth slowing down on. Fennel seeds get overlooked, but chewing a small pinch after eating relaxes the muscles lining your gut, which is exactly what eases that tight, swollen feeling after a big meal. Walnuts show up a lot for brain health, and it's because they're one of the few plant foods carrying a meaningful dose of omega-3s that your brain uses to keep nerve cells communicating quickly, which is why that foggy, sluggish feeling can lift with regular intake. Tart cherries are another underrated one — they contain natural compounds that calm inflammation in overworked muscles, which is part of why some people reach for them after a tough workout instead of reaching for a pill. Everyone's body responds a little differently, so pay attention to what actually helps yours.\n\nThis is what @smarthealthfix is all about — connecting everyday nutrition, common health issues, your organs, and small daily habits so the dots actually connect. Our mission is to make health feel practical again, one small food swap at a time instead of chasing the next big fix.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #guthealth #naturalremedies #foodismedicine #wellnesstips #brainhealth #inflammation #healthyhabits #nutritionfacts #holistichealth naturalhealing wellnessjourney everydayhealth foodremedies healthyliving"
+  "shape": "counterintuitive_healthy_sign",
+  "caption": "A few of these deserve more explanation. Take the stomach growling (borborygmi, if you want the fancy term) — that sound is your migrating motor complex, a cleanup wave that moves through your intestines every 90 minutes or so once food has mostly cleared, pushing out leftover debris and bacteria. The louder it is, the more effectively that housekeeping is happening. Then there's waking up thirsty: your kidneys spend the night concentrating urine so you lose less water while you sleep, and that slight dry-mouth feeling in the morning is actually a sign that system is working exactly as designed, not that you're dangerously dehydrated. And vivid dreams tie directly to REM sleep, the stage where your brain consolidates memories and processes emotions — the weirder the dream, the more likely you spent solid time in that restorative stage. Everyone's body is different, so use these as general signals, not strict rules.\n\n@smarthealthfix breaks down everyday stuff like this across nutrition, common symptoms, your organs, and the small daily habits that quietly shape your health. Our mission is to help you actually understand your body instead of panicking over every weird little signal it sends.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #bodysignals #guthealth #sleepscience #wellness #healthyhabits #immuneboost #naturalbody #selfcare #healthfacts bodyawareness wellnessjourney healthmyths sleephealth naturalhealing"
 }
