@@ -1,45 +1,42 @@
 {
-  "png": "output/reel_20261018_221531.png",
-  "mp4": "output/reel_20261018_221531.mp4",
-  "cover": "output/cover_20261018_221531.png",
+  "png": "output/reel_20261019_165158.png",
+  "mp4": "output/reel_20261019_165158.mp4",
+  "cover": "output/cover_20261019_165158.png",
   "cover_bg": "white",
   "content": {
-    "title": "SIGNS YOU'RE ACTUALLY {{HEALTHIER}} THAN YOU THINK",
+    "title": "TINY HABITS THAT QUIETLY {{REWIRE}} YOUR WHOLE DAY",
     "facts": [
-      "**Sneezing twice in a row** -> your nose is thoroughly clearing irritants instead of letting them settle in your airway",
-      "**Loud stomach growling** -> your migrating motor complex is sweeping leftover food through your gut between meals",
-      "**Waking up thirsty** -> your kidneys are efficiently concentrating urine overnight instead of wasting water",
-      "**Sweating heavily during a workout** -> your body is cooling itself fast, a sign of good cardiovascular fitness",
-      "**Yawning in a boring meeting** -> your brain is actively regulating its own temperature to stay alert",
-      "**Goosebumps during music** -> a strong, responsive nervous system reacting to emotional peaks",
-      "**Vivid, weird dreams** -> you're getting enough REM sleep, the stage tied to memory and mood",
-      "**Waking up once to pee at night** -> your bladder and hormones are communicating normally, not a sign of poor sleep",
-      "**Shivering when cold** -> your muscles are generating heat fast to protect your core temperature",
-      "**Cracking knuckles with no pain** -> healthy joint fluid releasing gas bubbles, not joint damage",
+      "**Cold water on your face** right after waking up — it triggers the dive reflex, slowing your heart rate and snapping your nervous system out of grogginess fast.",
+      "**Walk for 10 minutes after eating** — your muscles pull glucose out of the bloodstream, so blood sugar spikes less and you dodge the post-meal crash.",
+      "**Stand up and stretch every hour** — it wakes up blood flow to your legs and brain, so you avoid the stiff, foggy feeling of sitting too long.",
+      "**Breathe through your nose, not your mouth** — nasal breathing filters and warms air and helps your body use oxygen more efficiently all day.",
+      "**Write down 3 tasks, not 10** — a shorter list lowers decision fatigue, so you actually finish things instead of bouncing between them.",
+      "**Dim your lights 1 hour before bed** — less bright light lets melatonin rise naturally, so you fall asleep faster without reaching for anything.",
+      "**Chew each bite 20 times** — it slows your eating pace, giving your stomach time to signal fullness before you overeat.",
+      "**Step outside for 5 minutes of morning light** — it anchors your body clock, so you feel sleepy and alert at the right times.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these deserve more explanation. Take the stomach growling (borborygmi, if you want the fancy term) — that sound is your migrating motor complex, a cleanup wave that moves through your intestines every 90 minutes or so once food has mostly cleared, pushing out leftover debris and bacteria. The louder it is, the more effectively that housekeeping is happening. Then there's waking up thirsty: your kidneys spend the night concentrating urine so you lose less water while you sleep, and that slight dry-mouth feeling in the morning is actually a sign that system is working exactly as designed, not that you're dangerously dehydrated. And vivid dreams tie directly to REM sleep, the stage where your brain consolidates memories and processes emotions — the weirder the dream, the more likely you spent solid time in that restorative stage. Everyone's body is different, so use these as general signals, not strict rules.\n\n@smarthealthfix breaks down everyday stuff like this across nutrition, common symptoms, your organs, and the small daily habits that quietly shape your health. Our mission is to help you actually understand your body instead of panicking over every weird little signal it sends.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these are small but surprisingly powerful once you know why. The cold water trick works because of something called the mammalian dive reflex — submerging or splashing your face in cold water signals your vagus nerve to slow your heart rate, which instantly cuts through morning grogginess. The post-meal walk matters because contracting muscles pull glucose directly out of your bloodstream without needing extra insulin, which is why even a short stroll blunts a sugar spike. And nasal breathing isn't just a minor detail — breathing through your nose adds resistance and filters the air, which helps your lungs extract oxygen more efficiently than quick mouth breaths do. Everyone's body responds a little differently, so notice what actually changes how you feel.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs and body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a little reset today.",
     "hashtags": [
       "#healthtips",
-      "#bodysignals",
-      "#guthealth",
-      "#sleepscience",
-      "#wellness",
+      "#dailyhabits",
+      "#wellnessroutine",
+      "#bloodsugarbalance",
+      "#morningroutine",
+      "#betterbreathing",
+      "#energyboost",
       "#healthyhabits",
-      "#immuneboost",
-      "#naturalbody",
-      "#selfcare",
-      "#healthfacts"
+      "#mindbodyconnection",
+      "#sleephygiene"
     ],
     "extra_keywords": [
-      "bodyawareness",
       "wellnessjourney",
-      "healthmyths",
-      "sleephealth",
-      "naturalhealing"
+      "habitstacking",
+      "naturalhealing",
+      "smallhabitsbigchanges"
     ]
   },
-  "shape": "counterintuitive_healthy_sign",
-  "caption": "A few of these deserve more explanation. Take the stomach growling (borborygmi, if you want the fancy term) — that sound is your migrating motor complex, a cleanup wave that moves through your intestines every 90 minutes or so once food has mostly cleared, pushing out leftover debris and bacteria. The louder it is, the more effectively that housekeeping is happening. Then there's waking up thirsty: your kidneys spend the night concentrating urine so you lose less water while you sleep, and that slight dry-mouth feeling in the morning is actually a sign that system is working exactly as designed, not that you're dangerously dehydrated. And vivid dreams tie directly to REM sleep, the stage where your brain consolidates memories and processes emotions — the weirder the dream, the more likely you spent solid time in that restorative stage. Everyone's body is different, so use these as general signals, not strict rules.\n\n@smarthealthfix breaks down everyday stuff like this across nutrition, common symptoms, your organs, and the small daily habits that quietly shape your health. Our mission is to help you actually understand your body instead of panicking over every weird little signal it sends.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #bodysignals #guthealth #sleepscience #wellness #healthyhabits #immuneboost #naturalbody #selfcare #healthfacts bodyawareness wellnessjourney healthmyths sleephealth naturalhealing"
+  "shape": "numbered_explainer",
+  "caption": "A few of these are small but surprisingly powerful once you know why. The cold water trick works because of something called the mammalian dive reflex — submerging or splashing your face in cold water signals your vagus nerve to slow your heart rate, which instantly cuts through morning grogginess. The post-meal walk matters because contracting muscles pull glucose directly out of your bloodstream without needing extra insulin, which is why even a short stroll blunts a sugar spike. And nasal breathing isn't just a minor detail — breathing through your nose adds resistance and filters the air, which helps your lungs extract oxygen more efficiently than quick mouth breaths do. Everyone's body responds a little differently, so notice what actually changes how you feel.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs and body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a little reset today.\n\n#healthtips #dailyhabits #wellnessroutine #bloodsugarbalance #morningroutine #betterbreathing #energyboost #healthyhabits #mindbodyconnection #sleephygiene wellnessjourney habitstacking naturalhealing smallhabitsbigchanges"
 }
