@@ -1,42 +1,41 @@
 {
-  "png": "output/reel_20261019_165158.png",
-  "mp4": "output/reel_20261019_165158.mp4",
-  "cover": "output/cover_20261019_165158.png",
+  "png": "output/reel_20261019_203209.png",
+  "mp4": "output/reel_20261019_203209.mp4",
+  "cover": "output/cover_20261019_203209.png",
   "cover_bg": "white",
   "content": {
-    "title": "TINY HABITS THAT QUIETLY {{REWIRE}} YOUR WHOLE DAY",
+    "title": "WHY YOUR 'HEALTHY' MORNING ROUTINE MIGHT BE {{BACKFIRING}}",
     "facts": [
-      "**Cold water on your face** right after waking up — it triggers the dive reflex, slowing your heart rate and snapping your nervous system out of grogginess fast.",
-      "**Walk for 10 minutes after eating** — your muscles pull glucose out of the bloodstream, so blood sugar spikes less and you dodge the post-meal crash.",
-      "**Stand up and stretch every hour** — it wakes up blood flow to your legs and brain, so you avoid the stiff, foggy feeling of sitting too long.",
-      "**Breathe through your nose, not your mouth** — nasal breathing filters and warms air and helps your body use oxygen more efficiently all day.",
-      "**Write down 3 tasks, not 10** — a shorter list lowers decision fatigue, so you actually finish things instead of bouncing between them.",
-      "**Dim your lights 1 hour before bed** — less bright light lets melatonin rise naturally, so you fall asleep faster without reaching for anything.",
-      "**Chew each bite 20 times** — it slows your eating pace, giving your stomach time to signal fullness before you overeat.",
-      "**Step outside for 5 minutes of morning light** — it anchors your body clock, so you feel sleepy and alert at the right times.",
+      "**Squeezed orange juice with breakfast** -> the vitamin C is real, but the sugar hits your blood just as fast as soda, spiking insulin before you've even started your day.",
+      "**Stretching cold muscles first thing** -> without a few minutes of light movement first, static stretching on stiff joints can strain tendons instead of loosening them.",
+      "**Weighing yourself every morning** -> daily fluctuations from water and sodium can swing 1-2 kg, tricking your brain into stress responses over numbers that mean nothing.",
+      "**Skipping breakfast for 'intermittent fasting'** -> if you train hard in the morning, going too long without fuel can push your body to break down muscle for energy instead of fat.",
+      "**Taking a multivitamin on an empty stomach** -> fat-soluble vitamins like A, D, E and K need dietary fat to absorb properly, so without food most of it just passes through.",
+      "**Using mouthwash right after brushing** -> it rinses away the concentrated fluoride your toothpaste just left behind, cutting its cavity protection short.",
+      "**Starting the day with an intense workout on no food** -> can spike cortisol higher than usual, which over months may leave you more fatigued, not less.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are small but surprisingly powerful once you know why. The cold water trick works because of something called the mammalian dive reflex — submerging or splashing your face in cold water signals your vagus nerve to slow your heart rate, which instantly cuts through morning grogginess. The post-meal walk matters because contracting muscles pull glucose directly out of your bloodstream without needing extra insulin, which is why even a short stroll blunts a sugar spike. And nasal breathing isn't just a minor detail — breathing through your nose adds resistance and filters the air, which helps your lungs extract oxygen more efficiently than quick mouth breaths do. Everyone's body responds a little differently, so notice what actually changes how you feel.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs and body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a little reset today.",
+    "caption": "Let's talk about a few of these. Orange juice feels like the obvious healthy choice, but once it's squeezed and separated from the fiber of the whole fruit, your body absorbs that sugar almost as quickly as a sugary drink — the vitamin C is great, the glucose spike isn't. Your multivitamin is another sneaky one: vitamins A, D, E and K are fat-soluble, meaning they literally dissolve into fat to be carried into your bloodstream, so popping them with just water and no food can mean you're flushing a chunk of that pill away. And mouthwash — rinsing right after brushing washes off the concentrated fluoride layer your toothpaste left behind, before it's had time to actually strengthen your enamel. None of this means ditch the habit, just shift the timing. Everyone's body is different, listen to yours.\n\n@smarthealthfix breaks down nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is simple: help you build realistic routines instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
-      "#dailyhabits",
-      "#wellnessroutine",
-      "#bloodsugarbalance",
       "#morningroutine",
-      "#betterbreathing",
-      "#energyboost",
+      "#wellness",
+      "#guthealth",
+      "#nutritionfacts",
       "#healthyhabits",
-      "#mindbodyconnection",
-      "#sleephygiene"
+      "#biohacking",
+      "#selfcare",
+      "#holistichealth",
+      "#bodyawareness"
     ],
     "extra_keywords": [
       "wellnessjourney",
-      "habitstacking",
-      "naturalhealing",
-      "smallhabitsbigchanges"
+      "dailyhabits",
+      "healthmyths",
+      "naturalhealing"
     ]
   },
-  "shape": "numbered_explainer",
-  "caption": "A few of these are small but surprisingly powerful once you know why. The cold water trick works because of something called the mammalian dive reflex — submerging or splashing your face in cold water signals your vagus nerve to slow your heart rate, which instantly cuts through morning grogginess. The post-meal walk matters because contracting muscles pull glucose directly out of your bloodstream without needing extra insulin, which is why even a short stroll blunts a sugar spike. And nasal breathing isn't just a minor detail — breathing through your nose adds resistance and filters the air, which helps your lungs extract oxygen more efficiently than quick mouth breaths do. Everyone's body responds a little differently, so notice what actually changes how you feel.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs and body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a little reset today.\n\n#healthtips #dailyhabits #wellnessroutine #bloodsugarbalance #morningroutine #betterbreathing #energyboost #healthyhabits #mindbodyconnection #sleephygiene wellnessjourney habitstacking naturalhealing smallhabitsbigchanges"
+  "shape": "habit_harm_reveal",
+  "caption": "Let's talk about a few of these. Orange juice feels like the obvious healthy choice, but once it's squeezed and separated from the fiber of the whole fruit, your body absorbs that sugar almost as quickly as a sugary drink — the vitamin C is great, the glucose spike isn't. Your multivitamin is another sneaky one: vitamins A, D, E and K are fat-soluble, meaning they literally dissolve into fat to be carried into your bloodstream, so popping them with just water and no food can mean you're flushing a chunk of that pill away. And mouthwash — rinsing right after brushing washes off the concentrated fluoride layer your toothpaste left behind, before it's had time to actually strengthen your enamel. None of this means ditch the habit, just shift the timing. Everyone's body is different, listen to yours.\n\n@smarthealthfix breaks down nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is simple: help you build realistic routines instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #morningroutine #wellness #guthealth #nutritionfacts #healthyhabits #biohacking #selfcare #holistichealth #bodyawareness wellnessjourney dailyhabits healthmyths naturalhealing"
 }
