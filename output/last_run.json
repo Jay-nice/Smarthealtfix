@@ -1,44 +1,46 @@
 {
-  "png": "output/reel_20261020_144934.png",
-  "mp4": "output/reel_20261020_144934.mp4",
-  "cover": "output/cover_20261020_144934.png",
+  "png": "output/reel_20261020_190948.png",
+  "mp4": "output/reel_20261020_190948.mp4",
+  "cover": "output/cover_20261020_190948.png",
   "cover_bg": "white",
   "content": {
-    "title": "YOUR DAILY {{DOSAGE}} CHEAT SHEET",
+    "title": "WHAT YOUR {{PANCREAS}} IS QUIETLY BEGGING YOU TO EAT",
     "facts": [
-      "**Cold shower** -> 60 seconds at the end -> Sharper focus",
-      "**Grapes** -> 1 cup frozen -> Fewer sugar cravings",
-      "**Hanging/dead hang** -> 20 seconds -> Looser shoulders",
-      "**Sunlight** -> 10 minutes midday -> Steadier mood",
-      "**Deep squats** -> 5 reps every hour -> Less hip stiffness",
-      "**Plain yogurt** -> 1 cup -> Calmer digestion",
-      "**Journaling** -> 3 lines before bed -> Quieter mind",
-      "**Pistachios** -> 1 small handful -> Steadier blood sugar",
-      "**Humming or singing** -> 2 minutes -> Lower stress response",
+      "**Pancreas** - Broccoli, Cinnamon, Greek yogurt",
+      "**Cinnamon** - just 1/2 tsp/day may help your pancreas use insulin more efficiently instead of overworking itself.",
+      "**Broccoli** - its sulforaphane content helps calm inflammation around pancreatic cells so they can keep producing enzymes smoothly.",
+      "**Bladder** - Cranberries, Watermelon, Parsley",
+      "**Cranberries** - their compounds make it harder for bacteria to cling to your bladder wall, 1 cup/day unsweetened is plenty.",
+      "**Watermelon** - mostly water, it flushes your bladder naturally and reduces irritation from concentrated urine.",
+      "**Spleen** - Pomegranate, Beef liver, Spinach",
+      "**Pomegranate** - packed with iron-boosting compounds that help your spleen recycle old blood cells more efficiently.",
+      "**Spinach** - its iron and folate support the red blood cell renewal your spleen handles every single day.",
+      "**Thyroid** - Brazil nuts, Seaweed, Eggs",
+      "**Brazil nuts** - just 2 a day supply enough selenium to support healthy thyroid hormone production.",
+      "**Seaweed** - a natural source of iodine, the core building block your thyroid needs to make hormones at all.",
       "**Follow along** - for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A cold shower for just 60 seconds might sound rough, but it briefly spikes norepinephrine, the brain chemical tied to alertness, which is why people report feeling sharper right after. Grapes, frozen into a quick 1 cup snack, work because the cold slows down how fast you eat them, and the natural sugars come with fiber that keeps your blood sugar from swinging hard. Humming for 2 minutes stimulates the vagus nerve through the vibration in your throat and chest, which is one of the fastest ways to nudge your body out of fight-or-flight mode. Everyone's body is different, so notice what actually shifts something for you.\n\nAt @smarthealthfix we build everything around four pillars: nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Your pancreas works overtime every time you eat, and cinnamon genuinely helps lighten that load — it slows how fast sugar hits your bloodstream, so your pancreas doesn't have to scramble to release insulin all at once. Broccoli deserves more credit too: the sulforaphane in it acts almost like a shield, calming inflammation around the tiny cells responsible for enzyme production. And don't sleep on cranberries for your bladder — they contain compounds that stop bacteria from sticking to the bladder wall in the first place, which is a big part of why they're linked to fewer infections. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs and body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#pancreashealth",
+      "#bladderhealth",
+      "#spleenhealth",
+      "#thyroidsupport",
       "#healthtips",
       "#wellness",
-      "#dailyhabits",
-      "#coldshower",
-      "#bloodsugarbalance",
-      "#stressrelief",
-      "#vagusnerve",
-      "#healthyroutine",
-      "#mindbodyconnection",
-      "#smallhabits"
+      "#organhealth",
+      "#guthealth",
+      "#foodismedicine",
+      "#nutritiontips"
     ],
     "extra_keywords": [
-      "wellnessjourney",
       "naturalhealing",
-      "healthyhabits",
-      "dailyroutine",
-      "selfcaretips"
+      "wellnessjourney",
+      "organhealthtips",
+      "healingfoods"
     ]
   },
-  "shape": "daily_dose_habit",
-  "caption": "A cold shower for just 60 seconds might sound rough, but it briefly spikes norepinephrine, the brain chemical tied to alertness, which is why people report feeling sharper right after. Grapes, frozen into a quick 1 cup snack, work because the cold slows down how fast you eat them, and the natural sugars come with fiber that keeps your blood sugar from swinging hard. Humming for 2 minutes stimulates the vagus nerve through the vibration in your throat and chest, which is one of the fastest ways to nudge your body out of fight-or-flight mode. Everyone's body is different, so notice what actually shifts something for you.\n\nAt @smarthealthfix we build everything around four pillars: nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #dailyhabits #coldshower #bloodsugarbalance #stressrelief #vagusnerve #healthyroutine #mindbodyconnection #smallhabits wellnessjourney naturalhealing healthyhabits dailyroutine selfcaretips"
+  "shape": "organ_food_list",
+  "caption": "Your pancreas works overtime every time you eat, and cinnamon genuinely helps lighten that load — it slows how fast sugar hits your bloodstream, so your pancreas doesn't have to scramble to release insulin all at once. Broccoli deserves more credit too: the sulforaphane in it acts almost like a shield, calming inflammation around the tiny cells responsible for enzyme production. And don't sleep on cranberries for your bladder — they contain compounds that stop bacteria from sticking to the bladder wall in the first place, which is a big part of why they're linked to fewer infections. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs and body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#pancreashealth #bladderhealth #spleenhealth #thyroidsupport #healthtips #wellness #organhealth #guthealth #foodismedicine #nutritiontips naturalhealing wellnessjourney organhealthtips healingfoods"
 }
