@@ -1,46 +1,42 @@
 {
-  "png": "output/reel_20261020_190948.png",
-  "mp4": "output/reel_20261020_190948.mp4",
-  "cover": "output/cover_20261020_190948.png",
+  "png": "output/reel_20261020_225714.png",
+  "mp4": "output/reel_20261020_225714.mp4",
+  "cover": "output/cover_20261020_225714.png",
   "cover_bg": "white",
   "content": {
-    "title": "WHAT YOUR {{PANCREAS}} IS QUIETLY BEGGING YOU TO EAT",
+    "title": "THE ODD BODY CLUES THAT POINT TO A HIDDEN {{DEFICIENCY}}",
     "facts": [
-      "**Pancreas** - Broccoli, Cinnamon, Greek yogurt",
-      "**Cinnamon** - just 1/2 tsp/day may help your pancreas use insulin more efficiently instead of overworking itself.",
-      "**Broccoli** - its sulforaphane content helps calm inflammation around pancreatic cells so they can keep producing enzymes smoothly.",
-      "**Bladder** - Cranberries, Watermelon, Parsley",
-      "**Cranberries** - their compounds make it harder for bacteria to cling to your bladder wall, 1 cup/day unsweetened is plenty.",
-      "**Watermelon** - mostly water, it flushes your bladder naturally and reduces irritation from concentrated urine.",
-      "**Spleen** - Pomegranate, Beef liver, Spinach",
-      "**Pomegranate** - packed with iron-boosting compounds that help your spleen recycle old blood cells more efficiently.",
-      "**Spinach** - its iron and folate support the red blood cell renewal your spleen handles every single day.",
-      "**Thyroid** - Brazil nuts, Seaweed, Eggs",
-      "**Brazil nuts** - just 2 a day supply enough selenium to support healthy thyroid hormone production.",
-      "**Seaweed** - a natural source of iodine, the core building block your thyroid needs to make hormones at all.",
-      "**Follow along** - for more daily health tips like this."
+      "**Iodine** – Unexplained weight gain, constant fatigue, dry skin, and a swollen feeling in the front of your neck.",
+      "**Vitamin K** – Bruising easily, cuts that take forever to stop bleeding, and bleeding gums when you brush.",
+      "**Potassium** – Muscle cramps at night, heart palpitations, and a heavy, weak feeling in your legs.",
+      "**Vitamin E** – Numbness or tingling in your hands, blurry vision, and muscle weakness that's hard to explain.",
+      "**Folate** – Constant tiredness, irritability, a swollen or sore tongue, and trouble concentrating.",
+      "**Zinc** – Slow wound healing, losing your sense of taste or smell, and frequent colds.",
+      "**Calcium** – Brittle nails, muscle spasms, numbness around your mouth, and tingling fingertips.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Your pancreas works overtime every time you eat, and cinnamon genuinely helps lighten that load — it slows how fast sugar hits your bloodstream, so your pancreas doesn't have to scramble to release insulin all at once. Broccoli deserves more credit too: the sulforaphane in it acts almost like a shield, calming inflammation around the tiny cells responsible for enzyme production. And don't sleep on cranberries for your bladder — they contain compounds that stop bacteria from sticking to the bladder wall in the first place, which is a big part of why they're linked to fewer infections. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs and body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A puffy, swollen feeling in your neck is one of the most overlooked signs of an iodine shortage — your thyroid literally enlarges (a goiter) trying to trap every last bit of iodine it can find to keep making hormones. Easy bruising often points to low vitamin K, since this nutrient is what your liver uses to produce the clotting factors that seal off tiny blood vessel leaks under your skin. And those nighttime leg cramps that jolt you awake? That's frequently a potassium issue — this mineral helps your muscles relax after they contract, so when levels drop, they stay locked in a cramp longer than they should. Everyone's body is different, so use these as a starting point, not a diagnosis.\n\nAt @smarthealthfix we focus on four things: nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our mission is simple — help you notice what your body is trying to tell you, before it turns into a bigger problem.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#pancreashealth",
-      "#bladderhealth",
-      "#spleenhealth",
-      "#thyroidsupport",
       "#healthtips",
-      "#wellness",
-      "#organhealth",
-      "#guthealth",
-      "#foodismedicine",
-      "#nutritiontips"
+      "#vitamindeficiency",
+      "#nutrientdeficiency",
+      "#iodine",
+      "#potassium",
+      "#folate",
+      "#zincdeficiency",
+      "#wellnessjourney",
+      "#bodysignals",
+      "#nutritionfacts"
     ],
     "extra_keywords": [
       "naturalhealing",
-      "wellnessjourney",
-      "organhealthtips",
-      "healingfoods"
+      "micronutrients",
+      "healthawareness",
+      "deficiencysigns",
+      "wellnesstips"
     ]
   },
-  "shape": "organ_food_list",
-  "caption": "Your pancreas works overtime every time you eat, and cinnamon genuinely helps lighten that load — it slows how fast sugar hits your bloodstream, so your pancreas doesn't have to scramble to release insulin all at once. Broccoli deserves more credit too: the sulforaphane in it acts almost like a shield, calming inflammation around the tiny cells responsible for enzyme production. And don't sleep on cranberries for your bladder — they contain compounds that stop bacteria from sticking to the bladder wall in the first place, which is a big part of why they're linked to fewer infections. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs and body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#pancreashealth #bladderhealth #spleenhealth #thyroidsupport #healthtips #wellness #organhealth #guthealth #foodismedicine #nutritiontips naturalhealing wellnessjourney organhealthtips healingfoods"
+  "shape": "symptom_list",
+  "caption": "A puffy, swollen feeling in your neck is one of the most overlooked signs of an iodine shortage — your thyroid literally enlarges (a goiter) trying to trap every last bit of iodine it can find to keep making hormones. Easy bruising often points to low vitamin K, since this nutrient is what your liver uses to produce the clotting factors that seal off tiny blood vessel leaks under your skin. And those nighttime leg cramps that jolt you awake? That's frequently a potassium issue — this mineral helps your muscles relax after they contract, so when levels drop, they stay locked in a cramp longer than they should. Everyone's body is different, so use these as a starting point, not a diagnosis.\n\nAt @smarthealthfix we focus on four things: nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our mission is simple — help you notice what your body is trying to tell you, before it turns into a bigger problem.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #vitamindeficiency #nutrientdeficiency #iodine #potassium #folate #zincdeficiency #wellnessjourney #bodysignals #nutritionfacts naturalhealing micronutrients healthawareness deficiencysigns wellnesstips"
 }
