@@ -1,43 +1,44 @@
 {
-  "png": "output/reel_20261019_232146.png",
-  "mp4": "output/reel_20261019_232146.mp4",
-  "cover": "output/cover_20261019_232146.png",
+  "png": "output/reel_20261020_144934.png",
+  "mp4": "output/reel_20261020_144934.mp4",
+  "cover": "output/cover_20261020_144934.png",
   "cover_bg": "white",
   "content": {
-    "title": "YOUR ORGANS ARE SENDING GROCERY LISTS. HERE'S WHAT TO PUT IN YOUR CART",
+    "title": "YOUR DAILY {{DOSAGE}} CHEAT SHEET",
     "facts": [
-      "**Beets** are good for LIVER – the pigment betalain helps the liver flush out stored toxins instead of letting them recirculate.",
-      "**Walnuts** are good for TESTES & HORMONE GLANDS – their omega-3s support the building blocks your body uses to make hormones.",
-      "**Pumpkin seeds** are good for PROSTATE – 1 small handful/day delivers zinc, a mineral the prostate holds onto more than almost any other organ.",
-      "**Oats** are good for GUT LINING – the beta-glucan fiber forms a gel that feeds your good bacteria and soothes irritation.",
-      "**Dark chocolate (70%+)** is good for BLOOD VESSELS – flavanols help vessel walls relax, easing blood flow with just 1-2 squares/day.",
-      "**Carrots** are good for EYES' RETINA – beta-carotene converts to vitamin A, the exact nutrient your retina needs to process light.",
-      "**Sardines** are good for BONES – 1 can/week delivers calcium AND vitamin D together, a pairing bones absorb far better than either alone.",
-      "**Celery** are good for KIDNEYS – its natural diuretic compounds encourage the kidneys to flush out excess sodium and fluid.",
-      "**Turmeric** is good for JOINTS – curcumin calms the inflammatory signals that make joints feel stiff and swollen.",
-      "**Follow along** – for more daily health tips like this."
+      "**Cold shower** -> 60 seconds at the end -> Sharper focus",
+      "**Grapes** -> 1 cup frozen -> Fewer sugar cravings",
+      "**Hanging/dead hang** -> 20 seconds -> Looser shoulders",
+      "**Sunlight** -> 10 minutes midday -> Steadier mood",
+      "**Deep squats** -> 5 reps every hour -> Less hip stiffness",
+      "**Plain yogurt** -> 1 cup -> Calmer digestion",
+      "**Journaling** -> 3 lines before bed -> Quieter mind",
+      "**Pistachios** -> 1 small handful -> Steadier blood sugar",
+      "**Humming or singing** -> 2 minutes -> Lower stress response",
+      "**Follow along** - for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Your body's been dropping hints about what it actually wants, and most of us are just not reading the label. Take beets — that deep red color isn't just for show, the betalain pigment inside actively supports your liver's detox pathways, helping it process and clear waste more efficiently instead of letting it build up. Or pumpkin seeds: that small handful isn't a random snack suggestion, zinc concentrates in the prostate more than in almost any other tissue, which is why this one is so specific. And sardines deserve more credit than they get — getting calcium and vitamin D from the same bite matters because vitamin D is literally what allows your gut to absorb that calcium in the first place, so eating them together does more than eating them apart. Everyone's body is different, so treat this as a starting point, not a prescription.\n\nThis is exactly the kind of thing we live for at @smarthealthfix — connecting everyday nutrition to the organs, symptoms, and habits that actually shape how you feel day to day. Our mission is simple: help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A cold shower for just 60 seconds might sound rough, but it briefly spikes norepinephrine, the brain chemical tied to alertness, which is why people report feeling sharper right after. Grapes, frozen into a quick 1 cup snack, work because the cold slows down how fast you eat them, and the natural sugars come with fiber that keeps your blood sugar from swinging hard. Humming for 2 minutes stimulates the vagus nerve through the vibration in your throat and chest, which is one of the fastest ways to nudge your body out of fight-or-flight mode. Everyone's body is different, so notice what actually shifts something for you.\n\nAt @smarthealthfix we build everything around four pillars: nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
-      "#organhealth",
-      "#nutritionfacts",
-      "#liverhealth",
-      "#kidneyhealth",
-      "#bonehealth",
-      "#guthealth",
-      "#foodismedicine",
-      "#wellnessjourney",
-      "#eathealthy"
+      "#wellness",
+      "#dailyhabits",
+      "#coldshower",
+      "#bloodsugarbalance",
+      "#stressrelief",
+      "#vagusnerve",
+      "#healthyroutine",
+      "#mindbodyconnection",
+      "#smallhabits"
     ],
     "extra_keywords": [
+      "wellnessjourney",
       "naturalhealing",
-      "holistichealth",
-      "healthyliving",
-      "nutritiontips"
+      "healthyhabits",
+      "dailyroutine",
+      "selfcaretips"
     ]
   },
-  "shape": "allcaps_benefit",
-  "caption": "Your body's been dropping hints about what it actually wants, and most of us are just not reading the label. Take beets — that deep red color isn't just for show, the betalain pigment inside actively supports your liver's detox pathways, helping it process and clear waste more efficiently instead of letting it build up. Or pumpkin seeds: that small handful isn't a random snack suggestion, zinc concentrates in the prostate more than in almost any other tissue, which is why this one is so specific. And sardines deserve more credit than they get — getting calcium and vitamin D from the same bite matters because vitamin D is literally what allows your gut to absorb that calcium in the first place, so eating them together does more than eating them apart. Everyone's body is different, so treat this as a starting point, not a prescription.\n\nThis is exactly the kind of thing we live for at @smarthealthfix — connecting everyday nutrition to the organs, symptoms, and habits that actually shape how you feel day to day. Our mission is simple: help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #organhealth #nutritionfacts #liverhealth #kidneyhealth #bonehealth #guthealth #foodismedicine #wellnessjourney #eathealthy naturalhealing holistichealth healthyliving nutritiontips"
+  "shape": "daily_dose_habit",
+  "caption": "A cold shower for just 60 seconds might sound rough, but it briefly spikes norepinephrine, the brain chemical tied to alertness, which is why people report feeling sharper right after. Grapes, frozen into a quick 1 cup snack, work because the cold slows down how fast you eat them, and the natural sugars come with fiber that keeps your blood sugar from swinging hard. Humming for 2 minutes stimulates the vagus nerve through the vibration in your throat and chest, which is one of the fastest ways to nudge your body out of fight-or-flight mode. Everyone's body is different, so notice what actually shifts something for you.\n\nAt @smarthealthfix we build everything around four pillars: nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #dailyhabits #coldshower #bloodsugarbalance #stressrelief #vagusnerve #healthyroutine #mindbodyconnection #smallhabits wellnessjourney naturalhealing healthyhabits dailyroutine selfcaretips"
 }
