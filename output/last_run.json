@@ -1,44 +1,42 @@
 {
-  "png": "output/reel_20261021_145704.png",
-  "mp4": "output/reel_20261021_145704.mp4",
-  "cover": "output/cover_20261021_145704.png",
+  "png": "output/reel_20261021_191454.png",
+  "mp4": "output/reel_20261021_191454.mp4",
+  "cover": "output/cover_20261021_191454.png",
   "cover_bg": "white",
   "content": {
-    "title": "WHY SOME FOODS ARE WASTED ON THE WRONG ORGAN",
+    "title": "SMALL DAILY NUMBERS THAT QUIETLY CHANGE YOUR {{BODY}}",
     "facts": [
-      "**Beets** are good for LIVER – the nitrates and betalains help your liver flush toxins instead of letting them recirculate.",
-      "**Figs** are good for DIGESTION – their natural enzymes soften stool and ease things along without a harsh laxative effect.",
-      "**Mackerel** is good for BRAIN – packed with DHA, a fat your brain uses to keep nerve signals fast and sharp.",
-      "**Asparagus** is good for KIDNEYS – it acts as a gentle natural diuretic, helping flush excess fluid and waste.",
-      "**Beef liver (1-2x/week)** is good for BLOOD – one of the richest natural sources of iron your red blood cells need to carry oxygen.",
-      "**Chia seeds (1 tbsp/day)** are good for HEART – soaked in liquid, they release a gel that helps carry cholesterol out of your bloodstream.",
-      "**Fennel** is good for GUT LINING – its compounds calm bloating and relax the intestinal muscles after heavy meals.",
-      "**Beef or lamb (grass-fed)** is good for MUSCLES – a complete protein source your body uses directly to repair and rebuild fibers.",
-      "**Kefir (1 cup/day)** is good for IMMUNE SYSTEM – live cultures colonize your gut, where most of your immune cells actually live.",
+      "**Cold water** -> 1 glass right after waking -> Kickstarts metabolism",
+      "**Walking** -> 10 minutes after meals -> Flattens blood sugar spikes",
+      "**Sunlight** -> 10 minutes before 9am -> Resets your sleep clock",
+      "**Deep breathing** -> 5 minutes before bed -> Lowers stress hormones",
+      "**Pumpkin seeds** -> 1 small handful/day -> Supports muscle relaxation",
+      "**Stretching** -> 5 minutes before bed -> Deeper, longer sleep",
+      "**Garlic** -> 1 clove/day -> Supports healthy blood pressure",
+      "**Silence/no phone** -> 15 minutes/day -> Resets focus and mood",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Your organs don't all want the same thing, which is why so many people eat 'healthy' but still feel off. Take beets — the nitrates in them relax and widen blood vessels while the betalains support liver enzymes that neutralize waste, so toxins get processed instead of sitting around. Mackerel works completely differently: the DHA fat it's loaded with gets built directly into your brain cell membranes, keeping communication between neurons quick and stable. And chia seeds, once soaked, turn into a soluble fiber gel in your gut that physically binds to cholesterol so it leaves your body instead of building up in your arteries. Everyone's body is different, so pay attention to what actually makes you feel better, not just what's trending.\n\nThis is what @smarthealthfix is all about — simple nutrition, common health issues, how your organs actually work, and small daily habits that add up. Our mission is to help you build real, sustainable habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these small numbers do more than people think. Garlic, for example, contains allicin, a compound that forms when it's crushed or chopped — this is what's linked to supporting healthy circulation and blood pressure when eaten consistently. Pumpkin seeds are one of the most underrated sources of natural magnesium, a mineral your nervous system uses to physically relax muscles and calm nerve signals, which is why they can help you wind down at night. And that short walk after meals isn't just a habit — moving your legs activates muscles that pull glucose out of your bloodstream directly, which is why it blunts the sugar spike you'd otherwise get from sitting still. Everyone's body responds a little differently, so pay attention to what actually makes you feel better.\n\nAt @smarthealthfix we post daily about nutrition, common health issues, organs & body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#liverhealth",
-      "#brainfood",
+      "#healthtips",
+      "#wellness",
+      "#dailyhabits",
+      "#bloodsugar",
+      "#sleepbetter",
+      "#stressrelief",
+      "#magnesium",
       "#guthealth",
-      "#hearthealth",
-      "#kidneyhealth",
-      "#nutritiontips",
-      "#healthyeating",
-      "#wellnessjourney",
-      "#foodismedicine",
-      "#healthtips"
+      "#healthyhabits",
+      "#mindfulliving"
     ],
     "extra_keywords": [
-      "organhealth",
       "naturalhealing",
-      "holisticnutrition",
-      "wellnesshabits",
-      "healthyliving"
+      "wellnessjourney",
+      "smallhabits",
+      "healthyroutine"
     ]
   },
-  "shape": "allcaps_benefit",
-  "caption": "Your organs don't all want the same thing, which is why so many people eat 'healthy' but still feel off. Take beets — the nitrates in them relax and widen blood vessels while the betalains support liver enzymes that neutralize waste, so toxins get processed instead of sitting around. Mackerel works completely differently: the DHA fat it's loaded with gets built directly into your brain cell membranes, keeping communication between neurons quick and stable. And chia seeds, once soaked, turn into a soluble fiber gel in your gut that physically binds to cholesterol so it leaves your body instead of building up in your arteries. Everyone's body is different, so pay attention to what actually makes you feel better, not just what's trending.\n\nThis is what @smarthealthfix is all about — simple nutrition, common health issues, how your organs actually work, and small daily habits that add up. Our mission is to help you build real, sustainable habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#liverhealth #brainfood #guthealth #hearthealth #kidneyhealth #nutritiontips #healthyeating #wellnessjourney #foodismedicine #healthtips organhealth naturalhealing holisticnutrition wellnesshabits healthyliving"
+  "shape": "daily_dose_habit",
+  "caption": "A few of these small numbers do more than people think. Garlic, for example, contains allicin, a compound that forms when it's crushed or chopped — this is what's linked to supporting healthy circulation and blood pressure when eaten consistently. Pumpkin seeds are one of the most underrated sources of natural magnesium, a mineral your nervous system uses to physically relax muscles and calm nerve signals, which is why they can help you wind down at night. And that short walk after meals isn't just a habit — moving your legs activates muscles that pull glucose out of your bloodstream directly, which is why it blunts the sugar spike you'd otherwise get from sitting still. Everyone's body responds a little differently, so pay attention to what actually makes you feel better.\n\nAt @smarthealthfix we post daily about nutrition, common health issues, organs & body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #dailyhabits #bloodsugar #sleepbetter #stressrelief #magnesium #guthealth #healthyhabits #mindfulliving naturalhealing wellnessjourney smallhabits healthyroutine"
 }
