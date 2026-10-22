@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20261022_145645.png",
-  "mp4": "output/reel_20261022_145645.mp4",
-  "cover": "output/cover_20261022_145645.png",
+  "png": "output/reel_20261022_194915.png",
+  "mp4": "output/reel_20261022_194915.mp4",
+  "cover": "output/cover_20261022_194915.png",
   "cover_bg": "white",
   "content": {
-    "title": "IF YOU ATE THIS EVERY DAY... {{YOUR BODY}} WOULD CHANGE FAST",
+    "title": "ORGAN-FOOD PAIRS NUTRITIONISTS ACTUALLY USE THEMSELVES",
     "facts": [
-      "If you ate **blueberries** every day for 2 weeks, your memory and focus would sharpen as antioxidants calm inflammation in your brain.",
-      "If you ate **sauerkraut** every day for 3 weeks, your gut bacteria would diversify and bloating after meals would start to fade.",
-      "If you ate **walnuts** every day for 30 days, your cholesterol numbers would shift and your skin would look less dull.",
-      "If you ate **lentils** every day for 1 week, your energy would stabilize instead of crashing between meals.",
-      "If you ate **sardines** every day for 2 weeks, your joints would feel less stiff thanks to a steady dose of omega-3s.",
-      "If you ate **sweet potatoes** every day for 10 days, your eyesight in low light would feel noticeably sharper.",
-      "If you ate **Greek yogurt** every day for 3 weeks, your nails would grow stronger and less brittle.",
-      "If you ate **spinach** every day for 2 weeks, your workouts would feel easier as your iron stores quietly rebuild.",
+      "**Beef heart** is good for YOUR HEART – it's one of the richest natural sources of CoQ10, a compound your own heart muscle burns for energy.",
+      "**Brazil nuts (2/day)** are good for THYROID – just two nuts cover your daily selenium, a mineral your thyroid needs to make its hormones.",
+      "**Beetroot greens** are good for EYES – the leafy tops carry more lutein than the root itself, a pigment your retina stores directly.",
+      "**Octopus and clams** are good for BLOOD – they're loaded with iron and B12, both needed to build fresh red blood cells.",
+      "**Cacao nibs (1 tbsp/day)** are good for ARTERIES – the flavanols help keep vessel walls flexible so blood pressure stays steadier.",
+      "**Bone broth** is good for JOINTS – it supplies collagen fragments your cartilage uses as raw building material.",
+      "**Turmeric with black pepper** is good for LIVER – piperine in the pepper helps your body actually absorb turmeric's active compound.",
+      "**Pistachios (small handful)** are good for LUNGS – they're one of the few nuts with notable potassium, which helps regulate airway function.",
+      "**Anchovies** are good for BONES – tiny bones and all, they hand you calcium and vitamin D in the same bite.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Blueberries are loaded with anthocyanins, plant compounds that cross into brain tissue and reduce oxidative stress on neurons — that's part of why memory and focus can feel sharper within two weeks. Sauerkraut works differently: it's a raw, fermented food packed with live probiotic strains that compete with less helpful bacteria in your gut, which is why bloating often calms down once your microbiome shifts. Walnuts bring plant-based omega-3s (ALA) that help lower LDL cholesterol over time while also supporting the skin barrier, which is why people often notice a healthier glow. Of course, everyone's body is different, listen to yours.\n\nAt @smarthealthfix we break down nutrition, common health issues, organs and body functions, and small daily habits into simple, practical pieces. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these deserve a closer look. Beef heart isn't something most people reach for, but it's genuinely one of the densest food sources of CoQ10 — a compound your heart cells use to generate the energy needed for every single beat. Brazil nuts work differently: your thyroid can't produce T3 and T4 hormones without enough selenium, and most people are quietly running low without realizing it. And bone broth isn't just a trend — the collagen peptides in it get broken down and used as literal building blocks for the cartilage cushioning your joints. Everyone's body is different, so start with one swap and see how you feel.\n\n@smarthealthfix is here to make nutrition, common symptoms, your organs, and small daily habits easier to understand without the overwhelm. Our goal is simple: help you build habits that actually stick, instead of chasing another quick fix.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#healthtips",
-      "#wellness",
-      "#guthealth",
-      "#brainhealth",
-      "#nutritionfacts",
-      "#eatclean",
-      "#healthyhabits",
-      "#fermentedfoods",
-      "#omega3",
-      "#foodismedicine"
+      "#organhealth",
+      "#nutritiontips",
+      "#foodismedicine",
+      "#thyroidhealth",
+      "#hearthealth",
+      "#liverhealth",
+      "#jointhealth",
+      "#boneheath",
+      "#healthyeating",
+      "#wellnesstips"
     ],
     "extra_keywords": [
-      "dailynutrition",
-      "wellnessjourney",
-      "cleaneating",
-      "naturalhealing"
+      "naturalhealing",
+      "nutrientdense",
+      "healthyhabits",
+      "wholefoods"
     ]
   },
-  "shape": "conditional_transformation",
-  "caption": "Blueberries are loaded with anthocyanins, plant compounds that cross into brain tissue and reduce oxidative stress on neurons — that's part of why memory and focus can feel sharper within two weeks. Sauerkraut works differently: it's a raw, fermented food packed with live probiotic strains that compete with less helpful bacteria in your gut, which is why bloating often calms down once your microbiome shifts. Walnuts bring plant-based omega-3s (ALA) that help lower LDL cholesterol over time while also supporting the skin barrier, which is why people often notice a healthier glow. Of course, everyone's body is different, listen to yours.\n\nAt @smarthealthfix we break down nutrition, common health issues, organs and body functions, and small daily habits into simple, practical pieces. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #brainhealth #nutritionfacts #eatclean #healthyhabits #fermentedfoods #omega3 #foodismedicine dailynutrition wellnessjourney cleaneating naturalhealing"
+  "shape": "allcaps_benefit",
+  "caption": "A few of these deserve a closer look. Beef heart isn't something most people reach for, but it's genuinely one of the densest food sources of CoQ10 — a compound your heart cells use to generate the energy needed for every single beat. Brazil nuts work differently: your thyroid can't produce T3 and T4 hormones without enough selenium, and most people are quietly running low without realizing it. And bone broth isn't just a trend — the collagen peptides in it get broken down and used as literal building blocks for the cartilage cushioning your joints. Everyone's body is different, so start with one swap and see how you feel.\n\n@smarthealthfix is here to make nutrition, common symptoms, your organs, and small daily habits easier to understand without the overwhelm. Our goal is simple: help you build habits that actually stick, instead of chasing another quick fix.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #nutritiontips #foodismedicine #thyroidhealth #hearthealth #liverhealth #jointhealth #boneheath #healthyeating #wellnesstips naturalhealing nutrientdense healthyhabits wholefoods"
 }
