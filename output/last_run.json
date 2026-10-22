@@ -1,41 +1,42 @@
 {
-  "png": "output/reel_20261021_230231.png",
-  "mp4": "output/reel_20261021_230231.mp4",
-  "cover": "output/cover_20261021_230231.png",
+  "png": "output/reel_20261022_145645.png",
+  "mp4": "output/reel_20261022_145645.mp4",
+  "cover": "output/cover_20261022_145645.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE REAL REASON YOUR {{BLOATING}} WON'T GO AWAY",
+    "title": "IF YOU ATE THIS EVERY DAY... {{YOUR BODY}} WOULD CHANGE FAST",
     "facts": [
-      "**Peppermint tea** – relaxes the gut muscles and eases trapped gas within 20-30 minutes.",
-      "**Papaya** – contains papain, an enzyme that breaks down protein so your stomach doesn't have to work overtime.",
-      "**Bananas** – 1 ripe banana/day helps flush excess sodium that causes water retention and puffiness.",
-      "**Caraway seeds** – chew ½ tsp after meals to calm cramping and speed up digestion.",
-      "**Tart cherry juice** – 1 small glass before bed reduces the inflammation behind morning stiffness.",
-      "**Oats** – 1 bowl/day softens stool and takes pressure off a sluggish, backed-up gut.",
-      "**Celery** – its natural water content and sodium balance quietly deflate afternoon bloat.",
+      "If you ate **blueberries** every day for 2 weeks, your memory and focus would sharpen as antioxidants calm inflammation in your brain.",
+      "If you ate **sauerkraut** every day for 3 weeks, your gut bacteria would diversify and bloating after meals would start to fade.",
+      "If you ate **walnuts** every day for 30 days, your cholesterol numbers would shift and your skin would look less dull.",
+      "If you ate **lentils** every day for 1 week, your energy would stabilize instead of crashing between meals.",
+      "If you ate **sardines** every day for 2 weeks, your joints would feel less stiff thanks to a steady dose of omega-3s.",
+      "If you ate **sweet potatoes** every day for 10 days, your eyesight in low light would feel noticeably sharper.",
+      "If you ate **Greek yogurt** every day for 3 weeks, your nails would grow stronger and less brittle.",
+      "If you ate **spinach** every day for 2 weeks, your workouts would feel easier as your iron stores quietly rebuild.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Bloating usually isn't random — it's your gut asking for help in a language most people never learned to read. Peppermint tea works by relaxing the smooth muscle lining your intestines, which lets trapped gas move through instead of sitting there building pressure. Papaya is a bit of a secret weapon too: the papain enzyme it carries starts breaking down protein before it even hits your stomach acid, so less heavy food sits around fermenting. And caraway seeds have been used for centuries specifically because the oils in them calm intestinal spasms almost on contact — that's why a pinch after a heavy meal can stop cramping before it starts. Everyone's gut reacts a little differently, so pay attention to what actually settles yours.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and the small daily habits that tie it all together. Our mission is to help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Blueberries are loaded with anthocyanins, plant compounds that cross into brain tissue and reduce oxidative stress on neurons — that's part of why memory and focus can feel sharper within two weeks. Sauerkraut works differently: it's a raw, fermented food packed with live probiotic strains that compete with less helpful bacteria in your gut, which is why bloating often calms down once your microbiome shifts. Walnuts bring plant-based omega-3s (ALA) that help lower LDL cholesterol over time while also supporting the skin barrier, which is why people often notice a healthier glow. Of course, everyone's body is different, listen to yours.\n\nAt @smarthealthfix we break down nutrition, common health issues, organs and body functions, and small daily habits into simple, practical pieces. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#bloating",
-      "#guthealth",
-      "#digestivehealth",
       "#healthtips",
       "#wellness",
-      "#naturalremedies",
-      "#stomachbloat",
-      "#guttips",
-      "#digestion",
-      "#healthyhabits"
+      "#guthealth",
+      "#brainhealth",
+      "#nutritionfacts",
+      "#eatclean",
+      "#healthyhabits",
+      "#fermentedfoods",
+      "#omega3",
+      "#foodismedicine"
     ],
     "extra_keywords": [
-      "bloatingrelief",
-      "guthealthtips",
-      "digestivewellness",
+      "dailynutrition",
+      "wellnessjourney",
+      "cleaneating",
       "naturalhealing"
     ]
   },
-  "shape": "problem_food_mapping",
-  "caption": "Bloating usually isn't random — it's your gut asking for help in a language most people never learned to read. Peppermint tea works by relaxing the smooth muscle lining your intestines, which lets trapped gas move through instead of sitting there building pressure. Papaya is a bit of a secret weapon too: the papain enzyme it carries starts breaking down protein before it even hits your stomach acid, so less heavy food sits around fermenting. And caraway seeds have been used for centuries specifically because the oils in them calm intestinal spasms almost on contact — that's why a pinch after a heavy meal can stop cramping before it starts. Everyone's gut reacts a little differently, so pay attention to what actually settles yours.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and the small daily habits that tie it all together. Our mission is to help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#bloating #guthealth #digestivehealth #healthtips #wellness #naturalremedies #stomachbloat #guttips #digestion #healthyhabits bloatingrelief guthealthtips digestivewellness naturalhealing"
+  "shape": "conditional_transformation",
+  "caption": "Blueberries are loaded with anthocyanins, plant compounds that cross into brain tissue and reduce oxidative stress on neurons — that's part of why memory and focus can feel sharper within two weeks. Sauerkraut works differently: it's a raw, fermented food packed with live probiotic strains that compete with less helpful bacteria in your gut, which is why bloating often calms down once your microbiome shifts. Walnuts bring plant-based omega-3s (ALA) that help lower LDL cholesterol over time while also supporting the skin barrier, which is why people often notice a healthier glow. Of course, everyone's body is different, listen to yours.\n\nAt @smarthealthfix we break down nutrition, common health issues, organs and body functions, and small daily habits into simple, practical pieces. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #brainhealth #nutritionfacts #eatclean #healthyhabits #fermentedfoods #omega3 #foodismedicine dailynutrition wellnessjourney cleaneating naturalhealing"
 }
