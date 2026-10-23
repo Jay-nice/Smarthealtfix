@@ -1,43 +1,42 @@
 {
-  "png": "output/reel_20261022_231654.png",
-  "mp4": "output/reel_20261022_231654.mp4",
-  "cover": "output/cover_20261022_231654.png",
+  "png": "output/reel_20261023_144455.png",
+  "mp4": "output/reel_20261023_144455.mp4",
+  "cover": "output/cover_20261023_144455.png",
   "cover_bg": "white",
   "content": {
-    "title": "COOKING MISTAKES THAT QUIETLY DRAIN YOUR FOOD OF NUTRIENTS",
+    "title": "WEIRD SIGNS YOU'RE ACTUALLY MISSING A KEY {{NUTRIENT}}",
     "facts": [
-      "**Boiling broccoli** – This can leach over half its vitamin C into the water; steaming for 4-5 minutes keeps far more intact.",
-      "**Microwaving in plastic** – Heat can cause chemicals to migrate into your meal; switch to glass or ceramic containers before reheating.",
-      "**Draining and rinsing canned beans** – Skipping this step means you're eating extra sodium; a quick rinse cuts a large chunk of it away.",
-      "**Cooking tomatoes in a hurry** – A quick 2-3 minute simmer in olive oil actually boosts absorbable lycopene, so low heat for longer wins here.",
-      "**Using high heat for olive oil** – This breaks it down and creates compounds you don't want; save extra virgin olive oil for finishing, not frying.",
-      "**Soaking vegetables too long** – Letting cut produce sit in water pulls out water-soluble vitamins; prep and cook within 15-20 minutes instead.",
-      "**Tossing the cooking water** – Nutrients from steamed veggies end up in that liquid; save it for soups or sauces instead of pouring it down the drain.",
-      "**Overcooking eggs** – High heat for too long degrades some of the protein quality; a soft scramble or 7-minute boil preserves more.",
-      "**Skipping fat with salads** – Fat-soluble vitamins A, D, E and K need oil to absorb; add 1 tbsp of olive oil or a few nuts to your greens.",
+      "**Iodine** – Unexplained weight gain, constant fatigue, puffy face, and feeling cold even in a warm room.",
+      "**Potassium** – Muscle cramps at night, heart fluttering or skipped beats, and persistent muscle weakness.",
+      "**Vitamin E** – Blurred vision, poor balance when walking, and numbness or tingling in your legs.",
+      "**Folate** – Mouth sores, a swollen or smooth-looking tongue, irritability, and constant brain fog.",
+      "**Vitamin A** – Trouble seeing in dim light, dry eyes, and skin that feels rough or bumpy on the arms.",
+      "**Zinc** – Wounds that take forever to heal, a dulled sense of taste or smell, and frequent colds.",
+      "**Calcium** – Brittle nails that split easily, muscle spasms, and teeth that feel unusually sensitive.",
+      "**Omega-3** – Dry, flaky skin, stiff joints in the morning, and trouble focusing for long periods.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Let's talk about broccoli, tomatoes, and olive oil, because these are the ones people get wrong most often. Broccoli loses a big chunk of its vitamin C the moment it hits boiling water, since that vitamin is water-soluble and literally dissolves out into the liquid around it. Tomatoes work the opposite way: lycopene is fat-soluble and bound tightly inside the cell walls, so a short simmer in oil actually breaks those walls down and makes more of it available to your body. And olive oil, once pushed past its smoke point, starts forming compounds linked to inflammation, which is why professional kitchens often reserve the good stuff for drizzling rather than frying.\n\nAt @smarthealthfix, we focus on nutrition, common health issues, organ function, and the small daily habits that tie it all together. Our goal is to help you make smarter choices in the kitchen without needing a nutrition degree to do it.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Low iodine often gets missed because the symptoms feel so vague, but your thyroid runs on it to control metabolism, so when levels drop your whole system slows down and energy crashes. Folate deficiency can sneak up quietly too; it's needed to make new red blood cells and repair DNA, so when it's low your tongue and mouth are often the first places that show it. And zinc is a big one most people overlook, it's essential for immune signaling and skin repair, which is exactly why wounds heal slower and colds hit harder when you're running low. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#nutrientdeficiency",
       "#healthtips",
-      "#cookingmistakes",
-      "#nutritionfacts",
-      "#healthyeating",
-      "#mealprep",
-      "#wellnessjourney",
-      "#foodscience",
-      "#eatclean",
-      "#kitchentips",
-      "#nutritiontips"
+      "#iodine",
+      "#folate",
+      "#zincdeficiency",
+      "#vitamindeficiency",
+      "#wellnesstips",
+      "#guthealth",
+      "#micronutrients",
+      "#energyboost"
     ],
     "extra_keywords": [
-      "healthyhabits",
-      "cleaneating",
-      "nutritionmyths",
-      "cookingtips"
+      "nutrientgaps",
+      "wellnessjourney",
+      "healthawareness",
+      "bodysignals"
     ]
   },
-  "shape": "myth_bust",
-  "caption": "Let's talk about broccoli, tomatoes, and olive oil, because these are the ones people get wrong most often. Broccoli loses a big chunk of its vitamin C the moment it hits boiling water, since that vitamin is water-soluble and literally dissolves out into the liquid around it. Tomatoes work the opposite way: lycopene is fat-soluble and bound tightly inside the cell walls, so a short simmer in oil actually breaks those walls down and makes more of it available to your body. And olive oil, once pushed past its smoke point, starts forming compounds linked to inflammation, which is why professional kitchens often reserve the good stuff for drizzling rather than frying.\n\nAt @smarthealthfix, we focus on nutrition, common health issues, organ function, and the small daily habits that tie it all together. Our goal is to help you make smarter choices in the kitchen without needing a nutrition degree to do it.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #cookingmistakes #nutritionfacts #healthyeating #mealprep #wellnessjourney #foodscience #eatclean #kitchentips #nutritiontips healthyhabits cleaneating nutritionmyths cookingtips"
+  "shape": "symptom_list",
+  "caption": "Low iodine often gets missed because the symptoms feel so vague, but your thyroid runs on it to control metabolism, so when levels drop your whole system slows down and energy crashes. Folate deficiency can sneak up quietly too; it's needed to make new red blood cells and repair DNA, so when it's low your tongue and mouth are often the first places that show it. And zinc is a big one most people overlook, it's essential for immune signaling and skin repair, which is exactly why wounds heal slower and colds hit harder when you're running low. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #healthtips #iodine #folate #zincdeficiency #vitamindeficiency #wellnesstips #guthealth #micronutrients #energyboost nutrientgaps wellnessjourney healthawareness bodysignals"
 }
