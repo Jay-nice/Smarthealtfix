@@ -1,43 +1,40 @@
 {
-  "png": "output/reel_20261023_190619.png",
-  "mp4": "output/reel_20261023_190619.mp4",
-  "cover": "output/cover_20261023_190619.png",
+  "png": "output/reel_20261023_225557.png",
+  "mp4": "output/reel_20261023_225557.mp4",
+  "cover": "output/cover_20261023_225557.png",
   "cover_bg": "white",
   "content": {
-    "title": "KITCHEN MISTAKES THAT TURN YOUR {{FOOD}} DANGEROUS",
+    "title": "THE MINERAL YOUR {{THYROID}} CAN'T FUNCTION WITHOUT",
     "facts": [
-      "**Cantaloupe – Don't leave cut melon out for hours (bacteria like Listeria grow fast on its moist surface).**",
-      "**Ground meat – Don't thaw it on the counter (outer layer sits in the bacteria danger zone long before the center defrosts).**",
-      "**Garlic in oil – Don't store homemade garlic-oil at room temperature (low-oxygen environment can let Clostridium botulinum grow).**",
-      "**Chicken – Don't rinse it under the tap before cooking (splashing water spreads bacteria across your sink and counters).**",
-      "**Leftover rice-based dishes – Don't cool them slowly on the stove (bacteria multiply fastest in the first hours after cooking).**",
-      "**Raw sprouts – Don't eat them uncooked if you're pregnant or immunocompromised (warm, humid growing conditions make them a common Salmonella source).**",
-      "**Soft cheeses – Don't store them next to ready-to-eat foods without wrapping (Listeria can transfer easily in the fridge).**",
-      "**Eggs – Don't store them on the fridge door (temperature swings there speed up bacterial growth through the shell).**",
+      "**Copper** (Energy Spark) – quietly helps your body turn iron into usable energy; without enough, you can feel wiped out even with normal iron levels.",
+      "**Manganese** (Bone Builder) – works behind the scenes with calcium to keep bones dense and joints cushioned, yet almost nobody talks about it.",
+      "**Selenium** (Thyroid Shield) – just 1 Brazil nut/day covers your daily need and protects thyroid cells from oxidative damage.",
+      "**Potassium** (Pressure Regulator) – helps relax blood vessel walls, easing pressure on your heart with every beat.",
+      "**Iodine** (Hormone Fuel) – your thyroid literally cannot make hormones without it, controlling how fast your body burns energy.",
+      "**Chromium** (Blood Sugar Helper) – helps insulin do its job more efficiently, smoothing out blood sugar swings after meals.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these mix-ups are way more common than people think. Take cantaloupe: its rough, netted skin traps bacteria, and once it's cut, that bacteria has direct access to the moist flesh — sitting out even a couple hours at room temperature gives it the perfect window to multiply. Ground meat is another sneaky one: because it's processed from multiple cuts, bacteria gets mixed throughout the meat instead of staying on the surface, so thawing it slowly and unevenly on the counter lets that bacteria build up before the inside ever reaches a safe temperature. And garlic-in-oil is a classic home-cooking trap — garlic is low-acid and oil blocks oxygen, which is exactly the environment Clostridium botulinum spores need to wake up and produce toxin, something heat from cooking won't fix once it's bottled and left unrefrigerated.\n\n@smarthealthfix is all about the everyday stuff that actually moves the needle — nutrition, common symptoms, how your organs work, and the small daily habits behind them. Our mission is to make real food safety and health habits simple, so you're not guessing at what's actually worth worrying about.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Copper doesn't get much credit, but it works as a partner to iron — your body can have 'enough' iron on paper and still feel drained if copper is low, because copper helps transport and activate it properly. Manganese is another quiet one: it activates enzymes involved in collagen formation, which is part of why joints and connective tissue need it just as much as bones do. And selenium isn't just a thyroid helper — it also acts as an antioxidant, helping neutralize cell damage that builds up over time. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#foodsafety",
-      "#kitchentips",
       "#healthtips",
       "#wellness",
-      "#foodstorage",
-      "#mealprep",
-      "#foodpoisoningprevention",
-      "#healthyhabits",
-      "#cookingtips",
-      "#homecooking"
+      "#mineraldeficiency",
+      "#copper",
+      "#manganese",
+      "#selenium",
+      "#thyroidhealth",
+      "#nutritionfacts",
+      "#guthealth",
+      "#energylevels"
     ],
     "extra_keywords": [
-      "foodsafetytips",
-      "kitchenhacks",
+      "micronutrients",
       "wellnessjourney",
-      "cleaneating",
-      "healthyhome"
+      "nutritiontips",
+      "healthyhabits"
     ]
   },
-  "shape": "food_safety_mistake",
-  "caption": "A few of these mix-ups are way more common than people think. Take cantaloupe: its rough, netted skin traps bacteria, and once it's cut, that bacteria has direct access to the moist flesh — sitting out even a couple hours at room temperature gives it the perfect window to multiply. Ground meat is another sneaky one: because it's processed from multiple cuts, bacteria gets mixed throughout the meat instead of staying on the surface, so thawing it slowly and unevenly on the counter lets that bacteria build up before the inside ever reaches a safe temperature. And garlic-in-oil is a classic home-cooking trap — garlic is low-acid and oil blocks oxygen, which is exactly the environment Clostridium botulinum spores need to wake up and produce toxin, something heat from cooking won't fix once it's bottled and left unrefrigerated.\n\n@smarthealthfix is all about the everyday stuff that actually moves the needle — nutrition, common symptoms, how your organs work, and the small daily habits behind them. Our mission is to make real food safety and health habits simple, so you're not guessing at what's actually worth worrying about.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodsafety #kitchentips #healthtips #wellness #foodstorage #mealprep #foodpoisoningprevention #healthyhabits #cookingtips #homecooking foodsafetytips kitchenhacks wellnessjourney cleaneating healthyhome"
+  "shape": "mineral_sources",
+  "caption": "Copper doesn't get much credit, but it works as a partner to iron — your body can have 'enough' iron on paper and still feel drained if copper is low, because copper helps transport and activate it properly. Manganese is another quiet one: it activates enzymes involved in collagen formation, which is part of why joints and connective tissue need it just as much as bones do. And selenium isn't just a thyroid helper — it also acts as an antioxidant, helping neutralize cell damage that builds up over time. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #mineraldeficiency #copper #manganese #selenium #thyroidhealth #nutritionfacts #guthealth #energylevels micronutrients wellnessjourney nutritiontips healthyhabits"
 }
