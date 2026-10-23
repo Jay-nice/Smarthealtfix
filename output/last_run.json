@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20261023_144455.png",
-  "mp4": "output/reel_20261023_144455.mp4",
-  "cover": "output/cover_20261023_144455.png",
+  "png": "output/reel_20261023_190619.png",
+  "mp4": "output/reel_20261023_190619.mp4",
+  "cover": "output/cover_20261023_190619.png",
   "cover_bg": "white",
   "content": {
-    "title": "WEIRD SIGNS YOU'RE ACTUALLY MISSING A KEY {{NUTRIENT}}",
+    "title": "KITCHEN MISTAKES THAT TURN YOUR {{FOOD}} DANGEROUS",
     "facts": [
-      "**Iodine** – Unexplained weight gain, constant fatigue, puffy face, and feeling cold even in a warm room.",
-      "**Potassium** – Muscle cramps at night, heart fluttering or skipped beats, and persistent muscle weakness.",
-      "**Vitamin E** – Blurred vision, poor balance when walking, and numbness or tingling in your legs.",
-      "**Folate** – Mouth sores, a swollen or smooth-looking tongue, irritability, and constant brain fog.",
-      "**Vitamin A** – Trouble seeing in dim light, dry eyes, and skin that feels rough or bumpy on the arms.",
-      "**Zinc** – Wounds that take forever to heal, a dulled sense of taste or smell, and frequent colds.",
-      "**Calcium** – Brittle nails that split easily, muscle spasms, and teeth that feel unusually sensitive.",
-      "**Omega-3** – Dry, flaky skin, stiff joints in the morning, and trouble focusing for long periods.",
+      "**Cantaloupe – Don't leave cut melon out for hours (bacteria like Listeria grow fast on its moist surface).**",
+      "**Ground meat – Don't thaw it on the counter (outer layer sits in the bacteria danger zone long before the center defrosts).**",
+      "**Garlic in oil – Don't store homemade garlic-oil at room temperature (low-oxygen environment can let Clostridium botulinum grow).**",
+      "**Chicken – Don't rinse it under the tap before cooking (splashing water spreads bacteria across your sink and counters).**",
+      "**Leftover rice-based dishes – Don't cool them slowly on the stove (bacteria multiply fastest in the first hours after cooking).**",
+      "**Raw sprouts – Don't eat them uncooked if you're pregnant or immunocompromised (warm, humid growing conditions make them a common Salmonella source).**",
+      "**Soft cheeses – Don't store them next to ready-to-eat foods without wrapping (Listeria can transfer easily in the fridge).**",
+      "**Eggs – Don't store them on the fridge door (temperature swings there speed up bacterial growth through the shell).**",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Low iodine often gets missed because the symptoms feel so vague, but your thyroid runs on it to control metabolism, so when levels drop your whole system slows down and energy crashes. Folate deficiency can sneak up quietly too; it's needed to make new red blood cells and repair DNA, so when it's low your tongue and mouth are often the first places that show it. And zinc is a big one most people overlook, it's essential for immune signaling and skin repair, which is exactly why wounds heal slower and colds hit harder when you're running low. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these mix-ups are way more common than people think. Take cantaloupe: its rough, netted skin traps bacteria, and once it's cut, that bacteria has direct access to the moist flesh — sitting out even a couple hours at room temperature gives it the perfect window to multiply. Ground meat is another sneaky one: because it's processed from multiple cuts, bacteria gets mixed throughout the meat instead of staying on the surface, so thawing it slowly and unevenly on the counter lets that bacteria build up before the inside ever reaches a safe temperature. And garlic-in-oil is a classic home-cooking trap — garlic is low-acid and oil blocks oxygen, which is exactly the environment Clostridium botulinum spores need to wake up and produce toxin, something heat from cooking won't fix once it's bottled and left unrefrigerated.\n\n@smarthealthfix is all about the everyday stuff that actually moves the needle — nutrition, common symptoms, how your organs work, and the small daily habits behind them. Our mission is to make real food safety and health habits simple, so you're not guessing at what's actually worth worrying about.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#nutrientdeficiency",
+      "#foodsafety",
+      "#kitchentips",
       "#healthtips",
-      "#iodine",
-      "#folate",
-      "#zincdeficiency",
-      "#vitamindeficiency",
-      "#wellnesstips",
-      "#guthealth",
-      "#micronutrients",
-      "#energyboost"
+      "#wellness",
+      "#foodstorage",
+      "#mealprep",
+      "#foodpoisoningprevention",
+      "#healthyhabits",
+      "#cookingtips",
+      "#homecooking"
     ],
     "extra_keywords": [
-      "nutrientgaps",
+      "foodsafetytips",
+      "kitchenhacks",
       "wellnessjourney",
-      "healthawareness",
-      "bodysignals"
+      "cleaneating",
+      "healthyhome"
     ]
   },
-  "shape": "symptom_list",
-  "caption": "Low iodine often gets missed because the symptoms feel so vague, but your thyroid runs on it to control metabolism, so when levels drop your whole system slows down and energy crashes. Folate deficiency can sneak up quietly too; it's needed to make new red blood cells and repair DNA, so when it's low your tongue and mouth are often the first places that show it. And zinc is a big one most people overlook, it's essential for immune signaling and skin repair, which is exactly why wounds heal slower and colds hit harder when you're running low. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #healthtips #iodine #folate #zincdeficiency #vitamindeficiency #wellnesstips #guthealth #micronutrients #energyboost nutrientgaps wellnessjourney healthawareness bodysignals"
+  "shape": "food_safety_mistake",
+  "caption": "A few of these mix-ups are way more common than people think. Take cantaloupe: its rough, netted skin traps bacteria, and once it's cut, that bacteria has direct access to the moist flesh — sitting out even a couple hours at room temperature gives it the perfect window to multiply. Ground meat is another sneaky one: because it's processed from multiple cuts, bacteria gets mixed throughout the meat instead of staying on the surface, so thawing it slowly and unevenly on the counter lets that bacteria build up before the inside ever reaches a safe temperature. And garlic-in-oil is a classic home-cooking trap — garlic is low-acid and oil blocks oxygen, which is exactly the environment Clostridium botulinum spores need to wake up and produce toxin, something heat from cooking won't fix once it's bottled and left unrefrigerated.\n\n@smarthealthfix is all about the everyday stuff that actually moves the needle — nutrition, common symptoms, how your organs work, and the small daily habits behind them. Our mission is to make real food safety and health habits simple, so you're not guessing at what's actually worth worrying about.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodsafety #kitchentips #healthtips #wellness #foodstorage #mealprep #foodpoisoningprevention #healthyhabits #cookingtips #homecooking foodsafetytips kitchenhacks wellnessjourney cleaneating healthyhome"
 }
