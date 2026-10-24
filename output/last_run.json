@@ -1,44 +1,41 @@
 {
-  "png": "output/reel_20261024_180333.png",
-  "mp4": "output/reel_20261024_180333.mp4",
-  "cover": "output/cover_20261024_180333.png",
+  "png": "output/reel_20261024_223548.png",
+  "mp4": "output/reel_20261024_223548.mp4",
+  "cover": "output/cover_20261024_223548.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE DAILY CHEAT SHEET YOUR {{BODY}} IS WAITING FOR",
+    "title": "THE {{ORGANS}} YOUR GROCERY LIST IS SECRETLY TAKING CARE OF",
     "facts": [
-      "**Cold shower** -> 60 seconds at the end -> Sharper mood",
-      "**Walking** -> 10 min after meals -> Flattens sugar spikes",
-      "**Sunlight** -> 10 min before 10am -> Easier sleep later",
-      "**Deep breathing** -> 4 slow breaths, 3x/day -> Lowers stress fast",
-      "**Water** -> 500 ml right after waking -> Kickstarts your brain",
-      "**Stretching** -> 5 min before bed -> Less morning stiffness",
-      "**Journaling** -> 3 lines/night -> Quiets racing thoughts",
-      "**Protein** -> 25-30g at breakfast -> Crushes mid-morning cravings",
-      "**Silence** -> 10 min with no phone -> Resets focus",
-      "**Follow along** -> for more daily health tips like this -> Stay consistent"
+      "**Pancreas** - Spinach, Pumpkin seeds, Broccoli - sulforaphane in broccoli helps calm inflammation around insulin-producing cells.",
+      "**Kidneys** - Red bell peppers, Cabbage, Onions - low-potassium and low-sodium, so they filter through without straining the kidneys.",
+      "**Bladder** - Cranberries, Watermelon, Celery - these keep fluid moving through the urinary tract instead of letting it sit stagnant.",
+      "**Gallbladder** - Beets, Olive oil, Lemon - a little healthy fat triggers bile flow instead of letting it thicken and stagnate.",
+      "**Spleen** - Pomegranate, Beef liver, Lentils - iron-rich foods restock what the spleen filters out of aging blood cells daily.",
+      "**Thymus** - Oysters, Shiitake mushrooms, Sunflower seeds - zinc here keeps this gland pumping out immune cells as you age.",
+      "**Joints/cartilage** - Bone broth, Sardines, Walnuts - collagen-building nutrients cushion the spaces between your bones.",
+      "**Follow along** - for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are worth slowing down on. That cold water moment at the end of your shower isn't just a trend - the sudden temperature drop spikes norepinephrine, a chemical that sharpens alertness and lifts mood for hours afterward. The walking tip matters more than people think too: moving your body for just 10 minutes after eating helps your muscles pull glucose out of your bloodstream directly, so it never gets the chance to spike as high in the first place. And that early sunlight habit works on your internal clock - hitting your eyes with natural light early in the day tells your brain exactly when to release melatonin that night, which is why it quietly makes falling asleep easier. Everyone's body responds a little differently, so notice what actually moves the needle for you.\n\n@smarthealthfix is all about the small stuff - nutrition, the body's little warning signs, how your organs actually work, and the tiny daily habits that add up. Our mission is to help you build realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Your pancreas works harder than most people realize, and broccoli actually helps it out - the sulforaphane it contains calms inflammation around the cells that produce insulin, so blood sugar swings hit a little softer. Your kidneys quietly filter your entire blood supply dozens of times a day, and cabbage makes that job easier because it's naturally low in potassium and sodium, meaning less strain pushing through the filtering units. And your gallbladder needs a nudge to actually release bile instead of letting it sit and thicken - a little olive oil at a meal is enough to trigger that flow. Of course, everyone's body is different, so listen to yours and adjust from there.\n\n@smarthealthfix is all about connecting the dots between nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#healthtips",
-      "#dailyhabits",
+      "#organhealth",
+      "#pancreashealth",
+      "#kidneyhealth",
+      "#guthealth",
+      "#nutritiontips",
+      "#healthyeating",
       "#wellnessjourney",
-      "#morningroutine",
-      "#stressrelief",
-      "#bloodsugar",
-      "#betterSleep",
-      "#mindsetshift",
-      "#selfcare",
-      "#healthyhabits"
+      "#foodismedicine",
+      "#healthtips",
+      "#bodyhealth"
     ],
     "extra_keywords": [
+      "organsupport",
       "naturalhealing",
-      "dailyreset",
-      "habitstacking",
       "wellnesstips",
-      "mindbodyconnection"
+      "healthyhabits"
     ]
   },
-  "shape": "daily_dose_habit",
-  "caption": "A few of these are worth slowing down on. That cold water moment at the end of your shower isn't just a trend - the sudden temperature drop spikes norepinephrine, a chemical that sharpens alertness and lifts mood for hours afterward. The walking tip matters more than people think too: moving your body for just 10 minutes after eating helps your muscles pull glucose out of your bloodstream directly, so it never gets the chance to spike as high in the first place. And that early sunlight habit works on your internal clock - hitting your eyes with natural light early in the day tells your brain exactly when to release melatonin that night, which is why it quietly makes falling asleep easier. Everyone's body responds a little differently, so notice what actually moves the needle for you.\n\n@smarthealthfix is all about the small stuff - nutrition, the body's little warning signs, how your organs actually work, and the tiny daily habits that add up. Our mission is to help you build realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #dailyhabits #wellnessjourney #morningroutine #stressrelief #bloodsugar #betterSleep #mindsetshift #selfcare #healthyhabits naturalhealing dailyreset habitstacking wellnesstips mindbodyconnection"
+  "shape": "organ_food_list",
+  "caption": "Your pancreas works harder than most people realize, and broccoli actually helps it out - the sulforaphane it contains calms inflammation around the cells that produce insulin, so blood sugar swings hit a little softer. Your kidneys quietly filter your entire blood supply dozens of times a day, and cabbage makes that job easier because it's naturally low in potassium and sodium, meaning less strain pushing through the filtering units. And your gallbladder needs a nudge to actually release bile instead of letting it sit and thicken - a little olive oil at a meal is enough to trigger that flow. Of course, everyone's body is different, so listen to yours and adjust from there.\n\n@smarthealthfix is all about connecting the dots between nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #pancreashealth #kidneyhealth #guthealth #nutritiontips #healthyeating #wellnessjourney #foodismedicine #healthtips #bodyhealth organsupport naturalhealing wellnesstips healthyhabits"
 }
