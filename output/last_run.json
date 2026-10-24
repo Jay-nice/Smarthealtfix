@@ -1,40 +1,42 @@
 {
-  "png": "output/reel_20261023_225557.png",
-  "mp4": "output/reel_20261023_225557.mp4",
-  "cover": "output/cover_20261023_225557.png",
+  "png": "output/reel_20261024_135348.png",
+  "mp4": "output/reel_20261024_135348.mp4",
+  "cover": "output/cover_20261024_135348.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE MINERAL YOUR {{THYROID}} CAN'T FUNCTION WITHOUT",
+    "title": "FOOD FACTS THAT SOUND {{MADE UP}} BUT ARE 100% TRUE",
     "facts": [
-      "**Copper** (Energy Spark) – quietly helps your body turn iron into usable energy; without enough, you can feel wiped out even with normal iron levels.",
-      "**Manganese** (Bone Builder) – works behind the scenes with calcium to keep bones dense and joints cushioned, yet almost nobody talks about it.",
-      "**Selenium** (Thyroid Shield) – just 1 Brazil nut/day covers your daily need and protects thyroid cells from oxidative damage.",
-      "**Potassium** (Pressure Regulator) – helps relax blood vessel walls, easing pressure on your heart with every beat.",
-      "**Iodine** (Hormone Fuel) – your thyroid literally cannot make hormones without it, controlling how fast your body burns energy.",
-      "**Chromium** (Blood Sugar Helper) – helps insulin do its job more efficiently, smoothing out blood sugar swings after meals.",
-      "**Follow along** – for more daily health tips like this."
+      "**Pineapples** take almost two years to grow and actually flower before the fruit forms — it's one single fruit made of dozens of smaller fruits fused together.",
+      "**Pistachios** are so oil-rich that a pile of them can technically combust on their own if stored in a warm, poorly ventilated container — shipping companies classify raw ones as a mild fire risk.",
+      "**Carrots** were originally purple, not orange — the orange variety was bred in the Netherlands in the 1600s and simply became the one that stuck.",
+      "**Almonds** are technically not nuts at all — they're the seed found inside a fruit that looks like a fuzzy, dry peach.",
+      "**Bananas** are naturally slightly radioactive because of their potassium content — it's completely harmless, but it's a real, measurable effect scientists call the 'banana equivalent dose.'",
+      "**Nutmeg** contains a natural compound that, in large enough doses, can cause hallucinations — a fact discovered the hard way by prisoners in the 1800s who had nothing else to get a buzz from.",
+      "**Strawberries** aren't technically berries, but bananas are — in botany, a true berry needs seeds formed inside its flesh, which strawberries carry on the outside instead.",
+      "**Follow along** – for more daily health facts that sound fake but are completely real."
     ],
     "claims": [],
-    "caption": "Copper doesn't get much credit, but it works as a partner to iron — your body can have 'enough' iron on paper and still feel drained if copper is low, because copper helps transport and activate it properly. Manganese is another quiet one: it activates enzymes involved in collagen formation, which is part of why joints and connective tissue need it just as much as bones do. And selenium isn't just a thyroid helper — it also acts as an antioxidant, helping neutralize cell damage that builds up over time. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Some of these still feel unreal even after double-checking them. Take pineapples: each one actually starts as a cluster of over a hundred tiny flowers on a single stalk, and every flower contributes to one segment of the fruit you eventually cut into — that's why the surface looks like a honeycomb of little eyes. Pistachios are so dense in natural oils that heat building up inside a packed, humid shipping container can trigger spontaneous combustion, which is why bulk shipments are legally handled like a flammable good. And nutmeg contains myristicin, a compound your liver converts into something chemically similar to mild hallucinogens when eaten in large amounts — in tiny baking quantities it's completely harmless, but whole nutmegs were historically hoarded and even smuggled because of this effect. Wild stuff, and every bit of it checks out.\n\nThis is the kind of everyday food trivia @smarthealthfix loves digging into, alongside the usual topics of nutrition, common symptoms, organ function, and the small daily habits that actually move the needle. Our mission is to make nutrition feel a little more fascinating, not just another list of rules to follow.\n\nSave this post so you don't lose it, and share it with someone who needs a fun fact to drop at dinner tonight.",
     "hashtags": [
+      "#foodfacts",
+      "#nutritionfacts",
+      "#didyouknow",
       "#healthtips",
       "#wellness",
-      "#mineraldeficiency",
-      "#copper",
-      "#manganese",
-      "#selenium",
-      "#thyroidhealth",
-      "#nutritionfacts",
-      "#guthealth",
-      "#energylevels"
+      "#pineapple",
+      "#pistachios",
+      "#nutmeg",
+      "#weirdfacts",
+      "#healthyeating"
     ],
     "extra_keywords": [
-      "micronutrients",
+      "foodtrivia",
+      "nutritionfacts",
       "wellnessjourney",
-      "nutritiontips",
+      "funfacts",
       "healthyhabits"
     ]
   },
-  "shape": "mineral_sources",
-  "caption": "Copper doesn't get much credit, but it works as a partner to iron — your body can have 'enough' iron on paper and still feel drained if copper is low, because copper helps transport and activate it properly. Manganese is another quiet one: it activates enzymes involved in collagen formation, which is part of why joints and connective tissue need it just as much as bones do. And selenium isn't just a thyroid helper — it also acts as an antioxidant, helping neutralize cell damage that builds up over time. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #mineraldeficiency #copper #manganese #selenium #thyroidhealth #nutritionfacts #guthealth #energylevels micronutrients wellnessjourney nutritiontips healthyhabits"
+  "shape": "surprising_true_fact",
+  "caption": "Some of these still feel unreal even after double-checking them. Take pineapples: each one actually starts as a cluster of over a hundred tiny flowers on a single stalk, and every flower contributes to one segment of the fruit you eventually cut into — that's why the surface looks like a honeycomb of little eyes. Pistachios are so dense in natural oils that heat building up inside a packed, humid shipping container can trigger spontaneous combustion, which is why bulk shipments are legally handled like a flammable good. And nutmeg contains myristicin, a compound your liver converts into something chemically similar to mild hallucinogens when eaten in large amounts — in tiny baking quantities it's completely harmless, but whole nutmegs were historically hoarded and even smuggled because of this effect. Wild stuff, and every bit of it checks out.\n\nThis is the kind of everyday food trivia @smarthealthfix loves digging into, alongside the usual topics of nutrition, common symptoms, organ function, and the small daily habits that actually move the needle. Our mission is to make nutrition feel a little more fascinating, not just another list of rules to follow.\n\nSave this post so you don't lose it, and share it with someone who needs a fun fact to drop at dinner tonight.\n\n#foodfacts #nutritionfacts #didyouknow #healthtips #wellness #pineapple #pistachios #nutmeg #weirdfacts #healthyeating foodtrivia nutritionfacts wellnessjourney funfacts healthyhabits"
 }
