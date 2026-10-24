@@ -1,42 +1,44 @@
 {
-  "png": "output/reel_20261024_135348.png",
-  "mp4": "output/reel_20261024_135348.mp4",
-  "cover": "output/cover_20261024_135348.png",
+  "png": "output/reel_20261024_180333.png",
+  "mp4": "output/reel_20261024_180333.mp4",
+  "cover": "output/cover_20261024_180333.png",
   "cover_bg": "white",
   "content": {
-    "title": "FOOD FACTS THAT SOUND {{MADE UP}} BUT ARE 100% TRUE",
+    "title": "THE DAILY CHEAT SHEET YOUR {{BODY}} IS WAITING FOR",
     "facts": [
-      "**Pineapples** take almost two years to grow and actually flower before the fruit forms — it's one single fruit made of dozens of smaller fruits fused together.",
-      "**Pistachios** are so oil-rich that a pile of them can technically combust on their own if stored in a warm, poorly ventilated container — shipping companies classify raw ones as a mild fire risk.",
-      "**Carrots** were originally purple, not orange — the orange variety was bred in the Netherlands in the 1600s and simply became the one that stuck.",
-      "**Almonds** are technically not nuts at all — they're the seed found inside a fruit that looks like a fuzzy, dry peach.",
-      "**Bananas** are naturally slightly radioactive because of their potassium content — it's completely harmless, but it's a real, measurable effect scientists call the 'banana equivalent dose.'",
-      "**Nutmeg** contains a natural compound that, in large enough doses, can cause hallucinations — a fact discovered the hard way by prisoners in the 1800s who had nothing else to get a buzz from.",
-      "**Strawberries** aren't technically berries, but bananas are — in botany, a true berry needs seeds formed inside its flesh, which strawberries carry on the outside instead.",
-      "**Follow along** – for more daily health facts that sound fake but are completely real."
+      "**Cold shower** -> 60 seconds at the end -> Sharper mood",
+      "**Walking** -> 10 min after meals -> Flattens sugar spikes",
+      "**Sunlight** -> 10 min before 10am -> Easier sleep later",
+      "**Deep breathing** -> 4 slow breaths, 3x/day -> Lowers stress fast",
+      "**Water** -> 500 ml right after waking -> Kickstarts your brain",
+      "**Stretching** -> 5 min before bed -> Less morning stiffness",
+      "**Journaling** -> 3 lines/night -> Quiets racing thoughts",
+      "**Protein** -> 25-30g at breakfast -> Crushes mid-morning cravings",
+      "**Silence** -> 10 min with no phone -> Resets focus",
+      "**Follow along** -> for more daily health tips like this -> Stay consistent"
     ],
     "claims": [],
-    "caption": "Some of these still feel unreal even after double-checking them. Take pineapples: each one actually starts as a cluster of over a hundred tiny flowers on a single stalk, and every flower contributes to one segment of the fruit you eventually cut into — that's why the surface looks like a honeycomb of little eyes. Pistachios are so dense in natural oils that heat building up inside a packed, humid shipping container can trigger spontaneous combustion, which is why bulk shipments are legally handled like a flammable good. And nutmeg contains myristicin, a compound your liver converts into something chemically similar to mild hallucinogens when eaten in large amounts — in tiny baking quantities it's completely harmless, but whole nutmegs were historically hoarded and even smuggled because of this effect. Wild stuff, and every bit of it checks out.\n\nThis is the kind of everyday food trivia @smarthealthfix loves digging into, alongside the usual topics of nutrition, common symptoms, organ function, and the small daily habits that actually move the needle. Our mission is to make nutrition feel a little more fascinating, not just another list of rules to follow.\n\nSave this post so you don't lose it, and share it with someone who needs a fun fact to drop at dinner tonight.",
+    "caption": "A few of these are worth slowing down on. That cold water moment at the end of your shower isn't just a trend - the sudden temperature drop spikes norepinephrine, a chemical that sharpens alertness and lifts mood for hours afterward. The walking tip matters more than people think too: moving your body for just 10 minutes after eating helps your muscles pull glucose out of your bloodstream directly, so it never gets the chance to spike as high in the first place. And that early sunlight habit works on your internal clock - hitting your eyes with natural light early in the day tells your brain exactly when to release melatonin that night, which is why it quietly makes falling asleep easier. Everyone's body responds a little differently, so notice what actually moves the needle for you.\n\n@smarthealthfix is all about the small stuff - nutrition, the body's little warning signs, how your organs actually work, and the tiny daily habits that add up. Our mission is to help you build realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#foodfacts",
-      "#nutritionfacts",
-      "#didyouknow",
       "#healthtips",
-      "#wellness",
-      "#pineapple",
-      "#pistachios",
-      "#nutmeg",
-      "#weirdfacts",
-      "#healthyeating"
+      "#dailyhabits",
+      "#wellnessjourney",
+      "#morningroutine",
+      "#stressrelief",
+      "#bloodsugar",
+      "#betterSleep",
+      "#mindsetshift",
+      "#selfcare",
+      "#healthyhabits"
     ],
     "extra_keywords": [
-      "foodtrivia",
-      "nutritionfacts",
-      "wellnessjourney",
-      "funfacts",
-      "healthyhabits"
+      "naturalhealing",
+      "dailyreset",
+      "habitstacking",
+      "wellnesstips",
+      "mindbodyconnection"
     ]
   },
-  "shape": "surprising_true_fact",
-  "caption": "Some of these still feel unreal even after double-checking them. Take pineapples: each one actually starts as a cluster of over a hundred tiny flowers on a single stalk, and every flower contributes to one segment of the fruit you eventually cut into — that's why the surface looks like a honeycomb of little eyes. Pistachios are so dense in natural oils that heat building up inside a packed, humid shipping container can trigger spontaneous combustion, which is why bulk shipments are legally handled like a flammable good. And nutmeg contains myristicin, a compound your liver converts into something chemically similar to mild hallucinogens when eaten in large amounts — in tiny baking quantities it's completely harmless, but whole nutmegs were historically hoarded and even smuggled because of this effect. Wild stuff, and every bit of it checks out.\n\nThis is the kind of everyday food trivia @smarthealthfix loves digging into, alongside the usual topics of nutrition, common symptoms, organ function, and the small daily habits that actually move the needle. Our mission is to make nutrition feel a little more fascinating, not just another list of rules to follow.\n\nSave this post so you don't lose it, and share it with someone who needs a fun fact to drop at dinner tonight.\n\n#foodfacts #nutritionfacts #didyouknow #healthtips #wellness #pineapple #pistachios #nutmeg #weirdfacts #healthyeating foodtrivia nutritionfacts wellnessjourney funfacts healthyhabits"
+  "shape": "daily_dose_habit",
+  "caption": "A few of these are worth slowing down on. That cold water moment at the end of your shower isn't just a trend - the sudden temperature drop spikes norepinephrine, a chemical that sharpens alertness and lifts mood for hours afterward. The walking tip matters more than people think too: moving your body for just 10 minutes after eating helps your muscles pull glucose out of your bloodstream directly, so it never gets the chance to spike as high in the first place. And that early sunlight habit works on your internal clock - hitting your eyes with natural light early in the day tells your brain exactly when to release melatonin that night, which is why it quietly makes falling asleep easier. Everyone's body responds a little differently, so notice what actually moves the needle for you.\n\n@smarthealthfix is all about the small stuff - nutrition, the body's little warning signs, how your organs actually work, and the tiny daily habits that add up. Our mission is to help you build realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #dailyhabits #wellnessjourney #morningroutine #stressrelief #bloodsugar #betterSleep #mindsetshift #selfcare #healthyhabits naturalhealing dailyreset habitstacking wellnesstips mindbodyconnection"
 }
