@@ -1,42 +1,42 @@
 {
-  "png": "output/reel_20261025_183817.png",
-  "mp4": "output/reel_20261025_183817.mp4",
-  "cover": "output/cover_20261025_183817.png",
+  "png": "output/reel_20261025_222003.png",
+  "mp4": "output/reel_20261025_222003.mp4",
+  "cover": "output/cover_20261025_222003.png",
   "cover_bg": "white",
   "content": {
-    "title": "FOOD FACTS THAT SOUND LIKE A PRANK BUT AREN'T",
+    "title": "HABITS THAT SOUND HEALTHY BUT ARE QUIETLY {{BACKFIRING}}",
     "facts": [
-      "**Cashews** are never sold in their shells to consumers — the shell contains a resin so caustic it's related to poison ivy and has to be steamed off industrially before it's safe to touch.",
-      "**Nutritional yeast** is a living organism that's deliberately killed during processing, yet it's one of the few plant foods that naturally delivers a full spectrum of B vitamins.",
-      "**Watermelon rind** is fully edible and in parts of the world it's stir-fried like a vegetable — it contains more citrulline, an amino acid tied to blood flow, than the red flesh does.",
-      "**Cloves** have such strong natural antibacterial power that dentists used clove oil as a numbing antiseptic for toothaches long before modern anesthesia existed.",
-      "**Star fruit** can be dangerous for people with kidney disease — it contains a neurotoxin that healthy kidneys filter out easily but damaged kidneys cannot.",
-      "**Lychee** seeds and unripe fruit have caused real outbreaks of sudden illness in malnourished children in parts of Asia, linked to a compound that drops blood sugar sharply.",
-      "**Black pepper** increases how much curcumin (the active compound in turmeric) your body can actually absorb — by a significant margin, which is why the two are so often paired.",
-      "**Follow along** – for more surprising, verified food facts like this."
+      "**Chewing gum after meals** -> can make your stomach release acid as if food is coming, with nothing to digest, leaving you bloated.",
+      "**Taking a hot bath right before bed** -> feels relaxing, but if the water is too hot it raises core temperature and can delay deep sleep.",
+      "**Eating fruit as 'dessert' right after dinner** -> slows down digestion of the heavier meal and can cause gas, since fruit sugars ferment while they wait behind other food.",
+      "**Doing an intense workout on an empty stomach every morning** -> can push your body to break down muscle tissue for fuel instead of fat.",
+      "**Sleeping with your phone on airplane mode but right next to your pillow** -> the blue light from a glance at a notification still delays melatonin release.",
+      "**Drinking green tea on an empty stomach** -> the tannins can irritate the stomach lining and block iron absorption from your next meal.",
+      "**Napping for more than 45 minutes** -> pushes you into deep sleep, so waking up mid-cycle can leave you groggier than before the nap.",
+      "**Using mouthwash right after brushing** -> rinses away the concentrated fluoride your toothpaste just left behind, reducing its cavity protection.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Let's go deeper on a few of these. Cashews are processed this way because the shell contains urushiol, the exact compound found in poison ivy — which is also why true \"raw\" cashews sold in stores are technically never 100% raw, they're steamed first for safety. Watermelon rind holds onto citrulline, which your body can convert into arginine, an amino acid involved in relaxing blood vessels — it's actually one reason some athletes eat it. And with black pepper, the compound piperine temporarily slows down how fast your liver breaks certain substances apart, which is exactly why it makes turmeric's curcumin stick around longer in your system. Everyone's body is different, so always listen to yours.\n\nAt @smarthealthfix we dig into nutrition, everyday symptoms, how your organs actually work, and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who'd be shocked by at least one of these.",
+    "caption": "A few of these are worth slowing down on. Chewing gum feels harmless, but your stomach can't tell the difference between 'real food coming' and 'just gum' — it still preps acid, which is why some people feel bloated an hour later for no obvious reason. Green tea is another sneaky one: those tannins that make it taste slightly bitter are great antioxidants, but on an empty stomach they bind to iron and can make it harder for your body to absorb it from breakfast. And that hot bath right before bed? Your body actually needs its core temperature to drop to signal sleep — a very hot bath right before lying down can delay that drop instead of helping it.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape all three. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#foodfacts",
-      "#nutritionfacts",
       "#healthtips",
       "#wellness",
-      "#didyouknow",
-      "#turmeric",
-      "#foodscience",
-      "#healthyeating",
-      "#nutritiontips",
-      "#surprisingfacts"
+      "#guthealth",
+      "#sleeptips",
+      "#healthyhabits",
+      "#digestivehealth",
+      "#nutritionfacts",
+      "#bodyawareness",
+      "#holistichealth",
+      "#dailyhabits"
     ],
     "extra_keywords": [
-      "nutritionfacts",
-      "foodknowledge",
-      "healthyhabits",
       "wellnessjourney",
-      "eatsmart"
+      "healthmyths",
+      "mindfulliving",
+      "naturalhealing"
     ]
   },
-  "shape": "surprising_true_fact",
-  "caption": "Let's go deeper on a few of these. Cashews are processed this way because the shell contains urushiol, the exact compound found in poison ivy — which is also why true \"raw\" cashews sold in stores are technically never 100% raw, they're steamed first for safety. Watermelon rind holds onto citrulline, which your body can convert into arginine, an amino acid involved in relaxing blood vessels — it's actually one reason some athletes eat it. And with black pepper, the compound piperine temporarily slows down how fast your liver breaks certain substances apart, which is exactly why it makes turmeric's curcumin stick around longer in your system. Everyone's body is different, so always listen to yours.\n\nAt @smarthealthfix we dig into nutrition, everyday symptoms, how your organs actually work, and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who'd be shocked by at least one of these.\n\n#foodfacts #nutritionfacts #healthtips #wellness #didyouknow #turmeric #foodscience #healthyeating #nutritiontips #surprisingfacts nutritionfacts foodknowledge healthyhabits wellnessjourney eatsmart"
+  "shape": "habit_harm_reveal",
+  "caption": "A few of these are worth slowing down on. Chewing gum feels harmless, but your stomach can't tell the difference between 'real food coming' and 'just gum' — it still preps acid, which is why some people feel bloated an hour later for no obvious reason. Green tea is another sneaky one: those tannins that make it taste slightly bitter are great antioxidants, but on an empty stomach they bind to iron and can make it harder for your body to absorb it from breakfast. And that hot bath right before bed? Your body actually needs its core temperature to drop to signal sleep — a very hot bath right before lying down can delay that drop instead of helping it.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape all three. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #sleeptips #healthyhabits #digestivehealth #nutritionfacts #bodyawareness #holistichealth #dailyhabits wellnessjourney healthmyths mindfulliving naturalhealing"
 }
