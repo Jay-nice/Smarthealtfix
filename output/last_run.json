@@ -1,41 +1,41 @@
 {
-  "png": "output/reel_20261024_223548.png",
-  "mp4": "output/reel_20261024_223548.mp4",
-  "cover": "output/cover_20261024_223548.png",
+  "png": "output/reel_20261025_141044.png",
+  "mp4": "output/reel_20261025_141044.mp4",
+  "cover": "output/cover_20261025_141044.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE {{ORGANS}} YOUR GROCERY LIST IS SECRETLY TAKING CARE OF",
+    "title": "{{SILENT}} SIGNALS YOUR BODY SENDS BEFORE A DEFICIENCY GETS SERIOUS",
     "facts": [
-      "**Pancreas** - Spinach, Pumpkin seeds, Broccoli - sulforaphane in broccoli helps calm inflammation around insulin-producing cells.",
-      "**Kidneys** - Red bell peppers, Cabbage, Onions - low-potassium and low-sodium, so they filter through without straining the kidneys.",
-      "**Bladder** - Cranberries, Watermelon, Celery - these keep fluid moving through the urinary tract instead of letting it sit stagnant.",
-      "**Gallbladder** - Beets, Olive oil, Lemon - a little healthy fat triggers bile flow instead of letting it thicken and stagnate.",
-      "**Spleen** - Pomegranate, Beef liver, Lentils - iron-rich foods restock what the spleen filters out of aging blood cells daily.",
-      "**Thymus** - Oysters, Shiitake mushrooms, Sunflower seeds - zinc here keeps this gland pumping out immune cells as you age.",
-      "**Joints/cartilage** - Bone broth, Sardines, Walnuts - collagen-building nutrients cushion the spaces between your bones.",
-      "**Follow along** - for more daily health tips like this."
+      "**Iodine** – Unexplained weight gain, fatigue, puffy face, and feeling cold when others don't.",
+      "**Vitamin K** – Bruising easily, cuts that take forever to stop bleeding, and bleeding gums.",
+      "**Vitamin E** – Muscle weakness, vision problems, and numbness or tingling in the limbs.",
+      "**Folate** – Constant tiredness, pale skin, mouth sores, and brain fog that won't lift.",
+      "**Vitamin A** – Dry eyes, trouble seeing in low light, and rough, bumpy patches on the skin.",
+      "**Calcium** – Brittle nails, muscle cramps, and numbness or tingling around the mouth and fingers.",
+      "**Omega-3** – Dry, flaky skin, stiff joints in the morning, and trouble focusing.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Your pancreas works harder than most people realize, and broccoli actually helps it out - the sulforaphane it contains calms inflammation around the cells that produce insulin, so blood sugar swings hit a little softer. Your kidneys quietly filter your entire blood supply dozens of times a day, and cabbage makes that job easier because it's naturally low in potassium and sodium, meaning less strain pushing through the filtering units. And your gallbladder needs a nudge to actually release bile instead of letting it sit and thicken - a little olive oil at a meal is enough to trigger that flow. Of course, everyone's body is different, so listen to yours and adjust from there.\n\n@smarthealthfix is all about connecting the dots between nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these deficiency signs are easy to brush off, but your body is usually being very specific. Low iodine slows down your thyroid, which is the gland that controls how fast your cells burn energy, so everything from your metabolism to your body temperature can drop. Not enough vitamin K means your body can't produce the proteins needed for normal blood clotting, which is exactly why small cuts or bumps bruise more than they should. And low folate affects how your body makes new red blood cells, so you end up with fewer oxygen carriers in your blood, which shows up as that heavy, can't-shake-it tiredness. Everyone's body is different, so if a few of these sound familiar, it's worth getting your levels checked rather than guessing.\n\nAt @smarthealthfix we cover nutrition, common symptoms, organ health, and the small daily habits that tie it all together. Our mission is to help you notice what your body is telling you early, instead of waiting until small signals turn into bigger problems.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#organhealth",
-      "#pancreashealth",
-      "#kidneyhealth",
-      "#guthealth",
-      "#nutritiontips",
-      "#healthyeating",
-      "#wellnessjourney",
-      "#foodismedicine",
+      "#nutrientdeficiency",
+      "#iodine",
+      "#vitaminK",
+      "#folate",
+      "#vitaminA",
+      "#omega3",
       "#healthtips",
-      "#bodyhealth"
+      "#wellness",
+      "#nutritionfacts",
+      "#guthealth"
     ],
     "extra_keywords": [
-      "organsupport",
       "naturalhealing",
-      "wellnesstips",
-      "healthyhabits"
+      "deficiencysigns",
+      "wellnessjourney",
+      "micronutrients"
     ]
   },
-  "shape": "organ_food_list",
-  "caption": "Your pancreas works harder than most people realize, and broccoli actually helps it out - the sulforaphane it contains calms inflammation around the cells that produce insulin, so blood sugar swings hit a little softer. Your kidneys quietly filter your entire blood supply dozens of times a day, and cabbage makes that job easier because it's naturally low in potassium and sodium, meaning less strain pushing through the filtering units. And your gallbladder needs a nudge to actually release bile instead of letting it sit and thicken - a little olive oil at a meal is enough to trigger that flow. Of course, everyone's body is different, so listen to yours and adjust from there.\n\n@smarthealthfix is all about connecting the dots between nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #pancreashealth #kidneyhealth #guthealth #nutritiontips #healthyeating #wellnessjourney #foodismedicine #healthtips #bodyhealth organsupport naturalhealing wellnesstips healthyhabits"
+  "shape": "symptom_list",
+  "caption": "A few of these deficiency signs are easy to brush off, but your body is usually being very specific. Low iodine slows down your thyroid, which is the gland that controls how fast your cells burn energy, so everything from your metabolism to your body temperature can drop. Not enough vitamin K means your body can't produce the proteins needed for normal blood clotting, which is exactly why small cuts or bumps bruise more than they should. And low folate affects how your body makes new red blood cells, so you end up with fewer oxygen carriers in your blood, which shows up as that heavy, can't-shake-it tiredness. Everyone's body is different, so if a few of these sound familiar, it's worth getting your levels checked rather than guessing.\n\nAt @smarthealthfix we cover nutrition, common symptoms, organ health, and the small daily habits that tie it all together. Our mission is to help you notice what your body is telling you early, instead of waiting until small signals turn into bigger problems.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #iodine #vitaminK #folate #vitaminA #omega3 #healthtips #wellness #nutritionfacts #guthealth naturalhealing deficiencysigns wellnessjourney micronutrients"
 }
