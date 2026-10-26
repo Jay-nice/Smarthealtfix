@@ -1,42 +1,44 @@
 {
-  "png": "output/reel_20261025_222003.png",
-  "mp4": "output/reel_20261025_222003.mp4",
-  "cover": "output/cover_20261025_222003.png",
+  "png": "output/reel_20261026_163926.png",
+  "mp4": "output/reel_20261026_163926.mp4",
+  "cover": "output/cover_20261026_163926.png",
   "cover_bg": "white",
   "content": {
-    "title": "HABITS THAT SOUND HEALTHY BUT ARE QUIETLY {{BACKFIRING}}",
+    "title": "THE DAILY CHEAT SHEET FOR A {{CALMER}} BODY AND MIND",
     "facts": [
-      "**Chewing gum after meals** -> can make your stomach release acid as if food is coming, with nothing to digest, leaving you bloated.",
-      "**Taking a hot bath right before bed** -> feels relaxing, but if the water is too hot it raises core temperature and can delay deep sleep.",
-      "**Eating fruit as 'dessert' right after dinner** -> slows down digestion of the heavier meal and can cause gas, since fruit sugars ferment while they wait behind other food.",
-      "**Doing an intense workout on an empty stomach every morning** -> can push your body to break down muscle tissue for fuel instead of fat.",
-      "**Sleeping with your phone on airplane mode but right next to your pillow** -> the blue light from a glance at a notification still delays melatonin release.",
-      "**Drinking green tea on an empty stomach** -> the tannins can irritate the stomach lining and block iron absorption from your next meal.",
-      "**Napping for more than 45 minutes** -> pushes you into deep sleep, so waking up mid-cycle can leave you groggier than before the nap.",
-      "**Using mouthwash right after brushing** -> rinses away the concentrated fluoride your toothpaste just left behind, reducing its cavity protection.",
+      "**Sunlight** -> 10 min within 1 hour of waking -> Resets your clock",
+      "**Beets** -> 1/2 cup, 3x/week -> Lowers blood pressure",
+      "**Hanging/dead hangs** -> 30 sec, 2x/day -> Decompresses your spine",
+      "**Dark chocolate** -> 1 square (70%+) -> Calms stress response",
+      "**Humming or singing** -> 5 min/day -> Tones your vagus nerve",
+      "**Pumpkin seeds** -> 1 oz/day -> Eases muscle tension",
+      "**Standing up slowly** -> every time, for 3 sec -> Protects blood pressure",
+      "**Eye breaks from screens** -> every 20 min, look 20 ft away -> Prevents eye strain",
+      "**Gratitude note** -> 3 lines before bed -> Lowers nighttime anxiety",
+      "**Barefoot time on grass** -> 10 min/day -> Reduces inflammation markers",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are worth slowing down on. Chewing gum feels harmless, but your stomach can't tell the difference between 'real food coming' and 'just gum' — it still preps acid, which is why some people feel bloated an hour later for no obvious reason. Green tea is another sneaky one: those tannins that make it taste slightly bitter are great antioxidants, but on an empty stomach they bind to iron and can make it harder for your body to absorb it from breakfast. And that hot bath right before bed? Your body actually needs its core temperature to drop to signal sleep — a very hot bath right before lying down can delay that drop instead of helping it.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape all three. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these are way easier than they sound, and the payoff is bigger than you'd think. Beets are loaded with nitrates that your body converts into nitric oxide, which relaxes and widens blood vessels so your heart doesn't have to work as hard. Dead hangs aren't just for grip strength, they gently traction your spine and decompress the discs that get squeezed all day from sitting, which is why your back can feel instantly looser after just a few seconds. And humming might sound silly, but the vibration directly stimulates your vagus nerve, which is the main switch your body uses to shift out of fight-or-flight and into rest-and-digest mode. Everyone's body responds a little differently, so pay attention to what actually makes you feel better.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs and body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
-      "#wellness",
+      "#dailyhabits",
+      "#wellnessjourney",
+      "#vagusnerve",
+      "#bloodpressure",
+      "#nutritiontips",
+      "#stressrelief",
       "#guthealth",
-      "#sleeptips",
-      "#healthyhabits",
-      "#digestivehealth",
-      "#nutritionfacts",
-      "#bodyawareness",
-      "#holistichealth",
-      "#dailyhabits"
+      "#selfcare",
+      "#healthyliving"
     ],
     "extra_keywords": [
-      "wellnessjourney",
-      "healthmyths",
-      "mindfulliving",
-      "naturalhealing"
+      "naturalhealing",
+      "wellnesstips",
+      "healthyhabits",
+      "mindbodyconnection"
     ]
   },
-  "shape": "habit_harm_reveal",
-  "caption": "A few of these are worth slowing down on. Chewing gum feels harmless, but your stomach can't tell the difference between 'real food coming' and 'just gum' — it still preps acid, which is why some people feel bloated an hour later for no obvious reason. Green tea is another sneaky one: those tannins that make it taste slightly bitter are great antioxidants, but on an empty stomach they bind to iron and can make it harder for your body to absorb it from breakfast. And that hot bath right before bed? Your body actually needs its core temperature to drop to signal sleep — a very hot bath right before lying down can delay that drop instead of helping it.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape all three. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #sleeptips #healthyhabits #digestivehealth #nutritionfacts #bodyawareness #holistichealth #dailyhabits wellnessjourney healthmyths mindfulliving naturalhealing"
+  "shape": "daily_dose_habit",
+  "caption": "A few of these are way easier than they sound, and the payoff is bigger than you'd think. Beets are loaded with nitrates that your body converts into nitric oxide, which relaxes and widens blood vessels so your heart doesn't have to work as hard. Dead hangs aren't just for grip strength, they gently traction your spine and decompress the discs that get squeezed all day from sitting, which is why your back can feel instantly looser after just a few seconds. And humming might sound silly, but the vibration directly stimulates your vagus nerve, which is the main switch your body uses to shift out of fight-or-flight and into rest-and-digest mode. Everyone's body responds a little differently, so pay attention to what actually makes you feel better.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs and body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #dailyhabits #wellnessjourney #vagusnerve #bloodpressure #nutritiontips #stressrelief #guthealth #selfcare #healthyliving naturalhealing wellnesstips healthyhabits mindbodyconnection"
 }
