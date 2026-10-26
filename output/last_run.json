@@ -1,44 +1,43 @@
 {
-  "png": "output/reel_20261026_163926.png",
-  "mp4": "output/reel_20261026_163926.mp4",
-  "cover": "output/cover_20261026_163926.png",
+  "png": "output/reel_20261026_202607.png",
+  "mp4": "output/reel_20261026_202607.mp4",
+  "cover": "output/cover_20261026_202607.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE DAILY CHEAT SHEET FOR A {{CALMER}} BODY AND MIND",
+    "title": "KITCHEN MISTAKES THAT ARE QUIETLY RUINING YOUR 'HEALTHY' MEAL",
     "facts": [
-      "**Sunlight** -> 10 min within 1 hour of waking -> Resets your clock",
-      "**Beets** -> 1/2 cup, 3x/week -> Lowers blood pressure",
-      "**Hanging/dead hangs** -> 30 sec, 2x/day -> Decompresses your spine",
-      "**Dark chocolate** -> 1 square (70%+) -> Calms stress response",
-      "**Humming or singing** -> 5 min/day -> Tones your vagus nerve",
-      "**Pumpkin seeds** -> 1 oz/day -> Eases muscle tension",
-      "**Standing up slowly** -> every time, for 3 sec -> Protects blood pressure",
-      "**Eye breaks from screens** -> every 20 min, look 20 ft away -> Prevents eye strain",
-      "**Gratitude note** -> 3 lines before bed -> Lowers nighttime anxiety",
-      "**Barefoot time on grass** -> 10 min/day -> Reduces inflammation markers",
+      "**Boiling broccoli** – Dumping it in boiling water for 10+ minutes drains most of the vitamin C and sulforaphane straight into the water; steam it for 3-4 minutes instead.",
+      "**Salting eggplant too late** – Salting right before cooking does nothing; salt it 20-30 minutes ahead and pat dry so it stops soaking up excess oil.",
+      "**Crowding the pan** – Piling too much food in at once traps steam, so vegetables boil in their own moisture instead of browning and lose the caramelized flavor that keeps you reaching for less salt and sauce.",
+      "**Tossing the cooking water** – Pasta and vegetable water hold minerals and starch that help sauces cling; pouring it down the drain tosses flavor (and some nutrients) with it.",
+      "**Marinating in the wrong container** – Letting acidic marinades sit in metal bowls for hours can react with the metal and strip the dish of flavor compounds; use glass or ceramic instead.",
+      "**Peeling everything** – Stripping the skin off cucumbers, apples, and potatoes removes a big chunk of the fiber and antioxidants concentrated right under the surface; scrub and leave it on.",
+      "**Cooking oil past its smoke point** – Letting olive oil smoke in a hot pan breaks it down into compounds that taste bitter and lose their heart-healthy benefits; use a higher smoke-point oil for high heat instead.",
+      "**Rinsing cooked rice or quinoa** – Rinsing after cooking washes away surface starch along with water-soluble B vitamins; rinse raw grains before cooking, not after.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are way easier than they sound, and the payoff is bigger than you'd think. Beets are loaded with nitrates that your body converts into nitric oxide, which relaxes and widens blood vessels so your heart doesn't have to work as hard. Dead hangs aren't just for grip strength, they gently traction your spine and decompress the discs that get squeezed all day from sitting, which is why your back can feel instantly looser after just a few seconds. And humming might sound silly, but the vibration directly stimulates your vagus nerve, which is the main switch your body uses to shift out of fight-or-flight and into rest-and-digest mode. Everyone's body responds a little differently, so pay attention to what actually makes you feel better.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs and body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Let's talk about a few of these in more depth. Broccoli loses a surprising amount of its vitamin C the moment it hits boiling water, because that vitamin is heat-sensitive and water-soluble — it literally leaches out into the pot, which is why a quick steam keeps way more of it intact. Eggplant is another sneaky one: its spongy flesh acts like a sponge for oil the second it hits a hot pan, so salting it ahead of time draws out moisture first and leaves less room for oil to soak in. And that pasta water everyone pours down the drain? It's loaded with starch that helps sauce actually stick to your food instead of sliding off, which means better flavor with less added salt or butter. Everyone's kitchen habits are a little different, so just start swapping one mistake at a time.\n\nAt @smarthealthfix we cover everything from nutrition and common health issues to the organs and small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
-      "#dailyhabits",
-      "#wellnessjourney",
-      "#vagusnerve",
-      "#bloodpressure",
-      "#nutritiontips",
-      "#stressrelief",
+      "#wellness",
+      "#healthyeating",
+      "#cookingtips",
+      "#nutritionfacts",
+      "#mealprep",
+      "#kitchenmistakes",
+      "#foodwaste",
       "#guthealth",
-      "#selfcare",
-      "#healthyliving"
+      "#realfood"
     ],
     "extra_keywords": [
-      "naturalhealing",
-      "wellnesstips",
       "healthyhabits",
-      "mindbodyconnection"
+      "nutritiontips",
+      "cookingmistakes",
+      "wellnessjourney",
+      "foodknowledge"
     ]
   },
-  "shape": "daily_dose_habit",
-  "caption": "A few of these are way easier than they sound, and the payoff is bigger than you'd think. Beets are loaded with nitrates that your body converts into nitric oxide, which relaxes and widens blood vessels so your heart doesn't have to work as hard. Dead hangs aren't just for grip strength, they gently traction your spine and decompress the discs that get squeezed all day from sitting, which is why your back can feel instantly looser after just a few seconds. And humming might sound silly, but the vibration directly stimulates your vagus nerve, which is the main switch your body uses to shift out of fight-or-flight and into rest-and-digest mode. Everyone's body responds a little differently, so pay attention to what actually makes you feel better.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs and body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #dailyhabits #wellnessjourney #vagusnerve #bloodpressure #nutritiontips #stressrelief #guthealth #selfcare #healthyliving naturalhealing wellnesstips healthyhabits mindbodyconnection"
+  "shape": "myth_bust",
+  "caption": "Let's talk about a few of these in more depth. Broccoli loses a surprising amount of its vitamin C the moment it hits boiling water, because that vitamin is heat-sensitive and water-soluble — it literally leaches out into the pot, which is why a quick steam keeps way more of it intact. Eggplant is another sneaky one: its spongy flesh acts like a sponge for oil the second it hits a hot pan, so salting it ahead of time draws out moisture first and leaves less room for oil to soak in. And that pasta water everyone pours down the drain? It's loaded with starch that helps sauce actually stick to your food instead of sliding off, which means better flavor with less added salt or butter. Everyone's kitchen habits are a little different, so just start swapping one mistake at a time.\n\nAt @smarthealthfix we cover everything from nutrition and common health issues to the organs and small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #healthyeating #cookingtips #nutritionfacts #mealprep #kitchenmistakes #foodwaste #guthealth #realfood healthyhabits nutritiontips cookingmistakes wellnessjourney foodknowledge"
 }
