@@ -1,0 +1,208 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "THIS {{SIDE DISH}} QUIETLY BEATS THE 'HEALTHY' MAIN YOU PAID MORE FOR",
+    "facts": [
+      "**Parsley** has roughly four times more vitamin K than kale, gram for gram — yet it sits on the plate untouched as garnish.",
+      "**Plain yogurt** delivers more selenium per serving than a piece of grilled chicken breast.",
+      "**Dried apricots** pack more iron than the same weight of spinach, without the oxalates blocking absorption.",
+      "**Swiss chard** contains more magnesium than an equal serving of almonds.",
+      "**Avocado** has nearly twice the fiber of a slice of whole wheat bread.",
+      "**Butternut squash** carries more vitamin D precursors activated by sunlight exposure than most fortified cereals claim on the box.",
+      "**Chia seeds** hold far more omega-3 ALA per tablespoon than a serving of salmon by weight.",
+      "**White beans** have more calcium than a glass of milk, cup for cup.",
+      "**Follow along** – for more side-dish-vs-main nutrient breakdowns like this."
+    ],
+    "claims": [
+      {
+        "food_a": "parsley",
+        "food_b": "kale",
+        "nutrient_key": "vitamin_k"
+      },
+      {
+        "food_a": "plain yogurt",
+        "food_b": "chicken breast",
+        "nutrient_key": "selenium"
+      },
+      {
+        "food_a": "dried apricots",
+        "food_b": "spinach",
+        "nutrient_key": "iron"
+      },
+      {
+        "food_a": "swiss chard",
+        "food_b": "almonds",
+        "nutrient_key": "magnesium"
+      },
+      {
+        "food_a": "avocado",
+        "food_b": "whole wheat bread",
+        "nutrient_key": "fiber"
+      },
+      {
+        "food_a": "chia seeds",
+        "food_b": "salmon",
+        "nutrient_key": "omega3_ala"
+      },
+      {
+        "food_a": "white beans",
+        "food_b": "milk",
+        "nutrient_key": "calcium"
+      }
+    ],
+    "caption": "A few of these deserve a second look. Parsley isn't just a garnish — its vitamin K content helps your blood clot properly and plays a role in directing calcium to your bones instead of your arteries, so pushing it aside after a meal is a missed opportunity. Chia seeds are another sneaky winner: the ALA omega-3 in them gets converted (in small amounts) into the same anti-inflammatory fats found in fish oil, which is huge if you don't eat seafood often. And white beans quietly rival dairy for calcium while also bringing fiber and plant protein to the table, something a glass of milk can't do. Everyone's body absorbs nutrients a little differently, so listen to yours.\n\nThis is what we do at @smarthealthfix — breaking down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you build small, realistic habits instead of chasing quick fixes or expensive supplements.\n\nSave this post so you don't lose it, and share it with someone who still thinks parsley is just a garnish.",
+    "hashtags": [
+      "#nutritionfacts",
+      "#healthyeating",
+      "#vitaminK",
+      "#omega3",
+      "#plantbasednutrition",
+      "#foodismedicine",
+      "#micronutrients",
+      "#healthtips",
+      "#guthealth",
+      "#wellnessjourney"
+    ],
+    "extra_keywords": [
+      "nutrientdensefoods",
+      "healthyhabits",
+      "foodfacts",
+      "balanceddiet"
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 7,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "parsley",
+          "food_b": "kale",
+          "nutrient_key": "vitamin_k"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "plain yogurt",
+          "food_b": "chicken breast",
+          "nutrient_key": "selenium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "dried apricots",
+          "food_b": "spinach",
+          "nutrient_key": "iron"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "dried apricots",
+          "food_b": "spinach",
+          "nutrient": "iron",
+          "amount_a": {
+            "amount": 2.7,
+            "unit": "MG",
+            "food_description": "DRIED APRICOTS",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 3.18,
+            "unit": "MG",
+            "food_description": "SPINACH",
+            "per": "100g"
+          },
+          "ratio": 0.85
+        }
+      },
+      {
+        "claim": {
+          "food_a": "swiss chard",
+          "food_b": "almonds",
+          "nutrient_key": "magnesium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "avocado",
+          "food_b": "whole wheat bread",
+          "nutrient_key": "fiber"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "avocado",
+          "food_b": "whole wheat bread",
+          "nutrient": "fiber",
+          "amount_a": {
+            "amount": 0.1,
+            "unit": "G",
+            "food_description": "Avocado dressing",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 7.0,
+            "unit": "G",
+            "food_description": "WHOLE WHEAT BREAD",
+            "per": "100g"
+          },
+          "ratio": 0.01
+        }
+      },
+      {
+        "claim": {
+          "food_a": "chia seeds",
+          "food_b": "salmon",
+          "nutrient_key": "omega3_ala"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "white beans",
+          "food_b": "milk",
+          "nutrient_key": "calcium"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "white beans",
+          "food_b": "milk",
+          "nutrient": "calcium",
+          "amount_a": {
+            "amount": 62.0,
+            "unit": "MG",
+            "food_description": "WHITE BEANS",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 125,
+            "unit": "MG",
+            "food_description": "MILK",
+            "per": "100g"
+          },
+          "ratio": 0.5
+        }
+      }
+    ]
+  }
+}
