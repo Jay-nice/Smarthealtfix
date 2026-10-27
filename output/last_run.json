@@ -1,44 +1,42 @@
 {
-  "png": "output/reel_20261027_154717.png",
-  "mp4": "output/reel_20261027_154717.mp4",
-  "cover": "output/cover_20261027_154717.png",
+  "png": "output/reel_20261027_200105.png",
+  "mp4": "output/reel_20261027_200105.mp4",
+  "cover": "output/cover_20261027_200105.png",
   "cover_bg": "white",
   "content": {
-    "title": "ORGAN FOOD PAIRINGS MOST PEOPLE GET BACKWARDS",
+    "title": "WEIRD SIGNS YOU'RE ACTUALLY LOW ON {{NUTRIENTS}}",
     "facts": [
-      "**Walnuts** are good for BRAIN – the ridged shape isn't a coincidence, they're loaded with omega-3s that keep nerve cells firing fast.",
-      "**Oats** are good for HEART – 1 cup/day soaks up cholesterol in your gut before it ever reaches your arteries.",
-      "**Asparagus** is good for KIDNEYS – it acts like a gentle diuretic, helping flush excess fluid and sodium.",
-      "**Turmeric** is good for LIVER – a 1/2 tsp/day in food supports the enzymes your liver uses to break down toxins.",
-      "**Oysters** are good for IMMUNE SYSTEM – just 3-4 oysters pack more zinc than most people get all day from other food.",
-      "**Pomegranate** is good for ARTERIES – its compounds help keep artery walls flexible instead of stiff.",
-      "**Carrots** are good for EYES – the beta-carotene converts to vitamin A, the raw material your retinas run on.",
-      "**Fermented foods** like sauerkraut are good for GUT LINING – 2 tbsp/day feeds the bacteria that keep your gut wall strong.",
-      "**Bell peppers** are good for SKIN – 1 cup delivers more vitamin C than an orange, fueling collagen production.",
-      "**Bananas** are good for MUSCLES – the potassium helps muscles contract and relax without cramping.",
+      "**Iodine** – Unexplained weight gain, fatigue, puffy face, and feeling cold all the time.",
+      "**Vitamin K** – Bruising easily, bleeding gums, and cuts that take forever to stop.",
+      "**Vitamin A** – Night blindness, dry eyes, and frequent infections.",
+      "**Zinc** – Slow wound healing, loss of taste or smell, and brittle nails with white spots.",
+      "**Folate** – Pale skin, mouth sores, irritability, and constant exhaustion.",
+      "**Vitamin E** – Muscle weakness, vision problems, and numb or tingling limbs.",
+      "**Potassium** – Muscle cramps, irregular heartbeat, and that heavy, sluggish feeling in your legs.",
+      "**Calcium** – Numbness in fingers, muscle twitches, and weak, brittle nails.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these pairings deserve more than a quick caption. Walnuts don't just look like tiny brains by coincidence — their omega-3 fats (ALA) get converted and used to maintain the fatty membrane around your neurons, which is part of why they're linked to sharper memory over time. Turmeric works on the liver through curcumin, a compound that gives a boost to the detox enzymes your liver uses in its two-phase cleanup process, so it's not just anti-inflammatory hype. And oysters are one of the richest natural sources of zinc, a mineral your immune cells need to actually multiply fast enough to fight off something before it takes hold. Everyone's body is different, so treat this as a starting point, not a prescription.\n\nAt @smarthealthfix, we break down nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our goal is simple: help you build realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these are easy to brush off as 'just being tired,' but they're worth paying attention to. Low **iodine** can slow your thyroid down, which is why it quietly messes with your metabolism and leaves you feeling cold and sluggish even when you're resting. **Zinc** deficiency affects your sense of taste and smell because zinc is needed for the enzymes that regenerate your taste buds and support immune cell repair, which is also why wounds take longer to close. And **folate** shortage shows up in your mouth and skin first because those cells turn over fast and need a steady supply of new DNA-building blocks to keep regenerating. Everyone's body is different, so these signs are a starting point, not a diagnosis.\n\nAt @smarthealthfix we break down nutrition, common health issues, organs & body functions, and small daily habits in a way that's actually easy to use. Our mission is to help you notice what your body is telling you and build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#organhealth",
-      "#foodismedicine",
-      "#liverhealth",
-      "#guthealth",
-      "#immunesupport",
-      "#brainhealth",
-      "#eyehealth",
+      "#nutrientdeficiency",
       "#healthtips",
-      "#nutritionfacts",
-      "#wellnessjourney"
+      "#ironlevels",
+      "#zincdeficiency",
+      "#folatedeficiency",
+      "#vitamink",
+      "#wellnessjourney",
+      "#bodysignals",
+      "#nutritiontips",
+      "#micronutrients"
     ],
     "extra_keywords": [
       "naturalhealing",
-      "healthyeating",
-      "nutrientdense",
-      "wholefoods"
+      "deficiencysigns",
+      "healthawareness",
+      "nutrienttips"
     ]
   },
-  "shape": "allcaps_benefit",
-  "caption": "A few of these pairings deserve more than a quick caption. Walnuts don't just look like tiny brains by coincidence — their omega-3 fats (ALA) get converted and used to maintain the fatty membrane around your neurons, which is part of why they're linked to sharper memory over time. Turmeric works on the liver through curcumin, a compound that gives a boost to the detox enzymes your liver uses in its two-phase cleanup process, so it's not just anti-inflammatory hype. And oysters are one of the richest natural sources of zinc, a mineral your immune cells need to actually multiply fast enough to fight off something before it takes hold. Everyone's body is different, so treat this as a starting point, not a prescription.\n\nAt @smarthealthfix, we break down nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our goal is simple: help you build realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #foodismedicine #liverhealth #guthealth #immunesupport #brainhealth #eyehealth #healthtips #nutritionfacts #wellnessjourney naturalhealing healthyeating nutrientdense wholefoods"
+  "shape": "symptom_list",
+  "caption": "A few of these are easy to brush off as 'just being tired,' but they're worth paying attention to. Low **iodine** can slow your thyroid down, which is why it quietly messes with your metabolism and leaves you feeling cold and sluggish even when you're resting. **Zinc** deficiency affects your sense of taste and smell because zinc is needed for the enzymes that regenerate your taste buds and support immune cell repair, which is also why wounds take longer to close. And **folate** shortage shows up in your mouth and skin first because those cells turn over fast and need a steady supply of new DNA-building blocks to keep regenerating. Everyone's body is different, so these signs are a starting point, not a diagnosis.\n\nAt @smarthealthfix we break down nutrition, common health issues, organs & body functions, and small daily habits in a way that's actually easy to use. Our mission is to help you notice what your body is telling you and build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #healthtips #ironlevels #zincdeficiency #folatedeficiency #vitamink #wellnessjourney #bodysignals #nutritiontips #micronutrients naturalhealing deficiencysigns healthawareness nutrienttips"
 }
