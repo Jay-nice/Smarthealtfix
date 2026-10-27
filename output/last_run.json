@@ -1,43 +1,44 @@
 {
-  "png": "output/reel_20261027_000348.png",
-  "mp4": "output/reel_20261027_000348.mp4",
-  "cover": "output/cover_20261027_000348.png",
+  "png": "output/reel_20261027_154717.png",
+  "mp4": "output/reel_20261027_154717.mp4",
+  "cover": "output/cover_20261027_154717.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE NEW PARENT RESET: {{SURVIVE}} THE FIRST YEAR WITHOUT WRECKING YOUR BODY",
+    "title": "ORGAN FOOD PAIRINGS MOST PEOPLE GET BACKWARDS",
     "facts": [
-      "**Hydrate before coffee** – drink a full glass of water before your first cup, since sleep deprivation already dehydrates you and caffeine on top makes it worse.",
-      "**Eat standing meals that count** – choose protein + fruit combos (like turkey and an apple) you can eat one-handed, so you're not running on crackers all day.",
-      "**Stretch your neck and shoulders** – 2 minutes every few hours undoes the hunch from constant feeding and carrying.",
-      "**Nap when baby naps, skip the chores** – even 20 minutes of rest lowers stress hormones more than catching up on laundry does.",
-      "**Split night wakings with a partner** – alternate who gets the first full sleep block so at least one of you gets 4+ hours uninterrupted.",
-      "**Step outside for 10 minutes daily** – fresh air and daylight reset your circadian rhythm even when your sleep schedule is chaos.",
-      "**Keep a water bottle at every feeding spot** – breastfeeding and bottle duty both spike thirst you'll otherwise ignore.",
-      "**Ask for one hour off per day** – protecting even 60 minutes for yourself prevents the burnout that builds silently in new parents.",
+      "**Walnuts** are good for BRAIN – the ridged shape isn't a coincidence, they're loaded with omega-3s that keep nerve cells firing fast.",
+      "**Oats** are good for HEART – 1 cup/day soaks up cholesterol in your gut before it ever reaches your arteries.",
+      "**Asparagus** is good for KIDNEYS – it acts like a gentle diuretic, helping flush excess fluid and sodium.",
+      "**Turmeric** is good for LIVER – a 1/2 tsp/day in food supports the enzymes your liver uses to break down toxins.",
+      "**Oysters** are good for IMMUNE SYSTEM – just 3-4 oysters pack more zinc than most people get all day from other food.",
+      "**Pomegranate** is good for ARTERIES – its compounds help keep artery walls flexible instead of stiff.",
+      "**Carrots** are good for EYES – the beta-carotene converts to vitamin A, the raw material your retinas run on.",
+      "**Fermented foods** like sauerkraut are good for GUT LINING – 2 tbsp/day feeds the bacteria that keep your gut wall strong.",
+      "**Bell peppers** are good for SKIN – 1 cup delivers more vitamin C than an orange, fueling collagen production.",
+      "**Bananas** are good for MUSCLES – the potassium helps muscles contract and relax without cramping.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "New parents, a few of these matter more than they sound. Hydrate before coffee is huge because sleep deprivation already pulls water from your cells, and caffeine is a mild diuretic that pulls even more — so your body ends up running on empty without you noticing the thirst signal. Stretch your neck and shoulders isn't just comfort either: constant feeding and carrying pulls your upper spine into a forward hunch, and tight muscles there are directly linked to the tension headaches so many new parents get. And stepping outside for 10 minutes daily works because morning light exposure is one of the strongest resets for your internal clock, which matters even more when your actual sleep hours are unpredictable. Everyone's body and situation is different, so adjust these to what actually fits your days.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't survive real life.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.",
+    "caption": "A few of these pairings deserve more than a quick caption. Walnuts don't just look like tiny brains by coincidence — their omega-3 fats (ALA) get converted and used to maintain the fatty membrane around your neurons, which is part of why they're linked to sharper memory over time. Turmeric works on the liver through curcumin, a compound that gives a boost to the detox enzymes your liver uses in its two-phase cleanup process, so it's not just anti-inflammatory hype. And oysters are one of the richest natural sources of zinc, a mineral your immune cells need to actually multiply fast enough to fight off something before it takes hold. Everyone's body is different, so treat this as a starting point, not a prescription.\n\nAt @smarthealthfix, we break down nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our goal is simple: help you build realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#newparent",
-      "#postpartumhealth",
-      "#parentingtips",
-      "#selfcarefornewparents",
-      "#sleepdeprivation",
+      "#organhealth",
+      "#foodismedicine",
+      "#liverhealth",
+      "#guthealth",
+      "#immunesupport",
+      "#brainhealth",
+      "#eyehealth",
       "#healthtips",
-      "#wellness",
-      "#momlife",
-      "#dadlife",
-      "#babyandme"
+      "#nutritionfacts",
+      "#wellnessjourney"
     ],
     "extra_keywords": [
-      "newparentlife",
-      "postpartumrecovery",
-      "parentwellness",
-      "healthyhabits",
-      "sleepdeprived"
+      "naturalhealing",
+      "healthyeating",
+      "nutrientdense",
+      "wholefoods"
     ]
   },
-  "shape": "imperative_advice_list",
-  "caption": "New parents, a few of these matter more than they sound. Hydrate before coffee is huge because sleep deprivation already pulls water from your cells, and caffeine is a mild diuretic that pulls even more — so your body ends up running on empty without you noticing the thirst signal. Stretch your neck and shoulders isn't just comfort either: constant feeding and carrying pulls your upper spine into a forward hunch, and tight muscles there are directly linked to the tension headaches so many new parents get. And stepping outside for 10 minutes daily works because morning light exposure is one of the strongest resets for your internal clock, which matters even more when your actual sleep hours are unpredictable. Everyone's body and situation is different, so adjust these to what actually fits your days.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing quick fixes that don't survive real life.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.\n\n#newparent #postpartumhealth #parentingtips #selfcarefornewparents #sleepdeprivation #healthtips #wellness #momlife #dadlife #babyandme newparentlife postpartumrecovery parentwellness healthyhabits sleepdeprived"
+  "shape": "allcaps_benefit",
+  "caption": "A few of these pairings deserve more than a quick caption. Walnuts don't just look like tiny brains by coincidence — their omega-3 fats (ALA) get converted and used to maintain the fatty membrane around your neurons, which is part of why they're linked to sharper memory over time. Turmeric works on the liver through curcumin, a compound that gives a boost to the detox enzymes your liver uses in its two-phase cleanup process, so it's not just anti-inflammatory hype. And oysters are one of the richest natural sources of zinc, a mineral your immune cells need to actually multiply fast enough to fight off something before it takes hold. Everyone's body is different, so treat this as a starting point, not a prescription.\n\nAt @smarthealthfix, we break down nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our goal is simple: help you build realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #foodismedicine #liverhealth #guthealth #immunesupport #brainhealth #eyehealth #healthtips #nutritionfacts #wellnessjourney naturalhealing healthyeating nutrientdense wholefoods"
 }
