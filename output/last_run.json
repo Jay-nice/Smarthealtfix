@@ -1,44 +1,43 @@
 {
-  "png": "output/reel_20261028_163116.png",
-  "mp4": "output/reel_20261028_163116.mp4",
-  "cover": "output/cover_20261028_163116.png",
+  "png": "output/reel_20261028_201408.png",
+  "mp4": "output/reel_20261028_201408.mp4",
+  "cover": "output/cover_20261028_201408.png",
   "cover_bg": "white",
   "content": {
-    "title": "WEIRD SIGNS YOU'RE ACTUALLY {{HEALTHIER}} THAN YOU THINK",
+    "title": "COOKING MISTAKES THAT ARE SECRETLY KILLING YOUR {{NUTRIENTS}}",
     "facts": [
-      "Sneezing in bright sunlight -> your nervous system reflexes are sharp and well-wired",
-      "Loud stomach growling -> strong migrating motor complex, your gut is cleaning house properly",
-      "Waking up briefly at night -> normal sleep cycling, not a sign of broken sleep",
-      "Sweating fast during a workout -> an efficient, well-trained cooling system",
-      "Getting thirsty often -> your hydration signals are working exactly as designed",
-      "Yawning when someone else yawns -> a sign of strong social and brain connectivity",
-      "Goosebumps during music or cold -> a responsive, healthy autonomic nervous system",
-      "Deep, slow breathing at rest -> a calm nervous system with good lung capacity",
-      "Skin flushing after a hot shower -> blood vessels dilating and circulating well",
-      "Feeling sleepy after a big meal -> healthy digestion rerouting blood to your gut",
-      "Follow along -> for more daily health tips like this."
+      "**Boiling broccoli** – Up to half its vitamin C can leach into the water; steam it for 4-5 minutes instead to keep most of it intact.",
+      "**Overcrowding the pan** – Packing too much food in traps steam, so vegetables boil instead of sear, losing that nutrient-preserving caramelized crust.",
+      "**Rinsing canned beans too fast** – A quick splash doesn't cut it; rinse for 30 seconds under running water to wash off most of the added sodium.",
+      "**Tossing the cooking water** – Nutrients from veggies and pasta often end up in that leftover water; save a splash for soups or sauces instead of pouring it down the drain.",
+      "**Cooking oil at high smoke point mistakes** – Using extra virgin olive oil for high-heat searing breaks it down fast; save it for finishing dishes and use a neutral oil like avocado for high heat.",
+      "**Salting meat right before cooking** – This draws moisture out before it can reabsorb; salt at least 20 minutes ahead so it stays juicy.",
+      "**Peeling everything** – Many skins (zucchini, cucumber, potato) hold a big share of the fiber and minerals; a quick scrub beats peeling for most produce.",
+      "**Letting food sit out after cooking** – Leaving meals at room temp for over 2 hours lets bacteria multiply fast, even if it still looks and smells fine.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Some of these signals get mistaken for something being wrong, when it's actually the opposite. Take that stomach growling - it's often your migrating motor complex at work, a wave of muscle contractions that sweeps leftover food and bacteria through your gut between meals, basically a built-in cleaning cycle. Or sweating fast during exercise: a quick-trigger sweat response usually means your body has adapted to heat well and your cooling system doesn't waste time kicking in. And those random goosebumps from music or cold air? That's your autonomic nervous system firing normally, releasing tiny muscle contractions tied to adrenaline, a sign the wiring between brain and body is responsive and intact. Everyone's body is different, so use these as a general guide, not a diagnosis.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and the small daily habits that quietly shape how you feel. Our mission is to help you understand your body's signals so you can build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these mistakes are worth slowing down on. With broccoli, the vitamin C is water-soluble, meaning it dissolves right into whatever liquid you're cooking it in, so boiling for too long is basically pouring nutrients down the sink. Steaming keeps the florets away from direct water contact, which is why it preserves so much more. With canned beans, that starchy liquid (aquafaba) carries a surprising amount of the added sodium from processing, so a proper rinse under running water makes a real difference to your daily intake. And salting meat early isn't just a flavor trick: the salt first pulls moisture to the surface, then over time gets reabsorbed back in along with it, which is what keeps the meat tender instead of dry. Everyone's kitchen setup is different, so adjust based on what you're actually cooking.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and small daily habits that actually stick. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
       "#wellness",
-      "#bodysignals",
-      "#guthealth",
-      "#sleephealth",
-      "#nervoussystem",
-      "#digestivehealth",
+      "#healthyeating",
+      "#cookingmistakes",
+      "#nutritiontips",
+      "#mealprep",
+      "#foodscience",
+      "#kitchentips",
       "#healthyhabits",
-      "#selfcare",
-      "#bodyawareness"
+      "#cleaneating"
     ],
     "extra_keywords": [
-      "naturalhealing",
+      "healthykitchen",
+      "nutritionfacts",
       "wellnessjourney",
-      "bodysignals101",
-      "healthfacts"
+      "foodprep",
+      "healthyliving"
     ]
   },
-  "shape": "counterintuitive_healthy_sign",
-  "caption": "Some of these signals get mistaken for something being wrong, when it's actually the opposite. Take that stomach growling - it's often your migrating motor complex at work, a wave of muscle contractions that sweeps leftover food and bacteria through your gut between meals, basically a built-in cleaning cycle. Or sweating fast during exercise: a quick-trigger sweat response usually means your body has adapted to heat well and your cooling system doesn't waste time kicking in. And those random goosebumps from music or cold air? That's your autonomic nervous system firing normally, releasing tiny muscle contractions tied to adrenaline, a sign the wiring between brain and body is responsive and intact. Everyone's body is different, so use these as a general guide, not a diagnosis.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and the small daily habits that quietly shape how you feel. Our mission is to help you understand your body's signals so you can build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #bodysignals #guthealth #sleephealth #nervoussystem #digestivehealth #healthyhabits #selfcare #bodyawareness naturalhealing wellnessjourney bodysignals101 healthfacts"
+  "shape": "myth_bust",
+  "caption": "A few of these mistakes are worth slowing down on. With broccoli, the vitamin C is water-soluble, meaning it dissolves right into whatever liquid you're cooking it in, so boiling for too long is basically pouring nutrients down the sink. Steaming keeps the florets away from direct water contact, which is why it preserves so much more. With canned beans, that starchy liquid (aquafaba) carries a surprising amount of the added sodium from processing, so a proper rinse under running water makes a real difference to your daily intake. And salting meat early isn't just a flavor trick: the salt first pulls moisture to the surface, then over time gets reabsorbed back in along with it, which is what keeps the meat tender instead of dry. Everyone's kitchen setup is different, so adjust based on what you're actually cooking.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and small daily habits that actually stick. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #healthyeating #cookingmistakes #nutritiontips #mealprep #foodscience #kitchentips #healthyhabits #cleaneating healthykitchen nutritionfacts wellnessjourney foodprep healthyliving"
 }
