@@ -1,42 +1,44 @@
 {
-  "png": "output/reel_20261027_200105.png",
-  "mp4": "output/reel_20261027_200105.mp4",
-  "cover": "output/cover_20261027_200105.png",
+  "png": "output/reel_20261028_163116.png",
+  "mp4": "output/reel_20261028_163116.mp4",
+  "cover": "output/cover_20261028_163116.png",
   "cover_bg": "white",
   "content": {
-    "title": "WEIRD SIGNS YOU'RE ACTUALLY LOW ON {{NUTRIENTS}}",
+    "title": "WEIRD SIGNS YOU'RE ACTUALLY {{HEALTHIER}} THAN YOU THINK",
     "facts": [
-      "**Iodine** – Unexplained weight gain, fatigue, puffy face, and feeling cold all the time.",
-      "**Vitamin K** – Bruising easily, bleeding gums, and cuts that take forever to stop.",
-      "**Vitamin A** – Night blindness, dry eyes, and frequent infections.",
-      "**Zinc** – Slow wound healing, loss of taste or smell, and brittle nails with white spots.",
-      "**Folate** – Pale skin, mouth sores, irritability, and constant exhaustion.",
-      "**Vitamin E** – Muscle weakness, vision problems, and numb or tingling limbs.",
-      "**Potassium** – Muscle cramps, irregular heartbeat, and that heavy, sluggish feeling in your legs.",
-      "**Calcium** – Numbness in fingers, muscle twitches, and weak, brittle nails.",
-      "**Follow along** – for more daily health tips like this."
+      "Sneezing in bright sunlight -> your nervous system reflexes are sharp and well-wired",
+      "Loud stomach growling -> strong migrating motor complex, your gut is cleaning house properly",
+      "Waking up briefly at night -> normal sleep cycling, not a sign of broken sleep",
+      "Sweating fast during a workout -> an efficient, well-trained cooling system",
+      "Getting thirsty often -> your hydration signals are working exactly as designed",
+      "Yawning when someone else yawns -> a sign of strong social and brain connectivity",
+      "Goosebumps during music or cold -> a responsive, healthy autonomic nervous system",
+      "Deep, slow breathing at rest -> a calm nervous system with good lung capacity",
+      "Skin flushing after a hot shower -> blood vessels dilating and circulating well",
+      "Feeling sleepy after a big meal -> healthy digestion rerouting blood to your gut",
+      "Follow along -> for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are easy to brush off as 'just being tired,' but they're worth paying attention to. Low **iodine** can slow your thyroid down, which is why it quietly messes with your metabolism and leaves you feeling cold and sluggish even when you're resting. **Zinc** deficiency affects your sense of taste and smell because zinc is needed for the enzymes that regenerate your taste buds and support immune cell repair, which is also why wounds take longer to close. And **folate** shortage shows up in your mouth and skin first because those cells turn over fast and need a steady supply of new DNA-building blocks to keep regenerating. Everyone's body is different, so these signs are a starting point, not a diagnosis.\n\nAt @smarthealthfix we break down nutrition, common health issues, organs & body functions, and small daily habits in a way that's actually easy to use. Our mission is to help you notice what your body is telling you and build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Some of these signals get mistaken for something being wrong, when it's actually the opposite. Take that stomach growling - it's often your migrating motor complex at work, a wave of muscle contractions that sweeps leftover food and bacteria through your gut between meals, basically a built-in cleaning cycle. Or sweating fast during exercise: a quick-trigger sweat response usually means your body has adapted to heat well and your cooling system doesn't waste time kicking in. And those random goosebumps from music or cold air? That's your autonomic nervous system firing normally, releasing tiny muscle contractions tied to adrenaline, a sign the wiring between brain and body is responsive and intact. Everyone's body is different, so use these as a general guide, not a diagnosis.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and the small daily habits that quietly shape how you feel. Our mission is to help you understand your body's signals so you can build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#nutrientdeficiency",
       "#healthtips",
-      "#ironlevels",
-      "#zincdeficiency",
-      "#folatedeficiency",
-      "#vitamink",
-      "#wellnessjourney",
+      "#wellness",
       "#bodysignals",
-      "#nutritiontips",
-      "#micronutrients"
+      "#guthealth",
+      "#sleephealth",
+      "#nervoussystem",
+      "#digestivehealth",
+      "#healthyhabits",
+      "#selfcare",
+      "#bodyawareness"
     ],
     "extra_keywords": [
       "naturalhealing",
-      "deficiencysigns",
-      "healthawareness",
-      "nutrienttips"
+      "wellnessjourney",
+      "bodysignals101",
+      "healthfacts"
     ]
   },
-  "shape": "symptom_list",
-  "caption": "A few of these are easy to brush off as 'just being tired,' but they're worth paying attention to. Low **iodine** can slow your thyroid down, which is why it quietly messes with your metabolism and leaves you feeling cold and sluggish even when you're resting. **Zinc** deficiency affects your sense of taste and smell because zinc is needed for the enzymes that regenerate your taste buds and support immune cell repair, which is also why wounds take longer to close. And **folate** shortage shows up in your mouth and skin first because those cells turn over fast and need a steady supply of new DNA-building blocks to keep regenerating. Everyone's body is different, so these signs are a starting point, not a diagnosis.\n\nAt @smarthealthfix we break down nutrition, common health issues, organs & body functions, and small daily habits in a way that's actually easy to use. Our mission is to help you notice what your body is telling you and build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #healthtips #ironlevels #zincdeficiency #folatedeficiency #vitamink #wellnessjourney #bodysignals #nutritiontips #micronutrients naturalhealing deficiencysigns healthawareness nutrienttips"
+  "shape": "counterintuitive_healthy_sign",
+  "caption": "Some of these signals get mistaken for something being wrong, when it's actually the opposite. Take that stomach growling - it's often your migrating motor complex at work, a wave of muscle contractions that sweeps leftover food and bacteria through your gut between meals, basically a built-in cleaning cycle. Or sweating fast during exercise: a quick-trigger sweat response usually means your body has adapted to heat well and your cooling system doesn't waste time kicking in. And those random goosebumps from music or cold air? That's your autonomic nervous system firing normally, releasing tiny muscle contractions tied to adrenaline, a sign the wiring between brain and body is responsive and intact. Everyone's body is different, so use these as a general guide, not a diagnosis.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and the small daily habits that quietly shape how you feel. Our mission is to help you understand your body's signals so you can build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #bodysignals #guthealth #sleephealth #nervoussystem #digestivehealth #healthyhabits #selfcare #bodyawareness naturalhealing wellnessjourney bodysignals101 healthfacts"
 }
