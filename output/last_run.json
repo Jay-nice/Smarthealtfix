@@ -1,43 +1,41 @@
 {
-  "png": "output/reel_20261028_235432.png",
-  "mp4": "output/reel_20261028_235432.mp4",
-  "cover": "output/cover_20261028_235432.png",
+  "png": "output/reel_20261029_201240.png",
+  "mp4": "output/reel_20261029_201240.mp4",
+  "cover": "output/cover_20261029_201240.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE STORAGE MISTAKES THAT TURN {{DINNER}} INTO A RISK",
+    "title": "THE {{MINERAL}} MOST PEOPLE ARE QUIETLY RUNNING LOW ON",
     "facts": [
-      "**Potatoes** – Storing them in the light until they sprout and turn green (green skin signals solanine buildup, a natural toxin).",
-      "**Chicken** – Washing raw chicken in the sink before cooking (splashes spread bacteria like Campylobacter across your sink and counters).",
-      "**Honey** – Feeding it to a baby under 1 year old (risk of infant botulism from Clostridium spores).",
-      "**Melon** – Leaving a cut melon out on the counter for hours (moist, sugary flesh is a prime spot for Listeria and Salmonella to multiply).",
-      "**Garlic in oil** – Making homemade garlic-infused oil and storing it at room temperature (low-oxygen environment that can let Clostridium botulinum grow).",
-      "**Leftover pasta** – Cooling a big pot slowly on the counter overnight (same Bacillus cereus spore risk as rice if it sits too long before refrigeration).",
-      "**Eggs** – Storing them in the fridge door instead of the main shelf (door temps fluctuate more, speeding up bacterial growth).",
-      "**Raw sprouts** – Eating them uncooked thinking they're 'extra healthy' (warm, humid growing conditions make them a common source of Salmonella and E. coli).",
-      "**Follow along** – for more daily food safety tips like this."
+      "**Copper** (Collagen Builder) — Cashews | Dark Chocolate | Lentils | Shiitake Mushrooms",
+      "**Manganese** (Bone Architect) — Pineapple | Brown Rice | Chickpeas | Pecans",
+      "**Selenium** (Thyroid Guardian) — Brazil Nuts | Sardines | Sunflower Seeds | Brown Rice",
+      "**Magnesium** (Nerve Calmer) — Pumpkin Seeds | Swiss Chard | Black Beans | Almonds",
+      "**Iron** (Oxygen Carrier) — Lentils | Spinach | Pumpkin Seeds | Dark Turkey Meat",
+      "**Zinc** (Wound Healer) — Hemp Seeds | Chickpeas | Cashews | Pumpkin Seeds",
+      "**Iodine** (Metabolism Switch) — Seaweed | Cod | Shrimp | Iodized Salt",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Let's talk about a few of these in more detail. Potatoes that have gone green or sprouted aren't just 'less fresh' — that green tint means solanine has built up, and enough of it can cause nausea, headaches, and stomach cramps, so cutting away a small spot isn't always enough if the sprouting is heavy. With garlic in oil, the danger is sneaky because the oil hides all the warning signs — no smell, no visible mold — while Clostridium botulinum can quietly grow in that airless environment at room temperature. And honey might seem like the gentlest natural sweetener, but a baby's digestive system under 1 year old can't yet fight off the bacterial spores it can contain, which is why pediatricians are strict about waiting until after the first birthday. Everyone's kitchen habits are different, so it's worth double-checking your own routine against these.\n\n@smarthealthfix covers nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build simple, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these minerals do more than most people realize. Copper might sound random, but it works quietly alongside iron to help your body actually form red blood cells — without enough of it, iron supplements alone won't fix low energy. Manganese plays a direct role in activating the enzymes that build and maintain bone density, something that usually only gets credit to calcium. And selenium is one of the few minerals your thyroid literally cannot function properly without, since it helps convert thyroid hormone into its active form. That said, everyone's body is different, so pay attention to how yours responds rather than chasing numbers.\n\nThis is what @smarthealthfix is all about: breaking down nutrition, common health issues, the way your organs actually function, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#foodsafety",
-      "#kitchentips",
       "#healthtips",
-      "#foodpoisoningprevention",
-      "#mealprep",
       "#wellness",
-      "#foodstorage",
-      "#healthykitchen",
-      "#babysafety",
-      "#leftoversafety"
+      "#mineraldeficiency",
+      "#copperbenefits",
+      "#manganese",
+      "#seleniumsupport",
+      "#thyroidhealth",
+      "#nutritionfacts",
+      "#guthealth",
+      "#holistichealth"
     ],
     "extra_keywords": [
-      "foodsafetytips",
-      "kitchenhacks",
-      "healthyhabits",
+      "nutrientdense",
       "wellnessjourney",
-      "cookingmistakes"
+      "foodismedicine",
+      "micronutrients"
     ]
   },
-  "shape": "food_safety_mistake",
-  "caption": "Let's talk about a few of these in more detail. Potatoes that have gone green or sprouted aren't just 'less fresh' — that green tint means solanine has built up, and enough of it can cause nausea, headaches, and stomach cramps, so cutting away a small spot isn't always enough if the sprouting is heavy. With garlic in oil, the danger is sneaky because the oil hides all the warning signs — no smell, no visible mold — while Clostridium botulinum can quietly grow in that airless environment at room temperature. And honey might seem like the gentlest natural sweetener, but a baby's digestive system under 1 year old can't yet fight off the bacterial spores it can contain, which is why pediatricians are strict about waiting until after the first birthday. Everyone's kitchen habits are different, so it's worth double-checking your own routine against these.\n\n@smarthealthfix covers nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build simple, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodsafety #kitchentips #healthtips #foodpoisoningprevention #mealprep #wellness #foodstorage #healthykitchen #babysafety #leftoversafety foodsafetytips kitchenhacks healthyhabits wellnessjourney cookingmistakes"
+  "shape": "mineral_sources",
+  "caption": "A few of these minerals do more than most people realize. Copper might sound random, but it works quietly alongside iron to help your body actually form red blood cells — without enough of it, iron supplements alone won't fix low energy. Manganese plays a direct role in activating the enzymes that build and maintain bone density, something that usually only gets credit to calcium. And selenium is one of the few minerals your thyroid literally cannot function properly without, since it helps convert thyroid hormone into its active form. That said, everyone's body is different, so pay attention to how yours responds rather than chasing numbers.\n\nThis is what @smarthealthfix is all about: breaking down nutrition, common health issues, the way your organs actually function, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #mineraldeficiency #copperbenefits #manganese #seleniumsupport #thyroidhealth #nutritionfacts #guthealth #holistichealth nutrientdense wellnessjourney foodismedicine micronutrients"
 }
