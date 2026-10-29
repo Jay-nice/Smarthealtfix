@@ -1,0 +1,176 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "THE GROCERY STORE SWAPS THAT QUIETLY {{OUTPERFORM}} THE 'HEALTHY' CHOICE",
+    "facts": [
+      "A cup of cooked **swiss chard** has nearly double the magnesium of a cup of spinach, and most people never put it in the cart.",
+      "**Brazil nuts** are so loaded with selenium that just 2 nuts/day covers your entire daily need — more than any other common food.",
+      "**Dried apricots** carry more iron per cup than a 6oz serving of ground beef, which surprises most people who think iron means meat.",
+      "A medium **parsnip** has more fiber than a cup of oatmeal, yet it almost never shows up on 'high-fiber food' lists.",
+      "**Dried figs** (5 pieces/day) pack more calcium than a glass of milk, making them a sneaky win for people who skip dairy.",
+      "**White beans** (1 cup) have more potassium than a banana — almost double, in fact — but bananas still get all the credit.",
+      "**Canned sardines** with bones are one of the few whole foods naturally rich in vitamin D, rivaling a glass of fortified milk per serving.",
+      "**Hemp seeds** (3 tbsp/day) deliver a solid dose of plant-based omega-3s, something most people assume only comes from fish.",
+      "**Dark leafy kale** carries more vitamin K in a single cup than most people get from an entire day of regular meals.",
+      "**Follow along** – for more daily health tips like this."
+    ],
+    "claims": [
+      {
+        "food_a": "swiss chard",
+        "food_b": "spinach",
+        "nutrient_key": "magnesium"
+      },
+      {
+        "food_a": "brazil nuts",
+        "food_b": "most other foods",
+        "nutrient_key": "selenium"
+      },
+      {
+        "food_a": "dried apricots",
+        "food_b": "ground beef",
+        "nutrient_key": "iron"
+      },
+      {
+        "food_a": "parsnip",
+        "food_b": "oatmeal",
+        "nutrient_key": "fiber"
+      },
+      {
+        "food_a": "dried figs",
+        "food_b": "milk",
+        "nutrient_key": "calcium"
+      },
+      {
+        "food_a": "white beans",
+        "food_b": "banana",
+        "nutrient_key": "potassium"
+      },
+      {
+        "food_a": "sardines",
+        "food_b": "fortified milk",
+        "nutrient_key": "vitamin_d"
+      },
+      {
+        "food_a": "kale",
+        "food_b": "average daily intake",
+        "nutrient_key": "vitamin_k"
+      }
+    ],
+    "caption": "A few of these deserve a closer look. **Brazil nuts** work so well for selenium because your thyroid actually needs this mineral to convert thyroid hormone into its active form — without enough of it, your metabolism can quietly slow down. **Swiss chard** pulls ahead on magnesium partly because it's so nutrient-dense per calorie, and magnesium is the mineral your muscles and nervous system rely on to actually relax after they contract — low levels are linked to that wired-but-tired feeling. And **sardines** are one of the rare whole-food sources of vitamin D because, unlike most fish, you eat the skin and small bones, where a lot of that fat-soluble vitamin gets stored. Everyone's body and needs are different, so treat this as a starting point, not a prescription.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and small daily habits that actually stick. Our mission is to help you make small, realistic swaps instead of chasing the next trendy superfood.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "hashtags": [
+      "#nutritionfacts",
+      "#healthtips",
+      "#micronutrients",
+      "#magnesium",
+      "#seleniumrich",
+      "#plantbasedprotein",
+      "#ironrich",
+      "#fiberrich",
+      "#vitamind",
+      "#wellnessjourney"
+    ],
+    "extra_keywords": [
+      "nutrientdense",
+      "foodswaps",
+      "healthyeating",
+      "mineralrich",
+      "balanceddiet"
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 8,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "swiss chard",
+          "food_b": "spinach",
+          "nutrient_key": "magnesium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "parsnip",
+          "food_b": "oatmeal",
+          "nutrient_key": "fiber"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "parsnip",
+          "food_b": "oatmeal",
+          "nutrient": "fiber",
+          "amount_a": {
+            "amount": 3.5,
+            "unit": "G",
+            "food_description": "Parsnips, cooked",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 8.9,
+            "unit": "G",
+            "food_description": "OATMEAL",
+            "per": "100g"
+          },
+          "ratio": 0.39
+        }
+      },
+      {
+        "claim": {
+          "food_a": "dried figs",
+          "food_b": "milk",
+          "nutrient_key": "calcium"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "dried figs",
+          "food_b": "milk",
+          "nutrient": "calcium",
+          "amount_a": {
+            "amount": 93.0,
+            "unit": "MG",
+            "food_description": "DRIED FIGS",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 127,
+            "unit": "MG",
+            "food_description": "MILK",
+            "per": "100g"
+          },
+          "ratio": 0.73
+        }
+      },
+      {
+        "claim": {
+          "food_a": "white beans",
+          "food_b": "banana",
+          "nutrient_key": "potassium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "sardines",
+          "food_b": "fortified milk",
+          "nutrient_key": "vitamin_d"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      }
+    ]
+  }
+}
