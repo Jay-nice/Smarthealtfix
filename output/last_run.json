@@ -1,44 +1,43 @@
 {
-  "png": "output/reel_20261030_163641.png",
-  "mp4": "output/reel_20261030_163641.mp4",
-  "cover": "output/cover_20261030_163641.png",
+  "png": "output/reel_20261030_195618.png",
+  "mp4": "output/reel_20261030_195618.mp4",
+  "cover": "output/cover_20261030_195618.png",
   "cover_bg": "white",
   "content": {
-    "title": "SIGNS YOU'RE ACTUALLY IN {{GREAT}} SHAPE",
+    "title": "RULES EVERY NEW PARENT NEEDS TO HEAR ABOUT {{YOUR OWN}} HEALTH",
     "facts": [
-      "**Sneezing in sunlight** -> your nervous system reflexes are sharp and well-wired",
-      "**Loud stomach growls** -> strong migrating motor complex clearing your gut between meals",
-      "**Waking up before your alarm** -> a stable circadian rhythm regulating your sleep cycle",
-      "**Sweating fast during a workout** -> an efficient cooling system that trained quickly",
-      "**Getting goosebumps from music** -> a responsive, well-connected nervous system",
-      "**Yawning when someone else does** -> strong social wiring and healthy brain empathy circuits",
-      "**Frequent thirst in heat** -> your body accurately sensing and regulating hydration",
-      "**Audible joint cracks with no pain** -> normal gas release, not a sign of damage",
-      "**Vivid, memorable dreams** -> deep REM sleep doing its restorative job",
-      "**Getting cold hands after eating** -> blood being efficiently redirected to digestion",
-      "**Follow along** -> for more daily health tips like this."
+      "**Eat standing up if you have to** – a rushed meal is still better than a skipped one when you're running on broken sleep.",
+      "**Stack your vitamin D with your coffee** – 1 habit you'll actually remember beats a pill routine you forget by week two.",
+      "**Nap in 20-minute blocks** – anything longer leaves you groggier, anything shorter won't touch your sleep debt.",
+      "**Keep a water bottle on the changing table** – breastfeeding and chasing a toddler both drain fluids faster than you notice.",
+      "**Let the dishes sit, not your blood pressure** – 10 minutes of sitting down and breathing does more for you than a spotless sink.",
+      "**Batch-cook protein on Sundays** – having cooked chicken thighs or beans ready means you won't default to crackers at 8pm.",
+      "**Ask for a 1-hour solo walk weekly** – it's not selfish, it's the minimum most new parents need to stay regulated.",
+      "**Check your own mood, not just the baby's** – persistent sadness or numbness past 2 weeks postpartum deserves a real conversation with a doctor.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these deserve a closer look. Take the stomach growls (borborygmi) — that sound is your migrating motor complex, a wave of muscle contractions that sweeps leftover food and bacteria through your intestines between meals, basically housekeeping for your gut. Then there's sweating fast during exercise: people who are more aerobically fit tend to start sweating sooner, not later, because their bodies have learned to cool down efficiently before core temperature climbs too high. And those vivid dreams? They usually show up during longer stretches of REM sleep, the stage tied to memory consolidation and emotional processing. Everyone's body is different, so use these as gentle reassurance, not a diagnosis.\n\nAt @smarthealthfix we dig into nutrition, common symptoms, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you understand your body better instead of panicking over every weird little sign.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "New parent life makes even basic habits feel impossible, so small swaps matter more than perfect routines. Take vitamin D stacked with your morning coffee: pairing a new habit with an existing one (called habit stacking) makes it far more likely to stick when your brain is foggy from lack of sleep. Batch-cooking protein like chicken thighs or beans on a slower day means your blood sugar stays steadier through the week instead of crashing from grabbing whatever's closest. And that 20-minute nap isn't random — it's short enough to avoid deep sleep inertia, so you wake up actually more alert instead of groggier than before. Everyone's situation looks different, so take what fits your week.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and small daily habits that actually hold up in real life. Our mission is to help you build realistic routines instead of chasing perfection you don't have time for.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.",
     "hashtags": [
+      "#newparenttips",
+      "#postpartumhealth",
+      "#parentwellness",
       "#healthtips",
-      "#wellness",
-      "#bodyawareness",
-      "#guthealth",
-      "#sleephealth",
-      "#nervoussystem",
-      "#healthyhabits",
-      "#signsofhealth",
-      "#circulation",
-      "#restorativesleep"
+      "#momlife",
+      "#dadlife",
+      "#selfcarepostpartum",
+      "#habitstacking",
+      "#tiredparents",
+      "#wellness"
     ],
     "extra_keywords": [
-      "bodysignals",
-      "wellnessjourney",
-      "healthmyths",
-      "naturalhealing"
+      "newparentlife",
+      "postpartumrecovery",
+      "parentingwithhealth",
+      "dailyhabits",
+      "selfcaretips"
     ]
   },
-  "shape": "counterintuitive_healthy_sign",
-  "caption": "A few of these deserve a closer look. Take the stomach growls (borborygmi) — that sound is your migrating motor complex, a wave of muscle contractions that sweeps leftover food and bacteria through your intestines between meals, basically housekeeping for your gut. Then there's sweating fast during exercise: people who are more aerobically fit tend to start sweating sooner, not later, because their bodies have learned to cool down efficiently before core temperature climbs too high. And those vivid dreams? They usually show up during longer stretches of REM sleep, the stage tied to memory consolidation and emotional processing. Everyone's body is different, so use these as gentle reassurance, not a diagnosis.\n\nAt @smarthealthfix we dig into nutrition, common symptoms, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you understand your body better instead of panicking over every weird little sign.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #bodyawareness #guthealth #sleephealth #nervoussystem #healthyhabits #signsofhealth #circulation #restorativesleep bodysignals wellnessjourney healthmyths naturalhealing"
+  "shape": "imperative_advice_list",
+  "caption": "New parent life makes even basic habits feel impossible, so small swaps matter more than perfect routines. Take vitamin D stacked with your morning coffee: pairing a new habit with an existing one (called habit stacking) makes it far more likely to stick when your brain is foggy from lack of sleep. Batch-cooking protein like chicken thighs or beans on a slower day means your blood sugar stays steadier through the week instead of crashing from grabbing whatever's closest. And that 20-minute nap isn't random — it's short enough to avoid deep sleep inertia, so you wake up actually more alert instead of groggier than before. Everyone's situation looks different, so take what fits your week.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and small daily habits that actually hold up in real life. Our mission is to help you build realistic routines instead of chasing perfection you don't have time for.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.\n\n#newparenttips #postpartumhealth #parentwellness #healthtips #momlife #dadlife #selfcarepostpartum #habitstacking #tiredparents #wellness newparentlife postpartumrecovery parentingwithhealth dailyhabits selfcaretips"
 }
