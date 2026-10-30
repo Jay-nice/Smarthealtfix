@@ -1,42 +1,44 @@
 {
-  "png": "output/reel_20261029_234956.png",
-  "mp4": "output/reel_20261029_234956.mp4",
-  "cover": "output/cover_20261029_234956.png",
+  "png": "output/reel_20261030_163641.png",
+  "mp4": "output/reel_20261030_163641.mp4",
+  "cover": "output/cover_20261030_163641.png",
   "cover_bg": "white",
   "content": {
-    "title": "IF YOU ATE THESE EVERY DAY... THIS IS WHAT YOUR BODY WOULD DO",
+    "title": "SIGNS YOU'RE ACTUALLY IN {{GREAT}} SHAPE",
     "facts": [
-      "If you ate **beets** every day for 2 weeks, your blood pressure would likely drop and your stamina during workouts would noticeably improve.",
-      "If you ate **walnuts** every day for 30 days, your focus would sharpen and your skin would hold moisture better thanks to the steady dose of omega-3s.",
-      "If you ate **sauerkraut** every day for 3 weeks, your bloating would ease and your digestion would feel smoother as your gut bacteria rebalance.",
-      "If you ate **oats** every day for 1 month, your cholesterol numbers would start to shift and your energy would feel steadier through the morning.",
-      "If you ate **pumpkin seeds** every day for 2 weeks, your sleep would deepen and you'd wake up less wired thanks to their natural tryptophan content.",
-      "If you ate **blueberries** every day for 10 days, your memory recall would sharpen and your skin would look less dull.",
-      "If you ate **lentils** every day for 1 week, your hunger would feel more controlled and your afternoon energy crashes would fade.",
-      "If you ate **fatty fish like sardines** every day for 3 weeks, your joints would feel less stiff and your mood would noticeably stabilize.",
-      "**Follow along** – for more daily health tips like this."
+      "**Sneezing in sunlight** -> your nervous system reflexes are sharp and well-wired",
+      "**Loud stomach growls** -> strong migrating motor complex clearing your gut between meals",
+      "**Waking up before your alarm** -> a stable circadian rhythm regulating your sleep cycle",
+      "**Sweating fast during a workout** -> an efficient cooling system that trained quickly",
+      "**Getting goosebumps from music** -> a responsive, well-connected nervous system",
+      "**Yawning when someone else does** -> strong social wiring and healthy brain empathy circuits",
+      "**Frequent thirst in heat** -> your body accurately sensing and regulating hydration",
+      "**Audible joint cracks with no pain** -> normal gas release, not a sign of damage",
+      "**Vivid, memorable dreams** -> deep REM sleep doing its restorative job",
+      "**Getting cold hands after eating** -> blood being efficiently redirected to digestion",
+      "**Follow along** -> for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are worth slowing down on. Beets are rich in nitrates, which your body converts into nitric oxide — this relaxes blood vessels and is why pressure and endurance both tend to improve within two weeks. Sauerkraut is a fermented food packed with live bacteria that help repopulate your gut lining, which is often the real reason bloating eases rather than just \"eating less.\" And pumpkin seeds carry a natural form of tryptophan that your body converts into serotonin and then melatonin overnight, which explains the deeper sleep. Everyone's body responds a little differently, so pay attention to what shifts for you.\n\n@smarthealthfix is all about the small, overlooked connections between what you eat, how your organs function, and the daily habits that quietly shape how you feel. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these deserve a closer look. Take the stomach growls (borborygmi) — that sound is your migrating motor complex, a wave of muscle contractions that sweeps leftover food and bacteria through your intestines between meals, basically housekeeping for your gut. Then there's sweating fast during exercise: people who are more aerobically fit tend to start sweating sooner, not later, because their bodies have learned to cool down efficiently before core temperature climbs too high. And those vivid dreams? They usually show up during longer stretches of REM sleep, the stage tied to memory consolidation and emotional processing. Everyone's body is different, so use these as gentle reassurance, not a diagnosis.\n\nAt @smarthealthfix we dig into nutrition, common symptoms, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you understand your body better instead of panicking over every weird little sign.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
       "#wellness",
+      "#bodyawareness",
       "#guthealth",
-      "#nutritionfacts",
-      "#foodismedicine",
+      "#sleephealth",
+      "#nervoussystem",
       "#healthyhabits",
-      "#beets",
-      "#omega3",
-      "#fermentedfoods",
-      "#energyboost"
+      "#signsofhealth",
+      "#circulation",
+      "#restorativesleep"
     ],
     "extra_keywords": [
-      "naturalhealing",
+      "bodysignals",
       "wellnessjourney",
-      "nutritiontips",
-      "healthyliving"
+      "healthmyths",
+      "naturalhealing"
     ]
   },
-  "shape": "conditional_transformation",
-  "caption": "A few of these are worth slowing down on. Beets are rich in nitrates, which your body converts into nitric oxide — this relaxes blood vessels and is why pressure and endurance both tend to improve within two weeks. Sauerkraut is a fermented food packed with live bacteria that help repopulate your gut lining, which is often the real reason bloating eases rather than just \"eating less.\" And pumpkin seeds carry a natural form of tryptophan that your body converts into serotonin and then melatonin overnight, which explains the deeper sleep. Everyone's body responds a little differently, so pay attention to what shifts for you.\n\n@smarthealthfix is all about the small, overlooked connections between what you eat, how your organs function, and the daily habits that quietly shape how you feel. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #nutritionfacts #foodismedicine #healthyhabits #beets #omega3 #fermentedfoods #energyboost naturalhealing wellnessjourney nutritiontips healthyliving"
+  "shape": "counterintuitive_healthy_sign",
+  "caption": "A few of these deserve a closer look. Take the stomach growls (borborygmi) — that sound is your migrating motor complex, a wave of muscle contractions that sweeps leftover food and bacteria through your intestines between meals, basically housekeeping for your gut. Then there's sweating fast during exercise: people who are more aerobically fit tend to start sweating sooner, not later, because their bodies have learned to cool down efficiently before core temperature climbs too high. And those vivid dreams? They usually show up during longer stretches of REM sleep, the stage tied to memory consolidation and emotional processing. Everyone's body is different, so use these as gentle reassurance, not a diagnosis.\n\nAt @smarthealthfix we dig into nutrition, common symptoms, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you understand your body better instead of panicking over every weird little sign.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #bodyawareness #guthealth #sleephealth #nervoussystem #healthyhabits #signsofhealth #circulation #restorativesleep bodysignals wellnessjourney healthmyths naturalhealing"
 }
