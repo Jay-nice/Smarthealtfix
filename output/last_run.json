@@ -1,43 +1,42 @@
 {
-  "png": "output/reel_20261031_191417.png",
-  "mp4": "output/reel_20261031_191417.mp4",
-  "cover": "output/cover_20261031_191417.png",
+  "png": "output/reel_20261031_230829.png",
+  "mp4": "output/reel_20261031_230829.mp4",
+  "cover": "output/cover_20261031_230829.png",
   "cover_bg": "white",
   "content": {
-    "title": "WEIRD FOOD FACTS THAT SOUND MADE UP BUT {{AREN'T}}",
+    "title": "THE REAL REASON YOUR {{AFTERNOON SLUMP}} WON'T GO AWAY",
     "facts": [
-      "**Carrots** used to be purple — orange carrots only became common in the 1600s, bred by Dutch growers partly as a tribute to William of Orange.",
-      "**Almonds** are technically not nuts at all — they're the seed inside the pit of a fruit closely related to peaches and cherries.",
-      "**Peanuts** grow underground, which is why they're legumes, not true nuts — the plant flowers above ground, then buries its own pods to ripen.",
-      "**Strawberries** aren't berries by botanical definition, but bananas are — true berries need seeds formed inside the flesh, and bananas qualify while strawberries don't.",
-      "**Nutmeg** contains a natural compound called myristicin that can cause hallucinations in large doses — just 2 whole nutmegs is considered enough to trigger it.",
-      "**White chocolate** contains no cocoa solids at all — it's made only from cocoa butter, which is why it's technically not classified as real chocolate in several countries.",
-      "**Cashews** are sold only shelled because their raw shells contain a resin related to poison ivy's — direct contact with it can cause a serious skin reaction.",
-      "**Pineapples** take about 18-24 months to grow a single fruit, and each plant usually produces just one pineapple in its first cycle.",
-      "**Follow along** – for more surprising, verified food facts like this."
+      "**Afternoon Slump** ----- Pumpkin Seeds",
+      "**Bloating After Meals** ----- Fennel Seeds",
+      "**Restless Legs** ----- Tart Cherry Juice",
+      "**Tension Headache** ----- Watermelon",
+      "**Mouth Ulcers** ----- Plain Yogurt",
+      "**Brittle Nails** ----- Lentils",
+      "**Eye Twitching** ----- Bananas",
+      "**Low Mood Before Period** ----- Dark Leafy Chard",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "The carrot one surprises almost everyone: wild carrots were originally purple or white, and the bright orange color we know today came from selective breeding centuries ago, meaning the 'classic' orange carrot is actually a human invention, not nature's original design. The almond fact goes even deeper — because almonds are seeds, not nuts, they're biologically closer to a peach pit than to a walnut, which is also why almond trees produce blossoms nearly identical to cherry and peach trees in spring. And the nutmeg one is worth taking seriously: myristicin is metabolized by the liver into a compound that affects the nervous system, which is exactly why culinary use stays limited to small pinches, not spoonfuls. Food science is full of these quiet surprises — everyone's kitchen habits are different, so take what's useful and leave the rest.\n\nAt @smarthealthfix, we dig into the overlap between nutrition, everyday symptoms, how your organs actually function, and the small daily habits that quietly shape your health. Our mission is to make real nutrition science feel simple and useful instead of overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "That 3pm crash usually isn't about willpower — a handful of pumpkin seeds gives you magnesium that helps your cells actually convert food into usable energy instead of just storing it as fat. If you're bloated after eating, fennel seeds work almost immediately because their natural compounds relax the smooth muscle in your gut, letting trapped gas move through instead of sitting there. And if your legs won't settle down at night, tart cherry juice contains natural melatonin plus potassium, which together calm overactive nerve signals in the legs so they stop twitching right as you're trying to sleep.\n\nThis is just one small corner of what we cover @smarthealthfix — we dig into nutrition, common everyday health issues, how your organs actually work, and tiny daily habits that add up. Our mission is to help you understand your own body better, one simple, realistic tip at a time.\n\nSave this post so you don't lose it, and share it with someone who's been dealing with one of these little annoyances.",
     "hashtags": [
-      "#foodfacts",
-      "#nutritionfacts",
-      "#healthyeating",
-      "#didyouknow",
-      "#wellnesstips",
       "#healthtips",
-      "#foodscience",
-      "#eatsmart",
-      "#nutritiontips",
-      "#healthyliving"
+      "#wellness",
+      "#guthealth",
+      "#energyboost",
+      "#naturalremedies",
+      "#magnesium",
+      "#bloatingrelief",
+      "#sleeptips",
+      "#foodismedicine",
+      "#nutritionfacts"
     ],
     "extra_keywords": [
-      "foodtrivia",
-      "nutritionfacts",
       "wellnessjourney",
+      "naturalhealing",
       "healthyhabits",
-      "eatwell"
+      "everydayhealth"
     ]
   },
-  "shape": "surprising_true_fact",
-  "caption": "The carrot one surprises almost everyone: wild carrots were originally purple or white, and the bright orange color we know today came from selective breeding centuries ago, meaning the 'classic' orange carrot is actually a human invention, not nature's original design. The almond fact goes even deeper — because almonds are seeds, not nuts, they're biologically closer to a peach pit than to a walnut, which is also why almond trees produce blossoms nearly identical to cherry and peach trees in spring. And the nutmeg one is worth taking seriously: myristicin is metabolized by the liver into a compound that affects the nervous system, which is exactly why culinary use stays limited to small pinches, not spoonfuls. Food science is full of these quiet surprises — everyone's kitchen habits are different, so take what's useful and leave the rest.\n\nAt @smarthealthfix, we dig into the overlap between nutrition, everyday symptoms, how your organs actually function, and the small daily habits that quietly shape your health. Our mission is to make real nutrition science feel simple and useful instead of overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodfacts #nutritionfacts #healthyeating #didyouknow #wellnesstips #healthtips #foodscience #eatsmart #nutritiontips #healthyliving foodtrivia nutritionfacts wellnessjourney healthyhabits eatwell"
+  "shape": "problem_food_mapping",
+  "caption": "That 3pm crash usually isn't about willpower — a handful of pumpkin seeds gives you magnesium that helps your cells actually convert food into usable energy instead of just storing it as fat. If you're bloated after eating, fennel seeds work almost immediately because their natural compounds relax the smooth muscle in your gut, letting trapped gas move through instead of sitting there. And if your legs won't settle down at night, tart cherry juice contains natural melatonin plus potassium, which together calm overactive nerve signals in the legs so they stop twitching right as you're trying to sleep.\n\nThis is just one small corner of what we cover @smarthealthfix — we dig into nutrition, common everyday health issues, how your organs actually work, and tiny daily habits that add up. Our mission is to help you understand your own body better, one simple, realistic tip at a time.\n\nSave this post so you don't lose it, and share it with someone who's been dealing with one of these little annoyances.\n\n#healthtips #wellness #guthealth #energyboost #naturalremedies #magnesium #bloatingrelief #sleeptips #foodismedicine #nutritionfacts wellnessjourney naturalhealing healthyhabits everydayhealth"
 }
