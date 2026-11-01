@@ -1,44 +1,41 @@
 {
-  "png": "output/reel_20261101_193208.png",
-  "mp4": "output/reel_20261101_193208.mp4",
-  "cover": "output/cover_20261101_193208.png",
+  "png": "output/reel_20261101_232344.png",
+  "mp4": "output/reel_20261101_232344.mp4",
+  "cover": "output/cover_20261101_232344.png",
   "cover_bg": "white",
   "content": {
-    "title": "COMMON COOKING {{MISTAKES}} THAT ARE RUINING YOUR HEALTHY MEALS",
+    "title": "THE MINERAL BEHIND YOUR {{THYROID}} NO ONE CHECKS",
     "facts": [
-      "**Boiling broccoli** – Dunks most of its vitamin C and B vitamins straight into the water; steam it for 5 minutes instead to keep nutrients in the vegetable.",
-      "**Draining canned tuna fully** – Pressing out all the liquid also presses out water-soluble B vitamins; a quick rinse is gentler than a hard squeeze.",
-      "**Microwaving in plastic containers** – Heat can cause chemicals to leach into food; switch to glass or ceramic before reheating.",
-      "**Adding olive oil too early** – High heat breaks down its delicate compounds before you even eat it; drizzle extra virgin olive oil on after cooking instead.",
-      "**Overcrowding the pan** – Vegetables steam instead of browning, so they release more liquid and lose texture and flavor; cook in batches with space between pieces.",
-      "**Tossing the cooking water from rice or pasta** – A starchy splash can thicken sauces naturally, but the bigger issue is people boiling grains too aggressively, stripping minerals; a gentle simmer preserves more.",
-      "**Salting meat right before the pan** – Doesn't give salt time to penetrate, so it sits on the surface instead of seasoning the inside; salt at least 15 minutes ahead.",
-      "**Washing chicken before cooking** – Splashes bacteria around your sink and counters instead of removing it; cooking to proper temperature is what actually kills it.",
-      "**Using the same cutting board for raw meat and vegetables** – A hidden source of cross-contamination even after a quick wipe down; keep one board strictly for produce.",
-      "**Follow along** – for more daily health tips like this."
+      "**Iodine** (Thyroid Fuel) — Seaweed | Cod | Shrimp | Dairy Milk | Eggs",
+      "**Copper** (Energy Enzyme Helper) — Oysters | Cashew Butter | Mushrooms | Dark Leafy Greens",
+      "**Manganese** (Bone & Joint Builder) — Mussels | Pineapple Core | Brown Rice | Chickpeas",
+      "**Selenium** (Immune Shield) — Brazil Nuts (just 2/day) | Tuna | Turkey | Sunflower Seeds",
+      "**Potassium** (Blood Pressure Balancer) — Sweet Potatoes | Coconut Water | Swiss Chard | White Beans",
+      "**Zinc** (Wound Healer) — Pumpkin Seeds | Crab | Chickpeas | Beef",
+      "**Follow along** – for more mineral breakdowns most people never learn."
     ],
     "claims": [],
-    "caption": "Let's talk about a few of these in more detail. Broccoli loses a surprising amount of its vitamin C the moment it hits boiling water, because that vitamin is water-soluble and leaches right out into the pot — steaming keeps it trapped inside the florets instead. Olive oil is another one worth slowing down for: extra virgin olive oil contains antioxidant compounds called polyphenols that start breaking down under high heat, so cooking with it at high temps quietly wastes part of what makes it \"healthy\" in the first place. And that cutting board habit matters more than it seems — raw meat juices can carry bacteria that survive on a board's surface even after a rinse, which is how it ends up on your salad. Everyone's kitchen setup is different, so just start with the swap that feels easiest for you.\n\nAt @smarthealthfix, we cover everything from nutrition and common health issues to the organs behind them and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Your thyroid runs almost entirely on iodine — without enough of it, your metabolism can slow down even if you're eating perfectly otherwise. Just 2 Brazil nuts a day can cover your daily selenium needs, which your body uses to protect cells from oxidative stress and support that same thyroid function. And copper doesn't get much attention, but it's essential for forming red blood cells and keeping your energy enzymes actually working — a quiet deficiency here can leave you feeling drained for no obvious reason. Everyone's body absorbs minerals differently, so listen to yours.\n\nThis is what @smarthealthfix is all about — breaking down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you understand your body a little better, one post at a time.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#iodine",
+      "#selenium",
+      "#copper",
+      "#thyroidhealth",
+      "#mineraldeficiency",
+      "#nutritiontips",
       "#healthtips",
       "#wellness",
-      "#healthycooking",
-      "#mealprep",
-      "#foodsafety",
-      "#nutritiontips",
-      "#kitchentips",
-      "#cleaneating",
-      "#cookingmistakes",
-      "#eatsmart"
+      "#guthealth",
+      "#micronutrients"
     ],
     "extra_keywords": [
-      "healthyhabits",
-      "foodprep",
-      "nutritionfacts",
+      "mineralbalance",
+      "nutrientdense",
       "wellnessjourney",
-      "cookingtips"
+      "healthyhabits",
+      "foodismedicine"
     ]
   },
-  "shape": "myth_bust",
-  "caption": "Let's talk about a few of these in more detail. Broccoli loses a surprising amount of its vitamin C the moment it hits boiling water, because that vitamin is water-soluble and leaches right out into the pot — steaming keeps it trapped inside the florets instead. Olive oil is another one worth slowing down for: extra virgin olive oil contains antioxidant compounds called polyphenols that start breaking down under high heat, so cooking with it at high temps quietly wastes part of what makes it \"healthy\" in the first place. And that cutting board habit matters more than it seems — raw meat juices can carry bacteria that survive on a board's surface even after a rinse, which is how it ends up on your salad. Everyone's kitchen setup is different, so just start with the swap that feels easiest for you.\n\nAt @smarthealthfix, we cover everything from nutrition and common health issues to the organs behind them and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #healthycooking #mealprep #foodsafety #nutritiontips #kitchentips #cleaneating #cookingmistakes #eatsmart healthyhabits foodprep nutritionfacts wellnessjourney cookingtips"
+  "shape": "mineral_sources",
+  "caption": "Your thyroid runs almost entirely on iodine — without enough of it, your metabolism can slow down even if you're eating perfectly otherwise. Just 2 Brazil nuts a day can cover your daily selenium needs, which your body uses to protect cells from oxidative stress and support that same thyroid function. And copper doesn't get much attention, but it's essential for forming red blood cells and keeping your energy enzymes actually working — a quiet deficiency here can leave you feeling drained for no obvious reason. Everyone's body absorbs minerals differently, so listen to yours.\n\nThis is what @smarthealthfix is all about — breaking down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you understand your body a little better, one post at a time.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#iodine #selenium #copper #thyroidhealth #mineraldeficiency #nutritiontips #healthtips #wellness #guthealth #micronutrients mineralbalance nutrientdense wellnessjourney healthyhabits foodismedicine"
 }
