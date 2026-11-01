@@ -1,42 +1,44 @@
 {
-  "png": "output/reel_20261101_163937.png",
-  "mp4": "output/reel_20261101_163937.mp4",
-  "cover": "output/cover_20261101_163937.png",
+  "png": "output/reel_20261101_193208.png",
+  "mp4": "output/reel_20261101_193208.mp4",
+  "cover": "output/cover_20261101_193208.png",
   "cover_bg": "white",
   "content": {
-    "title": "IF YOU EAT {{THIS}} EVERY DAY... YOUR BODY WILL CHANGE FASTER THAN YOU EXPECT",
+    "title": "COMMON COOKING {{MISTAKES}} THAT ARE RUINING YOUR HEALTHY MEALS",
     "facts": [
-      "If you ate **beets** every day for 2 weeks, your blood pressure would likely drop and your stamina during workouts would noticeably improve.",
-      "If you ate **oats** every day for 30 days, your cholesterol numbers would start to improve and you'd feel full for hours longer.",
-      "If you ate **kimchi** every day for 3 weeks, your gut bacteria diversity would shift and bloating episodes would become less frequent.",
-      "If you ate **walnuts** every day for 2 weeks, your focus and memory recall would sharpen thanks to their omega-3 content.",
-      "If you ate **sardines** every day for 10 days, your joints would feel less stiff in the morning.",
-      "If you ate **sauerkraut** every day for 1 week, your digestion would speed up and you'd notice less afternoon sluggishness after meals.",
-      "If you ate **watermelon** every day for 2 weeks, your skin would hold more moisture and you'd feel less puffy in the mornings.",
-      "If you ate **lentils** every day for 30 days, your energy would feel steadier with fewer sudden crashes.",
+      "**Boiling broccoli** – Dunks most of its vitamin C and B vitamins straight into the water; steam it for 5 minutes instead to keep nutrients in the vegetable.",
+      "**Draining canned tuna fully** – Pressing out all the liquid also presses out water-soluble B vitamins; a quick rinse is gentler than a hard squeeze.",
+      "**Microwaving in plastic containers** – Heat can cause chemicals to leach into food; switch to glass or ceramic before reheating.",
+      "**Adding olive oil too early** – High heat breaks down its delicate compounds before you even eat it; drizzle extra virgin olive oil on after cooking instead.",
+      "**Overcrowding the pan** – Vegetables steam instead of browning, so they release more liquid and lose texture and flavor; cook in batches with space between pieces.",
+      "**Tossing the cooking water from rice or pasta** – A starchy splash can thicken sauces naturally, but the bigger issue is people boiling grains too aggressively, stripping minerals; a gentle simmer preserves more.",
+      "**Salting meat right before the pan** – Doesn't give salt time to penetrate, so it sits on the surface instead of seasoning the inside; salt at least 15 minutes ahead.",
+      "**Washing chicken before cooking** – Splashes bacteria around your sink and counters instead of removing it; cooking to proper temperature is what actually kills it.",
+      "**Using the same cutting board for raw meat and vegetables** – A hidden source of cross-contamination even after a quick wipe down; keep one board strictly for produce.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "If you've been sleeping on **beets**, this is your sign: they're loaded with nitrates, which your body converts into nitric oxide, a compound that relaxes blood vessels and improves blood flow — that's why stamina and blood pressure respond so fast. **Oats** work differently: the beta-glucan fiber forms a gel in your gut that traps cholesterol particles and carries them out, which is why daily oats can shift your numbers in just weeks. And **kimchi** isn't just trendy — the fermentation process creates live probiotics that recolonize your gut lining, which is often the hidden reason behind less bloating and steadier digestion. Everyone's body is different, so give it time and listen to yours.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Let's talk about a few of these in more detail. Broccoli loses a surprising amount of its vitamin C the moment it hits boiling water, because that vitamin is water-soluble and leaches right out into the pot — steaming keeps it trapped inside the florets instead. Olive oil is another one worth slowing down for: extra virgin olive oil contains antioxidant compounds called polyphenols that start breaking down under high heat, so cooking with it at high temps quietly wastes part of what makes it \"healthy\" in the first place. And that cutting board habit matters more than it seems — raw meat juices can carry bacteria that survive on a board's surface even after a rinse, which is how it ends up on your salad. Everyone's kitchen setup is different, so just start with the swap that feels easiest for you.\n\nAt @smarthealthfix, we cover everything from nutrition and common health issues to the organs behind them and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#guthealth",
-      "#nutritiontips",
-      "#healthyhabits",
-      "#wellnessjourney",
-      "#fermentedfoods",
-      "#hearthealth",
-      "#energyboost",
-      "#wholefoods",
       "#healthtips",
-      "#foodismedicine"
+      "#wellness",
+      "#healthycooking",
+      "#mealprep",
+      "#foodsafety",
+      "#nutritiontips",
+      "#kitchentips",
+      "#cleaneating",
+      "#cookingmistakes",
+      "#eatsmart"
     ],
     "extra_keywords": [
-      "naturalhealing",
-      "dailyhabits",
-      "balanceddiet",
-      "healthyliving"
+      "healthyhabits",
+      "foodprep",
+      "nutritionfacts",
+      "wellnessjourney",
+      "cookingtips"
     ]
   },
-  "shape": "conditional_transformation",
-  "caption": "If you've been sleeping on **beets**, this is your sign: they're loaded with nitrates, which your body converts into nitric oxide, a compound that relaxes blood vessels and improves blood flow — that's why stamina and blood pressure respond so fast. **Oats** work differently: the beta-glucan fiber forms a gel in your gut that traps cholesterol particles and carries them out, which is why daily oats can shift your numbers in just weeks. And **kimchi** isn't just trendy — the fermentation process creates live probiotics that recolonize your gut lining, which is often the hidden reason behind less bloating and steadier digestion. Everyone's body is different, so give it time and listen to yours.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#guthealth #nutritiontips #healthyhabits #wellnessjourney #fermentedfoods #hearthealth #energyboost #wholefoods #healthtips #foodismedicine naturalhealing dailyhabits balanceddiet healthyliving"
+  "shape": "myth_bust",
+  "caption": "Let's talk about a few of these in more detail. Broccoli loses a surprising amount of its vitamin C the moment it hits boiling water, because that vitamin is water-soluble and leaches right out into the pot — steaming keeps it trapped inside the florets instead. Olive oil is another one worth slowing down for: extra virgin olive oil contains antioxidant compounds called polyphenols that start breaking down under high heat, so cooking with it at high temps quietly wastes part of what makes it \"healthy\" in the first place. And that cutting board habit matters more than it seems — raw meat juices can carry bacteria that survive on a board's surface even after a rinse, which is how it ends up on your salad. Everyone's kitchen setup is different, so just start with the swap that feels easiest for you.\n\nAt @smarthealthfix, we cover everything from nutrition and common health issues to the organs behind them and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #healthycooking #mealprep #foodsafety #nutritiontips #kitchentips #cleaneating #cookingmistakes #eatsmart healthyhabits foodprep nutritionfacts wellnessjourney cookingtips"
 }
