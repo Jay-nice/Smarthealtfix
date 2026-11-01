@@ -1,42 +1,42 @@
 {
-  "png": "output/reel_20261031_230829.png",
-  "mp4": "output/reel_20261031_230829.mp4",
-  "cover": "output/cover_20261031_230829.png",
+  "png": "output/reel_20261101_163937.png",
+  "mp4": "output/reel_20261101_163937.mp4",
+  "cover": "output/cover_20261101_163937.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE REAL REASON YOUR {{AFTERNOON SLUMP}} WON'T GO AWAY",
+    "title": "IF YOU EAT {{THIS}} EVERY DAY... YOUR BODY WILL CHANGE FASTER THAN YOU EXPECT",
     "facts": [
-      "**Afternoon Slump** ----- Pumpkin Seeds",
-      "**Bloating After Meals** ----- Fennel Seeds",
-      "**Restless Legs** ----- Tart Cherry Juice",
-      "**Tension Headache** ----- Watermelon",
-      "**Mouth Ulcers** ----- Plain Yogurt",
-      "**Brittle Nails** ----- Lentils",
-      "**Eye Twitching** ----- Bananas",
-      "**Low Mood Before Period** ----- Dark Leafy Chard",
+      "If you ate **beets** every day for 2 weeks, your blood pressure would likely drop and your stamina during workouts would noticeably improve.",
+      "If you ate **oats** every day for 30 days, your cholesterol numbers would start to improve and you'd feel full for hours longer.",
+      "If you ate **kimchi** every day for 3 weeks, your gut bacteria diversity would shift and bloating episodes would become less frequent.",
+      "If you ate **walnuts** every day for 2 weeks, your focus and memory recall would sharpen thanks to their omega-3 content.",
+      "If you ate **sardines** every day for 10 days, your joints would feel less stiff in the morning.",
+      "If you ate **sauerkraut** every day for 1 week, your digestion would speed up and you'd notice less afternoon sluggishness after meals.",
+      "If you ate **watermelon** every day for 2 weeks, your skin would hold more moisture and you'd feel less puffy in the mornings.",
+      "If you ate **lentils** every day for 30 days, your energy would feel steadier with fewer sudden crashes.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "That 3pm crash usually isn't about willpower — a handful of pumpkin seeds gives you magnesium that helps your cells actually convert food into usable energy instead of just storing it as fat. If you're bloated after eating, fennel seeds work almost immediately because their natural compounds relax the smooth muscle in your gut, letting trapped gas move through instead of sitting there. And if your legs won't settle down at night, tart cherry juice contains natural melatonin plus potassium, which together calm overactive nerve signals in the legs so they stop twitching right as you're trying to sleep.\n\nThis is just one small corner of what we cover @smarthealthfix — we dig into nutrition, common everyday health issues, how your organs actually work, and tiny daily habits that add up. Our mission is to help you understand your own body better, one simple, realistic tip at a time.\n\nSave this post so you don't lose it, and share it with someone who's been dealing with one of these little annoyances.",
+    "caption": "If you've been sleeping on **beets**, this is your sign: they're loaded with nitrates, which your body converts into nitric oxide, a compound that relaxes blood vessels and improves blood flow — that's why stamina and blood pressure respond so fast. **Oats** work differently: the beta-glucan fiber forms a gel in your gut that traps cholesterol particles and carries them out, which is why daily oats can shift your numbers in just weeks. And **kimchi** isn't just trendy — the fermentation process creates live probiotics that recolonize your gut lining, which is often the hidden reason behind less bloating and steadier digestion. Everyone's body is different, so give it time and listen to yours.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#healthtips",
-      "#wellness",
       "#guthealth",
+      "#nutritiontips",
+      "#healthyhabits",
+      "#wellnessjourney",
+      "#fermentedfoods",
+      "#hearthealth",
       "#energyboost",
-      "#naturalremedies",
-      "#magnesium",
-      "#bloatingrelief",
-      "#sleeptips",
-      "#foodismedicine",
-      "#nutritionfacts"
+      "#wholefoods",
+      "#healthtips",
+      "#foodismedicine"
     ],
     "extra_keywords": [
-      "wellnessjourney",
       "naturalhealing",
-      "healthyhabits",
-      "everydayhealth"
+      "dailyhabits",
+      "balanceddiet",
+      "healthyliving"
     ]
   },
-  "shape": "problem_food_mapping",
-  "caption": "That 3pm crash usually isn't about willpower — a handful of pumpkin seeds gives you magnesium that helps your cells actually convert food into usable energy instead of just storing it as fat. If you're bloated after eating, fennel seeds work almost immediately because their natural compounds relax the smooth muscle in your gut, letting trapped gas move through instead of sitting there. And if your legs won't settle down at night, tart cherry juice contains natural melatonin plus potassium, which together calm overactive nerve signals in the legs so they stop twitching right as you're trying to sleep.\n\nThis is just one small corner of what we cover @smarthealthfix — we dig into nutrition, common everyday health issues, how your organs actually work, and tiny daily habits that add up. Our mission is to help you understand your own body better, one simple, realistic tip at a time.\n\nSave this post so you don't lose it, and share it with someone who's been dealing with one of these little annoyances.\n\n#healthtips #wellness #guthealth #energyboost #naturalremedies #magnesium #bloatingrelief #sleeptips #foodismedicine #nutritionfacts wellnessjourney naturalhealing healthyhabits everydayhealth"
+  "shape": "conditional_transformation",
+  "caption": "If you've been sleeping on **beets**, this is your sign: they're loaded with nitrates, which your body converts into nitric oxide, a compound that relaxes blood vessels and improves blood flow — that's why stamina and blood pressure respond so fast. **Oats** work differently: the beta-glucan fiber forms a gel in your gut that traps cholesterol particles and carries them out, which is why daily oats can shift your numbers in just weeks. And **kimchi** isn't just trendy — the fermentation process creates live probiotics that recolonize your gut lining, which is often the hidden reason behind less bloating and steadier digestion. Everyone's body is different, so give it time and listen to yours.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#guthealth #nutritiontips #healthyhabits #wellnessjourney #fermentedfoods #hearthealth #energyboost #wholefoods #healthtips #foodismedicine naturalhealing dailyhabits balanceddiet healthyliving"
 }
