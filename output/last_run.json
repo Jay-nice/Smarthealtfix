@@ -1,41 +1,45 @@
 {
-  "png": "output/reel_20261101_232344.png",
-  "mp4": "output/reel_20261101_232344.mp4",
-  "cover": "output/cover_20261101_232344.png",
+  "png": "output/reel_20261102_200539.png",
+  "mp4": "output/reel_20261102_200539.mp4",
+  "cover": "output/cover_20261102_200539.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE MINERAL BEHIND YOUR {{THYROID}} NO ONE CHECKS",
+    "title": "SIGNS YOU'RE ACTUALLY {{HEALTHIER}} THAN YOU THINK",
     "facts": [
-      "**Iodine** (Thyroid Fuel) — Seaweed | Cod | Shrimp | Dairy Milk | Eggs",
-      "**Copper** (Energy Enzyme Helper) — Oysters | Cashew Butter | Mushrooms | Dark Leafy Greens",
-      "**Manganese** (Bone & Joint Builder) — Mussels | Pineapple Core | Brown Rice | Chickpeas",
-      "**Selenium** (Immune Shield) — Brazil Nuts (just 2/day) | Tuna | Turkey | Sunflower Seeds",
-      "**Potassium** (Blood Pressure Balancer) — Sweet Potatoes | Coconut Water | Swiss Chard | White Beans",
-      "**Zinc** (Wound Healer) — Pumpkin Seeds | Crab | Chickpeas | Beef",
-      "**Follow along** – for more mineral breakdowns most people never learn."
+      "**Loud stomach growling** -> strong migrating motor complex sweeping leftover food through your gut",
+      "**Waking up sweaty in a cold room** -> efficient thermoregulation, your body adjusts fast to temperature shifts",
+      "**Sneezing in bright sunlight** -> a wired, responsive nervous system (photic sneeze reflex)",
+      "**Vivid, weird dreams** -> deep, uninterrupted REM sleep doing its memory-sorting job",
+      "**Getting thirsty mid-workout** -> your hydration signals are sharp and working exactly on time",
+      "**Yawning a lot during a workout** -> your body cooling and oxygenating the brain efficiently, not fatigue",
+      "**Skin flushing after spicy food** -> healthy blood vessels dilating quickly to release heat",
+      "**Needing to pee shortly after drinking water** -> kidneys filtering fast and keeping fluid balance tight",
+      "**Goosebumps during music you love** -> a responsive nervous system reacting to emotional peaks",
+      "**Feeling sleepy after a big meal** -> normal digestive blood flow shift, not a sign something's wrong",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Your thyroid runs almost entirely on iodine — without enough of it, your metabolism can slow down even if you're eating perfectly otherwise. Just 2 Brazil nuts a day can cover your daily selenium needs, which your body uses to protect cells from oxidative stress and support that same thyroid function. And copper doesn't get much attention, but it's essential for forming red blood cells and keeping your energy enzymes actually working — a quiet deficiency here can leave you feeling drained for no obvious reason. Everyone's body absorbs minerals differently, so listen to yours.\n\nThis is what @smarthealthfix is all about — breaking down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you understand your body a little better, one post at a time.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these deserve more explanation. That loud stomach growling? It's your migrating motor complex, a cleanup wave that sweeps through your intestines between meals clearing out leftover food and bacteria, so hearing it often actually means your gut rhythm is healthy. Getting thirsty mid-workout is also a good sign: your hypothalamus is tracking blood sodium levels in real time and firing the thirst signal right when you need fluids, instead of letting you dehydrate unnoticed. And vivid, weird dreams usually point to solid stretches of REM sleep, the stage where your brain sorts memories and emotions, so more dream recall often just means you're getting quality cycles. Everyone's body is different, so use these as general patterns, not strict rules.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and the small daily habits that tie it all together. Our mission is to help you understand your body's everyday signals instead of panicking over every weird one.\n\nSave this post so you don't lose it, and share it with someone who worries over every little body quirk.",
     "hashtags": [
-      "#iodine",
-      "#selenium",
-      "#copper",
-      "#thyroidhealth",
-      "#mineraldeficiency",
-      "#nutritiontips",
       "#healthtips",
-      "#wellness",
+      "#bodysignals",
       "#guthealth",
-      "#micronutrients"
+      "#sleepscience",
+      "#wellnessjourney",
+      "#hydration",
+      "#nervoussystem",
+      "#healthyhabits",
+      "#selfcare",
+      "#listentoyourbody"
     ],
     "extra_keywords": [
-      "mineralbalance",
-      "nutrientdense",
-      "wellnessjourney",
-      "healthyhabits",
-      "foodismedicine"
+      "bodyawareness",
+      "wellnessfacts",
+      "naturalhealth",
+      "healthmyths",
+      "guttips"
     ]
   },
-  "shape": "mineral_sources",
-  "caption": "Your thyroid runs almost entirely on iodine — without enough of it, your metabolism can slow down even if you're eating perfectly otherwise. Just 2 Brazil nuts a day can cover your daily selenium needs, which your body uses to protect cells from oxidative stress and support that same thyroid function. And copper doesn't get much attention, but it's essential for forming red blood cells and keeping your energy enzymes actually working — a quiet deficiency here can leave you feeling drained for no obvious reason. Everyone's body absorbs minerals differently, so listen to yours.\n\nThis is what @smarthealthfix is all about — breaking down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to help you understand your body a little better, one post at a time.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#iodine #selenium #copper #thyroidhealth #mineraldeficiency #nutritiontips #healthtips #wellness #guthealth #micronutrients mineralbalance nutrientdense wellnessjourney healthyhabits foodismedicine"
+  "shape": "counterintuitive_healthy_sign",
+  "caption": "A few of these deserve more explanation. That loud stomach growling? It's your migrating motor complex, a cleanup wave that sweeps through your intestines between meals clearing out leftover food and bacteria, so hearing it often actually means your gut rhythm is healthy. Getting thirsty mid-workout is also a good sign: your hypothalamus is tracking blood sodium levels in real time and firing the thirst signal right when you need fluids, instead of letting you dehydrate unnoticed. And vivid, weird dreams usually point to solid stretches of REM sleep, the stage where your brain sorts memories and emotions, so more dream recall often just means you're getting quality cycles. Everyone's body is different, so use these as general patterns, not strict rules.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and the small daily habits that tie it all together. Our mission is to help you understand your body's everyday signals instead of panicking over every weird one.\n\nSave this post so you don't lose it, and share it with someone who worries over every little body quirk.\n\n#healthtips #bodysignals #guthealth #sleepscience #wellnessjourney #hydration #nervoussystem #healthyhabits #selfcare #listentoyourbody bodyawareness wellnessfacts naturalhealth healthmyths guttips"
 }
