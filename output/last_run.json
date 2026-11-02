@@ -1,45 +1,43 @@
 {
-  "png": "output/reel_20261102_200539.png",
-  "mp4": "output/reel_20261102_200539.mp4",
-  "cover": "output/cover_20261102_200539.png",
+  "png": "output/reel_20261102_230457.png",
+  "mp4": "output/reel_20261102_230457.mp4",
+  "cover": "output/cover_20261102_230457.png",
   "cover_bg": "white",
   "content": {
-    "title": "SIGNS YOU'RE ACTUALLY {{HEALTHIER}} THAN YOU THINK",
+    "title": "THE 10-MINUTE CHEAT SHEET FOR A {{BETTER}} DAY",
     "facts": [
-      "**Loud stomach growling** -> strong migrating motor complex sweeping leftover food through your gut",
-      "**Waking up sweaty in a cold room** -> efficient thermoregulation, your body adjusts fast to temperature shifts",
-      "**Sneezing in bright sunlight** -> a wired, responsive nervous system (photic sneeze reflex)",
-      "**Vivid, weird dreams** -> deep, uninterrupted REM sleep doing its memory-sorting job",
-      "**Getting thirsty mid-workout** -> your hydration signals are sharp and working exactly on time",
-      "**Yawning a lot during a workout** -> your body cooling and oxygenating the brain efficiently, not fatigue",
-      "**Skin flushing after spicy food** -> healthy blood vessels dilating quickly to release heat",
-      "**Needing to pee shortly after drinking water** -> kidneys filtering fast and keeping fluid balance tight",
-      "**Goosebumps during music you love** -> a responsive nervous system reacting to emotional peaks",
-      "**Feeling sleepy after a big meal** -> normal digestive blood flow shift, not a sign something's wrong",
-      "**Follow along** – for more daily health tips like this."
+      "**Sunlight** -> 10 min before 9am -> Resets sleep clock",
+      "**Walking** -> 20 min after dinner -> Flattens sugar spike",
+      "**Cold water** -> 1 glass right after waking -> Kickstarts alertness",
+      "**Deep breathing** -> 5 min before bed -> Lowers stress hormone",
+      "**Stretching** -> 5 min every morning -> Loosens stiff joints",
+      "**Journaling** -> 3 sentences at night -> Quiets racing thoughts",
+      "**Protein** -> 25g at breakfast -> Curbs noon cravings",
+      "**Phone-free time** -> 30 min before bed -> Deepens sleep quality",
+      "**Fresh air** -> 2x/day, 5 min each -> Clears mental fog",
+      "**Follow along** – for more simple daily habits like this."
     ],
     "claims": [],
-    "caption": "A few of these deserve more explanation. That loud stomach growling? It's your migrating motor complex, a cleanup wave that sweeps through your intestines between meals clearing out leftover food and bacteria, so hearing it often actually means your gut rhythm is healthy. Getting thirsty mid-workout is also a good sign: your hypothalamus is tracking blood sodium levels in real time and firing the thirst signal right when you need fluids, instead of letting you dehydrate unnoticed. And vivid, weird dreams usually point to solid stretches of REM sleep, the stage where your brain sorts memories and emotions, so more dream recall often just means you're getting quality cycles. Everyone's body is different, so use these as general patterns, not strict rules.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and the small daily habits that tie it all together. Our mission is to help you understand your body's everyday signals instead of panicking over every weird one.\n\nSave this post so you don't lose it, and share it with someone who worries over every little body quirk.",
+    "caption": "A few of these are easier to pull off than you'd think. **Sunlight** within the first hour of waking tells your brain to stop producing melatonin, which is why it makes falling asleep that night so much easier. A short **walk** after dinner works because your muscles pull glucose straight from your bloodstream to use as fuel, so less of it lingers and spikes. And **cold water** first thing in the morning jolts your nervous system awake faster than coffee does, since the temperature shock alone raises alertness before caffeine even kicks in. Everyone's body responds a little differently, so notice what actually moves the needle for you.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs & body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a simple reset today.",
     "hashtags": [
       "#healthtips",
-      "#bodysignals",
-      "#guthealth",
-      "#sleepscience",
-      "#wellnessjourney",
-      "#hydration",
-      "#nervoussystem",
+      "#wellness",
+      "#dailyhabits",
+      "#morningroutine",
+      "#betterSleep",
+      "#stressrelief",
       "#healthyhabits",
       "#selfcare",
-      "#listentoyourbody"
+      "#mindsetmatters",
+      "#energyboost"
     ],
     "extra_keywords": [
-      "bodyawareness",
-      "wellnessfacts",
-      "naturalhealth",
-      "healthmyths",
-      "guttips"
+      "dailyroutine",
+      "wellnessjourney",
+      "healthyhabits",
+      "mindbodybalance"
     ]
   },
-  "shape": "counterintuitive_healthy_sign",
-  "caption": "A few of these deserve more explanation. That loud stomach growling? It's your migrating motor complex, a cleanup wave that sweeps through your intestines between meals clearing out leftover food and bacteria, so hearing it often actually means your gut rhythm is healthy. Getting thirsty mid-workout is also a good sign: your hypothalamus is tracking blood sodium levels in real time and firing the thirst signal right when you need fluids, instead of letting you dehydrate unnoticed. And vivid, weird dreams usually point to solid stretches of REM sleep, the stage where your brain sorts memories and emotions, so more dream recall often just means you're getting quality cycles. Everyone's body is different, so use these as general patterns, not strict rules.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and the small daily habits that tie it all together. Our mission is to help you understand your body's everyday signals instead of panicking over every weird one.\n\nSave this post so you don't lose it, and share it with someone who worries over every little body quirk.\n\n#healthtips #bodysignals #guthealth #sleepscience #wellnessjourney #hydration #nervoussystem #healthyhabits #selfcare #listentoyourbody bodyawareness wellnessfacts naturalhealth healthmyths guttips"
+  "shape": "daily_dose_habit",
+  "caption": "A few of these are easier to pull off than you'd think. **Sunlight** within the first hour of waking tells your brain to stop producing melatonin, which is why it makes falling asleep that night so much easier. A short **walk** after dinner works because your muscles pull glucose straight from your bloodstream to use as fuel, so less of it lingers and spikes. And **cold water** first thing in the morning jolts your nervous system awake faster than coffee does, since the temperature shock alone raises alertness before caffeine even kicks in. Everyone's body responds a little differently, so notice what actually moves the needle for you.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs & body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a simple reset today.\n\n#healthtips #wellness #dailyhabits #morningroutine #betterSleep #stressrelief #healthyhabits #selfcare #mindsetmatters #energyboost dailyroutine wellnessjourney healthyhabits mindbodybalance"
 }
