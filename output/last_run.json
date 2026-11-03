@@ -1,43 +1,41 @@
 {
-  "png": "output/reel_20261103_173840.png",
-  "mp4": "output/reel_20261103_173840.mp4",
-  "cover": "output/cover_20261103_173840.png",
+  "png": "output/reel_20261103_205602.png",
+  "mp4": "output/reel_20261103_205602.mp4",
+  "cover": "output/cover_20261103_205602.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE FOOD-TO-ORGAN MAP YOUR {{BODY}} WISHES YOU KNEW",
+    "title": "WHAT NEW PARENTS SKIP THAT THEIR {{BODY}} DESPERATELY NEEDS",
     "facts": [
-      "**Beets** are good for HEART – the nitrates relax blood vessels so your heart doesn't have to pump as hard.",
-      "**Walnuts** are good for BRAIN – packed with ALA fats that keep brain cell membranes flexible and sharp.",
-      "**Oats** are good for GUT – the beta-glucan fiber feeds good bacteria and softens stool naturally.",
-      "**Pumpkin seeds** are good for PROSTATE – a 1 oz/day handful supplies compounds linked to healthy urinary flow.",
-      "**Turmeric** is good for JOINTS – curcumin calms the inflammation that stiffens knees and fingers.",
-      "**Cranberries** are good for BLADDER – they stop bacteria from sticking to the bladder wall.",
-      "**Dark leafy greens** are good for EYES – lutein and zeaxanthin build a natural filter against blue light damage.",
-      "**Fermented foods** like kefir (1 cup/day) are good for IMMUNE SYSTEM – they restock the gut bacteria that train your immune cells.",
-      "**Avocados** are good for SKIN – the healthy fats and vitamin E keep your skin barrier from drying out.",
+      "**Sit down to eat** at least once a day, even for 10 minutes — scarfing food standing up spikes cortisol and wrecks digestion when you're already running on fumes.",
+      "**Take 400 mcg of vitamin B12** if you're exhausted past the point sleep deprivation explains — new parents are rarely tested for it and low B12 mimics burnout perfectly.",
+      "**Drink 1 glass of water** before coffee, not after — dehydration from night feeds and crying makes caffeine hit harder and crash faster.",
+      "**Step outside for 5 minutes** within an hour of waking, even with the baby — morning light resets the stress hormone cycle that newborn sleep patterns scramble.",
+      "**Eat 1 handful of nuts** between feeds instead of skipping snacks entirely — blood sugar crashes make the exhaustion and irritability so much worse.",
+      "**Ask for 20 minutes alone** daily without guilt — isolation, not sleep loss alone, is the bigger driver of postpartum mood crashes.",
+      "**Check your own blood pressure** at your baby's first pediatrician visit — new parents often skip their own follow-ups for months.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Beets deserve way more credit than they get — the nitrates in them get converted into nitric oxide in your body, which widens blood vessels and can noticeably lower the effort your heart needs to circulate blood. Walnuts work differently: their ALA fats actually get built into the membranes of your brain cells, keeping them flexible enough for faster signaling between neurons. And cranberries aren't just an old wives' tale for bladder health — compounds called proanthocyanidins physically coat bacteria so they can't grip onto your bladder lining, which is why they're often recommended before symptoms even start. Of course, everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "New parents, a few of these matter more than they sound. B12 deficiency is wildly common after birth and during the first exhausted months of parenting — it slows red blood cell production, so even with 'enough' sleep you feel foggy and drained because your cells aren't getting oxygen efficiently. Morning light exposure isn't just a mood trick, it resets your circadian rhythm by signaling your brain to suppress melatonin at the right time, which matters even more when a newborn is destroying your normal sleep-wake cues. And that water before coffee habit works because mild dehydration alone can mimic fatigue and headaches, so you end up masking thirst with caffeine instead of fixing it — everyone's situation is different, so take what fits your days.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ health, and small daily habits that actually fit real life. Our mission is to help you build small, realistic routines instead of chasing perfection or quick fixes.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.",
     "hashtags": [
+      "#newparents",
+      "#postpartumhealth",
+      "#parentingtips",
       "#healthtips",
       "#wellness",
-      "#guthealth",
-      "#brainfood",
-      "#hearthealth",
-      "#eyehealth",
-      "#immunesupport",
-      "#antiinflammatory",
-      "#nutritionfacts",
-      "#organhealth"
+      "#motherhood",
+      "#tiredmom",
+      "#newbornlife",
+      "#selfcareformoms",
+      "#parentwellness"
     ],
     "extra_keywords": [
-      "naturalhealing",
+      "postpartumrecovery",
+      "newparenttips",
       "wellnessjourney",
-      "foodismedicine",
-      "healthyhabits"
+      "parentburnout"
     ]
   },
-  "shape": "allcaps_benefit",
-  "caption": "Beets deserve way more credit than they get — the nitrates in them get converted into nitric oxide in your body, which widens blood vessels and can noticeably lower the effort your heart needs to circulate blood. Walnuts work differently: their ALA fats actually get built into the membranes of your brain cells, keeping them flexible enough for faster signaling between neurons. And cranberries aren't just an old wives' tale for bladder health — compounds called proanthocyanidins physically coat bacteria so they can't grip onto your bladder lining, which is why they're often recommended before symptoms even start. Of course, everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #brainfood #hearthealth #eyehealth #immunesupport #antiinflammatory #nutritionfacts #organhealth naturalhealing wellnessjourney foodismedicine healthyhabits"
+  "shape": "imperative_advice_list",
+  "caption": "New parents, a few of these matter more than they sound. B12 deficiency is wildly common after birth and during the first exhausted months of parenting — it slows red blood cell production, so even with 'enough' sleep you feel foggy and drained because your cells aren't getting oxygen efficiently. Morning light exposure isn't just a mood trick, it resets your circadian rhythm by signaling your brain to suppress melatonin at the right time, which matters even more when a newborn is destroying your normal sleep-wake cues. And that water before coffee habit works because mild dehydration alone can mimic fatigue and headaches, so you end up masking thirst with caffeine instead of fixing it — everyone's situation is different, so take what fits your days.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ health, and small daily habits that actually fit real life. Our mission is to help you build small, realistic routines instead of chasing perfection or quick fixes.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.\n\n#newparents #postpartumhealth #parentingtips #healthtips #wellness #motherhood #tiredmom #newbornlife #selfcareformoms #parentwellness postpartumrecovery newparenttips wellnessjourney parentburnout"
 }
