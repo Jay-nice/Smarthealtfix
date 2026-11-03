@@ -1,43 +1,43 @@
 {
-  "png": "output/reel_20261102_230457.png",
-  "mp4": "output/reel_20261102_230457.mp4",
-  "cover": "output/cover_20261102_230457.png",
+  "png": "output/reel_20261103_020213.png",
+  "mp4": "output/reel_20261103_020213.mp4",
+  "cover": "output/cover_20261103_020213.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE 10-MINUTE CHEAT SHEET FOR A {{BETTER}} DAY",
+    "title": "WHY YOUR {{MEAL PREP}} IS QUIETLY WASTING ALL THAT NUTRITION",
     "facts": [
-      "**Sunlight** -> 10 min before 9am -> Resets sleep clock",
-      "**Walking** -> 20 min after dinner -> Flattens sugar spike",
-      "**Cold water** -> 1 glass right after waking -> Kickstarts alertness",
-      "**Deep breathing** -> 5 min before bed -> Lowers stress hormone",
-      "**Stretching** -> 5 min every morning -> Loosens stiff joints",
-      "**Journaling** -> 3 sentences at night -> Quiets racing thoughts",
-      "**Protein** -> 25g at breakfast -> Curbs noon cravings",
-      "**Phone-free time** -> 30 min before bed -> Deepens sleep quality",
-      "**Fresh air** -> 2x/day, 5 min each -> Clears mental fog",
-      "**Follow along** – for more simple daily habits like this."
+      "**Storing rice warm** – Putting hot rice straight into a sealed container traps steam, creating a moist environment where bacteria can multiply fast; let it cool for about 30 minutes uncovered first.",
+      "**Microwaving in plastic** – Reheating meal-prep containers in the microwave can cause compounds from the plastic to leach into your food, especially with fatty sauces; switch to glass or ceramic.",
+      "**Draining canned beans and tossing the liquid** – You're pouring out fiber-rich starch and some B vitamins along with the aquafaba; a quick rinse keeps more nutrients than a full dump-and-drain.",
+      "**Adding lemon juice too early** – Squeezing citrus into a salad long before eating wilts greens and breaks down vitamin C over time; dress it right before serving instead.",
+      "**Pressure-cooking everything the same way** – Overcooking vegetables in a pressure cooker past the recommended time breaks down water-soluble vitamins like B and C far more than steaming briefly.",
+      "**Freezing meals in thick glass containers** – Rapid temperature changes can crack glass and also slow even freezing, letting ice crystals form that damage texture and some nutrients; use shallow, freezer-safe containers.",
+      "**Reusing the same oil for frying** – Oil that's been heated multiple times breaks down and forms compounds that aren't great for your body; stick to one or two uses max for frying oils.",
+      "**Prepping leafy greens days in advance** – Pre-chopped spinach or kale loses folate and vitamin C quickly once cut; chop closer to cooking day when possible.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are easier to pull off than you'd think. **Sunlight** within the first hour of waking tells your brain to stop producing melatonin, which is why it makes falling asleep that night so much easier. A short **walk** after dinner works because your muscles pull glucose straight from your bloodstream to use as fuel, so less of it lingers and spikes. And **cold water** first thing in the morning jolts your nervous system awake faster than coffee does, since the temperature shock alone raises alertness before caffeine even kicks in. Everyone's body responds a little differently, so notice what actually moves the needle for you.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs & body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a simple reset today.",
+    "caption": "A few of these meal-prep habits are so normal they don't even feel like mistakes. Take rice: when you seal it up while it's still steaming hot, the trapped moisture becomes a perfect breeding ground for Bacillus cereus, a bacteria that survives reheating and can cause stomach issues hours later. Then there's lemon juice — vitamin C is sensitive to air and light, so once you squeeze it onto cut vegetables or greens, oxidation starts breaking it down within the hour, not days. And canned beans: most of us drain and rinse out of habit, but that liquid carries resistant starch that feeds good gut bacteria, so rinsing too aggressively washes away more benefit than people realize. Everyone's kitchen setup is different, so adjust what fits your routine.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organs and body functions, and the small daily habits that quietly shape how you feel. Our mission is to help you build realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who preps their meals every Sunday.",
     "hashtags": [
-      "#healthtips",
+      "#mealprep",
+      "#healthyeating",
+      "#foodsafety",
+      "#nutritiontips",
+      "#kitchenhacks",
       "#wellness",
-      "#dailyhabits",
-      "#morningroutine",
-      "#betterSleep",
-      "#stressrelief",
-      "#healthyhabits",
-      "#selfcare",
-      "#mindsetmatters",
-      "#energyboost"
+      "#healthtips",
+      "#cookingtips",
+      "#guthealth",
+      "#cleaneating"
     ],
     "extra_keywords": [
-      "dailyroutine",
-      "wellnessjourney",
-      "healthyhabits",
-      "mindbodybalance"
+      "mealpreptips",
+      "healthykitchen",
+      "foodprep",
+      "nutritionfacts",
+      "wellnessjourney"
     ]
   },
-  "shape": "daily_dose_habit",
-  "caption": "A few of these are easier to pull off than you'd think. **Sunlight** within the first hour of waking tells your brain to stop producing melatonin, which is why it makes falling asleep that night so much easier. A short **walk** after dinner works because your muscles pull glucose straight from your bloodstream to use as fuel, so less of it lingers and spikes. And **cold water** first thing in the morning jolts your nervous system awake faster than coffee does, since the temperature shock alone raises alertness before caffeine even kicks in. Everyone's body responds a little differently, so notice what actually moves the needle for you.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs & body functions, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a simple reset today.\n\n#healthtips #wellness #dailyhabits #morningroutine #betterSleep #stressrelief #healthyhabits #selfcare #mindsetmatters #energyboost dailyroutine wellnessjourney healthyhabits mindbodybalance"
+  "shape": "myth_bust",
+  "caption": "A few of these meal-prep habits are so normal they don't even feel like mistakes. Take rice: when you seal it up while it's still steaming hot, the trapped moisture becomes a perfect breeding ground for Bacillus cereus, a bacteria that survives reheating and can cause stomach issues hours later. Then there's lemon juice — vitamin C is sensitive to air and light, so once you squeeze it onto cut vegetables or greens, oxidation starts breaking it down within the hour, not days. And canned beans: most of us drain and rinse out of habit, but that liquid carries resistant starch that feeds good gut bacteria, so rinsing too aggressively washes away more benefit than people realize. Everyone's kitchen setup is different, so adjust what fits your routine.\n\nAt @smarthealthfix we dig into nutrition, common health issues, organs and body functions, and the small daily habits that quietly shape how you feel. Our mission is to help you build realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who preps their meals every Sunday.\n\n#mealprep #healthyeating #foodsafety #nutritiontips #kitchenhacks #wellness #healthtips #cookingtips #guthealth #cleaneating mealpreptips healthykitchen foodprep nutritionfacts wellnessjourney"
 }
