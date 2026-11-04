@@ -1,41 +1,41 @@
 {
-  "png": "output/reel_20261103_205602.png",
-  "mp4": "output/reel_20261103_205602.mp4",
-  "cover": "output/cover_20261103_205602.png",
+  "png": "output/reel_20261104_002522.png",
+  "mp4": "output/reel_20261104_002522.mp4",
+  "cover": "output/cover_20261104_002522.png",
   "cover_bg": "white",
   "content": {
-    "title": "WHAT NEW PARENTS SKIP THAT THEIR {{BODY}} DESPERATELY NEEDS",
+    "title": "THE 90-SECOND HABITS DOCTORS WON'T TELL YOU ACTUALLY MATTER",
     "facts": [
-      "**Sit down to eat** at least once a day, even for 10 minutes — scarfing food standing up spikes cortisol and wrecks digestion when you're already running on fumes.",
-      "**Take 400 mcg of vitamin B12** if you're exhausted past the point sleep deprivation explains — new parents are rarely tested for it and low B12 mimics burnout perfectly.",
-      "**Drink 1 glass of water** before coffee, not after — dehydration from night feeds and crying makes caffeine hit harder and crash faster.",
-      "**Step outside for 5 minutes** within an hour of waking, even with the baby — morning light resets the stress hormone cycle that newborn sleep patterns scramble.",
-      "**Eat 1 handful of nuts** between feeds instead of skipping snacks entirely — blood sugar crashes make the exhaustion and irritability so much worse.",
-      "**Ask for 20 minutes alone** daily without guilt — isolation, not sleep loss alone, is the bigger driver of postpartum mood crashes.",
-      "**Check your own blood pressure** at your baby's first pediatrician visit — new parents often skip their own follow-ups for months.",
+      "**Chew each bite 20 times** — your stomach gets a head start, bloating drops, and you'll naturally eat less without even trying.",
+      "**Stand up every 45 minutes** — just 2 minutes of movement resets blood flow in your legs and keeps blood sugar from spiking after meals.",
+      "**Rub your earlobes for 30 seconds** — it stimulates nerve endings linked to the vagus nerve, which can calm your heart rate almost instantly.",
+      "**Smell citrus peel before meals** — the scent alone can cut cravings for sugary snacks by priming your brain's satiety signals.",
+      "**Clench and release your fists 10 times** — this quick move pushes pooled blood back toward your heart, helpful if you sit most of the day.",
+      "**Write down tomorrow's top task before bed** — it quiets the racing-mind loop that delays sleep onset by 10-15 minutes.",
+      "**Hum for 1 minute** — the vibration stimulates your sinuses and vagus nerve, easing tension headaches and slowing your breathing rate.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "New parents, a few of these matter more than they sound. B12 deficiency is wildly common after birth and during the first exhausted months of parenting — it slows red blood cell production, so even with 'enough' sleep you feel foggy and drained because your cells aren't getting oxygen efficiently. Morning light exposure isn't just a mood trick, it resets your circadian rhythm by signaling your brain to suppress melatonin at the right time, which matters even more when a newborn is destroying your normal sleep-wake cues. And that water before coffee habit works because mild dehydration alone can mimic fatigue and headaches, so you end up masking thirst with caffeine instead of fixing it — everyone's situation is different, so take what fits your days.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ health, and small daily habits that actually fit real life. Our mission is to help you build small, realistic routines instead of chasing perfection or quick fixes.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.",
+    "caption": "A few of these take less than two minutes but do more than people realize. Chewing each bite 20 times isn't just about manners — it triggers enzymes in your saliva that start breaking down carbs before food even hits your stomach, which is a big reason bloating eases up. Humming for a minute sounds silly, but the vibration directly stimulates the vagus nerve running through your sinuses and throat, which is the same nerve responsible for shifting your body out of \"stressed\" mode and into \"rest\" mode. And clenching your fists works because skeletal muscle contractions act like a secondary pump, helping push blood that's pooled in your lower body back up toward your heart — something especially useful if you've been sitting for hours. Everyone's body responds a little differently, so notice what actually helps you.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs & body functions, and small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#newparents",
-      "#postpartumhealth",
-      "#parentingtips",
       "#healthtips",
       "#wellness",
-      "#motherhood",
-      "#tiredmom",
-      "#newbornlife",
-      "#selfcareformoms",
-      "#parentwellness"
+      "#dailyhabits",
+      "#vagusnerve",
+      "#bloodsugarbalance",
+      "#stressrelief",
+      "#mindfuleating",
+      "#betterposture",
+      "#healthyliving",
+      "#selfcare"
     ],
     "extra_keywords": [
-      "postpartumrecovery",
-      "newparenttips",
+      "smallhabits",
       "wellnessjourney",
-      "parentburnout"
+      "naturalhealing",
+      "healthyroutine"
     ]
   },
-  "shape": "imperative_advice_list",
-  "caption": "New parents, a few of these matter more than they sound. B12 deficiency is wildly common after birth and during the first exhausted months of parenting — it slows red blood cell production, so even with 'enough' sleep you feel foggy and drained because your cells aren't getting oxygen efficiently. Morning light exposure isn't just a mood trick, it resets your circadian rhythm by signaling your brain to suppress melatonin at the right time, which matters even more when a newborn is destroying your normal sleep-wake cues. And that water before coffee habit works because mild dehydration alone can mimic fatigue and headaches, so you end up masking thirst with caffeine instead of fixing it — everyone's situation is different, so take what fits your days.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ health, and small daily habits that actually fit real life. Our mission is to help you build small, realistic routines instead of chasing perfection or quick fixes.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.\n\n#newparents #postpartumhealth #parentingtips #healthtips #wellness #motherhood #tiredmom #newbornlife #selfcareformoms #parentwellness postpartumrecovery newparenttips wellnessjourney parentburnout"
+  "shape": "numbered_explainer",
+  "caption": "A few of these take less than two minutes but do more than people realize. Chewing each bite 20 times isn't just about manners — it triggers enzymes in your saliva that start breaking down carbs before food even hits your stomach, which is a big reason bloating eases up. Humming for a minute sounds silly, but the vibration directly stimulates the vagus nerve running through your sinuses and throat, which is the same nerve responsible for shifting your body out of \"stressed\" mode and into \"rest\" mode. And clenching your fists works because skeletal muscle contractions act like a secondary pump, helping push blood that's pooled in your lower body back up toward your heart — something especially useful if you've been sitting for hours. Everyone's body responds a little differently, so notice what actually helps you.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs & body functions, and small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #dailyhabits #vagusnerve #bloodsugarbalance #stressrelief #mindfuleating #betterposture #healthyliving #selfcare smallhabits wellnessjourney naturalhealing healthyroutine"
 }
