@@ -1,41 +1,42 @@
 {
-  "png": "output/reel_20261104_002522.png",
-  "mp4": "output/reel_20261104_002522.mp4",
-  "cover": "output/cover_20261104_002522.png",
+  "png": "output/reel_20261104_175238.png",
+  "mp4": "output/reel_20261104_175238.mp4",
+  "cover": "output/cover_20261104_175238.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE 90-SECOND HABITS DOCTORS WON'T TELL YOU ACTUALLY MATTER",
+    "title": "WHAT HAPPENS TO YOUR BODY WHEN YOU {{OVER-STRETCH}} EVERY MORNING",
     "facts": [
-      "**Chew each bite 20 times** — your stomach gets a head start, bloating drops, and you'll naturally eat less without even trying.",
-      "**Stand up every 45 minutes** — just 2 minutes of movement resets blood flow in your legs and keeps blood sugar from spiking after meals.",
-      "**Rub your earlobes for 30 seconds** — it stimulates nerve endings linked to the vagus nerve, which can calm your heart rate almost instantly.",
-      "**Smell citrus peel before meals** — the scent alone can cut cravings for sugary snacks by priming your brain's satiety signals.",
-      "**Clench and release your fists 10 times** — this quick move pushes pooled blood back toward your heart, helpful if you sit most of the day.",
-      "**Write down tomorrow's top task before bed** — it quiets the racing-mind loop that delays sleep onset by 10-15 minutes.",
-      "**Hum for 1 minute** — the vibration stimulates your sinuses and vagus nerve, easing tension headaches and slowing your breathing rate.",
+      "**Deep morning stretching** right after waking -> your spinal discs are swollen with fluid overnight, so forcing a deep bend can strain ligaments more easily than later in the day.",
+      "**Fruit smoothies for breakfast** -> blending fruit breaks down fiber walls, so sugar hits your bloodstream faster than eating the same fruit whole.",
+      "**Taking a hot shower first thing** -> can spike cortisol slightly when your body is already producing its natural morning cortisol peak, leaving some people feeling wired instead of calm.",
+      "**Wearing supportive shoes all day, even at home** -> constant arch support can weaken the small stabilizing muscles in your feet over time.",
+      "**Napping longer than 30 minutes** -> pushes you into deep sleep stages, so waking up mid-cycle often leaves you groggier than if you hadn't napped at all.",
+      "**Rinsing your mouth right after brushing** -> washes away the concentrated fluoride left on your teeth before it has time to fully strengthen enamel.",
+      "**Drinking coffee the moment you wake up** -> competes with your natural cortisol spike, which is often why the same cup feels less effective than one taken an hour or two later.",
+      "**Sleeping with socks on** -> can trap heat and slightly disrupt the natural drop in core body temperature your body needs to stay in deep sleep.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these take less than two minutes but do more than people realize. Chewing each bite 20 times isn't just about manners — it triggers enzymes in your saliva that start breaking down carbs before food even hits your stomach, which is a big reason bloating eases up. Humming for a minute sounds silly, but the vibration directly stimulates the vagus nerve running through your sinuses and throat, which is the same nerve responsible for shifting your body out of \"stressed\" mode and into \"rest\" mode. And clenching your fists works because skeletal muscle contractions act like a secondary pump, helping push blood that's pooled in your lower body back up toward your heart — something especially useful if you've been sitting for hours. Everyone's body responds a little differently, so notice what actually helps you.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs & body functions, and small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these are worth slowing down on. Take the morning stretching habit — your spinal discs actually absorb fluid overnight while you're lying flat, making them temporarily puffier and less flexible, so an aggressive stretch the second you stand up puts more pull on ligaments than the same stretch would an hour later. Or think about your fruit smoothie — blending fruit shreds the fiber matrix that normally slows sugar absorption, so your blood sugar can rise faster than if you'd just eaten the fruit with a spoon. And that hot shower right after waking? Your body is already ramping up cortisol naturally as part of waking up, so adding heat stress on top can occasionally amplify that spike instead of helping you relax. None of this means stop doing these things — everyone's body responds a little differently, so it's worth noticing how you personally feel.\n\nAt @smarthealthfix we dig into the small overlaps between nutrition, common symptoms, your organs, and the tiny daily habits most people never question. Our mission is simple: help you build small, realistic habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#morningroutine",
       "#healthtips",
-      "#wellness",
-      "#dailyhabits",
-      "#vagusnerve",
-      "#bloodsugarbalance",
-      "#stressrelief",
-      "#mindfuleating",
-      "#betterposture",
-      "#healthyliving",
-      "#selfcare"
+      "#wellnesshabits",
+      "#guthealth",
+      "#sleeptips",
+      "#cortisol",
+      "#bloodsugar",
+      "#selfcare",
+      "#healthyhabits",
+      "#bodyawareness"
     ],
     "extra_keywords": [
-      "smallhabits",
+      "dailyhabits",
       "wellnessjourney",
-      "naturalhealing",
-      "healthyroutine"
+      "morningroutinetips",
+      "naturalhealth"
     ]
   },
-  "shape": "numbered_explainer",
-  "caption": "A few of these take less than two minutes but do more than people realize. Chewing each bite 20 times isn't just about manners — it triggers enzymes in your saliva that start breaking down carbs before food even hits your stomach, which is a big reason bloating eases up. Humming for a minute sounds silly, but the vibration directly stimulates the vagus nerve running through your sinuses and throat, which is the same nerve responsible for shifting your body out of \"stressed\" mode and into \"rest\" mode. And clenching your fists works because skeletal muscle contractions act like a secondary pump, helping push blood that's pooled in your lower body back up toward your heart — something especially useful if you've been sitting for hours. Everyone's body responds a little differently, so notice what actually helps you.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs & body functions, and small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #dailyhabits #vagusnerve #bloodsugarbalance #stressrelief #mindfuleating #betterposture #healthyliving #selfcare smallhabits wellnessjourney naturalhealing healthyroutine"
+  "shape": "habit_harm_reveal",
+  "caption": "A few of these are worth slowing down on. Take the morning stretching habit — your spinal discs actually absorb fluid overnight while you're lying flat, making them temporarily puffier and less flexible, so an aggressive stretch the second you stand up puts more pull on ligaments than the same stretch would an hour later. Or think about your fruit smoothie — blending fruit shreds the fiber matrix that normally slows sugar absorption, so your blood sugar can rise faster than if you'd just eaten the fruit with a spoon. And that hot shower right after waking? Your body is already ramping up cortisol naturally as part of waking up, so adding heat stress on top can occasionally amplify that spike instead of helping you relax. None of this means stop doing these things — everyone's body responds a little differently, so it's worth noticing how you personally feel.\n\nAt @smarthealthfix we dig into the small overlaps between nutrition, common symptoms, your organs, and the tiny daily habits most people never question. Our mission is simple: help you build small, realistic habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#morningroutine #healthtips #wellnesshabits #guthealth #sleeptips #cortisol #bloodsugar #selfcare #healthyhabits #bodyawareness dailyhabits wellnessjourney morningroutinetips naturalhealth"
 }
