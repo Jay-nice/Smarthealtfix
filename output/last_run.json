@@ -1,43 +1,44 @@
 {
-  "png": "output/reel_20261104_211544.png",
-  "mp4": "output/reel_20261104_211544.mp4",
-  "cover": "output/cover_20261104_211544.png",
+  "png": "output/reel_20261105_005629.png",
+  "mp4": "output/reel_20261105_005629.mp4",
+  "cover": "output/cover_20261105_005629.png",
   "cover_bg": "white",
   "content": {
-    "title": "IF YOU ATE THIS EVERY DAY FOR {{30 DAYS}}, YOUR BODY WOULD CHANGE BEFORE YOU NOTICE",
+    "title": "THE KITCHEN MISTAKES THAT ARE QUIETLY MAKING YOU SICK",
     "facts": [
-      "If you ate **pumpkin seeds** every day for 2 weeks, your sleep would get noticeably deeper thanks to their natural magnesium and tryptophan content.",
-      "If you ate **sardines** every day for 1 week, your joints would feel less stiff as the omega-3s calm inflammation from the inside out.",
-      "If you ate **1 kiwi with skin on** every day for 10 days, your digestion would speed up and bloating would fade thanks to its actinidain enzyme and fiber.",
-      "If you drank **1 cup of bone broth** every day for 3 weeks, your nails would stop splitting as thin as before, fueled by its collagen-building amino acids.",
-      "If you ate **1 tbsp of ground flaxseed** every day for 30 days, your skin would hold moisture better and feel less tight in dry weather.",
-      "If you ate **a handful of pistachios** every day for 2 weeks, your blood pressure readings would trend slightly lower thanks to their potassium load.",
-      "If you ate **1 Brazil nut** every day for 1 month, your energy would feel steadier by afternoon, since just one covers your daily selenium needs.",
-      "If you ate **fermented kimchi-style cabbage** every day for 3 weeks, your post-meal bloating would shrink as your gut bacteria diversify.",
-      "**Follow along** – for more daily food experiments like this."
+      "**Chicken** – Washing it in the sink before cooking (splashes raw bacteria like Salmonella onto your counters and faucet).",
+      "**Potatoes** – Storing them in the fridge (cold temps convert starch to sugar, which can form more acrylamide when fried or roasted).",
+      "**Honey** – Feeding it to a baby under 1 year old (risk of infant botulism from Clostridium spores).",
+      "**Leftover rice** – Cooling it slowly on the counter before refrigerating (Bacillus cereus spores survive cooking and multiply fast at room temp).",
+      "**Eggs** – Storing them in the fridge door (temperature swings every time the door opens speed up bacterial growth).",
+      "**Mushrooms** – Keeping them in a sealed plastic bag (trapped moisture speeds up bacterial growth and sliminess).",
+      "**Ground beef** – Judging doneness by color alone (it can look fully browned while still being under the safe internal temp).",
+      "**Melon** – Leaving a cut cantaloupe or watermelon out past 2 hours (moist, sugary flesh is a fast breeding ground for bacteria).",
+      "**Garlic in oil** – Making your own garlic-infused oil and storing it at room temp (low-oxygen environment that can grow botulism toxin).",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Let's break down a few of these. Sardines are one of the few whole foods naturally rich in both omega-3 fats and vitamin D, which work together to calm the inflammatory response around your joints over time, not just mask the ache. Kiwi with the skin left on carries a digestive enzyme called actinidain that actually helps break down protein in your stomach, which is why people notice less heaviness after meals within days. And that single Brazil nut isn't a gimmick — selenium is used by your thyroid to regulate metabolism, so a steady daily dose can translate into fewer energy crashes by the time 3pm rolls around. Everyone's body responds a little differently, so pay attention to what yours is telling you.\n\nThis is the kind of small, food-first shift @smarthealthfix focuses on — real nutrition, common health issues, how your organs actually work, and tiny daily habits that add up. Our mission is to help you build sustainable routines instead of chasing overnight fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Let's break down a few of these because the 'why' matters more than the rule itself. Rice is the sneaky one here — Bacillus cereus spores aren't killed by cooking, so if cooked rice sits out slowly cooling on the counter, those spores wake up and multiply, producing a toxin that reheating won't destroy. Chicken is another big one: that instinct to rinse it off actually backfires, because the water pressure flings bacteria-laden droplets up to 3 feet across your sink and counters. And garlic-infused oil sounds harmless, but garlic can carry Clostridium botulinum spores from the soil — in oil, with no oxygen, at room temperature, those spores can produce toxin without any obvious smell or taste change. Everyone's kitchen habits are a little different, so it's worth double-checking your own routine against these.\n\nAt @smarthealthfix we focus on practical nutrition, everyday symptoms, how your organs actually work, and small daily habits that add up. Our mission is to help you build small, realistic routines instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#foodsafety",
+      "#kitchentips",
       "#healthtips",
       "#wellness",
-      "#guthealth",
-      "#antiinflammatory",
-      "#nutritionfacts",
-      "#sardines",
-      "#kiwi",
-      "#bonebroth",
-      "#selenium",
-      "#foodismedicine"
+      "#mealprep",
+      "#foodpoisoningprevention",
+      "#healthyhabits",
+      "#kitchenhacks",
+      "#nutritiontips",
+      "#safefood"
     ],
     "extra_keywords": [
+      "foodsafetytips",
+      "kitchenmistakes",
+      "healthyliving",
       "wellnessjourney",
-      "naturalhealing",
-      "healthyhabits",
-      "nutritiontips",
-      "glowupnaturally"
+      "cookingtips"
     ]
   },
-  "shape": "conditional_transformation",
-  "caption": "Let's break down a few of these. Sardines are one of the few whole foods naturally rich in both omega-3 fats and vitamin D, which work together to calm the inflammatory response around your joints over time, not just mask the ache. Kiwi with the skin left on carries a digestive enzyme called actinidain that actually helps break down protein in your stomach, which is why people notice less heaviness after meals within days. And that single Brazil nut isn't a gimmick — selenium is used by your thyroid to regulate metabolism, so a steady daily dose can translate into fewer energy crashes by the time 3pm rolls around. Everyone's body responds a little differently, so pay attention to what yours is telling you.\n\nThis is the kind of small, food-first shift @smarthealthfix focuses on — real nutrition, common health issues, how your organs actually work, and tiny daily habits that add up. Our mission is to help you build sustainable routines instead of chasing overnight fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #antiinflammatory #nutritionfacts #sardines #kiwi #bonebroth #selenium #foodismedicine wellnessjourney naturalhealing healthyhabits nutritiontips glowupnaturally"
+  "shape": "food_safety_mistake",
+  "caption": "Let's break down a few of these because the 'why' matters more than the rule itself. Rice is the sneaky one here — Bacillus cereus spores aren't killed by cooking, so if cooked rice sits out slowly cooling on the counter, those spores wake up and multiply, producing a toxin that reheating won't destroy. Chicken is another big one: that instinct to rinse it off actually backfires, because the water pressure flings bacteria-laden droplets up to 3 feet across your sink and counters. And garlic-infused oil sounds harmless, but garlic can carry Clostridium botulinum spores from the soil — in oil, with no oxygen, at room temperature, those spores can produce toxin without any obvious smell or taste change. Everyone's kitchen habits are a little different, so it's worth double-checking your own routine against these.\n\nAt @smarthealthfix we focus on practical nutrition, everyday symptoms, how your organs actually work, and small daily habits that add up. Our mission is to help you build small, realistic routines instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodsafety #kitchentips #healthtips #wellness #mealprep #foodpoisoningprevention #healthyhabits #kitchenhacks #nutritiontips #safefood foodsafetytips kitchenmistakes healthyliving wellnessjourney cookingtips"
 }
