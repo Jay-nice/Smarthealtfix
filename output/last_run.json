@@ -1,42 +1,44 @@
 {
-  "png": "output/reel_20261105_212701.png",
-  "mp4": "output/reel_20261105_212701.mp4",
-  "cover": "output/cover_20261105_212701.png",
+  "png": "output/reel_20261106_004834.png",
+  "mp4": "output/reel_20261106_004834.mp4",
+  "cover": "output/cover_20261106_004834.png",
   "cover_bg": "white",
   "content": {
-    "title": "HABITS THAT FEEL HEALTHY BUT ARE QUIETLY WORKING AGAINST {{YOU}}",
+    "title": "KITCHEN FIXES FOR {{EVERYDAY ANNOYANCES}} NOBODY TAUGHT YOU",
     "facts": [
-      "**Chewing gum after meals** -> can send false 'incoming food' signals to your stomach, leading to extra acid production and bloating over time.",
-      "**Carrying a water bottle everywhere** -> sounds great, but sipping nonstop can dilute stomach acid right when you need it most for digesting a meal.",
-      "**Standing desks all day** -> static standing for 8 hours can pool blood in your legs and strain your lower back more than sitting does.",
-      "**Taking the stairs two at a time** -> builds power, but repeated high-impact strain on the knees without warm-up can irritate the joint over months.",
-      "**Going to bed right after a workout** -> your core temperature and heart rate stay elevated, which can delay deep sleep onset by 30-60 minutes.",
-      "**Eating a big bowl of salad as your only meal** -> without any fat or protein, many fat-soluble nutrients in those veggies simply pass through unabsorbed.",
-      "**Listening to podcasts at max volume while walking** -> prolonged headphone use above safe decibel levels can quietly wear down hearing years before you notice.",
-      "**Showering twice a day** -> strips natural oils from your skin barrier, which can actually make skin drier and more irritated long term.",
-      "**Follow along** - for more daily health tips like this."
+      "**Hiccups** – Swallow a teaspoon of sugar; the grainy texture interrupts the nerve spasm causing the hiccup.",
+      "**Burnt tongue** – Press a spoonful of plain yogurt against the roof of your mouth to cool the tissue fast.",
+      "**Stuffy nose** – Hold a warm, damp washcloth over your nose and cheeks for 1 minute to loosen congestion.",
+      "**Bug bite itch** – Dab on a paste of baking soda and water and let it dry for 10 minutes to calm the itch.",
+      "**Brain freeze** – Press your tongue flat against the roof of your mouth to warm the area and stop the ache.",
+      "**Hangnail** – Soak your fingertip in warm olive oil for 5 minutes to soften the skin before trimming.",
+      "**Charley horse cramp** – Pull your toes toward your shin and hold for 15 seconds to force the muscle to release.",
+      "**Dry, cracked heels** – Rub a thick layer of petroleum jelly on at night and cover with socks to lock in moisture.",
+      "**Sore throat** – Gargle warm water with 1/2 tsp salt for 30 seconds to pull swelling out of irritated tissue.",
+      "**Follow along** – for more quick, kitchen-cabinet fixes like this."
     ],
     "claims": [],
-    "caption": "A few of these surprised even us. Take gum: chewing it after meals tricks your brain into 'cephalic phase' digestion, where your stomach preps acid for food that never arrives - do this daily and it can chip away at your stomach lining over time. Then there's the standing desk trend: standing still (not moving) for hours keeps blood pooled in your lower legs, which is actually why some people feel more fatigued standing all day than sitting. And that big salad-only lunch? Vitamins like A, D, E and K need fat to be absorbed through your gut wall, so a oil-free salad can leave you nutrient-poor even though it looks like the healthiest meal on the table. Everyone's body is different, so pay attention to how you personally feel.\n\nThis is what @smarthealthfix is all about: breaking down nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these have more going on than they look like. The sugar trick for hiccups works because the coarse texture stimulates the vagus nerve, which helps reset the diaphragm spasm causing the hiccup in the first place. For a burnt tongue, yogurt isn't just soothing because it's cold — its proteins coat the irritated taste buds, which is why it calms the sting faster than plain water. And that baking soda paste for bug bites works by neutralizing some of the acidic compounds your body releases at the bite site, which is part of what triggers the itching signal to your brain. Everyone's skin and body react a little differently, so pay attention to what actually helps yours.\n\nThis is what @smarthealthfix is all about — simple, science-backed info on nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#homeremedies",
       "#healthtips",
+      "#kitchenhacks",
+      "#naturalremedies",
       "#wellness",
-      "#guthealth",
-      "#digestivehealth",
-      "#dailyhabits",
-      "#nutritionfacts",
-      "#healthyhabits",
-      "#bodyawareness",
-      "#holistichealth",
-      "#selfcare"
+      "#quickfixes",
+      "#selfcaretips",
+      "#healthyliving",
+      "#bodytips",
+      "#dailyhealth"
     ],
     "extra_keywords": [
+      "naturalhealing",
+      "homeremedytips",
       "wellnessjourney",
-      "healthmyths",
-      "mindfulliving",
-      "naturalhealing"
+      "healthhacks",
+      "everydaytips"
     ]
   },
-  "shape": "habit_harm_reveal",
-  "caption": "A few of these surprised even us. Take gum: chewing it after meals tricks your brain into 'cephalic phase' digestion, where your stomach preps acid for food that never arrives - do this daily and it can chip away at your stomach lining over time. Then there's the standing desk trend: standing still (not moving) for hours keeps blood pooled in your lower legs, which is actually why some people feel more fatigued standing all day than sitting. And that big salad-only lunch? Vitamins like A, D, E and K need fat to be absorbed through your gut wall, so a oil-free salad can leave you nutrient-poor even though it looks like the healthiest meal on the table. Everyone's body is different, so pay attention to how you personally feel.\n\nThis is what @smarthealthfix is all about: breaking down nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #digestivehealth #dailyhabits #nutritionfacts #healthyhabits #bodyawareness #holistichealth #selfcare wellnessjourney healthmyths mindfulliving naturalhealing"
+  "shape": "boxed_hacks",
+  "caption": "A few of these have more going on than they look like. The sugar trick for hiccups works because the coarse texture stimulates the vagus nerve, which helps reset the diaphragm spasm causing the hiccup in the first place. For a burnt tongue, yogurt isn't just soothing because it's cold — its proteins coat the irritated taste buds, which is why it calms the sting faster than plain water. And that baking soda paste for bug bites works by neutralizing some of the acidic compounds your body releases at the bite site, which is part of what triggers the itching signal to your brain. Everyone's skin and body react a little differently, so pay attention to what actually helps yours.\n\nThis is what @smarthealthfix is all about — simple, science-backed info on nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#homeremedies #healthtips #kitchenhacks #naturalremedies #wellness #quickfixes #selfcaretips #healthyliving #bodytips #dailyhealth naturalhealing homeremedytips wellnessjourney healthhacks everydaytips"
 }
