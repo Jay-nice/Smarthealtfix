@@ -1,44 +1,43 @@
 {
-  "png": "output/reel_20261106_004834.png",
-  "mp4": "output/reel_20261106_004834.mp4",
-  "cover": "output/cover_20261106_004834.png",
+  "png": "output/reel_20261106_171539.png",
+  "mp4": "output/reel_20261106_171539.mp4",
+  "cover": "output/cover_20261106_171539.png",
   "cover_bg": "white",
   "content": {
-    "title": "KITCHEN FIXES FOR {{EVERYDAY ANNOYANCES}} NOBODY TAUGHT YOU",
+    "title": "THE GROCERY LIST FOR {{ANNOYING}} EVERYDAY PROBLEMS",
     "facts": [
-      "**Hiccups** – Swallow a teaspoon of sugar; the grainy texture interrupts the nerve spasm causing the hiccup.",
-      "**Burnt tongue** – Press a spoonful of plain yogurt against the roof of your mouth to cool the tissue fast.",
-      "**Stuffy nose** – Hold a warm, damp washcloth over your nose and cheeks for 1 minute to loosen congestion.",
-      "**Bug bite itch** – Dab on a paste of baking soda and water and let it dry for 10 minutes to calm the itch.",
-      "**Brain freeze** – Press your tongue flat against the roof of your mouth to warm the area and stop the ache.",
-      "**Hangnail** – Soak your fingertip in warm olive oil for 5 minutes to soften the skin before trimming.",
-      "**Charley horse cramp** – Pull your toes toward your shin and hold for 15 seconds to force the muscle to release.",
-      "**Dry, cracked heels** – Rub a thick layer of petroleum jelly on at night and cover with socks to lock in moisture.",
-      "**Sore throat** – Gargle warm water with 1/2 tsp salt for 30 seconds to pull swelling out of irritated tissue.",
-      "**Follow along** – for more quick, kitchen-cabinet fixes like this."
+      "**Bloating** ----- Fennel Seeds",
+      "**Afternoon Headache** ----- Pumpkin Seeds",
+      "**Restless Legs** ----- Tart Cherry Juice",
+      "**Puffy Eyes** ----- Cucumber Slices",
+      "**Mouth Ulcers** ----- Coconut Water",
+      "**Muscle Soreness** ----- Pineapple",
+      "**Dry Eyes** ----- Walnuts",
+      "**Low Mood Dip** ----- Sardines",
+      "**Constant Yawning/Fatigue** ----- Pistachios",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these have more going on than they look like. The sugar trick for hiccups works because the coarse texture stimulates the vagus nerve, which helps reset the diaphragm spasm causing the hiccup in the first place. For a burnt tongue, yogurt isn't just soothing because it's cold — its proteins coat the irritated taste buds, which is why it calms the sting faster than plain water. And that baking soda paste for bug bites works by neutralizing some of the acidic compounds your body releases at the bite site, which is part of what triggers the itching signal to your brain. Everyone's skin and body react a little differently, so pay attention to what actually helps yours.\n\nThis is what @smarthealthfix is all about — simple, science-backed info on nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these are worth explaining further. Fennel seeds contain compounds that relax the muscles lining your gut, which is why chewing a small spoonful after a heavy meal can ease that tight, bloated feeling within minutes. Tart cherry juice is one of the few natural sources of melatonin, and studies link it to calmer nerve signaling at night — that's part of why it's been used for restless legs and disrupted sleep. Sardines are packed with omega-3s that your brain uses to build the receptors involved in mood regulation, so a regular serving can genuinely support how steady you feel day to day. Everyone's body is different, so pay attention to what actually helps yours.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits so you don't need a medical degree to understand your own body. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#homeremedies",
-      "#healthtips",
-      "#kitchenhacks",
+      "#guthealth",
+      "#bloatingrelief",
       "#naturalremedies",
-      "#wellness",
-      "#quickfixes",
-      "#selfcaretips",
-      "#healthyliving",
-      "#bodytips",
-      "#dailyhealth"
+      "#wellnesstips",
+      "#healthyhabits",
+      "#foodismedicine",
+      "#omega3",
+      "#sleepsupport",
+      "#energyboost",
+      "#holistichealth"
     ],
     "extra_keywords": [
       "naturalhealing",
-      "homeremedytips",
       "wellnessjourney",
-      "healthhacks",
-      "everydaytips"
+      "guttips",
+      "everydayremedies"
     ]
   },
-  "shape": "boxed_hacks",
-  "caption": "A few of these have more going on than they look like. The sugar trick for hiccups works because the coarse texture stimulates the vagus nerve, which helps reset the diaphragm spasm causing the hiccup in the first place. For a burnt tongue, yogurt isn't just soothing because it's cold — its proteins coat the irritated taste buds, which is why it calms the sting faster than plain water. And that baking soda paste for bug bites works by neutralizing some of the acidic compounds your body releases at the bite site, which is part of what triggers the itching signal to your brain. Everyone's skin and body react a little differently, so pay attention to what actually helps yours.\n\nThis is what @smarthealthfix is all about — simple, science-backed info on nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#homeremedies #healthtips #kitchenhacks #naturalremedies #wellness #quickfixes #selfcaretips #healthyliving #bodytips #dailyhealth naturalhealing homeremedytips wellnessjourney healthhacks everydaytips"
+  "shape": "problem_food_mapping",
+  "caption": "A few of these are worth explaining further. Fennel seeds contain compounds that relax the muscles lining your gut, which is why chewing a small spoonful after a heavy meal can ease that tight, bloated feeling within minutes. Tart cherry juice is one of the few natural sources of melatonin, and studies link it to calmer nerve signaling at night — that's part of why it's been used for restless legs and disrupted sleep. Sardines are packed with omega-3s that your brain uses to build the receptors involved in mood regulation, so a regular serving can genuinely support how steady you feel day to day. Everyone's body is different, so pay attention to what actually helps yours.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits so you don't need a medical degree to understand your own body. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#guthealth #bloatingrelief #naturalremedies #wellnesstips #healthyhabits #foodismedicine #omega3 #sleepsupport #energyboost #holistichealth naturalhealing wellnessjourney guttips everydayremedies"
 }
