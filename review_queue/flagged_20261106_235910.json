@@ -1,0 +1,139 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "FRUITS & VEGGIES RANKED BY WHAT THEY'RE SECRETLY HIDING",
+    "facts": [
+      "A cup of cooked **spinach** has more iron than most people expect from a vegetable — roughly 6mg, more than a small cut of red meat provides per serving.",
+      "**Dried figs** pack nearly as much calcium per cup as a glass of milk, making them one of the few fruits that actually support bone strength.",
+      "**Swiss chard** delivers over 500% of your daily vitamin K in a single cooked cup, more than almost any other leafy green.",
+      "**Butternut squash** has close to double the potassium of a banana, cup for cup, yet almost never gets credit for it.",
+      "**Brazil nuts** are so loaded with selenium that just 2 nuts a day can cover your entire daily requirement.",
+      "**Guava** quietly beats most citrus fruits on vitamin C — one fruit can contain over 200% of your daily needs.",
+      "**Edamame** has more plant-based iron and fiber per cup than most beans, plus a dose of zinc most snacks can't match.",
+      "**Seaweed snacks** are one of the only plant foods with naturally occurring vitamin D, a nutrient almost no produce contains.",
+      "**Acorn squash** delivers a solid 9g of fiber per cup, nearly a third of what most adults need in a whole day.",
+      "**Pumpkin seeds** (a handful, about 1oz/day) give you more zinc than almost any other plant food, supporting immune function most people overlook.",
+      "**Follow along** – for more daily health tips like this."
+    ],
+    "claims": [
+      {
+        "food_a": "Spinach",
+        "food_b": "Red meat (per serving)",
+        "nutrient_key": "iron"
+      },
+      {
+        "food_a": "Dried figs",
+        "food_b": "Milk",
+        "nutrient_key": "calcium"
+      },
+      {
+        "food_a": "Swiss chard",
+        "food_b": "Kale",
+        "nutrient_key": "vitamin_k"
+      },
+      {
+        "food_a": "Butternut squash",
+        "food_b": "Banana",
+        "nutrient_key": "potassium"
+      },
+      {
+        "food_a": "Guava",
+        "food_b": "Orange",
+        "nutrient_key": "vitamin_c"
+      },
+      {
+        "food_a": "Edamame",
+        "food_b": "Black beans",
+        "nutrient_key": "zinc"
+      }
+    ],
+    "caption": "Let's talk about a few of these. Spinach's iron is non-heme, meaning your body absorbs it less efficiently than the iron in meat — but pairing it with vitamin C-rich foods can boost absorption significantly. Swiss chard's vitamin K matters because that vitamin helps direct calcium into your bones instead of your arteries, something most people never think about when they skip greens. And Brazil nuts work so well for selenium because your thyroid actually stores more selenium than any other organ, using it to produce hormones that regulate your metabolism. Everyone's body absorbs nutrients a little differently, so listen to yours.\n\nAt @smarthealthfix, we dig into nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape how you feel. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "hashtags": [
+      "#nutritionfacts",
+      "#vitamindeficiency",
+      "#healthyeating",
+      "#mineralpower",
+      "#ironrich",
+      "#plantbasednutrition",
+      "#wellnesstips",
+      "#foodismedicine",
+      "#healthyhabits",
+      "#micronutrients"
+    ],
+    "extra_keywords": [
+      "nutrienttips",
+      "wholefoods",
+      "eatthegreens",
+      "healthawareness"
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 6,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "Dried figs",
+          "food_b": "Milk",
+          "nutrient_key": "calcium"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "Dried figs",
+          "food_b": "Milk",
+          "nutrient": "calcium",
+          "amount_a": {
+            "amount": 93.0,
+            "unit": "MG",
+            "food_description": "DRIED FIGS",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 127,
+            "unit": "MG",
+            "food_description": "MILK",
+            "per": "100g"
+          },
+          "ratio": 0.73
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Butternut squash",
+          "food_b": "Banana",
+          "nutrient_key": "potassium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Guava",
+          "food_b": "Orange",
+          "nutrient_key": "vitamin_c"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Edamame",
+          "food_b": "Black beans",
+          "nutrient_key": "zinc"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      }
+    ]
+  }
+}
