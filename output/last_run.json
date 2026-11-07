@@ -1,42 +1,44 @@
 {
-  "png": "output/reel_20261107_161057.png",
-  "mp4": "output/reel_20261107_161057.mp4",
-  "cover": "output/cover_20261107_161057.png",
+  "png": "output/reel_20261107_192136.png",
+  "mp4": "output/reel_20261107_192136.mp4",
+  "cover": "output/cover_20261107_192136.png",
   "cover_bg": "white",
   "content": {
-    "title": "IF YOU EAT {{THIS}} EVERY DAY... THIS IS WHAT HAPPENS",
+    "title": "KITCHEN MISTAKES THAT QUIETLY MAKE YOUR FOOD {{DANGEROUS}}",
     "facts": [
-      "If you ate **beets** every day for 2 weeks, your blood pressure would likely drop as the nitrates widen your blood vessels, and workouts would suddenly feel easier.",
-      "If you ate **oats** every day for 30 days, your cholesterol numbers would start to shift as the beta-glucan fiber grabs onto bile acids and pulls them out of your body.",
-      "If you ate **sardines** every day for 3 weeks, your joints would feel less stiff as the omega-3s calm down low-grade inflammation around them.",
-      "If you ate **kimchi** every day for 2 weeks, your digestion would feel noticeably smoother as the live cultures repopulate your gut with helpful bacteria.",
-      "If you ate **Brazil nuts** every day for 1 week, your energy and mood could lift slightly, thanks to a big dose of selenium supporting your thyroid.",
-      "If you ate **blueberries** every day for 1 month, your memory and focus could sharpen as plant compounds called anthocyanins protect brain cells from wear and tear.",
-      "If you ate **lentils** every day for 2 weeks, your blood sugar swings would smooth out, since the fiber and protein combo slows how fast glucose hits your bloodstream.",
-      "If you ate **walnuts** every day for 3 weeks, your skin could look calmer and less inflamed, helped along by their plant-based omega-3s.",
+      "**Garlic-in-oil** – Don't store homemade garlic oil at room temperature (low-oxygen environment can let Clostridium botulinum grow).",
+      "**Chicken** – Don't rinse raw chicken under the tap before cooking (splashes spread Salmonella/Campylobacter around your sink and counters).",
+      "**Potatoes** – Don't eat ones that have turned green or sprouted (solanine builds up and can cause nausea at higher levels).",
+      "**Eggs** – Don't store them on the fridge door (temperature swings there speed up bacterial growth compared to the colder interior shelves).",
+      "**Melon** – Don't leave cut melon out for hours before refrigerating (its moist, low-acid flesh is a prime spot for Listeria and Salmonella).",
+      "**Mushrooms** – Don't keep them sealed in plastic bags (trapped moisture speeds up mold growth; paper bags let them breathe).",
+      "**Leftover pasta/rice sauces** – Don't cool them slowly on the counter overnight (the long cooldown window lets Bacillus cereus spores multiply).",
+      "**Reheated spinach** – Don't reheat it more than once (repeated heating raises nitrite levels, especially risky for infants).",
+      "**Canned food** – Don't use a dented or bulging can (swelling can signal gas from bacterial contamination inside).",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Beets get a bad reputation for staining everything purple, but inside your body that same pigment is doing real work — the nitrates convert into nitric oxide, which relaxes and widens blood vessels so blood (and oxygen) moves more freely. Oats work differently: the beta-glucan fiber forms a gel in your gut that traps bile acids made from cholesterol, forcing your liver to pull more cholesterol out of your blood to make new bile. And sardines bring EPA and DHA straight into your joints and bloodstream, where they get converted into compounds that actively dial down inflammation instead of just avoiding foods that cause it. Everyone's body responds a little differently, so pay attention to how yours reacts.\n\n@smarthealthfix is all about the small stuff that actually moves the needle — nutrition, everyday symptoms, how your organs work, and tiny daily habits that add up. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these kitchen habits are way more common than people realize. Take garlic oil: when raw garlic sits in oil at room temperature, it creates a low-oxygen pocket that's exactly what Clostridium botulinum spores need to grow and produce toxin, so it has to stay refrigerated and get used quickly. Potatoes are another sneaky one — once they turn green or start sprouting, solanine levels climb, and that compound is what's behind the nausea and stomach upset some people get after eating old spuds. And that habit of rinsing raw chicken? It feels hygienic, but the water splashing off the meat can carry Salmonella or Campylobacter up to a meter across your sink, counters, and nearby dish towels. Everyone's kitchen setup is different, so just double check the habits that apply to yours.\n\n@smarthealthfix is all about the small, everyday stuff — nutrition, common health issues, how your organs work, and the daily habits that quietly shape your health. Our mission is to help you build realistic, lasting habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#foodsafety",
+      "#kitchentips",
       "#healthtips",
       "#wellness",
-      "#guthealth",
-      "#antiinflammatory",
-      "#nutritionfacts",
-      "#heartheal",
-      "#bloodsugar",
-      "#eatclean",
-      "#foodismedicine",
-      "#dailyhabits"
+      "#foodstorage",
+      "#mealprep",
+      "#foodpoisoningprevention",
+      "#healthyhabits",
+      "#kitchenhacks",
+      "#cookingtips"
     ],
     "extra_keywords": [
-      "naturalhealing",
+      "foodsafetytips",
+      "kitchenmistakes",
       "wellnessjourney",
-      "nutritiontips",
-      "healthyhabits"
+      "healthyliving",
+      "preventfoodpoisoning"
     ]
   },
-  "shape": "conditional_transformation",
-  "caption": "Beets get a bad reputation for staining everything purple, but inside your body that same pigment is doing real work — the nitrates convert into nitric oxide, which relaxes and widens blood vessels so blood (and oxygen) moves more freely. Oats work differently: the beta-glucan fiber forms a gel in your gut that traps bile acids made from cholesterol, forcing your liver to pull more cholesterol out of your blood to make new bile. And sardines bring EPA and DHA straight into your joints and bloodstream, where they get converted into compounds that actively dial down inflammation instead of just avoiding foods that cause it. Everyone's body responds a little differently, so pay attention to how yours reacts.\n\n@smarthealthfix is all about the small stuff that actually moves the needle — nutrition, everyday symptoms, how your organs work, and tiny daily habits that add up. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #antiinflammatory #nutritionfacts #heartheal #bloodsugar #eatclean #foodismedicine #dailyhabits naturalhealing wellnessjourney nutritiontips healthyhabits"
+  "shape": "food_safety_mistake",
+  "caption": "A few of these kitchen habits are way more common than people realize. Take garlic oil: when raw garlic sits in oil at room temperature, it creates a low-oxygen pocket that's exactly what Clostridium botulinum spores need to grow and produce toxin, so it has to stay refrigerated and get used quickly. Potatoes are another sneaky one — once they turn green or start sprouting, solanine levels climb, and that compound is what's behind the nausea and stomach upset some people get after eating old spuds. And that habit of rinsing raw chicken? It feels hygienic, but the water splashing off the meat can carry Salmonella or Campylobacter up to a meter across your sink, counters, and nearby dish towels. Everyone's kitchen setup is different, so just double check the habits that apply to yours.\n\n@smarthealthfix is all about the small, everyday stuff — nutrition, common health issues, how your organs work, and the daily habits that quietly shape your health. Our mission is to help you build realistic, lasting habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodsafety #kitchentips #healthtips #wellness #foodstorage #mealprep #foodpoisoningprevention #healthyhabits #kitchenhacks #cookingtips foodsafetytips kitchenmistakes wellnessjourney healthyliving preventfoodpoisoning"
 }
