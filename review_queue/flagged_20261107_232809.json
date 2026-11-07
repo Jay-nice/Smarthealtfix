@@ -1,0 +1,309 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "YOUR GROCERY LIST IS LYING TO {{YOU}}",
+    "facts": [
+      "**Parsley** has more vitamin K in one small handful than a cup of broccoli — it's not just a garnish, it's one of the densest vitamin K sources in the produce aisle.",
+      "**Swiss chard** packs nearly as much magnesium per cup as a handful of almonds, and most people walk right past it for the same 3 greens every week.",
+      "**Dried figs** have more calcium per serving than a glass of milk — 3-4 dried figs gets you a surprising chunk of your daily needs.",
+      "**Plantains** carry more potassium than a banana twice their size, yet almost nobody treats them as a potassium food.",
+      "**Pumpkin seeds** (1 oz/day) have more zinc than most cuts of chicken, making them one of the few plant foods that can rival meat for this mineral.",
+      "**Acorn squash** has more vitamin C than a medium tomato — a roasted cup covers a solid chunk of your daily target.",
+      "**White button mushrooms** left in sunlight for 10-15 minutes before cooking can spike their vitamin D content dramatically, something almost no one does.",
+      "**Dark leafy amaranth** has more iron per cooked cup than the same amount of spinach, but rarely shows up on anyone's radar.",
+      "**Flaxseeds** (1 tbsp ground/day) carry more omega-3 ALA than a handful of walnuts, gram for gram.",
+      "**Artichokes** have more fiber per piece than a cup of oatmeal — one medium artichoke covers nearly a third of your daily fiber goal.",
+      "**Whole wheat pasta's** selenium content often beats a serving of tuna, simply because of the soil the wheat is grown in.",
+      "**Follow along** – for more daily nutrition comparisons like this."
+    ],
+    "claims": [
+      {
+        "food_a": "Parsley",
+        "food_b": "Broccoli",
+        "nutrient_key": "vitamin_k"
+      },
+      {
+        "food_a": "Swiss chard",
+        "food_b": "Almonds",
+        "nutrient_key": "magnesium"
+      },
+      {
+        "food_a": "Dried figs",
+        "food_b": "Milk",
+        "nutrient_key": "calcium"
+      },
+      {
+        "food_a": "Plantains",
+        "food_b": "Bananas",
+        "nutrient_key": "potassium"
+      },
+      {
+        "food_a": "Pumpkin seeds",
+        "food_b": "Chicken",
+        "nutrient_key": "zinc"
+      },
+      {
+        "food_a": "Acorn squash",
+        "food_b": "Tomato",
+        "nutrient_key": "vitamin_c"
+      },
+      {
+        "food_a": "Sun-exposed mushrooms",
+        "food_b": "Regular mushrooms",
+        "nutrient_key": "vitamin_d"
+      },
+      {
+        "food_a": "Amaranth leaves",
+        "food_b": "Spinach",
+        "nutrient_key": "iron"
+      },
+      {
+        "food_a": "Flaxseeds",
+        "food_b": "Walnuts",
+        "nutrient_key": "omega3_ala"
+      },
+      {
+        "food_a": "Artichokes",
+        "food_b": "Oatmeal",
+        "nutrient_key": "fiber"
+      },
+      {
+        "food_a": "Whole wheat pasta",
+        "food_b": "Tuna",
+        "nutrient_key": "selenium"
+      }
+    ],
+    "caption": "A few of these deserve a second look. Parsley isn't just something you push to the side of your plate — its vitamin K supports how your blood clots and how calcium gets directed into your bones instead of your arteries. Pumpkin seeds are an easy one to add in: zinc from plant sources is usually harder for your body to absorb, but pumpkin seeds are one of the few exceptions that actually deliver. And those mushrooms sitting in your fridge can go from a low vitamin D food to a meaningfully better one just by catching some sunlight before they hit the pan — the UV exposure converts a compound in their skin into usable vitamin D2. Everyone's needs are different, so use this as a starting point, not a strict rulebook.\n\nThis is what @smarthealthfix is all about — breaking down nutrition, common everyday health issues, how your organs actually work, and small daily habits that add up. Our mission is to make good nutrition feel less confusing and a lot more doable, one small swap at a time.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "hashtags": [
+      "#nutritionfacts",
+      "#healthtips",
+      "#wellness",
+      "#vitamink",
+      "#magnesium",
+      "#plantbasednutrition",
+      "#micronutrients",
+      "#healthyeating",
+      "#foodfacts",
+      "#eatyourveggies"
+    ],
+    "extra_keywords": [
+      "nutrientdensefoods",
+      "wellnessjourney",
+      "guttips",
+      "foodismedicine"
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 11,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "Parsley",
+          "food_b": "Broccoli",
+          "nutrient_key": "vitamin_k"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Swiss chard",
+          "food_b": "Almonds",
+          "nutrient_key": "magnesium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Dried figs",
+          "food_b": "Milk",
+          "nutrient_key": "calcium"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "Dried figs",
+          "food_b": "Milk",
+          "nutrient": "calcium",
+          "amount_a": {
+            "amount": 93.0,
+            "unit": "MG",
+            "food_description": "DRIED FIGS",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 127,
+            "unit": "MG",
+            "food_description": "MILK",
+            "per": "100g"
+          },
+          "ratio": 0.73
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Plantains",
+          "food_b": "Bananas",
+          "nutrient_key": "potassium"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "Plantains",
+          "food_b": "Bananas",
+          "nutrient": "potassium",
+          "amount_a": {
+            "amount": 786,
+            "unit": "MG",
+            "food_description": "Plantain chips",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 1490.0,
+            "unit": "MG",
+            "food_description": "Bananas, dehydrated, or banana powder",
+            "per": "100g"
+          },
+          "ratio": 0.53
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Pumpkin seeds",
+          "food_b": "Chicken",
+          "nutrient_key": "zinc"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Acorn squash",
+          "food_b": "Tomato",
+          "nutrient_key": "vitamin_c"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Sun-exposed mushrooms",
+          "food_b": "Regular mushrooms",
+          "nutrient_key": "vitamin_d"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "Sun-exposed mushrooms",
+          "food_b": "Regular mushrooms",
+          "nutrient": "vitamin_d",
+          "amount_a": {
+            "amount": 26.2,
+            "unit": "UG",
+            "food_description": "Mushroom, white, exposed to ultraviolet light, raw",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 0,
+            "unit": "UG",
+            "food_description": "Applesauce, regular",
+            "per": "100g"
+          },
+          "ratio": null
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Amaranth leaves",
+          "food_b": "Spinach",
+          "nutrient_key": "iron"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "Amaranth leaves",
+          "food_b": "Spinach",
+          "nutrient": "iron",
+          "amount_a": {
+            "amount": 2.32,
+            "unit": "MG",
+            "food_description": "Amaranth leaves, raw",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 2.71,
+            "unit": "MG",
+            "food_description": "SPINACH",
+            "per": "100g"
+          },
+          "ratio": 0.86
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Flaxseeds",
+          "food_b": "Walnuts",
+          "nutrient_key": "omega3_ala"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Artichokes",
+          "food_b": "Oatmeal",
+          "nutrient_key": "fiber"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "Artichokes",
+          "food_b": "Oatmeal",
+          "nutrient": "fiber",
+          "amount_a": {
+            "amount": 5.0,
+            "unit": "G",
+            "food_description": "ARTICHOKES",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 11.1,
+            "unit": "G",
+            "food_description": "OATMEAL",
+            "per": "100g"
+          },
+          "ratio": 0.45
+        }
+      },
+      {
+        "claim": {
+          "food_a": "Whole wheat pasta",
+          "food_b": "Tuna",
+          "nutrient_key": "selenium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      }
+    ]
+  }
+}
