@@ -1,0 +1,212 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "THIS EVERYDAY {{PRODUCE}} COMPARISON WILL CHANGE YOUR GROCERY LIST",
+    "facts": [
+      "A cup of cooked **collard greens** has more calcium than a cup of milk, gram for gram it quietly beats dairy.",
+      "**Dried figs** pack nearly double the potassium of a medium banana, making them a sneaky electrolyte booster.",
+      "**Swiss chard** delivers over six times your daily vitamin K in just one cooked cup, far ahead of most leafy greens.",
+      "**Butternut squash** holds more fiber per cup than a slice of whole wheat bread, without the blood sugar spike.",
+      "**Pumpkin seeds** carry more zinc per ounce than a serving of beef, a win most people never expect from a seed.",
+      "**Swiss chard** again surprises here, offering more magnesium per cup than a square of dark chocolate.",
+      "**Dried apricots** contain more iron per cup than a cup of cooked spinach, and the body absorbs it surprisingly well when paired with vitamin C.",
+      "**Brussels sprouts** hold more vitamin C per cup than an orange, a vegetable most people underestimate completely.",
+      "**Portobello mushrooms** exposed to sunlight can rival a glass of fortified milk in vitamin D, one of the only plant sources that actually works.",
+      "**Flaxseeds** contain more omega-3 ALA per tablespoon than a serving of walnuts, a tiny seed doing heavy lifting.",
+      "**Follow along** – for more daily health tips like this."
+    ],
+    "claims": [
+      {
+        "food_a": "cooked collard greens",
+        "food_b": "milk",
+        "nutrient_key": "calcium"
+      },
+      {
+        "food_a": "dried figs",
+        "food_b": "banana",
+        "nutrient_key": "potassium"
+      },
+      {
+        "food_a": "swiss chard",
+        "food_b": "kale",
+        "nutrient_key": "vitamin_k"
+      },
+      {
+        "food_a": "butternut squash",
+        "food_b": "whole wheat bread",
+        "nutrient_key": "fiber"
+      },
+      {
+        "food_a": "pumpkin seeds",
+        "food_b": "beef",
+        "nutrient_key": "zinc"
+      },
+      {
+        "food_a": "swiss chard",
+        "food_b": "dark chocolate",
+        "nutrient_key": "magnesium"
+      },
+      {
+        "food_a": "dried apricots",
+        "food_b": "cooked spinach",
+        "nutrient_key": "iron"
+      },
+      {
+        "food_a": "brussels sprouts",
+        "food_b": "orange",
+        "nutrient_key": "vitamin_c"
+      },
+      {
+        "food_a": "portobello mushrooms",
+        "food_b": "fortified milk",
+        "nutrient_key": "vitamin_d"
+      },
+      {
+        "food_a": "flaxseeds",
+        "food_b": "walnuts",
+        "nutrient_key": "omega3_ala"
+      }
+    ],
+    "caption": "A few of these are worth slowing down on. Collard greens beat milk on calcium because cooking actually breaks down oxalates that would otherwise block absorption, so your body ends up using more of what's there. Swiss chard shows up twice on this list for a reason — it's loaded with both vitamin K, which your body needs to direct calcium into bones instead of arteries, and magnesium, which helps muscles relax and nerves fire properly. And pumpkin seeds beating beef on zinc surprises most people, but zinc from seeds gets used efficiently when your diet has enough protein alongside it to help absorption. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we dig into nutrition, common health issues, the organs behind them, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "hashtags": [
+      "#nutritionfacts",
+      "#healthtips",
+      "#wellness",
+      "#vitamink",
+      "#zincfoods",
+      "#calciumrich",
+      "#plantbasednutrition",
+      "#magnesium",
+      "#eatthissavethis",
+      "#foodismedicine"
+    ],
+    "extra_keywords": [
+      "nutrientdensefoods",
+      "healthyeatinghabits",
+      "wellnessjourney",
+      "guttips"
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 10,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "dried figs",
+          "food_b": "banana",
+          "nutrient_key": "potassium"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "dried figs",
+          "food_b": "banana",
+          "nutrient": "potassium",
+          "amount_a": {
+            "amount": 336,
+            "unit": "MG",
+            "food_description": "DRIED FIGS",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 422,
+            "unit": "mg",
+            "per": "1 medium (118g)"
+          },
+          "ratio": 0.8
+        }
+      },
+      {
+        "claim": {
+          "food_a": "butternut squash",
+          "food_b": "whole wheat bread",
+          "nutrient_key": "fiber"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "butternut squash",
+          "food_b": "whole wheat bread",
+          "nutrient": "fiber",
+          "amount_a": {
+            "amount": 2.4,
+            "unit": "G",
+            "food_description": "BUTTERNUT SQUASH",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 7.0,
+            "unit": "G",
+            "food_description": "WHOLE WHEAT BREAD",
+            "per": "100g"
+          },
+          "ratio": 0.34
+        }
+      },
+      {
+        "claim": {
+          "food_a": "pumpkin seeds",
+          "food_b": "beef",
+          "nutrient_key": "zinc"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "swiss chard",
+          "food_b": "dark chocolate",
+          "nutrient_key": "magnesium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "portobello mushrooms",
+          "food_b": "fortified milk",
+          "nutrient_key": "vitamin_d"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "portobello mushrooms",
+          "food_b": "fortified milk",
+          "nutrient": "vitamin_d",
+          "amount_a": {
+            "amount": 0.1,
+            "unit": "UG",
+            "food_description": "Fried mushrooms",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 1.2,
+            "unit": "UG",
+            "food_description": "Yogurt, chocolate, nonfat milk, fortified with vitamin D",
+            "per": "100g"
+          },
+          "ratio": 0.08
+        }
+      },
+      {
+        "claim": {
+          "food_a": "flaxseeds",
+          "food_b": "walnuts",
+          "nutrient_key": "omega3_ala"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      }
+    ]
+  }
+}
