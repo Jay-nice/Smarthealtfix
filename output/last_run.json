@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20261108_163259.png",
-  "mp4": "output/reel_20261108_163259.mp4",
-  "cover": "output/cover_20261108_163259.png",
+  "png": "output/reel_20261108_232654.png",
+  "mp4": "output/reel_20261108_232654.mp4",
+  "cover": "output/cover_20261108_232654.png",
   "cover_bg": "white",
   "content": {
-    "title": "HOUSEHOLD FIXES FOR ANNOYING LITTLE AILMENTS THAT ACTUALLY WORK",
+    "title": "SIGNS YOU'RE ACTUALLY {{HEALTHIER}} THAN YOU THINK",
     "facts": [
-      "**Hangnail Pain** – Soak the finger in warm water with 1 tsp olive oil for 5 minutes to soften skin before trimming.",
-      "**Stuffy Nose** – Hold a warm, damp washcloth over your sinuses for 2 minutes to loosen congestion fast.",
-      "**Bug Bite Itch** – Press a warm spoon against the bite for 10 seconds; heat disrupts the itch signal to your brain.",
-      "**Toothache Throb** – Rinse with warm salt water (1/2 tsp salt in a cup of water) to pull down swelling around the gum.",
-      "**Leg Cramp at Night** – Gently pull your toes toward your shin and hold for 20 seconds to force the muscle to release.",
-      "**Splinter Removal** – Dab a bit of baking soda paste on it and cover overnight; the sliver often rises to the surface on its own.",
-      "**Dry Cracked Heels** – Rub a thin layer of petroleum jelly on feet, then wear socks to bed to lock in moisture overnight.",
-      "**Nosebleed** – Pinch the soft part of your nose and lean slightly forward for a full 10 minutes without checking early.",
+      "**Sneezing twice in a row** -> your nasal reflex is extra sensitive, clearing irritants fast before they reach your lungs",
+      "**Loud stomach growling** -> your migrating motor complex is sweeping leftover debris through your gut between meals",
+      "**Waking up thirsty** -> your kidneys are doing a precise overnight job concentrating urine instead of wasting water",
+      "**Goosebumps during music** -> a strong dopamine response, linked to a brain that processes emotion vividly",
+      "**Sighing often** -> your lungs are resetting collapsed air sacs, a built-in breathing reflex that keeps them flexible",
+      "**Cold hands after a hot shower** -> healthy blood vessels rapidly redirecting flow to your core to regulate temperature",
+      "**Vivid, strange dreams** -> deep REM sleep, the stage tied to memory consolidation and emotional processing",
+      "**Catching a cold once a year** -> your immune system actively sampling and learning from new pathogens, not a weak one",
+      "**Sweating fast during a workout** -> a well-trained cooling system that kicks in early instead of overheating",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are worth keeping in your back pocket. For a stuffy nose, that warm washcloth trick works because heat helps dilate the blood vessels in your sinuses, which loosens built-up mucus so it drains instead of sitting there making you miserable. With a leg cramp, pulling your toes toward your shin forces the calf muscle into a stretch, which interrupts the involuntary contraction causing the cramp in the first place. And for a splinter, baking soda paste slightly draws fluid to the surface of the skin overnight, which helps push shallow splinters up so they're easier to grab with tweezers in the morning. Everyone's body responds a little differently, so give these a try and see what works for you.\n\n@smarthealthfix is all about the basics that actually matter: nutrition, everyday health issues, how your organs work, and small daily habits that add up. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these deserve more explaining. That stomach growling (borborygmi, technically) happens because of the migrating motor complex, a wave of muscle contractions that sweeps through your gut every 90-120 minutes between meals to clear out leftover food and bacteria - hearing it often is a sign that cleanup crew is working on schedule. Waking up thirsty is your kidneys finishing an overnight job: while you sleep, antidiuretic hormone rises so your kidneys concentrate urine and conserve water, and thirst on waking just means that system handed control back to you smoothly. And those vivid dreams come from spending solid time in REM sleep, the stage where your brain replays and files away the day's emotional information - the weirder the dream, the more actively that filing is happening. Everyone's body is different, listen to yours.\n\nThis is the kind of everyday body-literacy we focus on at @smarthealthfix, covering nutrition, common symptoms, organ function, and the small daily habits that quietly shape your health. Our mission is to help you feel less alarmed by normal signals and more in tune with what your body is actually telling you.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
-      "#homeremedies",
       "#wellness",
-      "#naturalremedies",
-      "#firstaidtips",
-      "#selfcare",
-      "#healthyhabits",
-      "#quickfix",
-      "#bodytips",
-      "#dailywellness"
+      "#bodysignals",
+      "#guthealth",
+      "#sleepscience",
+      "#immunehealth",
+      "#hydration",
+      "#healthfacts",
+      "#selfcare"
     ],
     "extra_keywords": [
+      "bodyawareness",
+      "wellnessjourney",
       "naturalhealing",
-      "homehacks",
-      "wellnesstips",
-      "healthhacks"
+      "healthmyths",
+      "listentoyourbody"
     ]
   },
-  "shape": "boxed_hacks",
-  "caption": "A few of these are worth keeping in your back pocket. For a stuffy nose, that warm washcloth trick works because heat helps dilate the blood vessels in your sinuses, which loosens built-up mucus so it drains instead of sitting there making you miserable. With a leg cramp, pulling your toes toward your shin forces the calf muscle into a stretch, which interrupts the involuntary contraction causing the cramp in the first place. And for a splinter, baking soda paste slightly draws fluid to the surface of the skin overnight, which helps push shallow splinters up so they're easier to grab with tweezers in the morning. Everyone's body responds a little differently, so give these a try and see what works for you.\n\n@smarthealthfix is all about the basics that actually matter: nutrition, everyday health issues, how your organs work, and small daily habits that add up. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #homeremedies #wellness #naturalremedies #firstaidtips #selfcare #healthyhabits #quickfix #bodytips #dailywellness naturalhealing homehacks wellnesstips healthhacks"
+  "shape": "counterintuitive_healthy_sign",
+  "caption": "A few of these deserve more explaining. That stomach growling (borborygmi, technically) happens because of the migrating motor complex, a wave of muscle contractions that sweeps through your gut every 90-120 minutes between meals to clear out leftover food and bacteria - hearing it often is a sign that cleanup crew is working on schedule. Waking up thirsty is your kidneys finishing an overnight job: while you sleep, antidiuretic hormone rises so your kidneys concentrate urine and conserve water, and thirst on waking just means that system handed control back to you smoothly. And those vivid dreams come from spending solid time in REM sleep, the stage where your brain replays and files away the day's emotional information - the weirder the dream, the more actively that filing is happening. Everyone's body is different, listen to yours.\n\nThis is the kind of everyday body-literacy we focus on at @smarthealthfix, covering nutrition, common symptoms, organ function, and the small daily habits that quietly shape your health. Our mission is to help you feel less alarmed by normal signals and more in tune with what your body is actually telling you.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #bodysignals #guthealth #sleepscience #immunehealth #hydration #healthfacts #selfcare bodyawareness wellnessjourney naturalhealing healthmyths listentoyourbody"
 }
