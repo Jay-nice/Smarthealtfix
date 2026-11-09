@@ -1,45 +1,42 @@
 {
-  "png": "output/reel_20261109_203146.png",
-  "mp4": "output/reel_20261109_203146.mp4",
-  "cover": "output/cover_20261109_203146.png",
+  "png": "output/reel_20261109_234516.png",
+  "mp4": "output/reel_20261109_234516.mp4",
+  "cover": "output/cover_20261109_234516.png",
   "cover_bg": "white",
   "content": {
-    "title": "WEIRD BODY SIGNALS PEOPLE BLAME ON STRESS (BUT AREN'T)",
+    "title": "THE FOOD SAFETY {{CHEAT SHEET}} NO ONE GAVE YOU",
     "facts": [
-      "**White spots on nails** – Often linked to low **zinc**, especially if paired with slow wound healing or a weaker sense of taste.",
-      "**Cracked corners of the mouth** – Classic sign of low **iron** or **B2/B12**, not just dry weather like most people assume.",
-      "**Restless legs at rest** – Frequently tied to low **iron** stores, even when standard blood tests look 'normal enough'.",
-      "**Muscle twitches under the eye** – A common early clue of low **magnesium**, especially during high-stress weeks.",
-      "**Bleeding gums when brushing** – Can point to low **vitamin C**, not just 'brushing too hard' like most assume.",
-      "**Poor night vision in dim rooms** – One of the earliest signals of low **vitamin A**, long before daytime vision changes.",
-      "**Puffy, swollen ankles by evening** – Sometimes linked to low **potassium**, which throws off fluid balance in the body.",
-      "**Brittle hair that snaps easily** – Often connected to low **iodine**, which quietly slows down your whole metabolism.",
-      "**Tingly, numb feeling in toes** – A frequent early flag for low **vitamin B12**, especially if it's worse at night.",
-      "**Bruising from the lightest bump** – Can signal low **vitamin K**, which your body needs to clot and repair blood vessels.",
+      "**Melon** – Don't leave cut melon out past 2 hours (its low acidity lets Salmonella and Listeria multiply fast at room temp).",
+      "**Eggs** – Don't store them in the fridge door (temperature swings there speed up bacterial growth; keep them on an inner shelf instead).",
+      "**Garlic-in-oil** – Don't make your own and leave it unrefrigerated (low-oxygen oil is a prime spot for Clostridium botulinum to grow).",
+      "**Chicken** – Don't rinse it in the sink before cooking (this splashes bacteria like Campylobacter onto your counters and hands).",
+      "**Honey** – Don't give it to babies under 1 year (it can contain Clostridium botulinum spores, risky for undeveloped gut flora).",
+      "**Leafy greens** – Don't thaw frozen spinach or kale at room temperature for hours (bacteria grow fastest between 4°C and 60°C).",
+      "**Canned food** – Don't use a can with a bulging lid or dent along the seam (both can signal gas-producing bacterial contamination inside).",
+      "**Berries** – Don't wash them right after buying if you're storing for later (extra moisture speeds up mold growth; wash just before eating).",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these deserve more than one line. Low **zinc** doesn't just show up as white spots on nails — zinc is involved in making new skin and immune cells, so when levels drop, your body literally can't patch itself up as fast, which is why small cuts or breakouts seem to linger. Restless legs are often brushed off as 'just a weird habit,' but low **iron** affects how oxygen reaches your muscles at rest, and your nervous system reacts with that twitchy, restless sensation when you're lying still. And that puffiness around the ankles by the end of the day? Low **potassium** disrupts the sodium-potassium balance that keeps fluid moving properly through your cells, so it tends to pool exactly where gravity pulls it. Everyone's body is different, so take these as prompts to dig deeper, not a diagnosis.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you notice what your body is already telling you, instead of waiting for a problem to get loud.\n\nSave this post so you don't lose it, and share it with someone who keeps dismissing these little signals as 'nothing.'",
+    "caption": "Let's talk about a few of these in more detail. Cut melon seems harmless sitting on the counter, but because it's low in acidity and high in moisture, it's actually one of the easiest fruits for Listeria to multiply on once it's exposed to air. Garlic-in-oil is sneakier: oil blocks oxygen, and that's exactly the environment Clostridium botulinum needs to grow and produce toxin, without changing the smell or taste of the oil at all. And that bulging can lid? It's not just cosmetic — gas buildup from bacterial fermentation inside is what pushes the metal outward, which is why it's never worth the risk of tasting it first. Everyone's kitchen habits are different, but these small checks take seconds.\n\nAt @smarthealthfix, we cover nutrition, common health issues, organs and body functions, and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#nutrientdeficiency",
-      "#vitamindeficiency",
-      "#zincdeficiency",
-      "#irondeficiency",
-      "#magnesiumdeficiency",
-      "#healthsignals",
-      "#bodysignals",
-      "#wellnesstips",
+      "#foodsafety",
+      "#kitchentips",
       "#healthtips",
-      "#nutritionfacts"
+      "#wellness",
+      "#foodstorage",
+      "#mealprep",
+      "#foodpoisoningprevention",
+      "#healthyhabits",
+      "#smarthealthfix"
     ],
     "extra_keywords": [
-      "nutrientgaps",
+      "foodsafetytips",
+      "kitchenhacks",
       "wellnessjourney",
-      "healthawareness",
-      "micronutrients",
-      "bodysignals"
+      "healthyliving",
+      "preventionfirst"
     ]
   },
-  "shape": "symptom_list",
-  "caption": "A few of these deserve more than one line. Low **zinc** doesn't just show up as white spots on nails — zinc is involved in making new skin and immune cells, so when levels drop, your body literally can't patch itself up as fast, which is why small cuts or breakouts seem to linger. Restless legs are often brushed off as 'just a weird habit,' but low **iron** affects how oxygen reaches your muscles at rest, and your nervous system reacts with that twitchy, restless sensation when you're lying still. And that puffiness around the ankles by the end of the day? Low **potassium** disrupts the sodium-potassium balance that keeps fluid moving properly through your cells, so it tends to pool exactly where gravity pulls it. Everyone's body is different, so take these as prompts to dig deeper, not a diagnosis.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you notice what your body is already telling you, instead of waiting for a problem to get loud.\n\nSave this post so you don't lose it, and share it with someone who keeps dismissing these little signals as 'nothing.'\n\n#nutrientdeficiency #vitamindeficiency #zincdeficiency #irondeficiency #magnesiumdeficiency #healthsignals #bodysignals #wellnesstips #healthtips #nutritionfacts nutrientgaps wellnessjourney healthawareness micronutrients bodysignals"
+  "shape": "food_safety_mistake",
+  "caption": "Let's talk about a few of these in more detail. Cut melon seems harmless sitting on the counter, but because it's low in acidity and high in moisture, it's actually one of the easiest fruits for Listeria to multiply on once it's exposed to air. Garlic-in-oil is sneakier: oil blocks oxygen, and that's exactly the environment Clostridium botulinum needs to grow and produce toxin, without changing the smell or taste of the oil at all. And that bulging can lid? It's not just cosmetic — gas buildup from bacterial fermentation inside is what pushes the metal outward, which is why it's never worth the risk of tasting it first. Everyone's kitchen habits are different, but these small checks take seconds.\n\nAt @smarthealthfix, we cover nutrition, common health issues, organs and body functions, and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodsafety #kitchentips #healthtips #wellness #foodstorage #mealprep #foodpoisoningprevention #healthyhabits #smarthealthfix foodsafetytips kitchenhacks wellnessjourney healthyliving preventionfirst"
 }
