@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20261109_234516.png",
-  "mp4": "output/reel_20261109_234516.mp4",
-  "cover": "output/cover_20261109_234516.png",
+  "png": "output/reel_20261110_023445.png",
+  "mp4": "output/reel_20261110_023445.mp4",
+  "cover": "output/cover_20261110_023445.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE FOOD SAFETY {{CHEAT SHEET}} NO ONE GAVE YOU",
+    "title": "KITCHEN & BATHROOM FIXES THAT WORK FASTER THAN YOUR MEDICINE CABINET",
     "facts": [
-      "**Melon** – Don't leave cut melon out past 2 hours (its low acidity lets Salmonella and Listeria multiply fast at room temp).",
-      "**Eggs** – Don't store them in the fridge door (temperature swings there speed up bacterial growth; keep them on an inner shelf instead).",
-      "**Garlic-in-oil** – Don't make your own and leave it unrefrigerated (low-oxygen oil is a prime spot for Clostridium botulinum to grow).",
-      "**Chicken** – Don't rinse it in the sink before cooking (this splashes bacteria like Campylobacter onto your counters and hands).",
-      "**Honey** – Don't give it to babies under 1 year (it can contain Clostridium botulinum spores, risky for undeveloped gut flora).",
-      "**Leafy greens** – Don't thaw frozen spinach or kale at room temperature for hours (bacteria grow fastest between 4°C and 60°C).",
-      "**Canned food** – Don't use a can with a bulging lid or dent along the seam (both can signal gas-producing bacterial contamination inside).",
-      "**Berries** – Don't wash them right after buying if you're storing for later (extra moisture speeds up mold growth; wash just before eating).",
+      "**Hiccups** – Swallow a teaspoon of sugar slowly; it resets the nerve signal that's causing the spasm.",
+      "**Burnt Tongue** – Press a spoon of plain yogurt against the roof of your mouth to cool the burn instantly.",
+      "**Paper Cut Sting** – Dab on a bit of lip balm to seal the cut and block air from hitting the nerve endings.",
+      "**Nosebleed** – Pinch the soft part of your nose and lean forward, not back, for 10 minutes straight.",
+      "**Stuffy Nose at Night** – Prop a spare pillow under the mattress to tilt your head up and drain sinuses while you sleep.",
+      "**Charley Horse Cramp** – Stand barefoot on a cold tile floor; the temperature shock interrupts the muscle spasm.",
+      "**Smelly Cutting Board** – Rub it with a cut lemon half and coarse salt to pull out odors and light stains.",
+      "**Toothache Before the Dentist** – Hold a small ice cube between your thumb and index finger for a few minutes to dull the pain.",
+      "**Static-Shocked Hair** – Rub a dryer sheet over your brush before styling to cut the charge instantly.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Let's talk about a few of these in more detail. Cut melon seems harmless sitting on the counter, but because it's low in acidity and high in moisture, it's actually one of the easiest fruits for Listeria to multiply on once it's exposed to air. Garlic-in-oil is sneakier: oil blocks oxygen, and that's exactly the environment Clostridium botulinum needs to grow and produce toxin, without changing the smell or taste of the oil at all. And that bulging can lid? It's not just cosmetic — gas buildup from bacterial fermentation inside is what pushes the metal outward, which is why it's never worth the risk of tasting it first. Everyone's kitchen habits are different, but these small checks take seconds.\n\nAt @smarthealthfix, we cover nutrition, common health issues, organs and body functions, and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these are worth keeping in your back pocket. The **hiccups** trick works because the slow swallow forces your diaphragm and vagus nerve to reset their rhythm, interrupting the involuntary spasm loop. With a **nosebleed**, leaning forward keeps blood from running down your throat (which can trigger gagging or swallowing issues), while the pinch applies direct pressure to the septal vessels so clotting can actually start. And that **charley horse** fix isn't just a distraction — the sudden cold on bare feet sends a competing nerve signal that overrides the cramping muscle fibers, which is why it works almost instantly. Everyone's body reacts a little differently, so give these a try and see what works best for you.\n\nAt @smarthealthfix we cover everything from nutrition and common health issues to how your organs work and the small daily habits that actually move the needle. Our mission is to help you build simple, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs a quick fix today.",
     "hashtags": [
-      "#foodsafety",
-      "#kitchentips",
       "#healthtips",
+      "#homeremedies",
       "#wellness",
-      "#foodstorage",
-      "#mealprep",
-      "#foodpoisoningprevention",
-      "#healthyhabits",
-      "#smarthealthfix"
+      "#lifehacks",
+      "#naturalremedies",
+      "#selfcare",
+      "#healthyliving",
+      "#quickfix",
+      "#kitchenhacks",
+      "#bodyhacks"
     ],
     "extra_keywords": [
-      "foodsafetytips",
-      "kitchenhacks",
+      "naturalhealing",
       "wellnessjourney",
-      "healthyliving",
-      "preventionfirst"
+      "everydayhealth",
+      "homeremediesthatwork"
     ]
   },
-  "shape": "food_safety_mistake",
-  "caption": "Let's talk about a few of these in more detail. Cut melon seems harmless sitting on the counter, but because it's low in acidity and high in moisture, it's actually one of the easiest fruits for Listeria to multiply on once it's exposed to air. Garlic-in-oil is sneakier: oil blocks oxygen, and that's exactly the environment Clostridium botulinum needs to grow and produce toxin, without changing the smell or taste of the oil at all. And that bulging can lid? It's not just cosmetic — gas buildup from bacterial fermentation inside is what pushes the metal outward, which is why it's never worth the risk of tasting it first. Everyone's kitchen habits are different, but these small checks take seconds.\n\nAt @smarthealthfix, we cover nutrition, common health issues, organs and body functions, and the small daily habits that quietly shape your health. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodsafety #kitchentips #healthtips #wellness #foodstorage #mealprep #foodpoisoningprevention #healthyhabits #smarthealthfix foodsafetytips kitchenhacks wellnessjourney healthyliving preventionfirst"
+  "shape": "boxed_hacks",
+  "caption": "A few of these are worth keeping in your back pocket. The **hiccups** trick works because the slow swallow forces your diaphragm and vagus nerve to reset their rhythm, interrupting the involuntary spasm loop. With a **nosebleed**, leaning forward keeps blood from running down your throat (which can trigger gagging or swallowing issues), while the pinch applies direct pressure to the septal vessels so clotting can actually start. And that **charley horse** fix isn't just a distraction — the sudden cold on bare feet sends a competing nerve signal that overrides the cramping muscle fibers, which is why it works almost instantly. Everyone's body reacts a little differently, so give these a try and see what works best for you.\n\nAt @smarthealthfix we cover everything from nutrition and common health issues to how your organs work and the small daily habits that actually move the needle. Our mission is to help you build simple, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs a quick fix today.\n\n#healthtips #homeremedies #wellness #lifehacks #naturalremedies #selfcare #healthyliving #quickfix #kitchenhacks #bodyhacks naturalhealing wellnessjourney everydayhealth homeremediesthatwork"
 }
