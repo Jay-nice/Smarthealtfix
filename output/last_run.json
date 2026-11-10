@@ -1,43 +1,43 @@
 {
-  "png": "output/reel_20261110_023445.png",
-  "mp4": "output/reel_20261110_023445.mp4",
-  "cover": "output/cover_20261110_023445.png",
+  "png": "output/reel_20261110_173325.png",
+  "mp4": "output/reel_20261110_173325.mp4",
+  "cover": "output/cover_20261110_173325.png",
   "cover_bg": "white",
   "content": {
-    "title": "KITCHEN & BATHROOM FIXES THAT WORK FASTER THAN YOUR MEDICINE CABINET",
+    "title": "RULES EVERY NEW PARENT NEEDS BEFORE THE BABY {{SLEEPS}}",
     "facts": [
-      "**Hiccups** – Swallow a teaspoon of sugar slowly; it resets the nerve signal that's causing the spasm.",
-      "**Burnt Tongue** – Press a spoon of plain yogurt against the roof of your mouth to cool the burn instantly.",
-      "**Paper Cut Sting** – Dab on a bit of lip balm to seal the cut and block air from hitting the nerve endings.",
-      "**Nosebleed** – Pinch the soft part of your nose and lean forward, not back, for 10 minutes straight.",
-      "**Stuffy Nose at Night** – Prop a spare pillow under the mattress to tilt your head up and drain sinuses while you sleep.",
-      "**Charley Horse Cramp** – Stand barefoot on a cold tile floor; the temperature shock interrupts the muscle spasm.",
-      "**Smelly Cutting Board** – Rub it with a cut lemon half and coarse salt to pull out odors and light stains.",
-      "**Toothache Before the Dentist** – Hold a small ice cube between your thumb and index finger for a few minutes to dull the pain.",
-      "**Static-Shocked Hair** – Rub a dryer sheet over your brush before styling to cut the charge instantly.",
+      "**Room temp first** – keep the nursery between 68-72°F; overheating is a bigger risk to safe sleep than most parents realize.",
+      "**Feet-to-foot** – place baby with feet at the bottom of the crib so they can't scoot under a blanket.",
+      "**Skip the crib bumpers** – they look cozy but add suffocation risk with zero proven safety benefit.",
+      "**1 safe sleep space** – crib or bassinet only, nothing soft underneath, nothing extra inside.",
+      "**Burp for 2 minutes** – after every feed, to cut down on painful gas and late-night waking.",
+      "**Batch your meals on Sunday** – 30 minutes of prep now saves you from surviving on crackers during week one.",
+      "**Nap when they nap** – just once a day for the first month; sleep debt hits harder than people warn you.",
+      "**Write down feed times** – a simple notes app log saves you from guessing at 3am whether they're actually hungry.",
+      "**Ask for help early** – before you're desperate, not after; recovery and bonding both go smoother with support.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are worth keeping in your back pocket. The **hiccups** trick works because the slow swallow forces your diaphragm and vagus nerve to reset their rhythm, interrupting the involuntary spasm loop. With a **nosebleed**, leaning forward keeps blood from running down your throat (which can trigger gagging or swallowing issues), while the pinch applies direct pressure to the septal vessels so clotting can actually start. And that **charley horse** fix isn't just a distraction — the sudden cold on bare feet sends a competing nerve signal that overrides the cramping muscle fibers, which is why it works almost instantly. Everyone's body reacts a little differently, so give these a try and see what works best for you.\n\nAt @smarthealthfix we cover everything from nutrition and common health issues to how your organs work and the small daily habits that actually move the needle. Our mission is to help you build simple, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs a quick fix today.",
+    "caption": "A few things from the list are worth sitting with longer. Room temperature matters more than most new parents expect — an overheated nursery has been linked to higher sleep risk than almost any other factor, so a simple thermometer on the wall does more than another baby monitor gadget ever will. The burp habit isn't just about comfort either: trapped air presses on a baby's still-developing digestive system, and even one skipped burp can mean an extra hour of fussing that looks like 'just colic' but isn't. And napping when they nap isn't a cute suggestion — sleep debt in the first weeks compounds fast and is one of the biggest predictors of postpartum exhaustion spiraling into something harder to bounce back from. Every baby and every parent is different, so take what fits your household and leave the rest.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#newparent",
+      "#babysleep",
+      "#parentingtips",
+      "#newbornlife",
+      "#safesleep",
+      "#postpartumrecovery",
       "#healthtips",
-      "#homeremedies",
       "#wellness",
-      "#lifehacks",
-      "#naturalremedies",
-      "#selfcare",
-      "#healthyliving",
-      "#quickfix",
-      "#kitchenhacks",
-      "#bodyhacks"
+      "#momlife",
+      "#babycare"
     ],
     "extra_keywords": [
-      "naturalhealing",
-      "wellnessjourney",
-      "everydayhealth",
-      "homeremediesthatwork"
+      "newbornsleep",
+      "parentingjourney",
+      "wellnesstips",
+      "babyhealth"
     ]
   },
-  "shape": "boxed_hacks",
-  "caption": "A few of these are worth keeping in your back pocket. The **hiccups** trick works because the slow swallow forces your diaphragm and vagus nerve to reset their rhythm, interrupting the involuntary spasm loop. With a **nosebleed**, leaning forward keeps blood from running down your throat (which can trigger gagging or swallowing issues), while the pinch applies direct pressure to the septal vessels so clotting can actually start. And that **charley horse** fix isn't just a distraction — the sudden cold on bare feet sends a competing nerve signal that overrides the cramping muscle fibers, which is why it works almost instantly. Everyone's body reacts a little differently, so give these a try and see what works best for you.\n\nAt @smarthealthfix we cover everything from nutrition and common health issues to how your organs work and the small daily habits that actually move the needle. Our mission is to help you build simple, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs a quick fix today.\n\n#healthtips #homeremedies #wellness #lifehacks #naturalremedies #selfcare #healthyliving #quickfix #kitchenhacks #bodyhacks naturalhealing wellnessjourney everydayhealth homeremediesthatwork"
+  "shape": "imperative_advice_list",
+  "caption": "A few things from the list are worth sitting with longer. Room temperature matters more than most new parents expect — an overheated nursery has been linked to higher sleep risk than almost any other factor, so a simple thermometer on the wall does more than another baby monitor gadget ever will. The burp habit isn't just about comfort either: trapped air presses on a baby's still-developing digestive system, and even one skipped burp can mean an extra hour of fussing that looks like 'just colic' but isn't. And napping when they nap isn't a cute suggestion — sleep debt in the first weeks compounds fast and is one of the biggest predictors of postpartum exhaustion spiraling into something harder to bounce back from. Every baby and every parent is different, so take what fits your household and leave the rest.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#newparent #babysleep #parentingtips #newbornlife #safesleep #postpartumrecovery #healthtips #wellness #momlife #babycare newbornsleep parentingjourney wellnesstips babyhealth"
 }
