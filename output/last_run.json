@@ -1,43 +1,43 @@
 {
-  "png": "output/reel_20261110_173325.png",
-  "mp4": "output/reel_20261110_173325.mp4",
-  "cover": "output/cover_20261110_173325.png",
+  "png": "output/reel_20261110_211556.png",
+  "mp4": "output/reel_20261110_211556.mp4",
+  "cover": "output/cover_20261110_211556.png",
   "cover_bg": "white",
   "content": {
-    "title": "RULES EVERY NEW PARENT NEEDS BEFORE THE BABY {{SLEEPS}}",
+    "title": "THE 2-MINUTE DAILY HABITS CHEAT SHEET YOUR BODY IS BEGGING FOR",
     "facts": [
-      "**Room temp first** – keep the nursery between 68-72°F; overheating is a bigger risk to safe sleep than most parents realize.",
-      "**Feet-to-foot** – place baby with feet at the bottom of the crib so they can't scoot under a blanket.",
-      "**Skip the crib bumpers** – they look cozy but add suffocation risk with zero proven safety benefit.",
-      "**1 safe sleep space** – crib or bassinet only, nothing soft underneath, nothing extra inside.",
-      "**Burp for 2 minutes** – after every feed, to cut down on painful gas and late-night waking.",
-      "**Batch your meals on Sunday** – 30 minutes of prep now saves you from surviving on crackers during week one.",
-      "**Nap when they nap** – just once a day for the first month; sleep debt hits harder than people warn you.",
-      "**Write down feed times** – a simple notes app log saves you from guessing at 3am whether they're actually hungry.",
-      "**Ask for help early** – before you're desperate, not after; recovery and bonding both go smoother with support.",
-      "**Follow along** – for more daily health tips like this."
+      "**Cold water on your face** for 15 seconds after waking — it jolts your vagus nerve and shifts your body out of grogginess faster than coffee does.",
+      "**Walk for 10 minutes right after a meal** — it pulls glucose out of your bloodstream and flattens the sugar spike that normally follows eating.",
+      "**Stand up and stretch every 45 minutes** at your desk — it keeps blood from pooling in your legs and lowers the stiff, achy feeling by end of day.",
+      "**Breathe out twice as long as you breathe in** for 2 minutes when you feel wound up — the longer exhale signals your nervous system to drop out of fight-or-flight.",
+      "**Chew each bite 20 times** at dinner — it gives your stomach time to signal fullness before you've overeaten.",
+      "**Press your tongue to the roof of your mouth** and breathe through your nose on your commute — it trains you out of the shallow mouth-breathing that leaves you tense.",
+      "**Write 1 line about your day** before bed — offloading it from your head quiets the racing thoughts that delay falling asleep.",
+      "**Open the curtains the second you wake up** — natural light hitting your eyes early sets your internal clock so you feel sleepy at the right time that night.",
+      "**Follow along** – for more small daily habits like this that actually move the needle."
     ],
     "claims": [],
-    "caption": "A few things from the list are worth sitting with longer. Room temperature matters more than most new parents expect — an overheated nursery has been linked to higher sleep risk than almost any other factor, so a simple thermometer on the wall does more than another baby monitor gadget ever will. The burp habit isn't just about comfort either: trapped air presses on a baby's still-developing digestive system, and even one skipped burp can mean an extra hour of fussing that looks like 'just colic' but isn't. And napping when they nap isn't a cute suggestion — sleep debt in the first weeks compounds fast and is one of the biggest predictors of postpartum exhaustion spiraling into something harder to bounce back from. Every baby and every parent is different, so take what fits your household and leave the rest.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these are worth slowing down on. That cold water trick on your face? It stimulates the vagus nerve, which controls your heart rate and alertness — that's the real reason it snaps you awake quicker than a lukewarm shower ever could. The post-meal walk works because contracting muscles pull glucose directly into your cells without needing extra insulin, which is why even a slow 10-minute stroll noticeably softens a sugar spike. And that tongue-to-roof-of-mouth breathing habit isn't random either — it naturally closes off mouth breathing, which keeps your nervous system out of the mild, constant low-grade stress that shallow breathing creates. Everyone's body responds a little differently, so notice which of these actually calms or energizes you.\n\n@smarthealthfix is all about the small stuff — nutrition, common symptoms, how your organs actually work, and the tiny daily habits that quietly shape your health. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a few of these habits in their day.",
     "hashtags": [
-      "#newparent",
-      "#babysleep",
-      "#parentingtips",
-      "#newbornlife",
-      "#safesleep",
-      "#postpartumrecovery",
+      "#dailyhabits",
       "#healthtips",
       "#wellness",
-      "#momlife",
-      "#babycare"
+      "#bloodsugarbalance",
+      "#vagusnerve",
+      "#stressrelief",
+      "#bettersleep",
+      "#mindfuleating",
+      "#selfcare",
+      "#smallhabits"
     ],
     "extra_keywords": [
-      "newbornsleep",
-      "parentingjourney",
+      "healthyroutine",
       "wellnesstips",
-      "babyhealth"
+      "habitstacking",
+      "naturalenergy",
+      "dailywellness"
     ]
   },
-  "shape": "imperative_advice_list",
-  "caption": "A few things from the list are worth sitting with longer. Room temperature matters more than most new parents expect — an overheated nursery has been linked to higher sleep risk than almost any other factor, so a simple thermometer on the wall does more than another baby monitor gadget ever will. The burp habit isn't just about comfort either: trapped air presses on a baby's still-developing digestive system, and even one skipped burp can mean an extra hour of fussing that looks like 'just colic' but isn't. And napping when they nap isn't a cute suggestion — sleep debt in the first weeks compounds fast and is one of the biggest predictors of postpartum exhaustion spiraling into something harder to bounce back from. Every baby and every parent is different, so take what fits your household and leave the rest.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#newparent #babysleep #parentingtips #newbornlife #safesleep #postpartumrecovery #healthtips #wellness #momlife #babycare newbornsleep parentingjourney wellnesstips babyhealth"
+  "shape": "numbered_explainer",
+  "caption": "A few of these are worth slowing down on. That cold water trick on your face? It stimulates the vagus nerve, which controls your heart rate and alertness — that's the real reason it snaps you awake quicker than a lukewarm shower ever could. The post-meal walk works because contracting muscles pull glucose directly into your cells without needing extra insulin, which is why even a slow 10-minute stroll noticeably softens a sugar spike. And that tongue-to-roof-of-mouth breathing habit isn't random either — it naturally closes off mouth breathing, which keeps your nervous system out of the mild, constant low-grade stress that shallow breathing creates. Everyone's body responds a little differently, so notice which of these actually calms or energizes you.\n\n@smarthealthfix is all about the small stuff — nutrition, common symptoms, how your organs actually work, and the tiny daily habits that quietly shape your health. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a few of these habits in their day.\n\n#dailyhabits #healthtips #wellness #bloodsugarbalance #vagusnerve #stressrelief #bettersleep #mindfuleating #selfcare #smallhabits healthyroutine wellnesstips habitstacking naturalenergy dailywellness"
 }
