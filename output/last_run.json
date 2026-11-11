@@ -1,45 +1,42 @@
 {
-  "png": "output/reel_20261111_002624.png",
-  "mp4": "output/reel_20261111_002624.mp4",
-  "cover": "output/cover_20261111_002624.png",
+  "png": "output/reel_20261111_174701.png",
+  "mp4": "output/reel_20261111_174701.mp4",
+  "cover": "output/cover_20261111_174701.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE DAILY DOSE CHEAT SHEET YOUR {{BODY}} IS WAITING FOR",
+    "title": "THE HEALTHY COOKING {{MISTAKES}} RUINING YOUR MEALS WITHOUT YOU KNOWING",
     "facts": [
-      "**Pumpkin seeds** -> 1 oz/day -> Calmer nerves",
-      "**Cold shower finish** -> 30 seconds -> Sharper focus",
-      "**Walking backwards** -> 5 min/day -> Better balance",
-      "**Sunlight on skin** -> 15 min/morning -> Deeper sleep later",
-      "**Dark chocolate** -> 2 squares/day -> Lower blood pressure",
-      "**Bodyweight squats** -> 20 reps/day -> Stronger knees",
-      "**Journaling gratitude** -> 3 things/night -> Lighter mood",
-      "**Pistachios** -> 1 handful/day -> Steadier blood sugar",
-      "**Deep squeeze hug** -> 20 seconds/day -> Lower cortisol",
-      "**Flaxseed** -> 1 tbsp/day -> Smoother digestion",
-      "**Barefoot grass walk** -> 10 min/day -> Reduced tension",
+      "**Olive oil** – Heating extra virgin olive oil past its smoke point breaks down its antioxidants; use it raw on finished dishes and cook with avocado oil instead.",
+      "**Boiling vegetables** – Dumping broccoli or spinach into boiling water leaches out water-soluble vitamins like B and C into the liquid; steam for 4-5 minutes instead.",
+      "**Rinsing chicken** – Washing raw chicken under the tap doesn't kill bacteria, it splashes it onto your sink and counters; cooking to 165°F internal temp is what actually kills it.",
+      "**Tomato sauce** – Cooking tomatoes low and slow for 20+ minutes actually raises absorbable lycopene, so don't rush it off the heat too soon.",
+      "**Crowding the pan** – Overfilling a pan traps steam instead of browning food, leaving vegetables soggy instead of caramelized; cook in batches with space between pieces.",
+      "**Carrots raw** – Eating carrots raw gives you less usable beta-carotene than cooked ones; a quick 5-minute steam with a drizzle of oil boosts absorption.",
+      "**Salting pasta water late** – Adding salt after the water boils barely seasons the noodles; salt it generously at the start so it absorbs as it cooks.",
+      "**Resting meat** – Cutting into chicken or steak right off the heat pushes all the juices onto the cutting board; let it rest 5-10 minutes so the juices redistribute.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these deserve more credit than a quick line can give. Pumpkin seeds are one of the richest food sources of magnesium, a mineral that directly helps regulate the nervous system and keeps cortisol from spiking as easily throughout the day. Flaxseed works differently — the soluble fiber inside forms a gel in your gut that slows digestion and feeds the good bacteria lining your intestines, which is why it smooths things out so reliably. And that 30-second cold shower finish isn't just a wellness trend — the cold shock briefly spikes norepinephrine, the brain chemical tied to alertness and focus, which is why people genuinely feel sharper afterward. Everyone's body responds a little differently, so pay attention to what actually works for yours.\n\nAt @smarthealthfix we focus on four things: nutrition, common health issues, your organs and how they function, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a little reset today.",
+    "caption": "A few of these mistakes are sneakier than people think. Take olive oil: extra virgin varieties have a lower smoke point than refined oils, so once it starts smoking, the polyphenols that make it so good for your heart start to degrade — that's why it's better drizzled on at the end rather than used for high-heat searing. Tomato sauce is the opposite surprise: lycopene, the antioxidant that gives tomatoes their red color, actually becomes easier for your body to absorb the longer it's gently cooked, because heat breaks down the plant cell walls holding it in. And resting meat isn't just a chef trick — as meat cooks, the muscle fibers tighten and push liquid toward the surface, so slicing immediately lets all of that juice run out instead of settling back through the meat. Everyone's kitchen setup is different, so adjust as you go.\n\nAt @smarthealthfix we post daily about nutrition, common health issues, organs & body functions, and small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
+      "#cookingmistakes",
+      "#nutritionfacts",
+      "#healthykitchen",
+      "#foodprep",
       "#wellness",
-      "#dailyhabits",
-      "#magnesium",
-      "#guthealth",
-      "#coldshower",
-      "#stressrelief",
-      "#mindfulliving",
-      "#bloodsugar",
-      "#selfcare"
+      "#mealprep",
+      "#healthyeating",
+      "#kitchenhacks",
+      "#nutritiontips"
     ],
     "extra_keywords": [
-      "naturalhealing",
+      "healthyrecipes",
+      "cookingtips",
       "wellnessjourney",
-      "healthyhabits",
-      "holistichealth"
+      "nutritionscience"
     ]
   },
-  "shape": "daily_dose_habit",
-  "caption": "A few of these deserve more credit than a quick line can give. Pumpkin seeds are one of the richest food sources of magnesium, a mineral that directly helps regulate the nervous system and keeps cortisol from spiking as easily throughout the day. Flaxseed works differently — the soluble fiber inside forms a gel in your gut that slows digestion and feeds the good bacteria lining your intestines, which is why it smooths things out so reliably. And that 30-second cold shower finish isn't just a wellness trend — the cold shock briefly spikes norepinephrine, the brain chemical tied to alertness and focus, which is why people genuinely feel sharper afterward. Everyone's body responds a little differently, so pay attention to what actually works for yours.\n\nAt @smarthealthfix we focus on four things: nutrition, common health issues, your organs and how they function, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a little reset today.\n\n#healthtips #wellness #dailyhabits #magnesium #guthealth #coldshower #stressrelief #mindfulliving #bloodsugar #selfcare naturalhealing wellnessjourney healthyhabits holistichealth"
+  "shape": "myth_bust",
+  "caption": "A few of these mistakes are sneakier than people think. Take olive oil: extra virgin varieties have a lower smoke point than refined oils, so once it starts smoking, the polyphenols that make it so good for your heart start to degrade — that's why it's better drizzled on at the end rather than used for high-heat searing. Tomato sauce is the opposite surprise: lycopene, the antioxidant that gives tomatoes their red color, actually becomes easier for your body to absorb the longer it's gently cooked, because heat breaks down the plant cell walls holding it in. And resting meat isn't just a chef trick — as meat cooks, the muscle fibers tighten and push liquid toward the surface, so slicing immediately lets all of that juice run out instead of settling back through the meat. Everyone's kitchen setup is different, so adjust as you go.\n\nAt @smarthealthfix we post daily about nutrition, common health issues, organs & body functions, and small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #cookingmistakes #nutritionfacts #healthykitchen #foodprep #wellness #mealprep #healthyeating #kitchenhacks #nutritiontips healthyrecipes cookingtips wellnessjourney nutritionscience"
 }
