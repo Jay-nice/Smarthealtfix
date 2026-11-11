@@ -1,43 +1,45 @@
 {
-  "png": "output/reel_20261110_211556.png",
-  "mp4": "output/reel_20261110_211556.mp4",
-  "cover": "output/cover_20261110_211556.png",
+  "png": "output/reel_20261111_002624.png",
+  "mp4": "output/reel_20261111_002624.mp4",
+  "cover": "output/cover_20261111_002624.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE 2-MINUTE DAILY HABITS CHEAT SHEET YOUR BODY IS BEGGING FOR",
+    "title": "THE DAILY DOSE CHEAT SHEET YOUR {{BODY}} IS WAITING FOR",
     "facts": [
-      "**Cold water on your face** for 15 seconds after waking — it jolts your vagus nerve and shifts your body out of grogginess faster than coffee does.",
-      "**Walk for 10 minutes right after a meal** — it pulls glucose out of your bloodstream and flattens the sugar spike that normally follows eating.",
-      "**Stand up and stretch every 45 minutes** at your desk — it keeps blood from pooling in your legs and lowers the stiff, achy feeling by end of day.",
-      "**Breathe out twice as long as you breathe in** for 2 minutes when you feel wound up — the longer exhale signals your nervous system to drop out of fight-or-flight.",
-      "**Chew each bite 20 times** at dinner — it gives your stomach time to signal fullness before you've overeaten.",
-      "**Press your tongue to the roof of your mouth** and breathe through your nose on your commute — it trains you out of the shallow mouth-breathing that leaves you tense.",
-      "**Write 1 line about your day** before bed — offloading it from your head quiets the racing thoughts that delay falling asleep.",
-      "**Open the curtains the second you wake up** — natural light hitting your eyes early sets your internal clock so you feel sleepy at the right time that night.",
-      "**Follow along** – for more small daily habits like this that actually move the needle."
+      "**Pumpkin seeds** -> 1 oz/day -> Calmer nerves",
+      "**Cold shower finish** -> 30 seconds -> Sharper focus",
+      "**Walking backwards** -> 5 min/day -> Better balance",
+      "**Sunlight on skin** -> 15 min/morning -> Deeper sleep later",
+      "**Dark chocolate** -> 2 squares/day -> Lower blood pressure",
+      "**Bodyweight squats** -> 20 reps/day -> Stronger knees",
+      "**Journaling gratitude** -> 3 things/night -> Lighter mood",
+      "**Pistachios** -> 1 handful/day -> Steadier blood sugar",
+      "**Deep squeeze hug** -> 20 seconds/day -> Lower cortisol",
+      "**Flaxseed** -> 1 tbsp/day -> Smoother digestion",
+      "**Barefoot grass walk** -> 10 min/day -> Reduced tension",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are worth slowing down on. That cold water trick on your face? It stimulates the vagus nerve, which controls your heart rate and alertness — that's the real reason it snaps you awake quicker than a lukewarm shower ever could. The post-meal walk works because contracting muscles pull glucose directly into your cells without needing extra insulin, which is why even a slow 10-minute stroll noticeably softens a sugar spike. And that tongue-to-roof-of-mouth breathing habit isn't random either — it naturally closes off mouth breathing, which keeps your nervous system out of the mild, constant low-grade stress that shallow breathing creates. Everyone's body responds a little differently, so notice which of these actually calms or energizes you.\n\n@smarthealthfix is all about the small stuff — nutrition, common symptoms, how your organs actually work, and the tiny daily habits that quietly shape your health. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a few of these habits in their day.",
+    "caption": "A few of these deserve more credit than a quick line can give. Pumpkin seeds are one of the richest food sources of magnesium, a mineral that directly helps regulate the nervous system and keeps cortisol from spiking as easily throughout the day. Flaxseed works differently — the soluble fiber inside forms a gel in your gut that slows digestion and feeds the good bacteria lining your intestines, which is why it smooths things out so reliably. And that 30-second cold shower finish isn't just a wellness trend — the cold shock briefly spikes norepinephrine, the brain chemical tied to alertness and focus, which is why people genuinely feel sharper afterward. Everyone's body responds a little differently, so pay attention to what actually works for yours.\n\nAt @smarthealthfix we focus on four things: nutrition, common health issues, your organs and how they function, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a little reset today.",
     "hashtags": [
-      "#dailyhabits",
       "#healthtips",
       "#wellness",
-      "#bloodsugarbalance",
-      "#vagusnerve",
+      "#dailyhabits",
+      "#magnesium",
+      "#guthealth",
+      "#coldshower",
       "#stressrelief",
-      "#bettersleep",
-      "#mindfuleating",
-      "#selfcare",
-      "#smallhabits"
+      "#mindfulliving",
+      "#bloodsugar",
+      "#selfcare"
     ],
     "extra_keywords": [
-      "healthyroutine",
-      "wellnesstips",
-      "habitstacking",
-      "naturalenergy",
-      "dailywellness"
+      "naturalhealing",
+      "wellnessjourney",
+      "healthyhabits",
+      "holistichealth"
     ]
   },
-  "shape": "numbered_explainer",
-  "caption": "A few of these are worth slowing down on. That cold water trick on your face? It stimulates the vagus nerve, which controls your heart rate and alertness — that's the real reason it snaps you awake quicker than a lukewarm shower ever could. The post-meal walk works because contracting muscles pull glucose directly into your cells without needing extra insulin, which is why even a slow 10-minute stroll noticeably softens a sugar spike. And that tongue-to-roof-of-mouth breathing habit isn't random either — it naturally closes off mouth breathing, which keeps your nervous system out of the mild, constant low-grade stress that shallow breathing creates. Everyone's body responds a little differently, so notice which of these actually calms or energizes you.\n\n@smarthealthfix is all about the small stuff — nutrition, common symptoms, how your organs actually work, and the tiny daily habits that quietly shape your health. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a few of these habits in their day.\n\n#dailyhabits #healthtips #wellness #bloodsugarbalance #vagusnerve #stressrelief #bettersleep #mindfuleating #selfcare #smallhabits healthyroutine wellnesstips habitstacking naturalenergy dailywellness"
+  "shape": "daily_dose_habit",
+  "caption": "A few of these deserve more credit than a quick line can give. Pumpkin seeds are one of the richest food sources of magnesium, a mineral that directly helps regulate the nervous system and keeps cortisol from spiking as easily throughout the day. Flaxseed works differently — the soluble fiber inside forms a gel in your gut that slows digestion and feeds the good bacteria lining your intestines, which is why it smooths things out so reliably. And that 30-second cold shower finish isn't just a wellness trend — the cold shock briefly spikes norepinephrine, the brain chemical tied to alertness and focus, which is why people genuinely feel sharper afterward. Everyone's body responds a little differently, so pay attention to what actually works for yours.\n\nAt @smarthealthfix we focus on four things: nutrition, common health issues, your organs and how they function, and the small daily habits that tie it all together. Our mission is to help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a little reset today.\n\n#healthtips #wellness #dailyhabits #magnesium #guthealth #coldshower #stressrelief #mindfulliving #bloodsugar #selfcare naturalhealing wellnessjourney healthyhabits holistichealth"
 }
