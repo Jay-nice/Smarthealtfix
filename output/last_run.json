@@ -1,42 +1,44 @@
 {
-  "png": "output/reel_20261112_014845.png",
-  "mp4": "output/reel_20261112_014845.mp4",
-  "cover": "output/cover_20261112_014845.png",
+  "png": "output/reel_20261112_175917.png",
+  "mp4": "output/reel_20261112_175917.mp4",
+  "cover": "output/cover_20261112_175917.png",
   "cover_bg": "white",
   "content": {
-    "title": "IF YOU ATE THESE FOODS DAILY, {{THIS IS WHAT YOUR BODY WOULD DO}}",
+    "title": "HOUSEHOLD FIXES THAT WORK BETTER THAN YOUR MEDICINE CABINET",
     "facts": [
-      "If you ate **beets** every day for 2 weeks, your blood pressure would likely drop and your stamina during workouts would noticeably improve thanks to natural nitrates widening your blood vessels.",
-      "If you ate **oats** every day for 30 days, your cholesterol numbers would start to shift as the beta-glucan fiber binds to it and carries it out of your body.",
-      "If you ate **fermented yogurt** every day for 1 week, your digestion would feel smoother and bloating would ease as live cultures rebalance your gut bacteria.",
-      "If you ate **blueberries** every day for 3 weeks, your memory and focus would sharpen as antioxidants reduce oxidative stress in brain cells.",
-      "If you ate **walnuts** every day for 2 weeks, your skin would look calmer and less inflamed thanks to their plant-based omega-3s.",
-      "If you ate **watermelon** every day for 1 week, your muscle soreness after workouts would fade faster because of its natural citrulline content.",
-      "If you ate **lentils** every day for 30 days, your energy would feel steadier throughout the day instead of crashing, thanks to slow-releasing fiber and iron.",
-      "If you ate **kimchi** every day for 2 weeks, your immune response would strengthen as gut-friendly bacteria multiply and crowd out harmful ones.",
-      "**Follow along** – for more daily health tips like this."
+      "**Toothache** – Dab a small amount of clove oil on the sore spot with a cotton swab to numb the pain.",
+      "**Hiccups** – Swallow a teaspoon of sugar; the gritty texture interrupts the nerve spasm.",
+      "**Burnt tongue** – Press a spoonful of plain yogurt or honey on it to cool the tissue and soothe stinging.",
+      "**Splinter stuck deep** – Soak the area in warm water with a bit of baking soda for 10 minutes to help it surface.",
+      "**Stuffy nose** – Hold a warm, damp washcloth over your sinuses for a few minutes to loosen congestion.",
+      "**Hoarse voice** – Sip warm water with a spoon of honey to coat and soothe the vocal cords.",
+      "**Bruise forming** – Press a cold metal spoon from the freezer on it right away to limit swelling.",
+      "**Bug bite itch** – Dab a paste of baking soda and water on it to calm the irritation.",
+      "**Dry, cracked heels** – Rub petroleum jelly on them and cover with socks overnight for softer skin by morning.",
+      "**Nosebleed** – Pinch the soft part of your nose and lean slightly forward for a full 10 minutes, not back.",
+      "**Follow along** – for more quick, safe fixes like this."
     ],
     "claims": [],
-    "caption": "Beets are one of the most underrated daily additions - the nitrates in them convert to nitric oxide in your body, which relaxes blood vessels and can make a real difference in blood pressure within two weeks. Oats work differently: the beta-glucan fiber forms a gel in your gut that traps cholesterol and bile acids, forcing your liver to pull more cholesterol out of your blood to compensate. And kimchi isn't just a trendy side dish - the live bacteria in it help train your gut lining and immune cells to respond faster to actual threats, which is why regular eaters often report fewer colds. Everyone's body is different, so give these a few weeks and see how yours responds.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these are worth keeping in your back pocket. Clove oil contains eugenol, a natural compound that acts almost like a mild anesthetic on nerve endings, which is why it's been used for toothaches for centuries. For a nosebleed, pinching and leaning forward helps blood clot at the source instead of running down your throat, which can actually trigger nausea if you tilt back. And that cold spoon trick for a fresh bruise works because the cold constricts blood vessels right away, so less blood pools under the skin and the bruise ends up smaller. Everyone's body reacts a little differently, so use common sense and see a doctor for anything serious or lasting.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our goal is to make small, doable changes feel realistic instead of overwhelming.\n\nSave this post so you have it next time a small annoyance pops up, and share it with someone who could use these simple tricks.",
     "hashtags": [
-      "#healthtips",
-      "#wellness",
-      "#guthealth",
-      "#nutritionfacts",
-      "#beets",
-      "#oats",
-      "#fermentedfoods",
-      "#brainhealth",
-      "#antiinflammatory",
-      "#healthyhabits"
+      "#homeremedies",
+      "#healthhacks",
+      "#naturalremedy",
+      "#wellnesstips",
+      "#quickfix",
+      "#selfcare",
+      "#healthylifestyle",
+      "#firstaidtips",
+      "#dailyhealth",
+      "#wellness"
     ],
     "extra_keywords": [
+      "householdfixes",
       "naturalhealing",
-      "wellnessjourney",
-      "foodismedicine",
-      "healthyeating"
+      "homeremedytips",
+      "wellnessjourney"
     ]
   },
-  "shape": "conditional_transformation",
-  "caption": "Beets are one of the most underrated daily additions - the nitrates in them convert to nitric oxide in your body, which relaxes blood vessels and can make a real difference in blood pressure within two weeks. Oats work differently: the beta-glucan fiber forms a gel in your gut that traps cholesterol and bile acids, forcing your liver to pull more cholesterol out of your blood to compensate. And kimchi isn't just a trendy side dish - the live bacteria in it help train your gut lining and immune cells to respond faster to actual threats, which is why regular eaters often report fewer colds. Everyone's body is different, so give these a few weeks and see how yours responds.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #nutritionfacts #beets #oats #fermentedfoods #brainhealth #antiinflammatory #healthyhabits naturalhealing wellnessjourney foodismedicine healthyeating"
+  "shape": "boxed_hacks",
+  "caption": "A few of these are worth keeping in your back pocket. Clove oil contains eugenol, a natural compound that acts almost like a mild anesthetic on nerve endings, which is why it's been used for toothaches for centuries. For a nosebleed, pinching and leaning forward helps blood clot at the source instead of running down your throat, which can actually trigger nausea if you tilt back. And that cold spoon trick for a fresh bruise works because the cold constricts blood vessels right away, so less blood pools under the skin and the bruise ends up smaller. Everyone's body reacts a little differently, so use common sense and see a doctor for anything serious or lasting.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our goal is to make small, doable changes feel realistic instead of overwhelming.\n\nSave this post so you have it next time a small annoyance pops up, and share it with someone who could use these simple tricks.\n\n#homeremedies #healthhacks #naturalremedy #wellnesstips #quickfix #selfcare #healthylifestyle #firstaidtips #dailyhealth #wellness householdfixes naturalhealing homeremedytips wellnessjourney"
 }
