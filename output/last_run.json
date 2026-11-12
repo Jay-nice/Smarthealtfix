@@ -1,41 +1,42 @@
 {
-  "png": "output/reel_20261111_215131.png",
-  "mp4": "output/reel_20261111_215131.mp4",
-  "cover": "output/cover_20261111_215131.png",
+  "png": "output/reel_20261112_014845.png",
+  "mp4": "output/reel_20261112_014845.mp4",
+  "cover": "output/cover_20261112_014845.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE MINERAL YOUR {{THYROID}} CAN'T FUNCTION WITHOUT",
+    "title": "IF YOU ATE THESE FOODS DAILY, {{THIS IS WHAT YOUR BODY WOULD DO}}",
     "facts": [
-      "**Iodine** (Thyroid Fuel) — Cod | Seaweed Snacks | Shrimp | Dairy Milk",
-      "**Manganese** (Bone Builder) — Mussels | Brown Rice | Pineapple | Pecans",
-      "**Copper** (Energy Spark) — Beef Liver | Lentils | Cashews | Dark Leafy Greens",
-      "**Selenium** (Cell Defender) — Brazil Nuts | Tuna | Eggs | Sunflower Seeds",
-      "**Potassium** (Heart Rhythm Keeper) — Sweet Potato | Bananas | White Beans | Coconut Water",
-      "**Zinc** (Immune Shield) — Oysters | Chickpeas | Pumpkin Pie Filling | Turkey",
+      "If you ate **beets** every day for 2 weeks, your blood pressure would likely drop and your stamina during workouts would noticeably improve thanks to natural nitrates widening your blood vessels.",
+      "If you ate **oats** every day for 30 days, your cholesterol numbers would start to shift as the beta-glucan fiber binds to it and carries it out of your body.",
+      "If you ate **fermented yogurt** every day for 1 week, your digestion would feel smoother and bloating would ease as live cultures rebalance your gut bacteria.",
+      "If you ate **blueberries** every day for 3 weeks, your memory and focus would sharpen as antioxidants reduce oxidative stress in brain cells.",
+      "If you ate **walnuts** every day for 2 weeks, your skin would look calmer and less inflamed thanks to their plant-based omega-3s.",
+      "If you ate **watermelon** every day for 1 week, your muscle soreness after workouts would fade faster because of its natural citrulline content.",
+      "If you ate **lentils** every day for 30 days, your energy would feel steadier throughout the day instead of crashing, thanks to slow-releasing fiber and iron.",
+      "If you ate **kimchi** every day for 2 weeks, your immune response would strengthen as gut-friendly bacteria multiply and crowd out harmful ones.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Your body only needs tiny amounts of these minerals, but skipping them shows up fast. Iodine is the raw material your thyroid uses to make the hormones that set your metabolism's pace — too little and everything from energy to body temperature slows down. Selenium works like a bodyguard for your cells, helping clear out oxidative damage before it builds up, which is part of why Brazil nuts get so much attention (just 1-2 a day already covers your needs). Copper quietly helps your body absorb and use the iron you eat, so even with enough iron in your diet, low copper can still leave you feeling drained. Everyone's body is different, so pay attention to how yours responds.\n\n@smarthealthfix is all about the fundamentals: nutrition, common health issues, how your organs actually function, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Beets are one of the most underrated daily additions - the nitrates in them convert to nitric oxide in your body, which relaxes blood vessels and can make a real difference in blood pressure within two weeks. Oats work differently: the beta-glucan fiber forms a gel in your gut that traps cholesterol and bile acids, forcing your liver to pull more cholesterol out of your blood to compensate. And kimchi isn't just a trendy side dish - the live bacteria in it help train your gut lining and immune cells to respond faster to actual threats, which is why regular eaters often report fewer colds. Everyone's body is different, so give these a few weeks and see how yours responds.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#mineralbalance",
-      "#thyroidhealth",
-      "#iodine",
-      "#zincrich",
-      "#seleniumsource",
-      "#copperdeficiency",
-      "#potassiumrich",
-      "#nutritiontips",
-      "#healthyeating",
-      "#wellnessjourney"
+      "#healthtips",
+      "#wellness",
+      "#guthealth",
+      "#nutritionfacts",
+      "#beets",
+      "#oats",
+      "#fermentedfoods",
+      "#brainhealth",
+      "#antiinflammatory",
+      "#healthyhabits"
     ],
     "extra_keywords": [
-      "micronutrients",
-      "traceminerals",
-      "foodasfuel",
-      "nutrientdense",
-      "healthylifestyle"
+      "naturalhealing",
+      "wellnessjourney",
+      "foodismedicine",
+      "healthyeating"
     ]
   },
-  "shape": "mineral_sources",
-  "caption": "Your body only needs tiny amounts of these minerals, but skipping them shows up fast. Iodine is the raw material your thyroid uses to make the hormones that set your metabolism's pace — too little and everything from energy to body temperature slows down. Selenium works like a bodyguard for your cells, helping clear out oxidative damage before it builds up, which is part of why Brazil nuts get so much attention (just 1-2 a day already covers your needs). Copper quietly helps your body absorb and use the iron you eat, so even with enough iron in your diet, low copper can still leave you feeling drained. Everyone's body is different, so pay attention to how yours responds.\n\n@smarthealthfix is all about the fundamentals: nutrition, common health issues, how your organs actually function, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#mineralbalance #thyroidhealth #iodine #zincrich #seleniumsource #copperdeficiency #potassiumrich #nutritiontips #healthyeating #wellnessjourney micronutrients traceminerals foodasfuel nutrientdense healthylifestyle"
+  "shape": "conditional_transformation",
+  "caption": "Beets are one of the most underrated daily additions - the nitrates in them convert to nitric oxide in your body, which relaxes blood vessels and can make a real difference in blood pressure within two weeks. Oats work differently: the beta-glucan fiber forms a gel in your gut that traps cholesterol and bile acids, forcing your liver to pull more cholesterol out of your blood to compensate. And kimchi isn't just a trendy side dish - the live bacteria in it help train your gut lining and immune cells to respond faster to actual threats, which is why regular eaters often report fewer colds. Everyone's body is different, so give these a few weeks and see how yours responds.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic changes instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #nutritionfacts #beets #oats #fermentedfoods #brainhealth #antiinflammatory #healthyhabits naturalhealing wellnessjourney foodismedicine healthyeating"
 }
