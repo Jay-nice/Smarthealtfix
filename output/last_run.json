@@ -1,44 +1,42 @@
 {
-  "png": "output/reel_20261112_175917.png",
-  "mp4": "output/reel_20261112_175917.mp4",
-  "cover": "output/cover_20261112_175917.png",
+  "png": "output/reel_20261112_214852.png",
+  "mp4": "output/reel_20261112_214852.mp4",
+  "cover": "output/cover_20261112_214852.png",
   "cover_bg": "white",
   "content": {
-    "title": "HOUSEHOLD FIXES THAT WORK BETTER THAN YOUR MEDICINE CABINET",
+    "title": "WEIRD DAILY HABITS THAT QUIETLY FIX YOUR {{BODY}}",
     "facts": [
-      "**Toothache** – Dab a small amount of clove oil on the sore spot with a cotton swab to numb the pain.",
-      "**Hiccups** – Swallow a teaspoon of sugar; the gritty texture interrupts the nerve spasm.",
-      "**Burnt tongue** – Press a spoonful of plain yogurt or honey on it to cool the tissue and soothe stinging.",
-      "**Splinter stuck deep** – Soak the area in warm water with a bit of baking soda for 10 minutes to help it surface.",
-      "**Stuffy nose** – Hold a warm, damp washcloth over your sinuses for a few minutes to loosen congestion.",
-      "**Hoarse voice** – Sip warm water with a spoon of honey to coat and soothe the vocal cords.",
-      "**Bruise forming** – Press a cold metal spoon from the freezer on it right away to limit swelling.",
-      "**Bug bite itch** – Dab a paste of baking soda and water on it to calm the irritation.",
-      "**Dry, cracked heels** – Rub petroleum jelly on them and cover with socks overnight for softer skin by morning.",
-      "**Nosebleed** – Pinch the soft part of your nose and lean slightly forward for a full 10 minutes, not back.",
-      "**Follow along** – for more quick, safe fixes like this."
+      "**Walk backwards for 2 minutes** — this odd little habit sharpens balance and wakes up brain regions your normal walk never touches.",
+      "**Chew each bite 20 times** — digestion starts in your mouth, and slower chewing means less bloating and better nutrient absorption later.",
+      "**Stand up every 45 minutes** — just 60 seconds of movement resets blood flow to your legs and keeps blood sugar from spiking after meals.",
+      "**Breathe through your nose on walks** — it filters air, calms your nervous system, and trains your lungs to use oxygen more efficiently.",
+      "**Hold a wall squat for 1 minute/day** — this tiny habit strengthens knees and glutes without ever stepping into a gym.",
+      "**Splash cold water on your wrists** — the cold hits major blood vessels close to the skin, cooling your whole body fast and snapping you awake.",
+      "**Write down 1 worry before bed** — getting it onto paper quiets racing thoughts so your mind stops replaying them at 2am.",
+      "**Roll your shoulders back 10x/hour** — it undoes the forward hunch from screens and keeps tension from building into a headache.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are worth keeping in your back pocket. Clove oil contains eugenol, a natural compound that acts almost like a mild anesthetic on nerve endings, which is why it's been used for toothaches for centuries. For a nosebleed, pinching and leaning forward helps blood clot at the source instead of running down your throat, which can actually trigger nausea if you tilt back. And that cold spoon trick for a fresh bruise works because the cold constricts blood vessels right away, so less blood pools under the skin and the bruise ends up smaller. Everyone's body reacts a little differently, so use common sense and see a doctor for anything serious or lasting.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our goal is to make small, doable changes feel realistic instead of overwhelming.\n\nSave this post so you have it next time a small annoyance pops up, and share it with someone who could use these simple tricks.",
+    "caption": "A few of these look too small to matter, but the body disagrees. Take the wall squat — holding that position for just 1 minute a day builds endurance in the muscles around your knees, which is one of the easiest ways to protect joints as you age without any equipment. The cold water on your wrists works because that spot has blood vessels sitting very close to the surface, so cooling them cools your circulating blood faster than splashing your face does. And writing down a worry before bed isn't just \"journaling\" — it moves the thought from your working memory onto paper, which is why your brain stops looping on it the second the lights go off. Obviously everyone's body responds a little differently, so notice what actually settles your own.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our mission is to make health feel doable in small steps, not another overwhelming routine to fail at.\n\nSave this post so you don't lose it, and share it with someone who needs these small resets in their day.",
     "hashtags": [
-      "#homeremedies",
-      "#healthhacks",
-      "#naturalremedy",
-      "#wellnesstips",
-      "#quickfix",
-      "#selfcare",
-      "#healthylifestyle",
-      "#firstaidtips",
-      "#dailyhealth",
-      "#wellness"
+      "#healthtips",
+      "#dailyhabits",
+      "#wellness",
+      "#nervoussystem",
+      "#bettersleep",
+      "#mindbodyconnection",
+      "#smallhabitsbigchanges",
+      "#stressrelief",
+      "#posturefix",
+      "#healthyroutine"
     ],
     "extra_keywords": [
-      "householdfixes",
+      "wellnessjourney",
       "naturalhealing",
-      "homeremedytips",
-      "wellnessjourney"
+      "habitstack",
+      "selfcaretips"
     ]
   },
-  "shape": "boxed_hacks",
-  "caption": "A few of these are worth keeping in your back pocket. Clove oil contains eugenol, a natural compound that acts almost like a mild anesthetic on nerve endings, which is why it's been used for toothaches for centuries. For a nosebleed, pinching and leaning forward helps blood clot at the source instead of running down your throat, which can actually trigger nausea if you tilt back. And that cold spoon trick for a fresh bruise works because the cold constricts blood vessels right away, so less blood pools under the skin and the bruise ends up smaller. Everyone's body reacts a little differently, so use common sense and see a doctor for anything serious or lasting.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs, and the small daily habits that quietly shape how you feel. Our goal is to make small, doable changes feel realistic instead of overwhelming.\n\nSave this post so you have it next time a small annoyance pops up, and share it with someone who could use these simple tricks.\n\n#homeremedies #healthhacks #naturalremedy #wellnesstips #quickfix #selfcare #healthylifestyle #firstaidtips #dailyhealth #wellness householdfixes naturalhealing homeremedytips wellnessjourney"
+  "shape": "numbered_explainer",
+  "caption": "A few of these look too small to matter, but the body disagrees. Take the wall squat — holding that position for just 1 minute a day builds endurance in the muscles around your knees, which is one of the easiest ways to protect joints as you age without any equipment. The cold water on your wrists works because that spot has blood vessels sitting very close to the surface, so cooling them cools your circulating blood faster than splashing your face does. And writing down a worry before bed isn't just \"journaling\" — it moves the thought from your working memory onto paper, which is why your brain stops looping on it the second the lights go off. Obviously everyone's body responds a little differently, so notice what actually settles your own.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our mission is to make health feel doable in small steps, not another overwhelming routine to fail at.\n\nSave this post so you don't lose it, and share it with someone who needs these small resets in their day.\n\n#healthtips #dailyhabits #wellness #nervoussystem #bettersleep #mindbodyconnection #smallhabitsbigchanges #stressrelief #posturefix #healthyroutine wellnessjourney naturalhealing habitstack selfcaretips"
 }
