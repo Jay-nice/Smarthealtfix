@@ -1,42 +1,40 @@
 {
-  "png": "output/reel_20261112_214852.png",
-  "mp4": "output/reel_20261112_214852.mp4",
-  "cover": "output/cover_20261112_214852.png",
+  "png": "output/reel_20261113_005557.png",
+  "mp4": "output/reel_20261113_005557.mp4",
+  "cover": "output/cover_20261113_005557.png",
   "cover_bg": "white",
   "content": {
-    "title": "WEIRD DAILY HABITS THAT QUIETLY FIX YOUR {{BODY}}",
+    "title": "THE MINERAL BEHIND YOUR {{ENERGY CRASH}}",
     "facts": [
-      "**Walk backwards for 2 minutes** — this odd little habit sharpens balance and wakes up brain regions your normal walk never touches.",
-      "**Chew each bite 20 times** — digestion starts in your mouth, and slower chewing means less bloating and better nutrient absorption later.",
-      "**Stand up every 45 minutes** — just 60 seconds of movement resets blood flow to your legs and keeps blood sugar from spiking after meals.",
-      "**Breathe through your nose on walks** — it filters air, calms your nervous system, and trains your lungs to use oxygen more efficiently.",
-      "**Hold a wall squat for 1 minute/day** — this tiny habit strengthens knees and glutes without ever stepping into a gym.",
-      "**Splash cold water on your wrists** — the cold hits major blood vessels close to the skin, cooling your whole body fast and snapping you awake.",
-      "**Write down 1 worry before bed** — getting it onto paper quiets racing thoughts so your mind stops replaying them at 2am.",
-      "**Roll your shoulders back 10x/hour** — it undoes the forward hunch from screens and keeps tension from building into a headache.",
+      "**Iron** (Oxygen Carrier) — Beef Liver | Lentil Soup | Pumpkin Seeds | Dark Leafy Greens — low levels leave your cells gasping for oxygen, which is why you feel wiped out by 2pm.",
+      "**Magnesium** (Nervous System Dimmer) — Almonds | Black Beans | Swiss Chard | Dark Chocolate — quiets an overactive nervous system so your body can actually downshift at night.",
+      "**Calcium** (Signal Sender) — Sardines | Bok Choy | Tahini | White Beans — your muscles can't contract and your nerves can't fire a single signal without it.",
+      "**Zinc** (Wound Healer) — Oysters | Chickpeas | Cashews | Eggs — cuts and scrapes close noticeably slower when your levels run low.",
+      "**Phosphorus** (Energy Currency) — Salmon | Lentils | Pumpkin Seeds | Yogurt — teams up with your cells to literally build the molecule your body burns for energy.",
+      "**Chromium** (Blood Sugar Helper) — Broccoli | Grape Juice | Whole Wheat Bread | Green Beans — helps insulin do its job so sugar actually gets pulled into your cells instead of lingering in your blood.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these look too small to matter, but the body disagrees. Take the wall squat — holding that position for just 1 minute a day builds endurance in the muscles around your knees, which is one of the easiest ways to protect joints as you age without any equipment. The cold water on your wrists works because that spot has blood vessels sitting very close to the surface, so cooling them cools your circulating blood faster than splashing your face does. And writing down a worry before bed isn't just \"journaling\" — it moves the thought from your working memory onto paper, which is why your brain stops looping on it the second the lights go off. Obviously everyone's body responds a little differently, so notice what actually settles your own.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our mission is to make health feel doable in small steps, not another overwhelming routine to fail at.\n\nSave this post so you don't lose it, and share it with someone who needs these small resets in their day.",
+    "caption": "Let's talk about a few of these in more depth. Iron is the one most people underestimate — without enough of it, your red blood cells can't hold onto oxygen properly, so even a full night's sleep won't stop that mid-afternoon crash. Magnesium works almost like a dimmer switch on your nervous system, calming nerve signals down so your body can actually shift into rest mode instead of staying wired. And phosphorus rarely gets mentioned, but it partners directly with your cells to build the energy molecule (ATP) your whole body runs on — no phosphorus, no fuel. Everyone's body is different, so listen to yours and get levels checked before assuming a deficiency.\n\nAt @smarthealthfix, we cover nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who's always tired and can't figure out why.",
     "hashtags": [
+      "#ironlevels",
+      "#magnesiumbenefits",
+      "#mineraldeficiency",
+      "#energyboost",
       "#healthtips",
-      "#dailyhabits",
-      "#wellness",
-      "#nervoussystem",
-      "#bettersleep",
-      "#mindbodyconnection",
-      "#smallhabitsbigchanges",
-      "#stressrelief",
-      "#posturefix",
-      "#healthyroutine"
+      "#nutritionfacts",
+      "#wellnessjourney",
+      "#guttohealth",
+      "#tiredallthetime",
+      "#eatrealfood"
     ],
     "extra_keywords": [
-      "wellnessjourney",
       "naturalhealing",
-      "habitstack",
-      "selfcaretips"
+      "mineralhealth",
+      "dailynutrition",
+      "healthyhabits"
     ]
   },
-  "shape": "numbered_explainer",
-  "caption": "A few of these look too small to matter, but the body disagrees. Take the wall squat — holding that position for just 1 minute a day builds endurance in the muscles around your knees, which is one of the easiest ways to protect joints as you age without any equipment. The cold water on your wrists works because that spot has blood vessels sitting very close to the surface, so cooling them cools your circulating blood faster than splashing your face does. And writing down a worry before bed isn't just \"journaling\" — it moves the thought from your working memory onto paper, which is why your brain stops looping on it the second the lights go off. Obviously everyone's body responds a little differently, so notice what actually settles your own.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our mission is to make health feel doable in small steps, not another overwhelming routine to fail at.\n\nSave this post so you don't lose it, and share it with someone who needs these small resets in their day.\n\n#healthtips #dailyhabits #wellness #nervoussystem #bettersleep #mindbodyconnection #smallhabitsbigchanges #stressrelief #posturefix #healthyroutine wellnessjourney naturalhealing habitstack selfcaretips"
+  "shape": "mineral_sources",
+  "caption": "Let's talk about a few of these in more depth. Iron is the one most people underestimate — without enough of it, your red blood cells can't hold onto oxygen properly, so even a full night's sleep won't stop that mid-afternoon crash. Magnesium works almost like a dimmer switch on your nervous system, calming nerve signals down so your body can actually shift into rest mode instead of staying wired. And phosphorus rarely gets mentioned, but it partners directly with your cells to build the energy molecule (ATP) your whole body runs on — no phosphorus, no fuel. Everyone's body is different, so listen to yours and get levels checked before assuming a deficiency.\n\nAt @smarthealthfix, we cover nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who's always tired and can't figure out why.\n\n#ironlevels #magnesiumbenefits #mineraldeficiency #energyboost #healthtips #nutritionfacts #wellnessjourney #guttohealth #tiredallthetime #eatrealfood naturalhealing mineralhealth dailynutrition healthyhabits"
 }
