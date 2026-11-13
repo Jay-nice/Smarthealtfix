@@ -1,40 +1,43 @@
 {
-  "png": "output/reel_20261113_005557.png",
-  "mp4": "output/reel_20261113_005557.mp4",
-  "cover": "output/cover_20261113_005557.png",
+  "png": "output/reel_20261113_212327.png",
+  "mp4": "output/reel_20261113_212327.mp4",
+  "cover": "output/cover_20261113_212327.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE MINERAL BEHIND YOUR {{ENERGY CRASH}}",
+    "title": "YOUR ORGANS EACH HAVE A {{FAVORITE}} FOOD",
     "facts": [
-      "**Iron** (Oxygen Carrier) — Beef Liver | Lentil Soup | Pumpkin Seeds | Dark Leafy Greens — low levels leave your cells gasping for oxygen, which is why you feel wiped out by 2pm.",
-      "**Magnesium** (Nervous System Dimmer) — Almonds | Black Beans | Swiss Chard | Dark Chocolate — quiets an overactive nervous system so your body can actually downshift at night.",
-      "**Calcium** (Signal Sender) — Sardines | Bok Choy | Tahini | White Beans — your muscles can't contract and your nerves can't fire a single signal without it.",
-      "**Zinc** (Wound Healer) — Oysters | Chickpeas | Cashews | Eggs — cuts and scrapes close noticeably slower when your levels run low.",
-      "**Phosphorus** (Energy Currency) — Salmon | Lentils | Pumpkin Seeds | Yogurt — teams up with your cells to literally build the molecule your body burns for energy.",
-      "**Chromium** (Blood Sugar Helper) — Broccoli | Grape Juice | Whole Wheat Bread | Green Beans — helps insulin do its job so sugar actually gets pulled into your cells instead of lingering in your blood.",
+      "**Beets** are good for your LIVER – the nitrates and betalains help it flush toxins and keep bile flowing smoothly.",
+      "**Pumpkin seeds** are good for your BLADDER – their magnesium and zinc content helps calm an overactive bladder lining.",
+      "**Fennel** is good for your GUT – it relaxes intestinal muscles and eases bloating within hours of eating it.",
+      "**Beef liver** (1-2 oz/week) is good for your THYROID – it's one of the richest natural sources of selenium, which it needs to make hormones.",
+      "**Celery** is good for your KIDNEYS – its natural diuretic compounds help flush excess sodium and water.",
+      "**Dark chocolate** (1 small square/day, 70%+) is good for your BRAIN – the flavanols boost blood flow to areas tied to memory.",
+      "**Asparagus** is good for your LUNGS – it's packed with antioxidants that help protect lung tissue from everyday pollution.",
+      "**Sardines** (2x/week) are good for your HEART – their omega-3s help keep your heartbeat steady and arteries flexible.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Let's talk about a few of these in more depth. Iron is the one most people underestimate — without enough of it, your red blood cells can't hold onto oxygen properly, so even a full night's sleep won't stop that mid-afternoon crash. Magnesium works almost like a dimmer switch on your nervous system, calming nerve signals down so your body can actually shift into rest mode instead of staying wired. And phosphorus rarely gets mentioned, but it partners directly with your cells to build the energy molecule (ATP) your whole body runs on — no phosphorus, no fuel. Everyone's body is different, so listen to yours and get levels checked before assuming a deficiency.\n\nAt @smarthealthfix, we cover nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who's always tired and can't figure out why.",
+    "caption": "Your organs aren't asking for much, just a little daily support. Take beets: the betalains in them actually help your liver's detox enzymes work more efficiently, so toxins get cleared instead of recirculating. Fennel works differently, it relaxes the smooth muscle lining your gut, which is why bloating and cramping can ease so quickly after a cup of fennel tea. And sardines deserve more credit than they get, the omega-3s in them don't just lower inflammation, they help keep the electrical signals in your heart firing on a steady rhythm. Everyone's body is different, so pay attention to what actually makes you feel better.\n\nAt @smarthealthfix we focus on four things that actually move the needle: nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#ironlevels",
-      "#magnesiumbenefits",
-      "#mineraldeficiency",
-      "#energyboost",
+      "#organhealth",
+      "#liverhealth",
+      "#guthealth",
+      "#hearthealthy",
+      "#thyroidhealth",
+      "#wholefoods",
       "#healthtips",
       "#nutritionfacts",
-      "#wellnessjourney",
-      "#guttohealth",
-      "#tiredallthetime",
-      "#eatrealfood"
+      "#bodyhealth",
+      "#eatwell"
     ],
     "extra_keywords": [
-      "naturalhealing",
-      "mineralhealth",
-      "dailynutrition",
-      "healthyhabits"
+      "organhealthtips",
+      "foodismedicine",
+      "healthybodyhabits",
+      "nutritiontips",
+      "wellnessjourney"
     ]
   },
-  "shape": "mineral_sources",
-  "caption": "Let's talk about a few of these in more depth. Iron is the one most people underestimate — without enough of it, your red blood cells can't hold onto oxygen properly, so even a full night's sleep won't stop that mid-afternoon crash. Magnesium works almost like a dimmer switch on your nervous system, calming nerve signals down so your body can actually shift into rest mode instead of staying wired. And phosphorus rarely gets mentioned, but it partners directly with your cells to build the energy molecule (ATP) your whole body runs on — no phosphorus, no fuel. Everyone's body is different, so listen to yours and get levels checked before assuming a deficiency.\n\nAt @smarthealthfix, we cover nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who's always tired and can't figure out why.\n\n#ironlevels #magnesiumbenefits #mineraldeficiency #energyboost #healthtips #nutritionfacts #wellnessjourney #guttohealth #tiredallthetime #eatrealfood naturalhealing mineralhealth dailynutrition healthyhabits"
+  "shape": "allcaps_benefit",
+  "caption": "Your organs aren't asking for much, just a little daily support. Take beets: the betalains in them actually help your liver's detox enzymes work more efficiently, so toxins get cleared instead of recirculating. Fennel works differently, it relaxes the smooth muscle lining your gut, which is why bloating and cramping can ease so quickly after a cup of fennel tea. And sardines deserve more credit than they get, the omega-3s in them don't just lower inflammation, they help keep the electrical signals in your heart firing on a steady rhythm. Everyone's body is different, so pay attention to what actually makes you feel better.\n\nAt @smarthealthfix we focus on four things that actually move the needle: nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #liverhealth #guthealth #hearthealthy #thyroidhealth #wholefoods #healthtips #nutritionfacts #bodyhealth #eatwell organhealthtips foodismedicine healthybodyhabits nutritiontips wellnessjourney"
 }
