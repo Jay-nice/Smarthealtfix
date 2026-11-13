@@ -1,0 +1,155 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "THE {{SURPRISING}} NUTRIENT WINNERS HIDING IN YOUR GROCERY CART",
+    "facts": [
+      "A cup of cooked **spinach** has more iron than a 3oz serving of **chicken breast** — but pair it with citrus to actually absorb it.",
+      "One **kiwi** has almost twice the vitamin C of an **orange** of the same size.",
+      "A half-cup of cooked **swiss chard** has more potassium than a **banana** — and most people don't even know chard exists.",
+      "**Sun-dried tomatoes** pack more potassium per cup than **potatoes**, making them a sneaky electrolyte booster.",
+      "**Butternut squash** delivers more vitamin A precursors and a solid dose of fiber in one cup than most people get in a full day of fruit.",
+      "A cup of cooked **collard greens** has more calcium than a half-cup of **milk** — great news if dairy isn't your thing.",
+      "**Pumpkin seeds** have more zinc per ounce than **beef**, and most people never think to snack on them.",
+      "A single cup of cooked **edamame** has more fiber than a cup of **brown rice**, plus a plant-based protein boost.",
+      "**Mushrooms** left in sunlight for 15-20 minutes before cooking can spike their vitamin D content dramatically — most grocery store mushrooms are grown in the dark.",
+      "**Brazil nuts** are so loaded with selenium that just 2 nuts a day covers your entire daily need.",
+      "**Follow along** – for more daily health tips like this."
+    ],
+    "claims": [
+      {
+        "food_a": "spinach",
+        "food_b": "chicken breast",
+        "nutrient_key": "iron"
+      },
+      {
+        "food_a": "kiwi",
+        "food_b": "orange",
+        "nutrient_key": "vitamin_c"
+      },
+      {
+        "food_a": "swiss chard",
+        "food_b": "banana",
+        "nutrient_key": "potassium"
+      },
+      {
+        "food_a": "sun-dried tomatoes",
+        "food_b": "potatoes",
+        "nutrient_key": "potassium"
+      },
+      {
+        "food_a": "collard greens",
+        "food_b": "milk",
+        "nutrient_key": "calcium"
+      },
+      {
+        "food_a": "pumpkin seeds",
+        "food_b": "beef",
+        "nutrient_key": "zinc"
+      },
+      {
+        "food_a": "edamame",
+        "food_b": "brown rice",
+        "nutrient_key": "fiber"
+      }
+    ],
+    "caption": "Let's talk about a few of these. Spinach is a great iron source, but the iron in leafy greens is the non-heme kind, which your body absorbs less efficiently than animal iron — that's why pairing it with vitamin C-rich foods like lemon juice or bell peppers can noticeably boost how much you actually take in. Kiwi is slept on hard: besides the vitamin C, the skin (yes, you can eat it) adds extra fiber most people toss in the trash. And mushrooms are wild because they're the only produce item that can actually generate vitamin D when exposed to UV light, just like our skin does — a quick windowsill sit before cooking can meaningfully change their nutrient profile. Everyone's needs are different, so use this as a starting point, not a strict rulebook.\n\nThis is what @smarthealthfix is all about — breaking down nutrition, common health issues, organ function, and small daily habits into things you can actually use. Our mission is to make good health feel doable, not overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "hashtags": [
+      "#nutritionfacts",
+      "#healthtips",
+      "#wellness",
+      "#ironrich",
+      "#vitaminc",
+      "#guthealth",
+      "#micronutrients",
+      "#plantbasednutrition",
+      "#healthyeating",
+      "#nutrientdense"
+    ],
+    "extra_keywords": [
+      "nutritiontips",
+      "wellnessjourney",
+      "foodismedicine",
+      "healthyhabits"
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 7,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "kiwi",
+          "food_b": "orange",
+          "nutrient_key": "vitamin_c"
+        },
+        "verdict": "known_shaky",
+        "note": "Een kiwi heeft veel vitamine C per calorie, maar een hele sinaasappel (groter, meer gewicht) bevat vaak een vergelijkbare of hogere absolute hoeveelheid. 'Kiwi heeft meer vitamine C dan een sinaasappel' is dus geen harde winst — nuanceren of vermijden."
+      },
+      {
+        "claim": {
+          "food_a": "swiss chard",
+          "food_b": "banana",
+          "nutrient_key": "potassium"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "swiss chard",
+          "food_b": "banana",
+          "nutrient": "potassium",
+          "amount_a": {
+            "amount": 379,
+            "unit": "MG",
+            "food_description": "Chard, swiss, raw",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 422,
+            "unit": "mg",
+            "per": "1 medium (118g)"
+          },
+          "ratio": 0.9
+        }
+      },
+      {
+        "claim": {
+          "food_a": "pumpkin seeds",
+          "food_b": "beef",
+          "nutrient_key": "zinc"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "edamame",
+          "food_b": "brown rice",
+          "nutrient_key": "fiber"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "edamame",
+          "food_b": "brown rice",
+          "nutrient": "fiber",
+          "amount_a": {
+            "amount": 4.7,
+            "unit": "G",
+            "food_description": "EDAMAME",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 6.7,
+            "unit": "G",
+            "food_description": "BROWN RICE",
+            "per": "100g"
+          },
+          "ratio": 0.7
+        }
+      }
+    ]
+  }
+}
