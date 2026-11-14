@@ -1,43 +1,43 @@
 {
-  "png": "output/reel_20261113_212327.png",
-  "mp4": "output/reel_20261113_212327.mp4",
-  "cover": "output/cover_20261113_212327.png",
+  "png": "output/reel_20261114_004141.png",
+  "mp4": "output/reel_20261114_004141.mp4",
+  "cover": "output/cover_20261114_004141.png",
   "cover_bg": "white",
   "content": {
-    "title": "YOUR ORGANS EACH HAVE A {{FAVORITE}} FOOD",
+    "title": "THE DAILY DOSE CHEAT SHEET FOR A BODY THAT ACTUALLY FUNCTIONS",
     "facts": [
-      "**Beets** are good for your LIVER – the nitrates and betalains help it flush toxins and keep bile flowing smoothly.",
-      "**Pumpkin seeds** are good for your BLADDER – their magnesium and zinc content helps calm an overactive bladder lining.",
-      "**Fennel** is good for your GUT – it relaxes intestinal muscles and eases bloating within hours of eating it.",
-      "**Beef liver** (1-2 oz/week) is good for your THYROID – it's one of the richest natural sources of selenium, which it needs to make hormones.",
-      "**Celery** is good for your KIDNEYS – its natural diuretic compounds help flush excess sodium and water.",
-      "**Dark chocolate** (1 small square/day, 70%+) is good for your BRAIN – the flavanols boost blood flow to areas tied to memory.",
-      "**Asparagus** is good for your LUNGS – it's packed with antioxidants that help protect lung tissue from everyday pollution.",
-      "**Sardines** (2x/week) are good for your HEART – their omega-3s help keep your heartbeat steady and arteries flexible.",
-      "**Follow along** – for more daily health tips like this."
+      "**Sunlight** -> 10 min before 9am -> Resets sleep clock",
+      "**Walking** -> 20 min after dinner -> Blunts sugar spike",
+      "**Cold water** -> 1 glass on waking -> Kickstarts metabolism",
+      "**Deep breathing** -> 4 counts in, 8 out, 5x -> Lowers cortisol fast",
+      "**Stretching** -> 5 min before bed -> Deeper sleep",
+      "**Sunlight exposure** -> 15 min midday -> Boosts vitamin D",
+      "**Gratitude** -> write 3 things/day -> Lowers anxiety",
+      "**Protein** -> 25g at breakfast -> Less afternoon crash",
+      "**Silence** -> 10 min phone-free -> Resets focus",
+      "**Follow along** -> for more daily health tips like this -> Builds better habits"
     ],
     "claims": [],
-    "caption": "Your organs aren't asking for much, just a little daily support. Take beets: the betalains in them actually help your liver's detox enzymes work more efficiently, so toxins get cleared instead of recirculating. Fennel works differently, it relaxes the smooth muscle lining your gut, which is why bloating and cramping can ease so quickly after a cup of fennel tea. And sardines deserve more credit than they get, the omega-3s in them don't just lower inflammation, they help keep the electrical signals in your heart firing on a steady rhythm. Everyone's body is different, so pay attention to what actually makes you feel better.\n\nAt @smarthealthfix we focus on four things that actually move the needle: nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A lot of this comes down to timing, not just willpower. Take walking after dinner — a short 20 minute walk pulls glucose out of your bloodstream and into your muscles, which is why it blunts the sugar spike so well instead of letting it crash later. Deep breathing works on the vagus nerve directly, so a slow 4-8 count pattern tells your nervous system it's safe to drop out of fight-or-flight within minutes. And morning sunlight isn't just about mood — hitting your eyes with natural light early locks in your circadian rhythm, which is part of why it makes falling asleep that night so much easier. Everyone's body responds a little differently, so treat these as a starting point and notice what your own body does.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and the small daily habits that quietly shape all of it. Our mission is to help you build realistic habits you'll actually stick with, instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#organhealth",
-      "#liverhealth",
-      "#guthealth",
-      "#hearthealthy",
-      "#thyroidhealth",
-      "#wholefoods",
       "#healthtips",
-      "#nutritionfacts",
-      "#bodyhealth",
-      "#eatwell"
+      "#wellness",
+      "#dailyhabits",
+      "#morningroutine",
+      "#guthealth",
+      "#betterSleep",
+      "#stressrelief",
+      "#metabolism",
+      "#healthyhabits",
+      "#selfcare"
     ],
     "extra_keywords": [
-      "organhealthtips",
-      "foodismedicine",
-      "healthybodyhabits",
-      "nutritiontips",
-      "wellnessjourney"
+      "wellnessjourney",
+      "dailyroutine",
+      "naturalhealing",
+      "mindbodyhealth"
     ]
   },
-  "shape": "allcaps_benefit",
-  "caption": "Your organs aren't asking for much, just a little daily support. Take beets: the betalains in them actually help your liver's detox enzymes work more efficiently, so toxins get cleared instead of recirculating. Fennel works differently, it relaxes the smooth muscle lining your gut, which is why bloating and cramping can ease so quickly after a cup of fennel tea. And sardines deserve more credit than they get, the omega-3s in them don't just lower inflammation, they help keep the electrical signals in your heart firing on a steady rhythm. Everyone's body is different, so pay attention to what actually makes you feel better.\n\nAt @smarthealthfix we focus on four things that actually move the needle: nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #liverhealth #guthealth #hearthealthy #thyroidhealth #wholefoods #healthtips #nutritionfacts #bodyhealth #eatwell organhealthtips foodismedicine healthybodyhabits nutritiontips wellnessjourney"
+  "shape": "daily_dose_habit",
+  "caption": "A lot of this comes down to timing, not just willpower. Take walking after dinner — a short 20 minute walk pulls glucose out of your bloodstream and into your muscles, which is why it blunts the sugar spike so well instead of letting it crash later. Deep breathing works on the vagus nerve directly, so a slow 4-8 count pattern tells your nervous system it's safe to drop out of fight-or-flight within minutes. And morning sunlight isn't just about mood — hitting your eyes with natural light early locks in your circadian rhythm, which is part of why it makes falling asleep that night so much easier. Everyone's body responds a little differently, so treat these as a starting point and notice what your own body does.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and the small daily habits that quietly shape all of it. Our mission is to help you build realistic habits you'll actually stick with, instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #dailyhabits #morningroutine #guthealth #betterSleep #stressrelief #metabolism #healthyhabits #selfcare wellnessjourney dailyroutine naturalhealing mindbodyhealth"
 }
