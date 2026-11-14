@@ -1,42 +1,42 @@
 {
-  "png": "output/reel_20261114_162713.png",
-  "mp4": "output/reel_20261114_162713.mp4",
-  "cover": "output/cover_20261114_162713.png",
+  "png": "output/reel_20261114_195234.png",
+  "mp4": "output/reel_20261114_195234.mp4",
+  "cover": "output/cover_20261114_195234.png",
   "cover_bg": "white",
   "content": {
-    "title": "IF YOU ATE {{THIS}} EVERY DAY... YOUR BODY WOULD CHANGE FAST",
+    "title": "TINY HABITS THAT QUIETLY ADD YEARS TO YOUR {{LIFE}}",
     "facts": [
-      "If you ate **blueberries** every day for 3 weeks, your memory recall would sharpen and your blood vessels would relax more easily under stress.",
-      "If you ate **oysters** every day for 1 week, your sense of taste and smell would noticeably improve from the zinc replenishing damaged receptors.",
-      "If you ate **sauerkraut** every day for 2 weeks, your bloating would ease as live cultures rebalance your gut bacteria.",
-      "If you ate **walnuts** every day for 30 days, your cholesterol numbers would start shifting as omega-3s go to work on your arteries.",
-      "If you ate **watermelon** every day for 1 week, your muscle soreness after workouts would fade faster thanks to its natural citrulline.",
-      "If you ate **lentils** every day for 2 weeks, your energy would stop crashing mid-afternoon as steady fiber slows down sugar absorption.",
-      "If you ate **oranges** every day for 10 days, your gums would bleed less and heal faster from the vitamin C boost.",
-      "If you ate **oats** every day for 30 days, your skin would look calmer as inflammation markers quietly drop.",
+      "**Cold showers for 30 seconds** — end your shower with 30 seconds of cold water and your circulation sharpens while stress hormones drop almost instantly.",
+      "**Chew each bite 20 times** — slow chewing gives your gut time to signal fullness, so you stop overeating without even trying.",
+      "**Stand up every 45 minutes** — a short standing break resets blood flow in your legs and takes pressure off your lower back.",
+      "**Swap one coffee for green tea** — the small dose of L-theanine smooths out the caffeine crash and keeps focus steady for hours.",
+      "**Sniff peppermint oil before a workout** — it opens up your airways and can make exercise feel noticeably less exhausting.",
+      "**Write down 1 worry before bed** — getting it onto paper quiets racing thoughts so your brain stops replaying it at 2am.",
+      "**Flex your calves while sitting** — a simple calf raise every hour pumps blood back to your heart and prevents swollen ankles.",
+      "**Laugh out loud once a day** — even forced laughter relaxes blood vessels and gives your immune system a small, real boost.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Small daily swaps can snowball into real changes faster than people expect. Take blueberries — the anthocyanins inside them don't just sit there, they actually cross into brain tissue and help calm inflammation around nerve cells, which is part of why memory sharpens. Oysters work differently: they're one of the richest natural sources of zinc, a mineral your taste buds and olfactory receptors literally need to regenerate, so dulled senses can bounce back within days. And sauerkraut isn't just a gut trend — the live bacteria in it compete with less helpful strains in your intestines, which is why bloating tends to settle once they take hold. Everyone's gut and body chemistry is different, so give it time and listen to what your body tells you.\n\nAt @smarthealthfix, we cover everything from nutrition and common health issues to the organs that run your body and the small daily habits that quietly shape it. Our mission is to make health feel doable again, one small realistic habit at a time instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Small daily habits can quietly change how your whole body runs. Take the cold shower trick — even 30 seconds at the end of a normal shower triggers a rush of norepinephrine, which is why people report feeling instantly more alert and less stressed afterward. Then there's chewing — most of us swallow food in a rush, but chewing each bite around 20 times gives your stomach and gut hormones enough time to actually tell your brain \"I'm full,\" which is a huge reason people overeat without realizing it. And that peppermint oil trick before a workout isn't just a scent thing — menthol tricks your nasal passages into feeling like more air is moving through, so breathing feels easier even when your lungs are working just as hard. Everyone's body responds a little differently, so notice what actually feels good for you.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our mission is simple: help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a few easy wins today.",
     "hashtags": [
-      "#guthealth",
-      "#nutritionfacts",
       "#healthtips",
-      "#wellnessjourney",
-      "#eatclean",
-      "#foodismedicine",
-      "#blueberries",
-      "#immuneboost",
-      "#healthyhabits",
-      "#wellness"
+      "#wellness",
+      "#dailyhabits",
+      "#coldshower",
+      "#mindfuleating",
+      "#stressrelief",
+      "#healthyroutine",
+      "#selfcare",
+      "#biohacking",
+      "#bettersleep"
     ],
     "extra_keywords": [
-      "naturalhealing",
-      "nutritiontips",
-      "cleaneating",
-      "gutmicrobiome"
+      "dailyhealth",
+      "wellnessjourney",
+      "habitstacking",
+      "healthyliving"
     ]
   },
-  "shape": "conditional_transformation",
-  "caption": "Small daily swaps can snowball into real changes faster than people expect. Take blueberries — the anthocyanins inside them don't just sit there, they actually cross into brain tissue and help calm inflammation around nerve cells, which is part of why memory sharpens. Oysters work differently: they're one of the richest natural sources of zinc, a mineral your taste buds and olfactory receptors literally need to regenerate, so dulled senses can bounce back within days. And sauerkraut isn't just a gut trend — the live bacteria in it compete with less helpful strains in your intestines, which is why bloating tends to settle once they take hold. Everyone's gut and body chemistry is different, so give it time and listen to what your body tells you.\n\nAt @smarthealthfix, we cover everything from nutrition and common health issues to the organs that run your body and the small daily habits that quietly shape it. Our mission is to make health feel doable again, one small realistic habit at a time instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#guthealth #nutritionfacts #healthtips #wellnessjourney #eatclean #foodismedicine #blueberries #immuneboost #healthyhabits #wellness naturalhealing nutritiontips cleaneating gutmicrobiome"
+  "shape": "numbered_explainer",
+  "caption": "Small daily habits can quietly change how your whole body runs. Take the cold shower trick — even 30 seconds at the end of a normal shower triggers a rush of norepinephrine, which is why people report feeling instantly more alert and less stressed afterward. Then there's chewing — most of us swallow food in a rush, but chewing each bite around 20 times gives your stomach and gut hormones enough time to actually tell your brain \"I'm full,\" which is a huge reason people overeat without realizing it. And that peppermint oil trick before a workout isn't just a scent thing — menthol tricks your nasal passages into feeling like more air is moving through, so breathing feels easier even when your lungs are working just as hard. Everyone's body responds a little differently, so notice what actually feels good for you.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our mission is simple: help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a few easy wins today.\n\n#healthtips #wellness #dailyhabits #coldshower #mindfuleating #stressrelief #healthyroutine #selfcare #biohacking #bettersleep dailyhealth wellnessjourney habitstacking healthyliving"
 }
