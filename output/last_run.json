@@ -1,43 +1,42 @@
 {
-  "png": "output/reel_20261114_004141.png",
-  "mp4": "output/reel_20261114_004141.mp4",
-  "cover": "output/cover_20261114_004141.png",
+  "png": "output/reel_20261114_162713.png",
+  "mp4": "output/reel_20261114_162713.mp4",
+  "cover": "output/cover_20261114_162713.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE DAILY DOSE CHEAT SHEET FOR A BODY THAT ACTUALLY FUNCTIONS",
+    "title": "IF YOU ATE {{THIS}} EVERY DAY... YOUR BODY WOULD CHANGE FAST",
     "facts": [
-      "**Sunlight** -> 10 min before 9am -> Resets sleep clock",
-      "**Walking** -> 20 min after dinner -> Blunts sugar spike",
-      "**Cold water** -> 1 glass on waking -> Kickstarts metabolism",
-      "**Deep breathing** -> 4 counts in, 8 out, 5x -> Lowers cortisol fast",
-      "**Stretching** -> 5 min before bed -> Deeper sleep",
-      "**Sunlight exposure** -> 15 min midday -> Boosts vitamin D",
-      "**Gratitude** -> write 3 things/day -> Lowers anxiety",
-      "**Protein** -> 25g at breakfast -> Less afternoon crash",
-      "**Silence** -> 10 min phone-free -> Resets focus",
-      "**Follow along** -> for more daily health tips like this -> Builds better habits"
+      "If you ate **blueberries** every day for 3 weeks, your memory recall would sharpen and your blood vessels would relax more easily under stress.",
+      "If you ate **oysters** every day for 1 week, your sense of taste and smell would noticeably improve from the zinc replenishing damaged receptors.",
+      "If you ate **sauerkraut** every day for 2 weeks, your bloating would ease as live cultures rebalance your gut bacteria.",
+      "If you ate **walnuts** every day for 30 days, your cholesterol numbers would start shifting as omega-3s go to work on your arteries.",
+      "If you ate **watermelon** every day for 1 week, your muscle soreness after workouts would fade faster thanks to its natural citrulline.",
+      "If you ate **lentils** every day for 2 weeks, your energy would stop crashing mid-afternoon as steady fiber slows down sugar absorption.",
+      "If you ate **oranges** every day for 10 days, your gums would bleed less and heal faster from the vitamin C boost.",
+      "If you ate **oats** every day for 30 days, your skin would look calmer as inflammation markers quietly drop.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A lot of this comes down to timing, not just willpower. Take walking after dinner — a short 20 minute walk pulls glucose out of your bloodstream and into your muscles, which is why it blunts the sugar spike so well instead of letting it crash later. Deep breathing works on the vagus nerve directly, so a slow 4-8 count pattern tells your nervous system it's safe to drop out of fight-or-flight within minutes. And morning sunlight isn't just about mood — hitting your eyes with natural light early locks in your circadian rhythm, which is part of why it makes falling asleep that night so much easier. Everyone's body responds a little differently, so treat these as a starting point and notice what your own body does.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and the small daily habits that quietly shape all of it. Our mission is to help you build realistic habits you'll actually stick with, instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Small daily swaps can snowball into real changes faster than people expect. Take blueberries — the anthocyanins inside them don't just sit there, they actually cross into brain tissue and help calm inflammation around nerve cells, which is part of why memory sharpens. Oysters work differently: they're one of the richest natural sources of zinc, a mineral your taste buds and olfactory receptors literally need to regenerate, so dulled senses can bounce back within days. And sauerkraut isn't just a gut trend — the live bacteria in it compete with less helpful strains in your intestines, which is why bloating tends to settle once they take hold. Everyone's gut and body chemistry is different, so give it time and listen to what your body tells you.\n\nAt @smarthealthfix, we cover everything from nutrition and common health issues to the organs that run your body and the small daily habits that quietly shape it. Our mission is to make health feel doable again, one small realistic habit at a time instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#healthtips",
-      "#wellness",
-      "#dailyhabits",
-      "#morningroutine",
       "#guthealth",
-      "#betterSleep",
-      "#stressrelief",
-      "#metabolism",
+      "#nutritionfacts",
+      "#healthtips",
+      "#wellnessjourney",
+      "#eatclean",
+      "#foodismedicine",
+      "#blueberries",
+      "#immuneboost",
       "#healthyhabits",
-      "#selfcare"
+      "#wellness"
     ],
     "extra_keywords": [
-      "wellnessjourney",
-      "dailyroutine",
       "naturalhealing",
-      "mindbodyhealth"
+      "nutritiontips",
+      "cleaneating",
+      "gutmicrobiome"
     ]
   },
-  "shape": "daily_dose_habit",
-  "caption": "A lot of this comes down to timing, not just willpower. Take walking after dinner — a short 20 minute walk pulls glucose out of your bloodstream and into your muscles, which is why it blunts the sugar spike so well instead of letting it crash later. Deep breathing works on the vagus nerve directly, so a slow 4-8 count pattern tells your nervous system it's safe to drop out of fight-or-flight within minutes. And morning sunlight isn't just about mood — hitting your eyes with natural light early locks in your circadian rhythm, which is part of why it makes falling asleep that night so much easier. Everyone's body responds a little differently, so treat these as a starting point and notice what your own body does.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organ function, and the small daily habits that quietly shape all of it. Our mission is to help you build realistic habits you'll actually stick with, instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #dailyhabits #morningroutine #guthealth #betterSleep #stressrelief #metabolism #healthyhabits #selfcare wellnessjourney dailyroutine naturalhealing mindbodyhealth"
+  "shape": "conditional_transformation",
+  "caption": "Small daily swaps can snowball into real changes faster than people expect. Take blueberries — the anthocyanins inside them don't just sit there, they actually cross into brain tissue and help calm inflammation around nerve cells, which is part of why memory sharpens. Oysters work differently: they're one of the richest natural sources of zinc, a mineral your taste buds and olfactory receptors literally need to regenerate, so dulled senses can bounce back within days. And sauerkraut isn't just a gut trend — the live bacteria in it compete with less helpful strains in your intestines, which is why bloating tends to settle once they take hold. Everyone's gut and body chemistry is different, so give it time and listen to what your body tells you.\n\nAt @smarthealthfix, we cover everything from nutrition and common health issues to the organs that run your body and the small daily habits that quietly shape it. Our mission is to make health feel doable again, one small realistic habit at a time instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#guthealth #nutritionfacts #healthtips #wellnessjourney #eatclean #foodismedicine #blueberries #immuneboost #healthyhabits #wellness naturalhealing nutritiontips cleaneating gutmicrobiome"
 }
