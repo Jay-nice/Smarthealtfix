@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20261114_195234.png",
-  "mp4": "output/reel_20261114_195234.mp4",
-  "cover": "output/cover_20261114_195234.png",
+  "png": "output/reel_20261114_234045.png",
+  "mp4": "output/reel_20261114_234045.mp4",
+  "cover": "output/cover_20261114_234045.png",
   "cover_bg": "white",
   "content": {
-    "title": "TINY HABITS THAT QUIETLY ADD YEARS TO YOUR {{LIFE}}",
+    "title": "RULES EVERY NEW PARENT'S BODY IS BEGGING YOU TO FOLLOW",
     "facts": [
-      "**Cold showers for 30 seconds** — end your shower with 30 seconds of cold water and your circulation sharpens while stress hormones drop almost instantly.",
-      "**Chew each bite 20 times** — slow chewing gives your gut time to signal fullness, so you stop overeating without even trying.",
-      "**Stand up every 45 minutes** — a short standing break resets blood flow in your legs and takes pressure off your lower back.",
-      "**Swap one coffee for green tea** — the small dose of L-theanine smooths out the caffeine crash and keeps focus steady for hours.",
-      "**Sniff peppermint oil before a workout** — it opens up your airways and can make exercise feel noticeably less exhausting.",
-      "**Write down 1 worry before bed** — getting it onto paper quiets racing thoughts so your brain stops replaying it at 2am.",
-      "**Flex your calves while sitting** — a simple calf raise every hour pumps blood back to your heart and prevents swollen ankles.",
-      "**Laugh out loud once a day** — even forced laughter relaxes blood vessels and gives your immune system a small, real boost.",
+      "**Hydrate before coffee** – your body is dehydrated after a broken night of sleep, and caffeine on top of that spikes cortisol even more.",
+      "**Nap in 20-minute blocks** – short naps restore focus without dragging you into deep sleep you'll wake up groggy from.",
+      "**Eat protein at breakfast** – 20-30g keeps blood sugar steady so you don't crash by mid-morning on 3 hours of sleep.",
+      "**Carry almonds, not crackers** – a handful of nuts steadies energy far longer than refined carbs when you're running on empty.",
+      "**Step outside for 5 minutes** – even brief daylight resets your circadian rhythm when your sleep schedule is completely scrambled.",
+      "**Set a phone-down hour** – screens before an already-fragmented night of sleep make it even harder to fall back asleep between feedings.",
+      "**Batch-cook on weekends** – having food ready removes one more decision from a brain running on fumes.",
+      "**Ask for a 1-hour handoff** – even a single uninterrupted hour of rest daily rebuilds patience and focus more than people expect.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Small daily habits can quietly change how your whole body runs. Take the cold shower trick — even 30 seconds at the end of a normal shower triggers a rush of norepinephrine, which is why people report feeling instantly more alert and less stressed afterward. Then there's chewing — most of us swallow food in a rush, but chewing each bite around 20 times gives your stomach and gut hormones enough time to actually tell your brain \"I'm full,\" which is a huge reason people overeat without realizing it. And that peppermint oil trick before a workout isn't just a scent thing — menthol tricks your nasal passages into feeling like more air is moving through, so breathing feels easier even when your lungs are working just as hard. Everyone's body responds a little differently, so notice what actually feels good for you.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our mission is simple: help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a few easy wins today.",
+    "caption": "New parents run on broken sleep and borrowed energy, so small swaps matter more than ever. Protein at breakfast is one of the biggest ones - about 20-30 grams keeps your blood sugar from spiking and crashing, which is exactly what causes that shaky, foggy feeling by 10am when you've barely slept. Almonds work the same way as a snack: the fat and fiber combo slows digestion so the energy release is gradual instead of a quick sugar spike followed by a crash. And that 5-minute step outside isn't just fresh air - morning light exposure helps reset your internal clock, which gets completely thrown off when your sleep schedule is unpredictable. Everyone's body and situation is different, so adjust what fits your days.\n\nAt @smarthealthfix we post daily, simple breakdowns on nutrition, common health issues, organ function, and small daily habits that actually make a difference. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#newparent",
+      "#parentlife",
+      "#postpartumhealth",
+      "#tiredmom",
+      "#dadlife",
       "#healthtips",
       "#wellness",
-      "#dailyhabits",
-      "#coldshower",
-      "#mindfuleating",
-      "#stressrelief",
-      "#healthyroutine",
-      "#selfcare",
-      "#biohacking",
-      "#bettersleep"
+      "#energyboost",
+      "#parentingtips",
+      "#selfcare"
     ],
     "extra_keywords": [
-      "dailyhealth",
+      "newparentlife",
+      "momenergy",
       "wellnessjourney",
-      "habitstacking",
-      "healthyliving"
+      "babyandme",
+      "healthyhabits"
     ]
   },
-  "shape": "numbered_explainer",
-  "caption": "Small daily habits can quietly change how your whole body runs. Take the cold shower trick — even 30 seconds at the end of a normal shower triggers a rush of norepinephrine, which is why people report feeling instantly more alert and less stressed afterward. Then there's chewing — most of us swallow food in a rush, but chewing each bite around 20 times gives your stomach and gut hormones enough time to actually tell your brain \"I'm full,\" which is a huge reason people overeat without realizing it. And that peppermint oil trick before a workout isn't just a scent thing — menthol tricks your nasal passages into feeling like more air is moving through, so breathing feels easier even when your lungs are working just as hard. Everyone's body responds a little differently, so notice what actually feels good for you.\n\nAt @smarthealthfix we focus on nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our mission is simple: help you build small, realistic routines instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs a few easy wins today.\n\n#healthtips #wellness #dailyhabits #coldshower #mindfuleating #stressrelief #healthyroutine #selfcare #biohacking #bettersleep dailyhealth wellnessjourney habitstacking healthyliving"
+  "shape": "imperative_advice_list",
+  "caption": "New parents run on broken sleep and borrowed energy, so small swaps matter more than ever. Protein at breakfast is one of the biggest ones - about 20-30 grams keeps your blood sugar from spiking and crashing, which is exactly what causes that shaky, foggy feeling by 10am when you've barely slept. Almonds work the same way as a snack: the fat and fiber combo slows digestion so the energy release is gradual instead of a quick sugar spike followed by a crash. And that 5-minute step outside isn't just fresh air - morning light exposure helps reset your internal clock, which gets completely thrown off when your sleep schedule is unpredictable. Everyone's body and situation is different, so adjust what fits your days.\n\nAt @smarthealthfix we post daily, simple breakdowns on nutrition, common health issues, organ function, and small daily habits that actually make a difference. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#newparent #parentlife #postpartumhealth #tiredmom #dadlife #healthtips #wellness #energyboost #parentingtips #selfcare newparentlife momenergy wellnessjourney babyandme healthyhabits"
 }
