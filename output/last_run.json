@@ -1,43 +1,41 @@
 {
-  "png": "output/reel_20261114_234045.png",
-  "mp4": "output/reel_20261114_234045.mp4",
-  "cover": "output/cover_20261114_234045.png",
+  "png": "output/reel_20261115_165144.png",
+  "mp4": "output/reel_20261115_165144.mp4",
+  "cover": "output/cover_20261115_165144.png",
   "cover_bg": "white",
   "content": {
-    "title": "RULES EVERY NEW PARENT'S BODY IS BEGGING YOU TO FOLLOW",
+    "title": "WHY YOUR {{PANCREAS}} IS THE ORGAN NOBODY TALKS ABOUT",
     "facts": [
-      "**Hydrate before coffee** – your body is dehydrated after a broken night of sleep, and caffeine on top of that spikes cortisol even more.",
-      "**Nap in 20-minute blocks** – short naps restore focus without dragging you into deep sleep you'll wake up groggy from.",
-      "**Eat protein at breakfast** – 20-30g keeps blood sugar steady so you don't crash by mid-morning on 3 hours of sleep.",
-      "**Carry almonds, not crackers** – a handful of nuts steadies energy far longer than refined carbs when you're running on empty.",
-      "**Step outside for 5 minutes** – even brief daylight resets your circadian rhythm when your sleep schedule is completely scrambled.",
-      "**Set a phone-down hour** – screens before an already-fragmented night of sleep make it even harder to fall back asleep between feedings.",
-      "**Batch-cook on weekends** – having food ready removes one more decision from a brain running on fumes.",
-      "**Ask for a 1-hour handoff** – even a single uninterrupted hour of rest daily rebuilds patience and focus more than people expect.",
-      "**Follow along** – for more daily health tips like this."
+      "**Pancreas** - Bitter melon, Broccoli, Cinnamon, Spinach",
+      "**Bladder** - Cranberries, Cucumber, Coconut water",
+      "**Thyroid** - Brazil nuts, Seaweed, Eggs",
+      "**Liver** - Beets, Turmeric, Garlic",
+      "**Bone marrow** - Beef liver, Pomegranate, Dark leafy greens",
+      "**Joints** - Bone broth, Cherries, Avocado",
+      "**Follow along** - for more daily organ-by-organ nutrition tips like this."
     ],
     "claims": [],
-    "caption": "New parents run on broken sleep and borrowed energy, so small swaps matter more than ever. Protein at breakfast is one of the biggest ones - about 20-30 grams keeps your blood sugar from spiking and crashing, which is exactly what causes that shaky, foggy feeling by 10am when you've barely slept. Almonds work the same way as a snack: the fat and fiber combo slows digestion so the energy release is gradual instead of a quick sugar spike followed by a crash. And that 5-minute step outside isn't just fresh air - morning light exposure helps reset your internal clock, which gets completely thrown off when your sleep schedule is unpredictable. Everyone's body and situation is different, so adjust what fits your days.\n\nAt @smarthealthfix we post daily, simple breakdowns on nutrition, common health issues, organ function, and small daily habits that actually make a difference. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Your pancreas quietly runs your blood sugar behind the scenes, and bitter melon actually contains compounds that mimic insulin, helping cells pull in glucose more efficiently. Cinnamon works alongside it by slowing how fast sugar hits your bloodstream after a meal, so your pancreas doesn't have to scramble to keep up. Your thyroid, on the other hand, needs selenium to convert its hormone into the active form your cells can actually use, which is exactly why just 2 brazil nuts a day can make a real difference. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#newparent",
-      "#parentlife",
-      "#postpartumhealth",
-      "#tiredmom",
-      "#dadlife",
+      "#pancreashealth",
+      "#thyroidhealth",
+      "#liverdetox",
+      "#organhealth",
+      "#bloodsugarbalance",
       "#healthtips",
       "#wellness",
-      "#energyboost",
-      "#parentingtips",
-      "#selfcare"
+      "#nutritionfacts",
+      "#guthealth",
+      "#holistichealth"
     ],
     "extra_keywords": [
-      "newparentlife",
-      "momenergy",
+      "organhealth",
+      "nutritiontips",
       "wellnessjourney",
-      "babyandme",
-      "healthyhabits"
+      "healthyliving",
+      "foodasmedicine"
     ]
   },
-  "shape": "imperative_advice_list",
-  "caption": "New parents run on broken sleep and borrowed energy, so small swaps matter more than ever. Protein at breakfast is one of the biggest ones - about 20-30 grams keeps your blood sugar from spiking and crashing, which is exactly what causes that shaky, foggy feeling by 10am when you've barely slept. Almonds work the same way as a snack: the fat and fiber combo slows digestion so the energy release is gradual instead of a quick sugar spike followed by a crash. And that 5-minute step outside isn't just fresh air - morning light exposure helps reset your internal clock, which gets completely thrown off when your sleep schedule is unpredictable. Everyone's body and situation is different, so adjust what fits your days.\n\nAt @smarthealthfix we post daily, simple breakdowns on nutrition, common health issues, organ function, and small daily habits that actually make a difference. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#newparent #parentlife #postpartumhealth #tiredmom #dadlife #healthtips #wellness #energyboost #parentingtips #selfcare newparentlife momenergy wellnessjourney babyandme healthyhabits"
+  "shape": "organ_food_list",
+  "caption": "Your pancreas quietly runs your blood sugar behind the scenes, and bitter melon actually contains compounds that mimic insulin, helping cells pull in glucose more efficiently. Cinnamon works alongside it by slowing how fast sugar hits your bloodstream after a meal, so your pancreas doesn't have to scramble to keep up. Your thyroid, on the other hand, needs selenium to convert its hormone into the active form your cells can actually use, which is exactly why just 2 brazil nuts a day can make a real difference. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#pancreashealth #thyroidhealth #liverdetox #organhealth #bloodsugarbalance #healthtips #wellness #nutritionfacts #guthealth #holistichealth organhealth nutritiontips wellnessjourney healthyliving foodasmedicine"
 }
