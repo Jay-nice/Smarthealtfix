@@ -1,43 +1,43 @@
 {
-  "png": "output/reel_20261115_201925.png",
-  "mp4": "output/reel_20261115_201925.mp4",
-  "cover": "output/cover_20261115_201925.png",
+  "png": "output/reel_20261115_234651.png",
+  "mp4": "output/reel_20261115_234651.mp4",
+  "cover": "output/cover_20261115_234651.png",
   "cover_bg": "white",
   "content": {
-    "title": "HEALTHY HABITS THAT ARE QUIETLY WORKING AGAINST {{YOU}}",
+    "title": "THE {{ANNOYING}} PROBLEMS YOUR KITCHEN CAN ALREADY FIX",
     "facts": [
-      "**Fruit smoothies** every morning -> blends away the fiber structure, so the same sugar hits your blood faster than if you'd just eaten the fruit whole.",
-      "**Multitasking while eating** -> your brain barely registers the meal, so fullness signals arrive late and you end up grazing again within the hour.",
-      "**Compression socks all day, not just travel** -> worn beyond their purpose, they can train calf muscles to rely on external support instead of pumping blood on their own.",
-      "**Stretching cold muscles before cardio** -> without a warm-up first, static stretching can momentarily reduce muscle power output instead of preventing injury.",
-      "**Sleeping with a thick pillow stack** -> keeps your neck flexed forward for hours, straining the same muscles a desk job already overworks.",
-      "**Rinsing your mouth right after brushing** -> washes away the concentrated fluoride before it has time to fully strengthen enamel.",
-      "**Praising 'detox' teas daily** -> many are mild laxatives, so the water weight they shed is not fat, it's just your gut moving faster than usual.",
-      "**Keeping your water bottle ice-cold all day** -> your body spends extra energy just warming it to core temperature before it can even start absorbing it.",
+      "**Bloating** ----- Fennel Seeds",
+      "**Bad Breath** ----- Fresh Parsley",
+      "**Leg Cramps** ----- Bananas",
+      "**Headaches** ----- Ginger Tea",
+      "**Hiccups** ----- A Spoon of Sugar",
+      "**Brain Fog** ----- Pumpkin Seeds",
+      "**Stuffy Nose** ----- Horseradish",
+      "**Restless Legs** ----- Tart Cherry Juice",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Let's talk about a few of these in more detail. **Smoothies** feel like the responsible choice, but blending fruit mechanically breaks down its fiber matrix, so sugars that were once released slowly now rush into your bloodstream almost like a sugary drink would. **Compression socks** are brilliant for long flights, but if your calves lean on them constantly, the muscle pump that naturally pushes blood back up your legs can get a little lazy over time. And that **detox tea** habit? Most of the 'cleansing' feeling is just mild dehydration from the laxative effect, not actual fat or toxins leaving your body - your liver and kidneys were already handling that job quietly in the background. Everyone's body is different, so notice what these habits actually do for you before assuming they're automatically healthy.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape all of it. Our mission is to help you build small, realistic habits instead of chasing quick fixes that sound good but don't hold up.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Fennel seeds are an underrated fix for bloating — chewing a teaspoon after a meal relaxes the smooth muscle in your gut, which helps trapped gas actually move instead of sitting there making you uncomfortable. Bananas get overlooked for leg cramps too, but it's really the potassium and magnesium combo that helps your muscles relax properly instead of firing randomly at 2am. And ginger tea isn't just soothing — it calms inflammation in blood vessels in a way that can take the edge off a tension headache within 30-45 minutes for a lot of people. Everyone's body is different, so give these a real try before writing them off.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs, and the small daily habits that quietly shape how you feel. Our mission is simple: help you solve everyday annoyances with real food first, before reaching for anything else.\n\nSave this post so you don't lose it, and share it with someone who deals with one of these almost every week.",
     "hashtags": [
       "#healthtips",
-      "#wellness",
       "#guthealth",
-      "#healthyhabits",
-      "#nutritionfacts",
-      "#detoxmyths",
-      "#smarthealth",
-      "#bodyawareness",
-      "#sleephealth",
-      "#dentalhealth"
+      "#naturalremedies",
+      "#bloatingrelief",
+      "#headacherelief",
+      "#wellnesstips",
+      "#foodismedicine",
+      "#digestivehealth",
+      "#everydayhealth",
+      "#holistichealth"
     ],
     "extra_keywords": [
-      "wellnessjourney",
-      "healthmyths",
-      "dailyhabits",
       "naturalhealing",
-      "gutfeeling"
+      "homeremedies",
+      "wellnessjourney",
+      "healthyliving",
+      "kitchenremedies"
     ]
   },
-  "shape": "habit_harm_reveal",
-  "caption": "Let's talk about a few of these in more detail. **Smoothies** feel like the responsible choice, but blending fruit mechanically breaks down its fiber matrix, so sugars that were once released slowly now rush into your bloodstream almost like a sugary drink would. **Compression socks** are brilliant for long flights, but if your calves lean on them constantly, the muscle pump that naturally pushes blood back up your legs can get a little lazy over time. And that **detox tea** habit? Most of the 'cleansing' feeling is just mild dehydration from the laxative effect, not actual fat or toxins leaving your body - your liver and kidneys were already handling that job quietly in the background. Everyone's body is different, so notice what these habits actually do for you before assuming they're automatically healthy.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape all of it. Our mission is to help you build small, realistic habits instead of chasing quick fixes that sound good but don't hold up.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #healthyhabits #nutritionfacts #detoxmyths #smarthealth #bodyawareness #sleephealth #dentalhealth wellnessjourney healthmyths dailyhabits naturalhealing gutfeeling"
+  "shape": "problem_food_mapping",
+  "caption": "Fennel seeds are an underrated fix for bloating — chewing a teaspoon after a meal relaxes the smooth muscle in your gut, which helps trapped gas actually move instead of sitting there making you uncomfortable. Bananas get overlooked for leg cramps too, but it's really the potassium and magnesium combo that helps your muscles relax properly instead of firing randomly at 2am. And ginger tea isn't just soothing — it calms inflammation in blood vessels in a way that can take the edge off a tension headache within 30-45 minutes for a lot of people. Everyone's body is different, so give these a real try before writing them off.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs, and the small daily habits that quietly shape how you feel. Our mission is simple: help you solve everyday annoyances with real food first, before reaching for anything else.\n\nSave this post so you don't lose it, and share it with someone who deals with one of these almost every week.\n\n#healthtips #guthealth #naturalremedies #bloatingrelief #headacherelief #wellnesstips #foodismedicine #digestivehealth #everydayhealth #holistichealth naturalhealing homeremedies wellnessjourney healthyliving kitchenremedies"
 }
