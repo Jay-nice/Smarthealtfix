@@ -1,41 +1,43 @@
 {
-  "png": "output/reel_20261115_165144.png",
-  "mp4": "output/reel_20261115_165144.mp4",
-  "cover": "output/cover_20261115_165144.png",
+  "png": "output/reel_20261115_201925.png",
+  "mp4": "output/reel_20261115_201925.mp4",
+  "cover": "output/cover_20261115_201925.png",
   "cover_bg": "white",
   "content": {
-    "title": "WHY YOUR {{PANCREAS}} IS THE ORGAN NOBODY TALKS ABOUT",
+    "title": "HEALTHY HABITS THAT ARE QUIETLY WORKING AGAINST {{YOU}}",
     "facts": [
-      "**Pancreas** - Bitter melon, Broccoli, Cinnamon, Spinach",
-      "**Bladder** - Cranberries, Cucumber, Coconut water",
-      "**Thyroid** - Brazil nuts, Seaweed, Eggs",
-      "**Liver** - Beets, Turmeric, Garlic",
-      "**Bone marrow** - Beef liver, Pomegranate, Dark leafy greens",
-      "**Joints** - Bone broth, Cherries, Avocado",
-      "**Follow along** - for more daily organ-by-organ nutrition tips like this."
+      "**Fruit smoothies** every morning -> blends away the fiber structure, so the same sugar hits your blood faster than if you'd just eaten the fruit whole.",
+      "**Multitasking while eating** -> your brain barely registers the meal, so fullness signals arrive late and you end up grazing again within the hour.",
+      "**Compression socks all day, not just travel** -> worn beyond their purpose, they can train calf muscles to rely on external support instead of pumping blood on their own.",
+      "**Stretching cold muscles before cardio** -> without a warm-up first, static stretching can momentarily reduce muscle power output instead of preventing injury.",
+      "**Sleeping with a thick pillow stack** -> keeps your neck flexed forward for hours, straining the same muscles a desk job already overworks.",
+      "**Rinsing your mouth right after brushing** -> washes away the concentrated fluoride before it has time to fully strengthen enamel.",
+      "**Praising 'detox' teas daily** -> many are mild laxatives, so the water weight they shed is not fat, it's just your gut moving faster than usual.",
+      "**Keeping your water bottle ice-cold all day** -> your body spends extra energy just warming it to core temperature before it can even start absorbing it.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Your pancreas quietly runs your blood sugar behind the scenes, and bitter melon actually contains compounds that mimic insulin, helping cells pull in glucose more efficiently. Cinnamon works alongside it by slowing how fast sugar hits your bloodstream after a meal, so your pancreas doesn't have to scramble to keep up. Your thyroid, on the other hand, needs selenium to convert its hormone into the active form your cells can actually use, which is exactly why just 2 brazil nuts a day can make a real difference. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Let's talk about a few of these in more detail. **Smoothies** feel like the responsible choice, but blending fruit mechanically breaks down its fiber matrix, so sugars that were once released slowly now rush into your bloodstream almost like a sugary drink would. **Compression socks** are brilliant for long flights, but if your calves lean on them constantly, the muscle pump that naturally pushes blood back up your legs can get a little lazy over time. And that **detox tea** habit? Most of the 'cleansing' feeling is just mild dehydration from the laxative effect, not actual fat or toxins leaving your body - your liver and kidneys were already handling that job quietly in the background. Everyone's body is different, so notice what these habits actually do for you before assuming they're automatically healthy.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape all of it. Our mission is to help you build small, realistic habits instead of chasing quick fixes that sound good but don't hold up.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#pancreashealth",
-      "#thyroidhealth",
-      "#liverdetox",
-      "#organhealth",
-      "#bloodsugarbalance",
       "#healthtips",
       "#wellness",
-      "#nutritionfacts",
       "#guthealth",
-      "#holistichealth"
+      "#healthyhabits",
+      "#nutritionfacts",
+      "#detoxmyths",
+      "#smarthealth",
+      "#bodyawareness",
+      "#sleephealth",
+      "#dentalhealth"
     ],
     "extra_keywords": [
-      "organhealth",
-      "nutritiontips",
       "wellnessjourney",
-      "healthyliving",
-      "foodasmedicine"
+      "healthmyths",
+      "dailyhabits",
+      "naturalhealing",
+      "gutfeeling"
     ]
   },
-  "shape": "organ_food_list",
-  "caption": "Your pancreas quietly runs your blood sugar behind the scenes, and bitter melon actually contains compounds that mimic insulin, helping cells pull in glucose more efficiently. Cinnamon works alongside it by slowing how fast sugar hits your bloodstream after a meal, so your pancreas doesn't have to scramble to keep up. Your thyroid, on the other hand, needs selenium to convert its hormone into the active form your cells can actually use, which is exactly why just 2 brazil nuts a day can make a real difference. Everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#pancreashealth #thyroidhealth #liverdetox #organhealth #bloodsugarbalance #healthtips #wellness #nutritionfacts #guthealth #holistichealth organhealth nutritiontips wellnessjourney healthyliving foodasmedicine"
+  "shape": "habit_harm_reveal",
+  "caption": "Let's talk about a few of these in more detail. **Smoothies** feel like the responsible choice, but blending fruit mechanically breaks down its fiber matrix, so sugars that were once released slowly now rush into your bloodstream almost like a sugary drink would. **Compression socks** are brilliant for long flights, but if your calves lean on them constantly, the muscle pump that naturally pushes blood back up your legs can get a little lazy over time. And that **detox tea** habit? Most of the 'cleansing' feeling is just mild dehydration from the laxative effect, not actual fat or toxins leaving your body - your liver and kidneys were already handling that job quietly in the background. Everyone's body is different, so notice what these habits actually do for you before assuming they're automatically healthy.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and the small daily habits that quietly shape all of it. Our mission is to help you build small, realistic habits instead of chasing quick fixes that sound good but don't hold up.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #healthyhabits #nutritionfacts #detoxmyths #smarthealth #bodyawareness #sleephealth #dentalhealth wellnessjourney healthmyths dailyhabits naturalhealing gutfeeling"
 }
