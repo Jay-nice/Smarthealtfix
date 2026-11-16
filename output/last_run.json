@@ -1,43 +1,42 @@
 {
-  "png": "output/reel_20261115_234651.png",
-  "mp4": "output/reel_20261115_234651.mp4",
-  "cover": "output/cover_20261115_234651.png",
+  "png": "output/reel_20261116_200531.png",
+  "mp4": "output/reel_20261116_200531.mp4",
+  "cover": "output/cover_20261116_200531.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE {{ANNOYING}} PROBLEMS YOUR KITCHEN CAN ALREADY FIX",
+    "title": "THE ORGANS YOU NEVER THINK ABOUT ARE SILENTLY RUNNING YOUR {{BODY}}",
     "facts": [
-      "**Bloating** ----- Fennel Seeds",
-      "**Bad Breath** ----- Fresh Parsley",
-      "**Leg Cramps** ----- Bananas",
-      "**Headaches** ----- Ginger Tea",
-      "**Hiccups** ----- A Spoon of Sugar",
-      "**Brain Fog** ----- Pumpkin Seeds",
-      "**Stuffy Nose** ----- Horseradish",
-      "**Restless Legs** ----- Tart Cherry Juice",
+      "**BEETS** are good for ARTERIES — the nitrates relax blood vessels so oxygen moves easier through your whole body.",
+      "**WALNUTS** are good for the BRAIN — their omega-3s support the fatty sheath around nerves that speeds up thinking.",
+      "**PUMPKIN SEEDS** are good for the PROSTATE — 1 oz/day delivers zinc that this gland needs more than almost any other tissue.",
+      "**ASPARAGUS** are good for KIDNEYS — it acts as a natural diuretic, helping flush excess sodium and waste.",
+      "**TURMERIC** is good for the GALLBLADDER — it stimulates bile flow, which keeps fat digestion running smoothly.",
+      "**OATS** are good for the GUT LINING — the beta-glucan fiber feeds the mucus layer that protects your intestines.",
+      "**SARDINES** are good for the HEART VALVES — their vitamin D and omega-3s support tissue that keeps blood flowing one direction.",
+      "**DARK LEAFY GREENS** are good for the SPLEEN — the iron and folate support healthy red blood cell turnover.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Fennel seeds are an underrated fix for bloating — chewing a teaspoon after a meal relaxes the smooth muscle in your gut, which helps trapped gas actually move instead of sitting there making you uncomfortable. Bananas get overlooked for leg cramps too, but it's really the potassium and magnesium combo that helps your muscles relax properly instead of firing randomly at 2am. And ginger tea isn't just soothing — it calms inflammation in blood vessels in a way that can take the edge off a tension headache within 30-45 minutes for a lot of people. Everyone's body is different, so give these a real try before writing them off.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs, and the small daily habits that quietly shape how you feel. Our mission is simple: help you solve everyday annoyances with real food first, before reaching for anything else.\n\nSave this post so you don't lose it, and share it with someone who deals with one of these almost every week.",
+    "caption": "A few of these deserve a closer look. Beets work because the nitrates convert into nitric oxide in your body, which widens blood vessels and lowers the effort your heart needs to push blood through — that's why athletes drink beet juice before workouts. Pumpkin seeds matter because the prostate has one of the highest zinc concentrations of any organ in the body, and low zinc levels are repeatedly linked to prostate issues as men age. Asparagus contains a compound called asparagine that directly signals your kidneys to release more fluid, which is why your urine smell changes shortly after eating it — a sign it's actually working. Everyone's body responds a little differently, so pay attention to what yours is telling you.\n\nAt @smarthealthfix we dig into nutrition, common symptoms, organ function, and small daily habits that actually move the needle. Our mission is simple: help you build small, realistic habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#healthtips",
+      "#organhealth",
       "#guthealth",
-      "#naturalremedies",
-      "#bloatingrelief",
-      "#headacherelief",
-      "#wellnesstips",
+      "#kidneyhealth",
+      "#brainfood",
+      "#hearthealth",
+      "#nutritiontips",
+      "#healthtips",
+      "#wellness",
       "#foodismedicine",
-      "#digestivehealth",
-      "#everydayhealth",
-      "#holistichealth"
+      "#prostatehealth"
     ],
     "extra_keywords": [
       "naturalhealing",
-      "homeremedies",
       "wellnessjourney",
-      "healthyliving",
-      "kitchenremedies"
+      "organhealthtips",
+      "healthyeating"
     ]
   },
-  "shape": "problem_food_mapping",
-  "caption": "Fennel seeds are an underrated fix for bloating — chewing a teaspoon after a meal relaxes the smooth muscle in your gut, which helps trapped gas actually move instead of sitting there making you uncomfortable. Bananas get overlooked for leg cramps too, but it's really the potassium and magnesium combo that helps your muscles relax properly instead of firing randomly at 2am. And ginger tea isn't just soothing — it calms inflammation in blood vessels in a way that can take the edge off a tension headache within 30-45 minutes for a lot of people. Everyone's body is different, so give these a real try before writing them off.\n\nAt @smarthealthfix we focus on nutrition, common health issues, organs, and the small daily habits that quietly shape how you feel. Our mission is simple: help you solve everyday annoyances with real food first, before reaching for anything else.\n\nSave this post so you don't lose it, and share it with someone who deals with one of these almost every week.\n\n#healthtips #guthealth #naturalremedies #bloatingrelief #headacherelief #wellnesstips #foodismedicine #digestivehealth #everydayhealth #holistichealth naturalhealing homeremedies wellnessjourney healthyliving kitchenremedies"
+  "shape": "allcaps_benefit",
+  "caption": "A few of these deserve a closer look. Beets work because the nitrates convert into nitric oxide in your body, which widens blood vessels and lowers the effort your heart needs to push blood through — that's why athletes drink beet juice before workouts. Pumpkin seeds matter because the prostate has one of the highest zinc concentrations of any organ in the body, and low zinc levels are repeatedly linked to prostate issues as men age. Asparagus contains a compound called asparagine that directly signals your kidneys to release more fluid, which is why your urine smell changes shortly after eating it — a sign it's actually working. Everyone's body responds a little differently, so pay attention to what yours is telling you.\n\nAt @smarthealthfix we dig into nutrition, common symptoms, organ function, and small daily habits that actually move the needle. Our mission is simple: help you build small, realistic habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #guthealth #kidneyhealth #brainfood #hearthealth #nutritiontips #healthtips #wellness #foodismedicine #prostatehealth naturalhealing wellnessjourney organhealthtips healthyeating"
 }
