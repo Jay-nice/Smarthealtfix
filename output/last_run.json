@@ -1,42 +1,42 @@
 {
-  "png": "output/reel_20261116_200531.png",
-  "mp4": "output/reel_20261116_200531.mp4",
-  "cover": "output/cover_20261116_200531.png",
+  "png": "output/reel_20261116_234335.png",
+  "mp4": "output/reel_20261116_234335.mp4",
+  "cover": "output/cover_20261116_234335.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE ORGANS YOU NEVER THINK ABOUT ARE SILENTLY RUNNING YOUR {{BODY}}",
+    "title": "WEIRD SIGNS YOUR BODY IS ACTUALLY MISSING A {{NUTRIENT}}",
     "facts": [
-      "**BEETS** are good for ARTERIES — the nitrates relax blood vessels so oxygen moves easier through your whole body.",
-      "**WALNUTS** are good for the BRAIN — their omega-3s support the fatty sheath around nerves that speeds up thinking.",
-      "**PUMPKIN SEEDS** are good for the PROSTATE — 1 oz/day delivers zinc that this gland needs more than almost any other tissue.",
-      "**ASPARAGUS** are good for KIDNEYS — it acts as a natural diuretic, helping flush excess sodium and waste.",
-      "**TURMERIC** is good for the GALLBLADDER — it stimulates bile flow, which keeps fat digestion running smoothly.",
-      "**OATS** are good for the GUT LINING — the beta-glucan fiber feeds the mucus layer that protects your intestines.",
-      "**SARDINES** are good for the HEART VALVES — their vitamin D and omega-3s support tissue that keeps blood flowing one direction.",
-      "**DARK LEAFY GREENS** are good for the SPLEEN — the iron and folate support healthy red blood cell turnover.",
+      "**Iodine** – Unexplained weight gain, feeling cold all the time, dry skin, and a swollen neck or throat.",
+      "**Vitamin K** – Easy bruising, cuts that won't stop bleeding quickly, and bleeding gums when you brush.",
+      "**Potassium** – Muscle cramps, irregular heartbeat, fatigue, and a tingling or numb feeling in your limbs.",
+      "**Vitamin A** – Night blindness, dry eyes, frequent infections, and rough, bumpy patches on your skin.",
+      "**Folate** – Constant tiredness, irritability, pale skin, and a swollen or sore tongue.",
+      "**Vitamin E** – Muscle weakness, vision problems, and a wobbly, unsteady way of walking.",
+      "**Zinc** – Slow-healing wounds, hair thinning, loss of taste or smell, and frequent colds.",
+      "**Omega-3** – Dry, flaky skin, brittle nails, joint stiffness, and trouble focusing.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these deserve a closer look. Beets work because the nitrates convert into nitric oxide in your body, which widens blood vessels and lowers the effort your heart needs to push blood through — that's why athletes drink beet juice before workouts. Pumpkin seeds matter because the prostate has one of the highest zinc concentrations of any organ in the body, and low zinc levels are repeatedly linked to prostate issues as men age. Asparagus contains a compound called asparagine that directly signals your kidneys to release more fluid, which is why your urine smell changes shortly after eating it — a sign it's actually working. Everyone's body responds a little differently, so pay attention to what yours is telling you.\n\nAt @smarthealthfix we dig into nutrition, common symptoms, organ function, and small daily habits that actually move the needle. Our mission is simple: help you build small, realistic habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "If you've been feeling off and can't figure out why, it might not be in your head. Iodine deficiency slows your thyroid hormone production, which is why your metabolism feels like it's dragging and you're always reaching for a sweater. Low potassium throws off the electrical signals that keep your heart beating steadily and your muscles firing correctly, which is why cramps and that fluttery heartbeat feeling show up out of nowhere. And folate is essential for making new red blood cells, so when it runs low, your cells can't carry oxygen efficiently, leaving you drained even after a full night's sleep. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organs and body functions, and small daily habits so you actually understand what your body is telling you. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#organhealth",
-      "#guthealth",
-      "#kidneyhealth",
-      "#brainfood",
-      "#hearthealth",
-      "#nutritiontips",
+      "#nutrientdeficiency",
       "#healthtips",
+      "#iodine",
+      "#potassium",
+      "#folate",
+      "#zinc",
       "#wellness",
-      "#foodismedicine",
-      "#prostatehealth"
+      "#nutritionfacts",
+      "#bodysignals",
+      "#healthylifestyle"
     ],
     "extra_keywords": [
-      "naturalhealing",
+      "nutrientgaps",
       "wellnessjourney",
-      "organhealthtips",
-      "healthyeating"
+      "hiddendeficiency",
+      "healthawareness"
     ]
   },
-  "shape": "allcaps_benefit",
-  "caption": "A few of these deserve a closer look. Beets work because the nitrates convert into nitric oxide in your body, which widens blood vessels and lowers the effort your heart needs to push blood through — that's why athletes drink beet juice before workouts. Pumpkin seeds matter because the prostate has one of the highest zinc concentrations of any organ in the body, and low zinc levels are repeatedly linked to prostate issues as men age. Asparagus contains a compound called asparagine that directly signals your kidneys to release more fluid, which is why your urine smell changes shortly after eating it — a sign it's actually working. Everyone's body responds a little differently, so pay attention to what yours is telling you.\n\nAt @smarthealthfix we dig into nutrition, common symptoms, organ function, and small daily habits that actually move the needle. Our mission is simple: help you build small, realistic habits instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #guthealth #kidneyhealth #brainfood #hearthealth #nutritiontips #healthtips #wellness #foodismedicine #prostatehealth naturalhealing wellnessjourney organhealthtips healthyeating"
+  "shape": "symptom_list",
+  "caption": "If you've been feeling off and can't figure out why, it might not be in your head. Iodine deficiency slows your thyroid hormone production, which is why your metabolism feels like it's dragging and you're always reaching for a sweater. Low potassium throws off the electrical signals that keep your heart beating steadily and your muscles firing correctly, which is why cramps and that fluttery heartbeat feeling show up out of nowhere. And folate is essential for making new red blood cells, so when it runs low, your cells can't carry oxygen efficiently, leaving you drained even after a full night's sleep. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organs and body functions, and small daily habits so you actually understand what your body is telling you. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #healthtips #iodine #potassium #folate #zinc #wellness #nutritionfacts #bodysignals #healthylifestyle nutrientgaps wellnessjourney hiddendeficiency healthawareness"
 }
