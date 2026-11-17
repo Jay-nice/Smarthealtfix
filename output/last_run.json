@@ -1,41 +1,41 @@
 {
-  "png": "output/reel_20261117_024753.png",
-  "mp4": "output/reel_20261117_024753.mp4",
-  "cover": "output/cover_20261117_024753.png",
+  "png": "output/reel_20261117_185947.png",
+  "mp4": "output/reel_20261117_185947.mp4",
+  "cover": "output/cover_20261117_185947.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE {{BODY PARTS}} YOUR DIET ACCIDENTALLY IGNORES",
+    "title": "IF YOU ATE THIS EVERY DAY... YOUR {{BODY}} WOULD CHANGE FIRST",
     "facts": [
-      "**Bladder** - Cranberries, Water-rich Cucumber, Parsley",
-      "**Thyroid** - Brazil Nuts, Seaweed, Eggs",
-      "**Joints** - Cherries, Bone Broth, Avocado",
-      "**Liver** - Grapefruit, Beets... wait, Garlic, Green Tea",
-      "**Spleen** - Pomegranate, Dates, Figs",
-      "**Tendons & Ligaments** - Bell Peppers, Citrus, Bone Broth",
-      "**Gallbladder** - Apples, Lemon Water, Olive Oil",
-      "**Follow along** - for more daily health tips like this."
+      "If you ate **fermented foods** (like kimchi or sauerkraut) every day for 2 weeks, your gut bacteria would diversify and bloating after meals would start to fade.",
+      "If you ate **blueberries** every day for 30 days, your memory for small daily details (names, where you put things) would noticeably sharpen.",
+      "If you ate **chia seeds** every day for 1 week, your bowel movements would become more regular as the gel-like fiber softens and bulks stool.",
+      "If you ate **bell peppers** every day for 2 weeks, cuts and small wounds would start healing faster thanks to a steady flow of vitamin C for collagen repair.",
+      "If you ate **lentils** every day for 30 days, your blood sugar swings after meals would flatten out, leaving you less sluggish in the afternoon.",
+      "If you ate **oranges** every day for 10 days, your gums would bleed less when brushing as vitamin C strengthens the tiny blood vessels there.",
+      "If you ate **Greek yogurt** every day for 3 weeks, your nails would grow stronger and less brittle from the steady protein and calcium supply.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Your bladder deals with a lot more than people realize, and cranberries actually help by preventing bacteria from sticking to the bladder wall, which is why they're linked to fewer infections. Your thyroid runs your whole metabolism quietly in the background, and brazil nuts are one of the richest natural sources of selenium, a mineral your thyroid needs to convert hormones into their active form. The spleen filters your blood and recycles old red blood cells, and pomegranate's antioxidants help protect those blood cells from oxidative damage while they're being processed. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Fermented foods like kimchi don't just add flavor — they deliver live probiotic strains that physically crowd out less friendly bacteria in your gut, which is why bloating tends to calm down within days. Blueberries work differently: their anthocyanins cross into brain tissue and reduce oxidative stress in the hippocampus, the exact region tied to memory formation. And chia seeds aren't just \"fiber\" in a vague sense — they absorb up to 10x their weight in water, forming a gel that physically softens stool and speeds up transit time. Everyone's body is different, so give these a real trial before judging results.\n\nAt @smarthealthfix we post daily on nutrition, common health issues, the organs behind them, and the small habits that quietly shape your health. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#bladderhealth",
-      "#thyroidhealth",
-      "#jointhealth",
-      "#liverhealth",
-      "#organhealth",
-      "#healthtips",
-      "#wellness",
-      "#nutritionfacts",
       "#guthealth",
-      "#healthyeating"
+      "#fermentedfoods",
+      "#brainhealth",
+      "#bloodsugar",
+      "#healthtips",
+      "#wellnessjourney",
+      "#nutritionfacts",
+      "#healthyhabits",
+      "#foodismedicine",
+      "#digestivehealth"
     ],
     "extra_keywords": [
-      "organsupport",
-      "wellnessjourney",
       "naturalhealing",
-      "healthyhabits"
+      "wellnesstips",
+      "guttips",
+      "dailyhabits"
     ]
   },
-  "shape": "organ_food_list",
-  "caption": "Your bladder deals with a lot more than people realize, and cranberries actually help by preventing bacteria from sticking to the bladder wall, which is why they're linked to fewer infections. Your thyroid runs your whole metabolism quietly in the background, and brazil nuts are one of the richest natural sources of selenium, a mineral your thyroid needs to convert hormones into their active form. The spleen filters your blood and recycles old red blood cells, and pomegranate's antioxidants help protect those blood cells from oxidative damage while they're being processed. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#bladderhealth #thyroidhealth #jointhealth #liverhealth #organhealth #healthtips #wellness #nutritionfacts #guthealth #healthyeating organsupport wellnessjourney naturalhealing healthyhabits"
+  "shape": "conditional_transformation",
+  "caption": "Fermented foods like kimchi don't just add flavor — they deliver live probiotic strains that physically crowd out less friendly bacteria in your gut, which is why bloating tends to calm down within days. Blueberries work differently: their anthocyanins cross into brain tissue and reduce oxidative stress in the hippocampus, the exact region tied to memory formation. And chia seeds aren't just \"fiber\" in a vague sense — they absorb up to 10x their weight in water, forming a gel that physically softens stool and speeds up transit time. Everyone's body is different, so give these a real trial before judging results.\n\nAt @smarthealthfix we post daily on nutrition, common health issues, the organs behind them, and the small habits that quietly shape your health. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#guthealth #fermentedfoods #brainhealth #bloodsugar #healthtips #wellnessjourney #nutritionfacts #healthyhabits #foodismedicine #digestivehealth naturalhealing wellnesstips guttips dailyhabits"
 }
