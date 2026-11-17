@@ -1,42 +1,41 @@
 {
-  "png": "output/reel_20261116_234335.png",
-  "mp4": "output/reel_20261116_234335.mp4",
-  "cover": "output/cover_20261116_234335.png",
+  "png": "output/reel_20261117_024753.png",
+  "mp4": "output/reel_20261117_024753.mp4",
+  "cover": "output/cover_20261117_024753.png",
   "cover_bg": "white",
   "content": {
-    "title": "WEIRD SIGNS YOUR BODY IS ACTUALLY MISSING A {{NUTRIENT}}",
+    "title": "THE {{BODY PARTS}} YOUR DIET ACCIDENTALLY IGNORES",
     "facts": [
-      "**Iodine** – Unexplained weight gain, feeling cold all the time, dry skin, and a swollen neck or throat.",
-      "**Vitamin K** – Easy bruising, cuts that won't stop bleeding quickly, and bleeding gums when you brush.",
-      "**Potassium** – Muscle cramps, irregular heartbeat, fatigue, and a tingling or numb feeling in your limbs.",
-      "**Vitamin A** – Night blindness, dry eyes, frequent infections, and rough, bumpy patches on your skin.",
-      "**Folate** – Constant tiredness, irritability, pale skin, and a swollen or sore tongue.",
-      "**Vitamin E** – Muscle weakness, vision problems, and a wobbly, unsteady way of walking.",
-      "**Zinc** – Slow-healing wounds, hair thinning, loss of taste or smell, and frequent colds.",
-      "**Omega-3** – Dry, flaky skin, brittle nails, joint stiffness, and trouble focusing.",
-      "**Follow along** – for more daily health tips like this."
+      "**Bladder** - Cranberries, Water-rich Cucumber, Parsley",
+      "**Thyroid** - Brazil Nuts, Seaweed, Eggs",
+      "**Joints** - Cherries, Bone Broth, Avocado",
+      "**Liver** - Grapefruit, Beets... wait, Garlic, Green Tea",
+      "**Spleen** - Pomegranate, Dates, Figs",
+      "**Tendons & Ligaments** - Bell Peppers, Citrus, Bone Broth",
+      "**Gallbladder** - Apples, Lemon Water, Olive Oil",
+      "**Follow along** - for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "If you've been feeling off and can't figure out why, it might not be in your head. Iodine deficiency slows your thyroid hormone production, which is why your metabolism feels like it's dragging and you're always reaching for a sweater. Low potassium throws off the electrical signals that keep your heart beating steadily and your muscles firing correctly, which is why cramps and that fluttery heartbeat feeling show up out of nowhere. And folate is essential for making new red blood cells, so when it runs low, your cells can't carry oxygen efficiently, leaving you drained even after a full night's sleep. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organs and body functions, and small daily habits so you actually understand what your body is telling you. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Your bladder deals with a lot more than people realize, and cranberries actually help by preventing bacteria from sticking to the bladder wall, which is why they're linked to fewer infections. Your thyroid runs your whole metabolism quietly in the background, and brazil nuts are one of the richest natural sources of selenium, a mineral your thyroid needs to convert hormones into their active form. The spleen filters your blood and recycles old red blood cells, and pomegranate's antioxidants help protect those blood cells from oxidative damage while they're being processed. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#nutrientdeficiency",
+      "#bladderhealth",
+      "#thyroidhealth",
+      "#jointhealth",
+      "#liverhealth",
+      "#organhealth",
       "#healthtips",
-      "#iodine",
-      "#potassium",
-      "#folate",
-      "#zinc",
       "#wellness",
       "#nutritionfacts",
-      "#bodysignals",
-      "#healthylifestyle"
+      "#guthealth",
+      "#healthyeating"
     ],
     "extra_keywords": [
-      "nutrientgaps",
+      "organsupport",
       "wellnessjourney",
-      "hiddendeficiency",
-      "healthawareness"
+      "naturalhealing",
+      "healthyhabits"
     ]
   },
-  "shape": "symptom_list",
-  "caption": "If you've been feeling off and can't figure out why, it might not be in your head. Iodine deficiency slows your thyroid hormone production, which is why your metabolism feels like it's dragging and you're always reaching for a sweater. Low potassium throws off the electrical signals that keep your heart beating steadily and your muscles firing correctly, which is why cramps and that fluttery heartbeat feeling show up out of nowhere. And folate is essential for making new red blood cells, so when it runs low, your cells can't carry oxygen efficiently, leaving you drained even after a full night's sleep. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organs and body functions, and small daily habits so you actually understand what your body is telling you. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #healthtips #iodine #potassium #folate #zinc #wellness #nutritionfacts #bodysignals #healthylifestyle nutrientgaps wellnessjourney hiddendeficiency healthawareness"
+  "shape": "organ_food_list",
+  "caption": "Your bladder deals with a lot more than people realize, and cranberries actually help by preventing bacteria from sticking to the bladder wall, which is why they're linked to fewer infections. Your thyroid runs your whole metabolism quietly in the background, and brazil nuts are one of the richest natural sources of selenium, a mineral your thyroid needs to convert hormones into their active form. The spleen filters your blood and recycles old red blood cells, and pomegranate's antioxidants help protect those blood cells from oxidative damage while they're being processed. Everyone's body is different, listen to yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#bladderhealth #thyroidhealth #jointhealth #liverhealth #organhealth #healthtips #wellness #nutritionfacts #guthealth #healthyeating organsupport wellnessjourney naturalhealing healthyhabits"
 }
