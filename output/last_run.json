@@ -1,41 +1,45 @@
 {
-  "png": "output/reel_20261117_185947.png",
-  "mp4": "output/reel_20261117_185947.mp4",
-  "cover": "output/cover_20261117_185947.png",
+  "png": "output/reel_20261117_225116.png",
+  "mp4": "output/reel_20261117_225116.mp4",
+  "cover": "output/cover_20261117_225116.png",
   "cover_bg": "white",
   "content": {
-    "title": "IF YOU ATE THIS EVERY DAY... YOUR {{BODY}} WOULD CHANGE FIRST",
+    "title": "RANDOM HOUSEHOLD FIXES THAT WORK BETTER THAN YOU'D EXPECT",
     "facts": [
-      "If you ate **fermented foods** (like kimchi or sauerkraut) every day for 2 weeks, your gut bacteria would diversify and bloating after meals would start to fade.",
-      "If you ate **blueberries** every day for 30 days, your memory for small daily details (names, where you put things) would noticeably sharpen.",
-      "If you ate **chia seeds** every day for 1 week, your bowel movements would become more regular as the gel-like fiber softens and bulks stool.",
-      "If you ate **bell peppers** every day for 2 weeks, cuts and small wounds would start healing faster thanks to a steady flow of vitamin C for collagen repair.",
-      "If you ate **lentils** every day for 30 days, your blood sugar swings after meals would flatten out, leaving you less sluggish in the afternoon.",
-      "If you ate **oranges** every day for 10 days, your gums would bleed less when brushing as vitamin C strengthens the tiny blood vessels there.",
-      "If you ate **Greek yogurt** every day for 3 weeks, your nails would grow stronger and less brittle from the steady protein and calcium supply.",
-      "**Follow along** – for more daily health tips like this."
+      "**Hiccups** – Swallow 1 teaspoon of sugar, dry, without water. It resets the nerve causing the spasm.",
+      "**Bad Breath Fast** – Chew on a sprig of fresh parsley for 1 minute to neutralize sulfur compounds.",
+      "**Stuffy Nose** – Press your tongue to the roof of your mouth and press a finger between your eyebrows for 20 seconds, it loosens sinus pressure.",
+      "**Minor Burns** – Hold the area under cool (not icy) running water for 10 minutes, then dab on plain honey to calm the skin.",
+      "**Leg Cramp at Night** – Pinch your upper lip hard for 30 seconds, it can interrupt the nerve signal causing the spasm.",
+      "**Splinter Removal** – Soak the spot in warm water with 1 tbsp baking soda for 10 minutes, it helps the splinter rise to the surface.",
+      "**Toothache Ache** – Press a small piece of raw garlic against the sore tooth, its natural compounds act as a mild numbing agent.",
+      "**Dry, Cracked Heels** – Rub a slice of raw potato over the area before bed, then cover with socks overnight.",
+      "**Sore Throat Scratch** – Gargle warm water with 1 tsp salt every few hours to pull swelling out of the tissue.",
+      "**Bug Bite Itch** – Press a hot spoon (dipped in hot water) onto the bite for 10 seconds, heat breaks down the itch-causing proteins.",
+      "**Follow along** – for more quick, kitchen-tested fixes like this."
     ],
     "claims": [],
-    "caption": "Fermented foods like kimchi don't just add flavor — they deliver live probiotic strains that physically crowd out less friendly bacteria in your gut, which is why bloating tends to calm down within days. Blueberries work differently: their anthocyanins cross into brain tissue and reduce oxidative stress in the hippocampus, the exact region tied to memory formation. And chia seeds aren't just \"fiber\" in a vague sense — they absorb up to 10x their weight in water, forming a gel that physically softens stool and speeds up transit time. Everyone's body is different, so give these a real trial before judging results.\n\nAt @smarthealthfix we post daily on nutrition, common health issues, the organs behind them, and the small habits that quietly shape your health. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these actually have real science behind them. That sugar trick for hiccups works because the granules stimulate the vagus nerve, interrupting the diaphragm spasm that causes hiccups in the first place. The garlic trick for a toothache isn't a myth either, garlic contains allicin, a compound with natural antibacterial and mild numbing properties that can take the edge off pain while you wait to see a dentist. And that hot spoon method for bug bites works because heat denatures the proteins your body reacts to, which is literally what causes the itching signal to your brain. These are small, low-risk tricks, but everyone's body responds a little differently, so take it slow and stop if anything feels off.\n\nAt @smarthealthfix we cover everyday nutrition, common health issues, the organs behind them, and small daily habits that actually move the needle. Our mission is to make health feel practical again, not overwhelming, one small fix at a time.\n\nSave this post so you don't lose it, and share it with someone who's dealing with one of these annoying little problems right now.",
     "hashtags": [
-      "#guthealth",
-      "#fermentedfoods",
-      "#brainhealth",
-      "#bloodsugar",
       "#healthtips",
-      "#wellnessjourney",
-      "#nutritionfacts",
-      "#healthyhabits",
-      "#foodismedicine",
-      "#digestivehealth"
+      "#homeremedies",
+      "#naturalremedies",
+      "#wellness",
+      "#kitchenremedies",
+      "#quickfix",
+      "#bodyhacks",
+      "#selfcare",
+      "#holistichealth",
+      "#dailytips"
     ],
     "extra_keywords": [
       "naturalhealing",
-      "wellnesstips",
-      "guttips",
-      "dailyhabits"
+      "wellnessjourney",
+      "homehacks",
+      "healthyliving",
+      "lifehacks"
     ]
   },
-  "shape": "conditional_transformation",
-  "caption": "Fermented foods like kimchi don't just add flavor — they deliver live probiotic strains that physically crowd out less friendly bacteria in your gut, which is why bloating tends to calm down within days. Blueberries work differently: their anthocyanins cross into brain tissue and reduce oxidative stress in the hippocampus, the exact region tied to memory formation. And chia seeds aren't just \"fiber\" in a vague sense — they absorb up to 10x their weight in water, forming a gel that physically softens stool and speeds up transit time. Everyone's body is different, so give these a real trial before judging results.\n\nAt @smarthealthfix we post daily on nutrition, common health issues, the organs behind them, and the small habits that quietly shape your health. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#guthealth #fermentedfoods #brainhealth #bloodsugar #healthtips #wellnessjourney #nutritionfacts #healthyhabits #foodismedicine #digestivehealth naturalhealing wellnesstips guttips dailyhabits"
+  "shape": "boxed_hacks",
+  "caption": "A few of these actually have real science behind them. That sugar trick for hiccups works because the granules stimulate the vagus nerve, interrupting the diaphragm spasm that causes hiccups in the first place. The garlic trick for a toothache isn't a myth either, garlic contains allicin, a compound with natural antibacterial and mild numbing properties that can take the edge off pain while you wait to see a dentist. And that hot spoon method for bug bites works because heat denatures the proteins your body reacts to, which is literally what causes the itching signal to your brain. These are small, low-risk tricks, but everyone's body responds a little differently, so take it slow and stop if anything feels off.\n\nAt @smarthealthfix we cover everyday nutrition, common health issues, the organs behind them, and small daily habits that actually move the needle. Our mission is to make health feel practical again, not overwhelming, one small fix at a time.\n\nSave this post so you don't lose it, and share it with someone who's dealing with one of these annoying little problems right now.\n\n#healthtips #homeremedies #naturalremedies #wellness #kitchenremedies #quickfix #bodyhacks #selfcare #holistichealth #dailytips naturalhealing wellnessjourney homehacks healthyliving lifehacks"
 }
