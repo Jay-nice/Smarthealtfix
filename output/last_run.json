@@ -1,42 +1,41 @@
 {
-  "png": "output/reel_20261118_184349.png",
-  "mp4": "output/reel_20261118_184349.mp4",
-  "cover": "output/cover_20261118_184349.png",
+  "png": "output/reel_20261118_223323.png",
+  "mp4": "output/reel_20261118_223323.mp4",
+  "cover": "output/cover_20261118_223323.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE FOOD-TO-ORGAN PAIRINGS MOST PEOPLE GET COMPLETELY {{BACKWARDS}}",
+    "title": "THE ORGAN-FOOD PAIRINGS NOBODY TALKS ABOUT",
     "facts": [
-      "**Beets** are good for your HEART – the nitrates relax blood vessels so blood flows easier and pressure drops within hours.",
-      "**Pumpkin seeds** are good for your PROSTATE – 1 oz/day delivers a dense dose of zinc and plant compounds linked to healthier prostate function.",
-      "**Walnuts** are good for your BRAIN – rich in ALA fats that help build and maintain the membranes around your brain cells.",
-      "**Oats** are good for your ARTERIES – the beta-glucan fiber grabs cholesterol in your gut and pulls it out before it ever reaches your bloodstream.",
-      "**Cranberries** are good for your URINARY TRACT – compounds in them make it harder for bacteria to stick to the bladder wall.",
-      "**Turmeric** is good for your SINUSES – its active compound curcumin can calm the inflammation behind chronic congestion, especially with a pinch of black pepper.",
-      "**Watermelon** is good for your KIDNEYS – its high water content plus citrulline helps flush waste and ease the kidneys' workload.",
-      "**Carrots** are good for your SKIN – the beta-carotene converts to vitamin A, which your body uses to repair and renew skin cells.",
-      "**Follow along** – for more daily health tips like this."
+      "**Pancreas** - Broccoli, Spinach, Garlic. Sulfur compounds in garlic help protect insulin-producing cells from oxidative stress.",
+      "**Bladder** - Blueberries, Celery, Parsley. Celery's natural diuretic effect helps flush out bacteria before they settle in.",
+      "**Liver** - Grapefruit, Beets, Green Tea. Grapefruit boosts natural detox enzymes that help the liver break down toxins faster.",
+      "**Thyroid** - Brazil nuts, Seaweed, Eggs. Just 2 Brazil nuts/day cover your daily selenium needs for hormone conversion.",
+      "**Joints** - Salmon, Cherries, Ginger. Tart cherries contain compounds shown to lower inflammation markers linked to stiffness.",
+      "**Ears** - Dark chocolate, Bananas, Leafy greens. Potassium in bananas helps regulate fluid balance in the inner ear.",
+      "**Bones** - Sardines, Yogurt, Kale. A 3 oz serving of sardines (with bones) delivers a big calcium boost in one sitting.",
+      "**Follow along** - for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Most people think \"healthy food\" is one big blur, but different foods actually talk to different organs in very specific ways. Take beets — the nitrates in them get converted into nitric oxide in your body, which widens blood vessels and makes it physically easier for your heart to pump blood. Pumpkin seeds work differently: that zinc load directly supports hormone pathways tied to prostate tissue, which is why 1 oz a day is such a popular small habit for men's health. And cranberries aren't just a UTI old wives' tale — the proanthocyanidins in them literally coat bacteria so they slide off the bladder wall instead of latching on. Everyone's body is different, so think of these as supportive habits, not instant fixes.\n\nThis is what we do at @smarthealthfix — we break down how nutrition, common health issues, your organs, and small daily habits all connect, so you're not guessing what your body actually needs. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Let's talk about a few of these pairings a bit deeper. Garlic isn't just for flavor - its sulfur compounds, specifically allicin, have been linked to reduced inflammation in insulin-producing cells, which is a big deal for long-term pancreas health. Then there's celery, which people usually think of as a diet food, but it's actually a mild natural diuretic - meaning it helps your body flush excess fluid and bacteria through the bladder more efficiently. And Brazil nuts deserve way more credit than they get: just two of them can cover your entire day's selenium needs, a mineral your thyroid depends on to convert hormones properly. Of course, everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix, we focus on the stuff that actually matters day to day: nutrition, common health issues, how your organs function, and small daily habits that add up over time. Our mission is simple - help you build realistic, sustainable habits instead of chasing quick fixes that never last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#organhealth",
+      "#pancreashealth",
+      "#liverdetox",
+      "#thyroidhealth",
+      "#bonehealth",
       "#healthtips",
       "#wellness",
       "#nutritionfacts",
-      "#organhealth",
-      "#hearthealth",
-      "#kidneyhealth",
-      "#brainhealth",
-      "#guttohealth",
-      "#foodismedicine",
-      "#healthyhabits"
+      "#guthealth",
+      "#healthyliving"
     ],
     "extra_keywords": [
       "naturalhealing",
       "wellnessjourney",
-      "nutritiontips",
-      "healthyliving"
+      "foodasmedicine",
+      "healthyhabits"
     ]
   },
-  "shape": "allcaps_benefit",
-  "caption": "Most people think \"healthy food\" is one big blur, but different foods actually talk to different organs in very specific ways. Take beets — the nitrates in them get converted into nitric oxide in your body, which widens blood vessels and makes it physically easier for your heart to pump blood. Pumpkin seeds work differently: that zinc load directly supports hormone pathways tied to prostate tissue, which is why 1 oz a day is such a popular small habit for men's health. And cranberries aren't just a UTI old wives' tale — the proanthocyanidins in them literally coat bacteria so they slide off the bladder wall instead of latching on. Everyone's body is different, so think of these as supportive habits, not instant fixes.\n\nThis is what we do at @smarthealthfix — we break down how nutrition, common health issues, your organs, and small daily habits all connect, so you're not guessing what your body actually needs. Our mission is to help you build small, realistic habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #nutritionfacts #organhealth #hearthealth #kidneyhealth #brainhealth #guttohealth #foodismedicine #healthyhabits naturalhealing wellnessjourney nutritiontips healthyliving"
+  "shape": "organ_food_list",
+  "caption": "Let's talk about a few of these pairings a bit deeper. Garlic isn't just for flavor - its sulfur compounds, specifically allicin, have been linked to reduced inflammation in insulin-producing cells, which is a big deal for long-term pancreas health. Then there's celery, which people usually think of as a diet food, but it's actually a mild natural diuretic - meaning it helps your body flush excess fluid and bacteria through the bladder more efficiently. And Brazil nuts deserve way more credit than they get: just two of them can cover your entire day's selenium needs, a mineral your thyroid depends on to convert hormones properly. Of course, everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix, we focus on the stuff that actually matters day to day: nutrition, common health issues, how your organs function, and small daily habits that add up over time. Our mission is simple - help you build realistic, sustainable habits instead of chasing quick fixes that never last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #pancreashealth #liverdetox #thyroidhealth #bonehealth #healthtips #wellness #nutritionfacts #guthealth #healthyliving naturalhealing wellnessjourney foodasmedicine healthyhabits"
 }
