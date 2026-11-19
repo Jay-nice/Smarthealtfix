@@ -1,41 +1,42 @@
 {
-  "png": "output/reel_20261118_223323.png",
-  "mp4": "output/reel_20261118_223323.mp4",
-  "cover": "output/cover_20261118_223323.png",
+  "png": "output/reel_20261119_014429.png",
+  "mp4": "output/reel_20261119_014429.mp4",
+  "cover": "output/cover_20261119_014429.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE ORGAN-FOOD PAIRINGS NOBODY TALKS ABOUT",
+    "title": "WEIRD SIGNS YOU'RE ACTUALLY LOW ON {{THIS}} NUTRIENT",
     "facts": [
-      "**Pancreas** - Broccoli, Spinach, Garlic. Sulfur compounds in garlic help protect insulin-producing cells from oxidative stress.",
-      "**Bladder** - Blueberries, Celery, Parsley. Celery's natural diuretic effect helps flush out bacteria before they settle in.",
-      "**Liver** - Grapefruit, Beets, Green Tea. Grapefruit boosts natural detox enzymes that help the liver break down toxins faster.",
-      "**Thyroid** - Brazil nuts, Seaweed, Eggs. Just 2 Brazil nuts/day cover your daily selenium needs for hormone conversion.",
-      "**Joints** - Salmon, Cherries, Ginger. Tart cherries contain compounds shown to lower inflammation markers linked to stiffness.",
-      "**Ears** - Dark chocolate, Bananas, Leafy greens. Potassium in bananas helps regulate fluid balance in the inner ear.",
-      "**Bones** - Sardines, Yogurt, Kale. A 3 oz serving of sardines (with bones) delivers a big calcium boost in one sitting.",
-      "**Follow along** - for more daily health tips like this."
+      "**Iodine** – Unexplained weight gain, feeling cold all the time, dry skin, and a swollen neck.",
+      "**Vitamin A** – Trouble seeing in dim light, dry eyes, and frequent infections.",
+      "**Potassium** – Muscle cramps, irregular heartbeat, and persistent fatigue.",
+      "**Vitamin E** – Numbness in hands or feet, muscle weakness, and vision problems.",
+      "**Folate** – Pale skin, irritability, a swollen tongue, and constant tiredness.",
+      "**Calcium** – Brittle nails, muscle spasms, and teeth that chip easily.",
+      "**Zinc** – Slow-healing cuts, loss of taste or smell, and more colds than usual.",
+      "**Omega-3** – Rough, flaky skin, dry eyes, and joint stiffness in the morning.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Let's talk about a few of these pairings a bit deeper. Garlic isn't just for flavor - its sulfur compounds, specifically allicin, have been linked to reduced inflammation in insulin-producing cells, which is a big deal for long-term pancreas health. Then there's celery, which people usually think of as a diet food, but it's actually a mild natural diuretic - meaning it helps your body flush excess fluid and bacteria through the bladder more efficiently. And Brazil nuts deserve way more credit than they get: just two of them can cover your entire day's selenium needs, a mineral your thyroid depends on to convert hormones properly. Of course, everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix, we focus on the stuff that actually matters day to day: nutrition, common health issues, how your organs function, and small daily habits that add up over time. Our mission is simple - help you build realistic, sustainable habits instead of chasing quick fixes that never last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A swollen neck isn't just \"your imagination\" — it can be your thyroid gland physically enlarging (a goiter) because it's working overtime trying to grab enough iodine to make thyroid hormone. Low folate shows up as a swollen, sore tongue because folate is essential for the rapid cell turnover that keeps your mouth and tongue tissue renewing properly — without it, those cells struggle to regenerate. And that zinc-related loss of taste or smell happens because zinc is directly involved in how your taste buds and olfactory receptors regenerate and function. That said, everyone's body is different, so use these as a starting point, not a diagnosis.\n\nAt @smarthealthfix we post daily about nutrition, common health issues, your organs and body functions, and small daily habits that actually make a difference. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#organhealth",
-      "#pancreashealth",
-      "#liverdetox",
-      "#thyroidhealth",
-      "#bonehealth",
+      "#nutrientdeficiency",
       "#healthtips",
-      "#wellness",
-      "#nutritionfacts",
-      "#guthealth",
-      "#healthyliving"
+      "#vitamindeficiency",
+      "#ironhealth",
+      "#thyroidhealth",
+      "#zincbenefits",
+      "#folatefix",
+      "#womenshealth",
+      "#wellnessjourney",
+      "#nutritionfacts"
     ],
     "extra_keywords": [
       "naturalhealing",
-      "wellnessjourney",
-      "foodasmedicine",
+      "guttips",
+      "vitamindeficiency",
       "healthyhabits"
     ]
   },
-  "shape": "organ_food_list",
-  "caption": "Let's talk about a few of these pairings a bit deeper. Garlic isn't just for flavor - its sulfur compounds, specifically allicin, have been linked to reduced inflammation in insulin-producing cells, which is a big deal for long-term pancreas health. Then there's celery, which people usually think of as a diet food, but it's actually a mild natural diuretic - meaning it helps your body flush excess fluid and bacteria through the bladder more efficiently. And Brazil nuts deserve way more credit than they get: just two of them can cover your entire day's selenium needs, a mineral your thyroid depends on to convert hormones properly. Of course, everyone's body is different, so listen to yours and adjust from there.\n\nAt @smarthealthfix, we focus on the stuff that actually matters day to day: nutrition, common health issues, how your organs function, and small daily habits that add up over time. Our mission is simple - help you build realistic, sustainable habits instead of chasing quick fixes that never last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #pancreashealth #liverdetox #thyroidhealth #bonehealth #healthtips #wellness #nutritionfacts #guthealth #healthyliving naturalhealing wellnessjourney foodasmedicine healthyhabits"
+  "shape": "symptom_list",
+  "caption": "A swollen neck isn't just \"your imagination\" — it can be your thyroid gland physically enlarging (a goiter) because it's working overtime trying to grab enough iodine to make thyroid hormone. Low folate shows up as a swollen, sore tongue because folate is essential for the rapid cell turnover that keeps your mouth and tongue tissue renewing properly — without it, those cells struggle to regenerate. And that zinc-related loss of taste or smell happens because zinc is directly involved in how your taste buds and olfactory receptors regenerate and function. That said, everyone's body is different, so use these as a starting point, not a diagnosis.\n\nAt @smarthealthfix we post daily about nutrition, common health issues, your organs and body functions, and small daily habits that actually make a difference. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #healthtips #vitamindeficiency #ironhealth #thyroidhealth #zincbenefits #folatefix #womenshealth #wellnessjourney #nutritionfacts naturalhealing guttips vitamindeficiency healthyhabits"
 }
