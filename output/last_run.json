@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20261119_014429.png",
-  "mp4": "output/reel_20261119_014429.mp4",
-  "cover": "output/cover_20261119_014429.png",
+  "png": "output/reel_20261119_185637.png",
+  "mp4": "output/reel_20261119_185637.mp4",
+  "cover": "output/cover_20261119_185637.png",
   "cover_bg": "white",
   "content": {
-    "title": "WEIRD SIGNS YOU'RE ACTUALLY LOW ON {{THIS}} NUTRIENT",
+    "title": "RULES EVERY NEW PARENT NEEDS BUT NO ONE HANDS YOU AT THE {{HOSPITAL}}",
     "facts": [
-      "**Iodine** – Unexplained weight gain, feeling cold all the time, dry skin, and a swollen neck.",
-      "**Vitamin A** – Trouble seeing in dim light, dry eyes, and frequent infections.",
-      "**Potassium** – Muscle cramps, irregular heartbeat, and persistent fatigue.",
-      "**Vitamin E** – Numbness in hands or feet, muscle weakness, and vision problems.",
-      "**Folate** – Pale skin, irritability, a swollen tongue, and constant tiredness.",
-      "**Calcium** – Brittle nails, muscle spasms, and teeth that chip easily.",
-      "**Zinc** – Slow-healing cuts, loss of taste or smell, and more colds than usual.",
-      "**Omega-3** – Rough, flaky skin, dry eyes, and joint stiffness in the morning.",
+      "**Hydrate before you eat** – chug a glass of water the moment you wake up, breastfeeding and sleep deprivation both drain fluids fast.",
+      "**Eat standing at the counter** – don't wait for a 'proper' sit-down meal, 5 minutes of real food beats skipping it for 2 hours.",
+      "**Keep protein bars by the crib** – one handful of nuts or a bar at 3am keeps blood sugar steady so you don't crash by sunrise.",
+      "**Nap when the baby naps, once a day minimum** – even 20 minutes lowers cortisol enough to make the next stretch manageable.",
+      "**Batch-cook on day one** – freeze single portions of soup or rice so week two doesn't become takeout every night.",
+      "**Step outside for 10 minutes daily** – sunlight resets your circadian rhythm even if your sleep schedule is completely broken.",
+      "**Ask for one specific task, not 'help'** – say 'bring dinner Tuesday' instead of 'let me know if you need anything,' it actually gets done.",
+      "**Track your own meals, not just the baby's** – a sticky note of what and when you ate prevents accidental 10-hour fasting.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A swollen neck isn't just \"your imagination\" — it can be your thyroid gland physically enlarging (a goiter) because it's working overtime trying to grab enough iodine to make thyroid hormone. Low folate shows up as a swollen, sore tongue because folate is essential for the rapid cell turnover that keeps your mouth and tongue tissue renewing properly — without it, those cells struggle to regenerate. And that zinc-related loss of taste or smell happens because zinc is directly involved in how your taste buds and olfactory receptors regenerate and function. That said, everyone's body is different, so use these as a starting point, not a diagnosis.\n\nAt @smarthealthfix we post daily about nutrition, common health issues, your organs and body functions, and small daily habits that actually make a difference. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "New parents, a few of these matter more than they sound. Protein bars by the crib work because overnight feeds spike your hunger hormones right when you're least likely to cook anything — having something within arm's reach stops the blood sugar crash that makes you feel shaky and irritable the next morning. Batch-cooking on day one matters because decision fatigue hits hardest in week two, once the adrenaline of birth wears off and exhaustion catches up — having frozen meals removes one decision entirely on your worst days. And stepping outside for 10 minutes daily isn't just 'fresh air' advice — morning light exposure helps re-anchor your circadian rhythm even when your actual sleep hours are chaotic, which makes falling back asleep between feeds easier. Everyone's recovery looks different, listen to your own body.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits that fit real, busy lives. Our mission is to help you build small, realistic routines instead of chasing perfection.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.",
     "hashtags": [
-      "#nutrientdeficiency",
+      "#newparent",
+      "#postpartumhealth",
+      "#parentingtips",
       "#healthtips",
-      "#vitamindeficiency",
-      "#ironhealth",
-      "#thyroidhealth",
-      "#zincbenefits",
-      "#folatefix",
-      "#womenshealth",
-      "#wellnessjourney",
-      "#nutritionfacts"
+      "#wellness",
+      "#babycare",
+      "#momhealth",
+      "#dadlife",
+      "#sleepdeprived",
+      "#selfcarefornewmoms"
     ],
     "extra_keywords": [
-      "naturalhealing",
-      "guttips",
-      "vitamindeficiency",
-      "healthyhabits"
+      "newparentlife",
+      "postpartumrecovery",
+      "parentingadvice",
+      "wellnessjourney",
+      "dailyhabits"
     ]
   },
-  "shape": "symptom_list",
-  "caption": "A swollen neck isn't just \"your imagination\" — it can be your thyroid gland physically enlarging (a goiter) because it's working overtime trying to grab enough iodine to make thyroid hormone. Low folate shows up as a swollen, sore tongue because folate is essential for the rapid cell turnover that keeps your mouth and tongue tissue renewing properly — without it, those cells struggle to regenerate. And that zinc-related loss of taste or smell happens because zinc is directly involved in how your taste buds and olfactory receptors regenerate and function. That said, everyone's body is different, so use these as a starting point, not a diagnosis.\n\nAt @smarthealthfix we post daily about nutrition, common health issues, your organs and body functions, and small daily habits that actually make a difference. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #healthtips #vitamindeficiency #ironhealth #thyroidhealth #zincbenefits #folatefix #womenshealth #wellnessjourney #nutritionfacts naturalhealing guttips vitamindeficiency healthyhabits"
+  "shape": "imperative_advice_list",
+  "caption": "New parents, a few of these matter more than they sound. Protein bars by the crib work because overnight feeds spike your hunger hormones right when you're least likely to cook anything — having something within arm's reach stops the blood sugar crash that makes you feel shaky and irritable the next morning. Batch-cooking on day one matters because decision fatigue hits hardest in week two, once the adrenaline of birth wears off and exhaustion catches up — having frozen meals removes one decision entirely on your worst days. And stepping outside for 10 minutes daily isn't just 'fresh air' advice — morning light exposure helps re-anchor your circadian rhythm even when your actual sleep hours are chaotic, which makes falling back asleep between feeds easier. Everyone's recovery looks different, listen to your own body.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs & body functions, and small daily habits that fit real, busy lives. Our mission is to help you build small, realistic routines instead of chasing perfection.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.\n\n#newparent #postpartumhealth #parentingtips #healthtips #wellness #babycare #momhealth #dadlife #sleepdeprived #selfcarefornewmoms newparentlife postpartumrecovery parentingadvice wellnessjourney dailyhabits"
 }
