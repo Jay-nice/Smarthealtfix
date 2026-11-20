@@ -1,43 +1,40 @@
 {
-  "png": "output/reel_20261119_223834.png",
-  "mp4": "output/reel_20261119_223834.mp4",
-  "cover": "output/cover_20261119_223834.png",
+  "png": "output/reel_20261120_014444.png",
+  "mp4": "output/reel_20261120_014444.mp4",
+  "cover": "output/cover_20261120_014444.png",
   "cover_bg": "white",
   "content": {
-    "title": "KITCHEN FIXES FOR ANNOYING LITTLE PROBLEMS DOCTORS SAY ARE FINE TO DIY",
+    "title": "THE MINERAL CHEAT SHEET YOUR {{ENERGY}} HAS BEEN MISSING",
     "facts": [
-      "**Hiccups That Won't Quit** – Swallow 1 tsp of dry sugar, the grainy texture interrupts the nerve spasm causing the hiccup.",
-      "**Stuffy Nose at Night** – Prop your head up on 2 pillows, gravity keeps mucus from pooling and blocking airflow.",
-      "**Minor Burns** – Run it under cool (not ice-cold) water for 10 minutes, then apply plain yogurt to calm the sting.",
-      "**Bad Breath Fast** – Chew on a sprig of parsley, its chlorophyll neutralizes sulfur compounds from garlic or coffee.",
-      "**Toothache Before the Dentist** – Press a clove against the sore spot, its eugenol acts as a natural numbing agent.",
-      "**Dry, Cracked Lips** – Dab on a bit of honey before bed, it locks in moisture overnight better than most balms.",
-      "**Leg Cramp at 2 AM** – Pinch your upper lip hard for 20 seconds, it can interrupt the nerve signal causing the spasm.",
-      "**Itchy Bug Bite** – Press a warm spoon on it for 30 seconds, heat breaks down the itch-triggering compounds in the venom.",
-      "**Hoarse Voice** – Sip warm water with 1 tbsp apple cider vinegar, it thins mucus coating the vocal cords.",
-      "**Follow along** – for more quick fixes like this you can actually use today."
+      "**Manganese** (Enzyme Activator) — Mussels | Pineapple | Brown Rice | Pecans",
+      "**Copper** (Iron Transporter) — Cashews | Sesame Seeds | Lentils | Dark Chocolate",
+      "**Selenium** (Thyroid Shield) — Brazil Nuts (just 1-2/day) | Sardines | Eggs | Sunflower Seeds",
+      "**Iron** (Oxygen Carrier) — Mussels | Pumpkin Seeds | Lentils | Dried Apricots",
+      "**Chromium** (Blood Sugar Balancer) — Broccoli | Grapes | Barley | Turkey Breast",
+      "**Molybdenum** (Toxin Processor) — Black-Eyed Peas | Lentils | Oat Bran | Sunflower Seeds",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these are worth keeping in your back pocket. The sugar trick for hiccups works because the dry granules force your throat muscles to focus on swallowing instead of spasming, which resets the nerve causing the hiccup in the first place. The clove trick for toothaches isn't just an old wives' tale either, eugenol is a real compound with mild anesthetic properties that numbs the nerve endings around the sore tooth until you can get seen. And honey on cracked lips works because it's naturally humectant, meaning it pulls moisture in and seals it there, which is why it often outperforms store-bought balm overnight. Everyone's body reacts a little differently, so pay attention to what actually helps you.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and small daily habits that actually make a difference. Our mission is to help you build simple, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs a quick fix today.",
+    "caption": "Manganese doesn't get much attention, but it's a cofactor your body needs to activate enzymes that build connective tissue and keep bones strong from the inside out. Copper works quietly alongside iron — without enough of it, iron can't actually be transported into your red blood cells, so you can eat plenty of iron-rich food and still feel drained if copper is low. And selenium is one of the few minerals your thyroid gland uses directly to convert thyroid hormone into its active form, which is a big reason why just two Brazil nuts a day can make a noticeable difference. Everyone's body is different, so adjust based on what works for you.\n\n@smarthealthfix breaks down the connections between nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our goal is simple: give you small, realistic swaps instead of overwhelming you with another extreme diet trend.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#homeremedies",
+      "#mineraldeficiency",
+      "#traceminerals",
+      "#selenium",
+      "#copperrich",
+      "#manganese",
+      "#chromiumbalance",
+      "#thyroidhealth",
+      "#nutritionfacts",
       "#healthtips",
-      "#naturalremedies",
-      "#quickfix",
-      "#wellnesstips",
-      "#kitchenremedies",
-      "#selfcare",
-      "#healthyliving",
-      "#holistichealth",
-      "#dailytips"
+      "#wellness"
     ],
     "extra_keywords": [
-      "naturalhealing",
+      "mineralbalance",
+      "nutrientdense",
       "wellnessjourney",
-      "homeremedytips",
-      "healthhacks"
+      "foodismedicine"
     ]
   },
-  "shape": "boxed_hacks",
-  "caption": "A few of these are worth keeping in your back pocket. The sugar trick for hiccups works because the dry granules force your throat muscles to focus on swallowing instead of spasming, which resets the nerve causing the hiccup in the first place. The clove trick for toothaches isn't just an old wives' tale either, eugenol is a real compound with mild anesthetic properties that numbs the nerve endings around the sore tooth until you can get seen. And honey on cracked lips works because it's naturally humectant, meaning it pulls moisture in and seals it there, which is why it often outperforms store-bought balm overnight. Everyone's body reacts a little differently, so pay attention to what actually helps you.\n\nAt @smarthealthfix we cover nutrition, common health issues, organs and body functions, and small daily habits that actually make a difference. Our mission is to help you build simple, realistic routines instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs a quick fix today.\n\n#homeremedies #healthtips #naturalremedies #quickfix #wellnesstips #kitchenremedies #selfcare #healthyliving #holistichealth #dailytips naturalhealing wellnessjourney homeremedytips healthhacks"
+  "shape": "mineral_sources",
+  "caption": "Manganese doesn't get much attention, but it's a cofactor your body needs to activate enzymes that build connective tissue and keep bones strong from the inside out. Copper works quietly alongside iron — without enough of it, iron can't actually be transported into your red blood cells, so you can eat plenty of iron-rich food and still feel drained if copper is low. And selenium is one of the few minerals your thyroid gland uses directly to convert thyroid hormone into its active form, which is a big reason why just two Brazil nuts a day can make a noticeable difference. Everyone's body is different, so adjust based on what works for you.\n\n@smarthealthfix breaks down the connections between nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our goal is simple: give you small, realistic swaps instead of overwhelming you with another extreme diet trend.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#mineraldeficiency #traceminerals #selenium #copperrich #manganese #chromiumbalance #thyroidhealth #nutritionfacts #healthtips #wellness mineralbalance nutrientdense wellnessjourney foodismedicine"
 }
