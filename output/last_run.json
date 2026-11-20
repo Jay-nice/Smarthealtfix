@@ -1,40 +1,42 @@
 {
-  "png": "output/reel_20261120_014444.png",
-  "mp4": "output/reel_20261120_014444.mp4",
-  "cover": "output/cover_20261120_014444.png",
+  "png": "output/reel_20261120_182532.png",
+  "mp4": "output/reel_20261120_182532.mp4",
+  "cover": "output/cover_20261120_182532.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE MINERAL CHEAT SHEET YOUR {{ENERGY}} HAS BEEN MISSING",
+    "title": "COMMON KITCHEN HABITS THAT ARE QUIETLY WRECKING YOUR HEALTHY MEAL",
     "facts": [
-      "**Manganese** (Enzyme Activator) — Mussels | Pineapple | Brown Rice | Pecans",
-      "**Copper** (Iron Transporter) — Cashews | Sesame Seeds | Lentils | Dark Chocolate",
-      "**Selenium** (Thyroid Shield) — Brazil Nuts (just 1-2/day) | Sardines | Eggs | Sunflower Seeds",
-      "**Iron** (Oxygen Carrier) — Mussels | Pumpkin Seeds | Lentils | Dried Apricots",
-      "**Chromium** (Blood Sugar Balancer) — Broccoli | Grapes | Barley | Turkey Breast",
-      "**Molybdenum** (Toxin Processor) — Black-Eyed Peas | Lentils | Oat Bran | Sunflower Seeds",
+      "**Boiling vegetables** – Broccoli and spinach lose much of their vitamin C and B vitamins into the water; steam them instead for 3-5 minutes to keep nutrients in the food, not the sink.",
+      "**Draining and rinsing canned beans** – A quick rinse is fine, but soaking them in the colander washes away soluble fiber and B vitamins along with the sodium.",
+      "**Salting meat right before the pan** – This pulls moisture out too early and leaves you with a dry, tough result; salt 40 minutes ahead or right at the very end instead.",
+      "**Using the same cutting board for raw chicken and salad** – Even after a quick wipe, this is one of the top causes of at-home food poisoning; keep one board strictly for raw meat.",
+      "**Storing tomatoes in the fridge** – Cold temperatures mute their flavor compounds and make the texture mealy; keep them on the counter and they'll taste sweeter too.",
+      "**Overcrowding the pan when roasting** – Vegetables packed too close steam instead of browning, so you lose the caramelization that makes them actually taste good without needing extra oil or salt.",
+      "**Tossing the broccoli stalks** – The stem has just as much fiber as the florets; peel the tough outer layer and slice it thin instead of throwing it out.",
+      "**Microwaving food in the same container all week** – Reheating in plastic containers that have scratches or cracks can let compounds leach into food; switch to glass for anything going in the microwave.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Manganese doesn't get much attention, but it's a cofactor your body needs to activate enzymes that build connective tissue and keep bones strong from the inside out. Copper works quietly alongside iron — without enough of it, iron can't actually be transported into your red blood cells, so you can eat plenty of iron-rich food and still feel drained if copper is low. And selenium is one of the few minerals your thyroid gland uses directly to convert thyroid hormone into its active form, which is a big reason why just two Brazil nuts a day can make a noticeable difference. Everyone's body is different, so adjust based on what works for you.\n\n@smarthealthfix breaks down the connections between nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our goal is simple: give you small, realistic swaps instead of overwhelming you with another extreme diet trend.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these kitchen habits are worth a second look. When you boil broccoli, the vitamin C and folate actually dissolve out into the cooking water, so unless you're drinking that water, you're tossing nutrients down the drain — steaming keeps the vitamins locked inside the cell walls instead. With tomatoes, cold storage slows down the enzymes that produce their aroma compounds, which is why fridge tomatoes taste flat and grainy compared to ones kept at room temperature. And overcrowding a roasting pan matters more than people think: when vegetables sit too close together, the steam they release has nowhere to escape, so instead of browning (which creates flavor through the Maillard reaction) they just soften and go soggy. Every kitchen is different, so adjust based on what you actually cook most.\n\n@smarthealthfix is all about the small stuff — nutrition, common health issues, how your organs actually work, and the tiny daily habits that add up. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#mineraldeficiency",
-      "#traceminerals",
-      "#selenium",
-      "#copperrich",
-      "#manganese",
-      "#chromiumbalance",
-      "#thyroidhealth",
-      "#nutritionfacts",
       "#healthtips",
-      "#wellness"
+      "#mealprep",
+      "#healthyeating",
+      "#nutritionfacts",
+      "#foodsafety",
+      "#cookingtips",
+      "#kitchenhacks",
+      "#wellness",
+      "#eatclean",
+      "#homecooking"
     ],
     "extra_keywords": [
-      "mineralbalance",
-      "nutrientdense",
-      "wellnessjourney",
-      "foodismedicine"
+      "healthykitchen",
+      "nutritiontips",
+      "foodprep",
+      "wellnessjourney"
     ]
   },
-  "shape": "mineral_sources",
-  "caption": "Manganese doesn't get much attention, but it's a cofactor your body needs to activate enzymes that build connective tissue and keep bones strong from the inside out. Copper works quietly alongside iron — without enough of it, iron can't actually be transported into your red blood cells, so you can eat plenty of iron-rich food and still feel drained if copper is low. And selenium is one of the few minerals your thyroid gland uses directly to convert thyroid hormone into its active form, which is a big reason why just two Brazil nuts a day can make a noticeable difference. Everyone's body is different, so adjust based on what works for you.\n\n@smarthealthfix breaks down the connections between nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our goal is simple: give you small, realistic swaps instead of overwhelming you with another extreme diet trend.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#mineraldeficiency #traceminerals #selenium #copperrich #manganese #chromiumbalance #thyroidhealth #nutritionfacts #healthtips #wellness mineralbalance nutrientdense wellnessjourney foodismedicine"
+  "shape": "myth_bust",
+  "caption": "A few of these kitchen habits are worth a second look. When you boil broccoli, the vitamin C and folate actually dissolve out into the cooking water, so unless you're drinking that water, you're tossing nutrients down the drain — steaming keeps the vitamins locked inside the cell walls instead. With tomatoes, cold storage slows down the enzymes that produce their aroma compounds, which is why fridge tomatoes taste flat and grainy compared to ones kept at room temperature. And overcrowding a roasting pan matters more than people think: when vegetables sit too close together, the steam they release has nowhere to escape, so instead of browning (which creates flavor through the Maillard reaction) they just soften and go soggy. Every kitchen is different, so adjust based on what you actually cook most.\n\n@smarthealthfix is all about the small stuff — nutrition, common health issues, how your organs actually work, and the tiny daily habits that add up. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #mealprep #healthyeating #nutritionfacts #foodsafety #cookingtips #kitchenhacks #wellness #eatclean #homecooking healthykitchen nutritiontips foodprep wellnessjourney"
 }
