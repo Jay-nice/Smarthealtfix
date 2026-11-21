@@ -1,44 +1,44 @@
 {
-  "png": "output/reel_20261121_171151.png",
-  "mp4": "output/reel_20261121_171151.mp4",
-  "cover": "output/cover_20261121_171151.png",
+  "png": "output/reel_20261121_205241.png",
+  "mp4": "output/reel_20261121_205241.mp4",
+  "cover": "output/cover_20261121_205241.png",
   "cover_bg": "white",
   "content": {
-    "title": "WEIRD HOUSEHOLD FIXES THAT WORK BETTER THAN YOUR MEDICINE CABINET",
+    "title": "WEIRD SIGNS YOUR BODY IS QUIETLY RUNNING ON EMPTY",
     "facts": [
-      "**Hiccups** – Swallow a spoonful of sugar; the grainy texture interrupts the nerve spasm in your diaphragm.",
-      "**Sore Throat** – Gargle warm water with 1 tsp salt every few hours to pull swelling out of the tissue.",
-      "**Nosebleed** – Pinch the soft part of your nose and lean forward for 10 minutes instead of tilting your head back.",
-      "**Bug Bite Itch** – Press a hot spoon (not scalding) on the bite for 30 seconds to break down the itch-causing proteins.",
-      "**Toothache** – Dab a clove-soaked cotton ball on the spot; clove oil numbs the nerve naturally.",
-      "**Smelly Hands After Cooking** – Rub your fingers on stainless steel (like a spoon) under running water to neutralize onion and garlic odor.",
-      "**Dry, Cracked Heels** – Rub petroleum jelly on feet, then wear socks overnight to lock moisture in while you sleep.",
-      "**Minor Burn** – Run it under cool (not icy) water for 10 full minutes before you reach for anything else.",
-      "**Stuffy Nose** – Hold a warm, damp washcloth over your sinuses for a few minutes to loosen the congestion.",
+      "**Iodine** – Puffy neck, constant fatigue, unexplained weight gain, and feeling cold when everyone else is fine.",
+      "**Potassium** – Random leg cramps at night, heart fluttering, muscle weakness, and bloating.",
+      "**Vitamin K** – Bruising easily, bleeding gums when you floss, and cuts that take forever to stop.",
+      "**Vitamin E** – Blurry vision, wobbly balance, numb hands, and muscle weakness that creeps up slowly.",
+      "**Folate** – Pale skin, mouth sores, brain fog, and feeling winded walking up stairs.",
+      "**Vitamin A** – Struggling to see in dim light, dry eyes, and rough, bumpy skin on your arms.",
+      "**Omega-3** – Dry, flaky skin, brittle nails, dull hair, and joints that feel stiffer than they should.",
+      "**Calcium** – Muscle cramps, brittle nails, tingling fingers, and teeth that feel suddenly sensitive.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these have real science behind the 'old wives' tale' label. The **sugar** trick for hiccups works because the coarse texture stimulates the vagus nerve, which can reset the involuntary spasm in your diaphragm almost instantly. **Clove** oil for a toothache isn't folklore either — it contains eugenol, a natural compound with mild numbing and antibacterial properties that dentists used before modern anesthesia existed. And that **hot spoon** trick for bug bites works because heat denatures the itch-triggering proteins injected under your skin, calming the histamine response faster than scratching ever could. Everyone's body reacts a little differently, so start gentle and see what works for you.\n\n@smarthealthfix is all about the small stuff: nutrition, everyday symptoms, how your organs actually work, and tiny daily habits that add up. We're not here to sell you a quick fix — just simple, realistic tools you can actually use.\n\nSave this post so you don't lose it, and share it with someone who needs a quick fix today.",
+    "caption": "A puffy, swollen feeling around your neck paired with constant tiredness can point to low iodine — your thyroid actually swells up (a goiter) when it's starved of iodine and tries harder to pull it from your blood. Random leg cramps that jolt you awake at night are a classic low potassium sign, since potassium helps your muscles relax properly after they contract. And if cuts and bruises seem to take forever to heal, low vitamin K might be the reason — it's the nutrient your blood needs to actually form a clot in the first place. Everyone's body is different, so use these as a nudge to look closer, not a diagnosis.\n\nAt @smarthealthfix we post daily bite-sized tips on nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#homeremedies",
-      "#naturalremedy",
+      "#nutrientdeficiency",
+      "#vitamindeficiency",
       "#healthtips",
       "#wellness",
-      "#quickfix",
-      "#selfcare",
-      "#healthyhacks",
-      "#bodyhacks",
-      "#everydayhealth",
-      "#naturalhealthtips"
+      "#iodine",
+      "#potassium",
+      "#vitaminK",
+      "#omega3",
+      "#folate",
+      "#bodysignals",
+      "#guthealth"
     ],
     "extra_keywords": [
-      "householdremedies",
-      "naturalhealing",
-      "wellnesstips",
-      "kitchencures",
-      "diyhealth"
+      "nutritiontips",
+      "wellnessjourney",
+      "healthyhabits",
+      "nutrientgaps",
+      "bodysigns"
     ]
   },
-  "shape": "boxed_hacks",
-  "caption": "A few of these have real science behind the 'old wives' tale' label. The **sugar** trick for hiccups works because the coarse texture stimulates the vagus nerve, which can reset the involuntary spasm in your diaphragm almost instantly. **Clove** oil for a toothache isn't folklore either — it contains eugenol, a natural compound with mild numbing and antibacterial properties that dentists used before modern anesthesia existed. And that **hot spoon** trick for bug bites works because heat denatures the itch-triggering proteins injected under your skin, calming the histamine response faster than scratching ever could. Everyone's body reacts a little differently, so start gentle and see what works for you.\n\n@smarthealthfix is all about the small stuff: nutrition, everyday symptoms, how your organs actually work, and tiny daily habits that add up. We're not here to sell you a quick fix — just simple, realistic tools you can actually use.\n\nSave this post so you don't lose it, and share it with someone who needs a quick fix today.\n\n#homeremedies #naturalremedy #healthtips #wellness #quickfix #selfcare #healthyhacks #bodyhacks #everydayhealth #naturalhealthtips householdremedies naturalhealing wellnesstips kitchencures diyhealth"
+  "shape": "symptom_list",
+  "caption": "A puffy, swollen feeling around your neck paired with constant tiredness can point to low iodine — your thyroid actually swells up (a goiter) when it's starved of iodine and tries harder to pull it from your blood. Random leg cramps that jolt you awake at night are a classic low potassium sign, since potassium helps your muscles relax properly after they contract. And if cuts and bruises seem to take forever to heal, low vitamin K might be the reason — it's the nutrient your blood needs to actually form a clot in the first place. Everyone's body is different, so use these as a nudge to look closer, not a diagnosis.\n\nAt @smarthealthfix we post daily bite-sized tips on nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #vitamindeficiency #healthtips #wellness #iodine #potassium #vitaminK #omega3 #folate #bodysignals #guthealth nutritiontips wellnessjourney healthyhabits nutrientgaps bodysigns"
 }
