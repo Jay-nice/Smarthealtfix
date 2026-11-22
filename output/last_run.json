@@ -1,44 +1,42 @@
 {
-  "png": "output/reel_20261121_205241.png",
-  "mp4": "output/reel_20261121_205241.mp4",
-  "cover": "output/cover_20261121_205241.png",
+  "png": "output/reel_20261122_174111.png",
+  "mp4": "output/reel_20261122_174111.mp4",
+  "cover": "output/cover_20261122_174111.png",
   "cover_bg": "white",
   "content": {
-    "title": "WEIRD SIGNS YOUR BODY IS QUIETLY RUNNING ON EMPTY",
+    "title": "NEW PARENTS: DO THIS BEFORE YOU EVEN THINK ABOUT {{SLEEP}}",
     "facts": [
-      "**Iodine** – Puffy neck, constant fatigue, unexplained weight gain, and feeling cold when everyone else is fine.",
-      "**Potassium** – Random leg cramps at night, heart fluttering, muscle weakness, and bloating.",
-      "**Vitamin K** – Bruising easily, bleeding gums when you floss, and cuts that take forever to stop.",
-      "**Vitamin E** – Blurry vision, wobbly balance, numb hands, and muscle weakness that creeps up slowly.",
-      "**Folate** – Pale skin, mouth sores, brain fog, and feeling winded walking up stairs.",
-      "**Vitamin A** – Struggling to see in dim light, dry eyes, and rough, bumpy skin on your arms.",
-      "**Omega-3** – Dry, flaky skin, brittle nails, dull hair, and joints that feel stiffer than they should.",
-      "**Calcium** – Muscle cramps, brittle nails, tingling fingers, and teeth that feel suddenly sensitive.",
+      "**Lie down flat** for 10 minutes when the baby naps, even if you can't sleep — flat rest lowers your heart rate and resets your nervous system more than scrolling does.",
+      "**Eat standing up less** — sit down for at least one meal a day so your body actually registers you've eaten and digestion isn't rushed.",
+      "**Keep a water bottle at the changing station** — breastfeeding and sleep deprivation both spike your fluid needs, and dehydration makes exhaustion feel worse than it is.",
+      "**Ask for a 2-hour block, not 'help'** — vague offers rarely get used, but a scheduled 2-hour window actually gets protected and used for rest.",
+      "**Step outside for 5 minutes daily** — morning light exposure helps regulate your own circadian rhythm even when your sleep schedule is chaos.",
+      "**Lower the bar on dinner** — a 10-minute meal with protein beats skipping food until you crash and overeat at 9pm.",
+      "**Let one dish sit overnight** — protecting 15 minutes of rest matters more for your recovery than a spotless kitchen.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A puffy, swollen feeling around your neck paired with constant tiredness can point to low iodine — your thyroid actually swells up (a goiter) when it's starved of iodine and tries harder to pull it from your blood. Random leg cramps that jolt you awake at night are a classic low potassium sign, since potassium helps your muscles relax properly after they contract. And if cuts and bruises seem to take forever to heal, low vitamin K might be the reason — it's the nutrient your blood needs to actually form a clot in the first place. Everyone's body is different, so use these as a nudge to look closer, not a diagnosis.\n\nAt @smarthealthfix we post daily bite-sized tips on nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "New parents, a few of these matter more than they sound. Lying down flat for just 10 minutes, even without falling asleep, lets your heart rate drop and your nervous system shift out of fight-or-flight mode — something scrolling on your phone never actually does. Getting outside for 5 minutes in the morning does more than you'd think too: natural light exposure early in the day helps anchor your circadian rhythm, which gets scrambled fast with newborn sleep patterns. And asking for a specific 2-hour block instead of a vague \"let me know if you need anything\" works because your brain and body need a guaranteed window to actually downshift into rest, not just a possibility of one.\n\n@smarthealthfix covers nutrition, common health issues, organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing perfection.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.",
     "hashtags": [
-      "#nutrientdeficiency",
-      "#vitamindeficiency",
+      "#newparents",
+      "#postpartumrecovery",
+      "#parentingtips",
+      "#selfcareforparents",
+      "#babysleep",
+      "#mentalloadofmotherhood",
       "#healthtips",
       "#wellness",
-      "#iodine",
-      "#potassium",
-      "#vitaminK",
-      "#omega3",
-      "#folate",
-      "#bodysignals",
-      "#guthealth"
+      "#parentlife",
+      "#exhaustedparents"
     ],
     "extra_keywords": [
-      "nutritiontips",
-      "wellnessjourney",
-      "healthyhabits",
-      "nutrientgaps",
-      "bodysigns"
+      "newmomlife",
+      "parentingsupport",
+      "postpartumhealth",
+      "tiredmom",
+      "dailyhabits"
     ]
   },
-  "shape": "symptom_list",
-  "caption": "A puffy, swollen feeling around your neck paired with constant tiredness can point to low iodine — your thyroid actually swells up (a goiter) when it's starved of iodine and tries harder to pull it from your blood. Random leg cramps that jolt you awake at night are a classic low potassium sign, since potassium helps your muscles relax properly after they contract. And if cuts and bruises seem to take forever to heal, low vitamin K might be the reason — it's the nutrient your blood needs to actually form a clot in the first place. Everyone's body is different, so use these as a nudge to look closer, not a diagnosis.\n\nAt @smarthealthfix we post daily bite-sized tips on nutrition, common health issues, organs & body functions, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #vitamindeficiency #healthtips #wellness #iodine #potassium #vitaminK #omega3 #folate #bodysignals #guthealth nutritiontips wellnessjourney healthyhabits nutrientgaps bodysigns"
+  "shape": "imperative_advice_list",
+  "caption": "New parents, a few of these matter more than they sound. Lying down flat for just 10 minutes, even without falling asleep, lets your heart rate drop and your nervous system shift out of fight-or-flight mode — something scrolling on your phone never actually does. Getting outside for 5 minutes in the morning does more than you'd think too: natural light exposure early in the day helps anchor your circadian rhythm, which gets scrambled fast with newborn sleep patterns. And asking for a specific 2-hour block instead of a vague \"let me know if you need anything\" works because your brain and body need a guaranteed window to actually downshift into rest, not just a possibility of one.\n\n@smarthealthfix covers nutrition, common health issues, organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing perfection.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.\n\n#newparents #postpartumrecovery #parentingtips #selfcareforparents #babysleep #mentalloadofmotherhood #healthtips #wellness #parentlife #exhaustedparents newmomlife parentingsupport postpartumhealth tiredmom dailyhabits"
 }
