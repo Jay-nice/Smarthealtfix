@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20261122_174111.png",
-  "mp4": "output/reel_20261122_174111.mp4",
-  "cover": "output/cover_20261122_174111.png",
+  "png": "output/reel_20261122_210018.png",
+  "mp4": "output/reel_20261122_210018.mp4",
+  "cover": "output/cover_20261122_210018.png",
   "cover_bg": "white",
   "content": {
-    "title": "NEW PARENTS: DO THIS BEFORE YOU EVEN THINK ABOUT {{SLEEP}}",
+    "title": "IF YOU ATE {{THIS}} EVERY DAY... YOUR BODY WOULD CHANGE FAST",
     "facts": [
-      "**Lie down flat** for 10 minutes when the baby naps, even if you can't sleep — flat rest lowers your heart rate and resets your nervous system more than scrolling does.",
-      "**Eat standing up less** — sit down for at least one meal a day so your body actually registers you've eaten and digestion isn't rushed.",
-      "**Keep a water bottle at the changing station** — breastfeeding and sleep deprivation both spike your fluid needs, and dehydration makes exhaustion feel worse than it is.",
-      "**Ask for a 2-hour block, not 'help'** — vague offers rarely get used, but a scheduled 2-hour window actually gets protected and used for rest.",
-      "**Step outside for 5 minutes daily** — morning light exposure helps regulate your own circadian rhythm even when your sleep schedule is chaos.",
-      "**Lower the bar on dinner** — a 10-minute meal with protein beats skipping food until you crash and overeat at 9pm.",
-      "**Let one dish sit overnight** — protecting 15 minutes of rest matters more for your recovery than a spotless kitchen.",
+      "If you ate **beets** every day for 2 weeks, your blood pressure would likely drop as nitrates in the root relax and widen your blood vessels.",
+      "If you ate **sardines** every day for 30 days, your joints would feel less stiff thanks to a steady dose of omega-3s fighting low-grade inflammation.",
+      "If you ate **oats** every day for 3 weeks, your cholesterol numbers would start to shift as beta-glucan fiber binds to it and carries it out.",
+      "If you ate **walnuts** every day for 2 weeks, your focus would sharpen as healthy fats support the fatty sheath around your brain cells.",
+      "If you ate **fermented yogurt** every day for 10 days, your bloating would ease as live cultures start rebalancing your gut bacteria.",
+      "If you ate **lentils** every day for 1 week, your energy crashes would fade as slow-digesting carbs keep your blood sugar steadier.",
+      "If you ate **pumpkin seeds** every day for 2 weeks, your sleep would deepen as magnesium helps quiet your nervous system at night.",
+      "If you ate **liver** once a week for a month, your iron stores would climb, leaving you less winded on stairs and less foggy by afternoon.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "New parents, a few of these matter more than they sound. Lying down flat for just 10 minutes, even without falling asleep, lets your heart rate drop and your nervous system shift out of fight-or-flight mode — something scrolling on your phone never actually does. Getting outside for 5 minutes in the morning does more than you'd think too: natural light exposure early in the day helps anchor your circadian rhythm, which gets scrambled fast with newborn sleep patterns. And asking for a specific 2-hour block instead of a vague \"let me know if you need anything\" works because your brain and body need a guaranteed window to actually downshift into rest, not just a possibility of one.\n\n@smarthealthfix covers nutrition, common health issues, organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing perfection.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.",
+    "caption": "A few of these are worth slowing down on. Beets work because the nitrates convert into nitric oxide in your bloodstream, which is the same compound your body uses to naturally relax artery walls — that's why consistent beet eaters often see their numbers move within two weeks. Sardines are an underrated joint food: the omega-3s don't just 'support' inflammation, they actually get built into your cell membranes and change how your body produces inflammatory signals in the first place. And oats work almost mechanically — the beta-glucan fiber turns gel-like in your gut and physically traps cholesterol so it leaves your body instead of getting reabsorbed. That said, everyone's gut and baseline health is different, so results won't look identical for everyone.\n\n@smarthealthfix is all about the small, overlooked stuff — nutrition, common health issues, how your organs actually function, and the tiny daily habits that quietly shape your health. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#newparents",
-      "#postpartumrecovery",
-      "#parentingtips",
-      "#selfcareforparents",
-      "#babysleep",
-      "#mentalloadofmotherhood",
       "#healthtips",
       "#wellness",
-      "#parentlife",
-      "#exhaustedparents"
+      "#guthealth",
+      "#antiinflammatory",
+      "#nutritionfacts",
+      "#hearthealth",
+      "#bloodpressure",
+      "#omega3",
+      "#foodismedicine",
+      "#healthyhabits"
     ],
     "extra_keywords": [
-      "newmomlife",
-      "parentingsupport",
-      "postpartumhealth",
-      "tiredmom",
-      "dailyhabits"
+      "naturalhealing",
+      "wellnessjourney",
+      "nutritiontips",
+      "healthyeating",
+      "bodyawareness"
     ]
   },
-  "shape": "imperative_advice_list",
-  "caption": "New parents, a few of these matter more than they sound. Lying down flat for just 10 minutes, even without falling asleep, lets your heart rate drop and your nervous system shift out of fight-or-flight mode — something scrolling on your phone never actually does. Getting outside for 5 minutes in the morning does more than you'd think too: natural light exposure early in the day helps anchor your circadian rhythm, which gets scrambled fast with newborn sleep patterns. And asking for a specific 2-hour block instead of a vague \"let me know if you need anything\" works because your brain and body need a guaranteed window to actually downshift into rest, not just a possibility of one.\n\n@smarthealthfix covers nutrition, common health issues, organs, and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic routines instead of chasing perfection.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.\n\n#newparents #postpartumrecovery #parentingtips #selfcareforparents #babysleep #mentalloadofmotherhood #healthtips #wellness #parentlife #exhaustedparents newmomlife parentingsupport postpartumhealth tiredmom dailyhabits"
+  "shape": "conditional_transformation",
+  "caption": "A few of these are worth slowing down on. Beets work because the nitrates convert into nitric oxide in your bloodstream, which is the same compound your body uses to naturally relax artery walls — that's why consistent beet eaters often see their numbers move within two weeks. Sardines are an underrated joint food: the omega-3s don't just 'support' inflammation, they actually get built into your cell membranes and change how your body produces inflammatory signals in the first place. And oats work almost mechanically — the beta-glucan fiber turns gel-like in your gut and physically traps cholesterol so it leaves your body instead of getting reabsorbed. That said, everyone's gut and baseline health is different, so results won't look identical for everyone.\n\n@smarthealthfix is all about the small, overlooked stuff — nutrition, common health issues, how your organs actually function, and the tiny daily habits that quietly shape your health. Our mission is to help you build realistic, sustainable habits instead of chasing quick fixes that never stick.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #antiinflammatory #nutritionfacts #hearthealth #bloodpressure #omega3 #foodismedicine #healthyhabits naturalhealing wellnessjourney nutritiontips healthyeating bodyawareness"
 }
