@@ -1,0 +1,139 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "THESE {{SWAPS}} BEAT THE 'HEALTHY' VERSION YOU'RE ACTUALLY EATING",
+    "facts": [
+      "A cup of cooked **spinach** has nearly 7 times more vitamin K than a cup of raw kale.",
+      "**Swiss chard** packs more magnesium than a cup of cooked broccoli, almost double.",
+      "A medium **plantain** carries more potassium than a medium banana.",
+      "**Brazil nuts** blow past almost every food on the planet for selenium, one nut covers your whole day.",
+      "**Guava** has about four times more vitamin C than an orange, gram for gram.",
+      "A cup of cooked **lentils** has more iron than a 6oz beef patty's worth isn't far behind, but lentils pull ahead on fiber too.",
+      "**Raspberries** have roughly double the fiber of strawberries per cup.",
+      "**Sardines** with bones in deliver more calcium than a glass of milk, plus the vitamin D milk usually lacks naturally.",
+      "A cup of cooked **edamame** has more zinc than a 3oz serving of chicken breast.",
+      "**Walnuts** have more omega-3 (ALA) per ounce than almost any other common nut.",
+      "**Follow along** – for more daily nutrient comparisons like this."
+    ],
+    "claims": [
+      {
+        "food_a": "cooked spinach",
+        "food_b": "cooked kale",
+        "nutrient_key": "vitamin_k"
+      },
+      {
+        "food_a": "swiss chard",
+        "food_b": "cooked broccoli",
+        "nutrient_key": "magnesium"
+      },
+      {
+        "food_a": "plantain",
+        "food_b": "banana",
+        "nutrient_key": "potassium"
+      },
+      {
+        "food_a": "guava",
+        "food_b": "orange",
+        "nutrient_key": "vitamin_c"
+      },
+      {
+        "food_a": "cooked lentils",
+        "food_b": "beef patty",
+        "nutrient_key": "iron"
+      },
+      {
+        "food_a": "raspberries",
+        "food_b": "strawberries",
+        "nutrient_key": "fiber"
+      },
+      {
+        "food_a": "sardines",
+        "food_b": "milk",
+        "nutrient_key": "calcium"
+      },
+      {
+        "food_a": "cooked edamame",
+        "food_b": "chicken breast",
+        "nutrient_key": "zinc"
+      },
+      {
+        "food_a": "walnuts",
+        "food_b": "other common nuts",
+        "nutrient_key": "omega3_ala"
+      }
+    ],
+    "caption": "Some of these swaps genuinely surprised us. Take guava — it's loaded with more vitamin C than an orange because the fruit's thin skin and pulp hold onto the nutrient through ripening, and most people never even think to buy one. Then there's swiss chard: it's packed with magnesium, a mineral that helps relax blood vessels and muscles, which is part of why leafy greens get linked to steadier energy and fewer cramps. And sardines deserve more credit than they get — eating them with the soft bones in gives you a calcium boost your body can actually absorb well, alongside natural vitamin D, something very few whole foods offer together. Everyone's nutritional needs differ a bit, so think of this as a starting point, not a strict rulebook.\n\nAt @smarthealthfix we dig into nutrition, everyday symptoms, how your organs function, and the tiny daily habits that quietly shape your health. Our mission is to help you make smarter, simple food choices without overcomplicating your routine.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "hashtags": [
+      "#nutritionfacts",
+      "#healthyeating",
+      "#vitaminc",
+      "#magnesium",
+      "#ironrich",
+      "#guthealth",
+      "#micronutrients",
+      "#plantbased",
+      "#wellnesstips",
+      "#foodismedicine"
+    ],
+    "extra_keywords": [
+      "nutrientdense",
+      "healthyswaps",
+      "wellnessjourney",
+      "eatrealfood"
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 9,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "cooked spinach",
+          "food_b": "cooked kale",
+          "nutrient_key": "vitamin_k"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "guava",
+          "food_b": "orange",
+          "nutrient_key": "vitamin_c"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "cooked edamame",
+          "food_b": "chicken breast",
+          "nutrient_key": "zinc"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "walnuts",
+          "food_b": "other common nuts",
+          "nutrient_key": "omega3_ala"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      }
+    ]
+  }
+}
