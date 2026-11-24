@@ -1,0 +1,209 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "THIS {{SIDE DISH}} QUIETLY OUTRANKS THE 'HEALTHY' FOOD NEXT TO IT",
+    "facts": [
+      "A cup of cooked **spinach** has more iron than a 3oz serving of **chicken breast** — your body just absorbs it slower, so pair it with citrus to boost uptake.",
+      "**Swiss chard** packs more vitamin K in one cooked cup than a whole cup of **broccoli**, supporting proper blood clotting and bone mineralization.",
+      "**Avocado** carries more potassium per fruit than a medium **banana**, helping muscles contract properly and keeping blood pressure in check.",
+      "**Sunflower seeds** (1oz) contain more selenium than **tuna**, a mineral your thyroid needs to produce hormones correctly.",
+      "**Canned sardines** deliver more calcium per serving than a glass of **milk**, thanks to their soft, edible bones.",
+      "**Pumpkin seeds** (1oz) hold more zinc than **chickpeas**, a mineral your immune system quietly depends on every single day.",
+      "**Brussels sprouts** have more vitamin C per cup than an **orange**, even after they're cooked.",
+      "**Walnuts** (1oz/day) give you more plant-based omega-3 than **flax oil** by volume, supporting heart and brain health.",
+      "**Dried figs** contain more fiber per cup than **oatmeal**, helping keep digestion moving and blood sugar steadier.",
+      "**Mushrooms** left in sunlight for 15 minutes before eating can generate more vitamin D than a glass of fortified **orange juice**.",
+      "**Follow along** – for more daily health tips like this."
+    ],
+    "claims": [
+      {
+        "food_a": "spinach",
+        "food_b": "chicken breast",
+        "nutrient_key": "iron"
+      },
+      {
+        "food_a": "swiss chard",
+        "food_b": "broccoli",
+        "nutrient_key": "vitamin_k"
+      },
+      {
+        "food_a": "avocado",
+        "food_b": "banana",
+        "nutrient_key": "potassium"
+      },
+      {
+        "food_a": "sunflower seeds",
+        "food_b": "tuna",
+        "nutrient_key": "selenium"
+      },
+      {
+        "food_a": "sardines",
+        "food_b": "milk",
+        "nutrient_key": "calcium"
+      },
+      {
+        "food_a": "pumpkin seeds",
+        "food_b": "chickpeas",
+        "nutrient_key": "zinc"
+      },
+      {
+        "food_a": "brussels sprouts",
+        "food_b": "orange",
+        "nutrient_key": "vitamin_c"
+      },
+      {
+        "food_a": "walnuts",
+        "food_b": "flax oil",
+        "nutrient_key": "omega3_ala"
+      },
+      {
+        "food_a": "dried figs",
+        "food_b": "oatmeal",
+        "nutrient_key": "fiber"
+      },
+      {
+        "food_a": "mushrooms",
+        "food_b": "fortified orange juice",
+        "nutrient_key": "vitamin_d"
+      }
+    ],
+    "caption": "Let's talk about a few of these swaps. Spinach's iron is the plant-based (non-heme) kind, which your body doesn't absorb as efficiently as the iron in meat — but adding a squeeze of lemon or a handful of strawberries alongside it can significantly boost how much your body actually takes in. Sunflower seeds are an easy one to overlook, but their selenium plays a direct role in converting thyroid hormone into its active form, which affects your energy and metabolism more than people realize. And mushrooms are the wild card here — they're one of the only produce items that can actually generate vitamin D themselves when exposed to UV light, almost like edible solar panels. Everyone's body and needs are different, so treat this as a starting point, not a prescription.\n\nAt @smarthealthfix we dig into nutrition, everyday symptoms, how your organs actually function, and the small daily habits that tie it all together. Our mission is to make real nutrition science feel simple enough to actually use.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "hashtags": [
+      "#nutritionfacts",
+      "#vitaminc",
+      "#ironrich",
+      "#guthealth",
+      "#plantbased",
+      "#micronutrients",
+      "#healthyeating",
+      "#wellnesstips",
+      "#foodismedicine",
+      "#mineraldeficiency"
+    ],
+    "extra_keywords": [
+      "nutrienttiming",
+      "wholefoods",
+      "healthylifestyle",
+      "balanceddiet"
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 10,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "swiss chard",
+          "food_b": "broccoli",
+          "nutrient_key": "vitamin_k"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "avocado",
+          "food_b": "banana",
+          "nutrient_key": "potassium"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "avocado",
+          "food_b": "banana",
+          "nutrient": "potassium",
+          "amount_a": {
+            "amount": 58,
+            "unit": "MG",
+            "food_description": "Avocado dressing",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 422,
+            "unit": "mg",
+            "per": "1 medium (118g)"
+          },
+          "ratio": 0.14
+        }
+      },
+      {
+        "claim": {
+          "food_a": "sunflower seeds",
+          "food_b": "tuna",
+          "nutrient_key": "selenium"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "pumpkin seeds",
+          "food_b": "chickpeas",
+          "nutrient_key": "zinc"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "walnuts",
+          "food_b": "flax oil",
+          "nutrient_key": "omega3_ala"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "dried figs",
+          "food_b": "oatmeal",
+          "nutrient_key": "fiber"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "dried figs",
+          "food_b": "oatmeal",
+          "nutrient": "fiber",
+          "amount_a": {
+            "amount": 3.6,
+            "unit": "G",
+            "food_description": "DRIED FIGS",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 8.9,
+            "unit": "G",
+            "food_description": "OATMEAL",
+            "per": "100g"
+          },
+          "ratio": 0.4
+        }
+      },
+      {
+        "claim": {
+          "food_a": "mushrooms",
+          "food_b": "fortified orange juice",
+          "nutrient_key": "vitamin_d"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      }
+    ]
+  }
+}
