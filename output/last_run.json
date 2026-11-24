@@ -1,43 +1,41 @@
 {
-  "png": "output/reel_20261124_043825.png",
-  "mp4": "output/reel_20261124_043825.mp4",
-  "cover": "output/cover_20261124_043825.png",
+  "png": "output/reel_20261124_235051.png",
+  "mp4": "output/reel_20261124_235051.mp4",
+  "cover": "output/cover_20261124_235051.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE GROCERY LIST FOR {{ANNOYING}} EVERYDAY PROBLEMS",
+    "title": "THE MINERAL YOUR {{THYROID}} IS BEGGING YOU FOR",
     "facts": [
-      "**Bloating** ----- Fennel Seeds",
-      "**Bad Breath** ----- Parsley",
-      "**Canker Sores** ----- Coconut Water",
-      "**Headaches** ----- Watermelon",
-      "**Acid Reflux** ----- Papaya",
-      "**Nausea** ----- Fresh Ginger Tea",
-      "**Puffy Eyes** ----- Chilled Cucumber Slices",
-      "**Afternoon Slump** ----- Pistachios",
-      "**Dry Mouth** ----- Celery Sticks",
-      "**Follow along** ----- for more daily health tips like this."
+      "**Iodine** (Thyroid Fuel) — Cod | Seaweed | Shrimp | Dairy Milk",
+      "**Copper** (Energy Spark) — Cashews | Beef Liver | Sesame Seeds | Shiitake Mushrooms",
+      "**Manganese** (Bone Builder) — Mussels | Pineapple | Brown Rice | Hazelnuts",
+      "**Selenium** (Cell Shield) — Brazil Nuts | Tuna | Eggs | Sunflower Seeds",
+      "**Potassium** (Fluid Balancer) — Sweet Potato | Coconut Water | White Beans | Bananas",
+      "**Zinc** (Wound Healer) — Oysters | Pumpkin Seeds | Chickpeas | Lamb",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A few of these have real mechanisms behind them worth knowing. Fennel seeds contain compounds that relax the muscles lining your gut, which is why chewing a small pinch after a heavy meal can quiet that tight, bloated feeling within minutes. Papaya works a bit differently — it contains papain, a digestive enzyme that helps break down protein before it has a chance to sit heavy in your stomach and trigger that burning backflow we call reflux. And watermelon's high water content paired with natural electrolytes makes it surprisingly effective for headaches that are actually mild dehydration in disguise, something most people never suspect. Of course, everyone's body is different, so pay attention to what actually eases your symptoms.\n\nAt @smarthealthfix, we dig into the overlap between nutrition, common health issues, the way your organs quietly do their jobs, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Your thyroid can't make its hormones without iodine — without it, metabolism slows down and energy crashes, which is why seafood and dairy matter more than people think. Copper works quietly behind the scenes too: it helps your body actually use the iron you eat to form red blood cells, so a copper gap can mimic an iron problem. And selenium acts almost like armor for your cells, helping neutralize everyday oxidative stress before it builds up. Everyone's needs are a little different, so listen to what your body's telling you.\n\n@smarthealthfix is all about the basics that actually move the needle — nutrition, common health issues, how your organs function, and small daily habits that add up. Our mission is to help you understand your body instead of guessing your way through wellness.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#guthealth",
-      "#digestivehealth",
-      "#naturalremedies",
-      "#foodismedicine",
-      "#bloatingrelief",
+      "#iodine",
+      "#thyroidhealth",
+      "#zincdeficiency",
+      "#seleniumbenefits",
+      "#mineralpower",
       "#healthtips",
-      "#wellness",
-      "#holistichealth",
-      "#everydayhealth",
-      "#nutritiontips"
+      "#guthealth",
+      "#nutritionfacts",
+      "#wellnessjourney",
+      "#eatrealfood"
     ],
     "extra_keywords": [
-      "naturalhealing",
-      "wellnessjourney",
-      "guttips",
-      "healthyhabits"
+      "mineraldeficiency",
+      "thyroidsupport",
+      "nutritiontips",
+      "wellnesshabits",
+      "healthyeating"
     ]
   },
-  "shape": "problem_food_mapping",
-  "caption": "A few of these have real mechanisms behind them worth knowing. Fennel seeds contain compounds that relax the muscles lining your gut, which is why chewing a small pinch after a heavy meal can quiet that tight, bloated feeling within minutes. Papaya works a bit differently — it contains papain, a digestive enzyme that helps break down protein before it has a chance to sit heavy in your stomach and trigger that burning backflow we call reflux. And watermelon's high water content paired with natural electrolytes makes it surprisingly effective for headaches that are actually mild dehydration in disguise, something most people never suspect. Of course, everyone's body is different, so pay attention to what actually eases your symptoms.\n\nAt @smarthealthfix, we dig into the overlap between nutrition, common health issues, the way your organs quietly do their jobs, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#guthealth #digestivehealth #naturalremedies #foodismedicine #bloatingrelief #healthtips #wellness #holistichealth #everydayhealth #nutritiontips naturalhealing wellnessjourney guttips healthyhabits"
+  "shape": "mineral_sources",
+  "caption": "Your thyroid can't make its hormones without iodine — without it, metabolism slows down and energy crashes, which is why seafood and dairy matter more than people think. Copper works quietly behind the scenes too: it helps your body actually use the iron you eat to form red blood cells, so a copper gap can mimic an iron problem. And selenium acts almost like armor for your cells, helping neutralize everyday oxidative stress before it builds up. Everyone's needs are a little different, so listen to what your body's telling you.\n\n@smarthealthfix is all about the basics that actually move the needle — nutrition, common health issues, how your organs function, and small daily habits that add up. Our mission is to help you understand your body instead of guessing your way through wellness.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#iodine #thyroidhealth #zincdeficiency #seleniumbenefits #mineralpower #healthtips #guthealth #nutritionfacts #wellnessjourney #eatrealfood mineraldeficiency thyroidsupport nutritiontips wellnesshabits healthyeating"
 }
