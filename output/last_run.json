@@ -1,46 +1,43 @@
 {
-  "png": "output/reel_20261124_020811.png",
-  "mp4": "output/reel_20261124_020811.mp4",
-  "cover": "output/cover_20261124_020811.png",
+  "png": "output/reel_20261124_043825.png",
+  "mp4": "output/reel_20261124_043825.mp4",
+  "cover": "output/cover_20261124_043825.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE DEFICIENCY SIGNS {{DOCTORS}} OFTEN MISS ON A ROUTINE CHECKUP",
+    "title": "THE GROCERY LIST FOR {{ANNOYING}} EVERYDAY PROBLEMS",
     "facts": [
-      "**Restless legs at night** – an overwhelming urge to move your legs while trying to sleep can point to low iron or low magnesium stores.",
-      "**Mouth ulcers** – frequent canker sores or a sore, cracked spot at the corner of your mouth can signal low iron, B12, or folate.",
-      "**White spots on nails** – small white marks appearing on your nails are often linked to low zinc.",
-      "**Brittle, ridged nails** – nails that split or develop vertical ridges easily can point to a biotin or iron shortfall.",
-      "**Muscle twitches under the eye** – an eyelid that keeps twitching on its own is a classic low-magnesium sign.",
-      "**Bleeding gums when you brush** – gums that bleed easily even with gentle brushing can signal low vitamin C.",
-      "**Unexplained bruising** – bruises that show up without a clear bump can point to low vitamin C or vitamin K.",
-      "**Pins and needles in fingers** – tingling or numbness in the hands can be an early sign of low B12.",
-      "**Hair shedding in clumps** – noticeably more hair in the shower drain than usual can be linked to low iron or zinc.",
-      "**Feeling cold when others aren't** – constantly reaching for a sweater while everyone else is comfortable can point to low iron or low iodine.",
-      "**Slow-healing cuts** – small scrapes that take forever to close can signal low zinc or low vitamin C.",
-      "**Follow along** – for more daily health tips like this."
+      "**Bloating** ----- Fennel Seeds",
+      "**Bad Breath** ----- Parsley",
+      "**Canker Sores** ----- Coconut Water",
+      "**Headaches** ----- Watermelon",
+      "**Acid Reflux** ----- Papaya",
+      "**Nausea** ----- Fresh Ginger Tea",
+      "**Puffy Eyes** ----- Chilled Cucumber Slices",
+      "**Afternoon Slump** ----- Pistachios",
+      "**Dry Mouth** ----- Celery Sticks",
+      "**Follow along** ----- for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "A twitching eyelid is one of the most overlooked magnesium clues — magnesium helps regulate the signals between your nerves and muscles, so when levels drop, small involuntary spasms like that start popping up. Bleeding gums get written off as a brushing problem, but vitamin C is actually essential for building and repairing the collagen that holds your gum tissue together, so a shortage shows up there before almost anywhere else. And that restless, can't-sit-still feeling in your legs at night often traces back to iron, since iron plays a role in dopamine regulation and nerve function, both of which affect how 'settled' your legs feel. Everyone's body is different, so treat these as clues worth checking, not a diagnosis.\n\nAt @smarthealthfix we dig into nutrition, everyday symptoms, organ function, and the small daily habits that tie it all together. Our mission is to help you notice what your body is already telling you, instead of waiting until something feels seriously wrong.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of these have real mechanisms behind them worth knowing. Fennel seeds contain compounds that relax the muscles lining your gut, which is why chewing a small pinch after a heavy meal can quiet that tight, bloated feeling within minutes. Papaya works a bit differently — it contains papain, a digestive enzyme that helps break down protein before it has a chance to sit heavy in your stomach and trigger that burning backflow we call reflux. And watermelon's high water content paired with natural electrolytes makes it surprisingly effective for headaches that are actually mild dehydration in disguise, something most people never suspect. Of course, everyone's body is different, so pay attention to what actually eases your symptoms.\n\nAt @smarthealthfix, we dig into the overlap between nutrition, common health issues, the way your organs quietly do their jobs, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#nutrientdeficiency",
-      "#vitaminc",
-      "#magnesiumdeficiency",
-      "#irondeficiency",
-      "#zincdeficiency",
-      "#healthsigns",
-      "#guttips",
-      "#wellnesstips",
-      "#nutritionfacts",
-      "#healthawareness"
+      "#guthealth",
+      "#digestivehealth",
+      "#naturalremedies",
+      "#foodismedicine",
+      "#bloatingrelief",
+      "#healthtips",
+      "#wellness",
+      "#holistichealth",
+      "#everydayhealth",
+      "#nutritiontips"
     ],
     "extra_keywords": [
-      "nutrientgaps",
-      "deficiencysymptoms",
-      "wellnessjourney",
       "naturalhealing",
-      "bodysignals"
+      "wellnessjourney",
+      "guttips",
+      "healthyhabits"
     ]
   },
-  "shape": "symptom_list",
-  "caption": "A twitching eyelid is one of the most overlooked magnesium clues — magnesium helps regulate the signals between your nerves and muscles, so when levels drop, small involuntary spasms like that start popping up. Bleeding gums get written off as a brushing problem, but vitamin C is actually essential for building and repairing the collagen that holds your gum tissue together, so a shortage shows up there before almost anywhere else. And that restless, can't-sit-still feeling in your legs at night often traces back to iron, since iron plays a role in dopamine regulation and nerve function, both of which affect how 'settled' your legs feel. Everyone's body is different, so treat these as clues worth checking, not a diagnosis.\n\nAt @smarthealthfix we dig into nutrition, everyday symptoms, organ function, and the small daily habits that tie it all together. Our mission is to help you notice what your body is already telling you, instead of waiting until something feels seriously wrong.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#nutrientdeficiency #vitaminc #magnesiumdeficiency #irondeficiency #zincdeficiency #healthsigns #guttips #wellnesstips #nutritionfacts #healthawareness nutrientgaps deficiencysymptoms wellnessjourney naturalhealing bodysignals"
+  "shape": "problem_food_mapping",
+  "caption": "A few of these have real mechanisms behind them worth knowing. Fennel seeds contain compounds that relax the muscles lining your gut, which is why chewing a small pinch after a heavy meal can quiet that tight, bloated feeling within minutes. Papaya works a bit differently — it contains papain, a digestive enzyme that helps break down protein before it has a chance to sit heavy in your stomach and trigger that burning backflow we call reflux. And watermelon's high water content paired with natural electrolytes makes it surprisingly effective for headaches that are actually mild dehydration in disguise, something most people never suspect. Of course, everyone's body is different, so pay attention to what actually eases your symptoms.\n\nAt @smarthealthfix, we dig into the overlap between nutrition, common health issues, the way your organs quietly do their jobs, and the small daily habits that tie it all together. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#guthealth #digestivehealth #naturalremedies #foodismedicine #bloatingrelief #healthtips #wellness #holistichealth #everydayhealth #nutritiontips naturalhealing wellnessjourney guttips healthyhabits"
 }
