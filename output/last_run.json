@@ -1,41 +1,42 @@
 {
-  "png": "output/reel_20261124_235051.png",
-  "mp4": "output/reel_20261124_235051.mp4",
-  "cover": "output/cover_20261124_235051.png",
+  "png": "output/reel_20261125_194918.png",
+  "mp4": "output/reel_20261125_194918.mp4",
+  "cover": "output/cover_20261125_194918.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE MINERAL YOUR {{THYROID}} IS BEGGING YOU FOR",
+    "title": "THE ORGANS ON YOUR BODY'S {{PRIORITY LIST}} AND WHAT THEY'RE ASKING FOR",
     "facts": [
-      "**Iodine** (Thyroid Fuel) — Cod | Seaweed | Shrimp | Dairy Milk",
-      "**Copper** (Energy Spark) — Cashews | Beef Liver | Sesame Seeds | Shiitake Mushrooms",
-      "**Manganese** (Bone Builder) — Mussels | Pineapple | Brown Rice | Hazelnuts",
-      "**Selenium** (Cell Shield) — Brazil Nuts | Tuna | Eggs | Sunflower Seeds",
-      "**Potassium** (Fluid Balancer) — Sweet Potato | Coconut Water | White Beans | Bananas",
-      "**Zinc** (Wound Healer) — Oysters | Pumpkin Seeds | Chickpeas | Lamb",
-      "**Follow along** – for more daily health tips like this."
+      "**Gallbladder** - Beets, Olive oil, Lemon. Beets contain betaine, which helps thin and move bile so it flows smoothly instead of thickening into stones.",
+      "**Pancreas** - Spinach, Broccoli, Turmeric. Spinach is loaded with B vitamins and antioxidants that protect pancreatic cells from oxidative stress.",
+      "**Bladder** - Cranberries, Watermelon, Celery. Cranberries contain compounds that stop bacteria from sticking to the bladder wall.",
+      "**Thyroid** - Brazil nuts, Eggs, Seaweed. Just 2 Brazil nuts a day supply enough selenium to support healthy thyroid hormone conversion.",
+      "**Liver** - Garlic, Grapefruit, Leafy greens. Garlic activates liver enzymes that flush out toxins before they build up.",
+      "**Joints** - Salmon, Walnuts, Cherries. Tart cherries are one of the few foods that naturally lower uric acid, easing joint stiffness.",
+      "**Bone marrow** - Red meat, Lentils, Pumpkin seeds. These iron-rich foods give marrow the raw material it needs to keep producing fresh blood cells.",
+      "**Follow along** - for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Your thyroid can't make its hormones without iodine — without it, metabolism slows down and energy crashes, which is why seafood and dairy matter more than people think. Copper works quietly behind the scenes too: it helps your body actually use the iron you eat to form red blood cells, so a copper gap can mimic an iron problem. And selenium acts almost like armor for your cells, helping neutralize everyday oxidative stress before it builds up. Everyone's needs are a little different, so listen to what your body's telling you.\n\n@smarthealthfix is all about the basics that actually move the needle — nutrition, common health issues, how your organs function, and small daily habits that add up. Our mission is to help you understand your body instead of guessing your way through wellness.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Your gallbladder works harder than most people realize, and beets are one of its best allies - the betaine inside them keeps bile thin and flowing instead of letting it crystallize over time. Your thyroid, tucked quietly in your neck, runs almost entirely on selenium, and just 2 Brazil nuts a day can cover what it needs to convert hormones properly. And don't sleep on your bladder - cranberries aren't just a UTI home remedy myth, the compounds in them physically stop bacteria from gripping onto the bladder lining in the first place. Everyone's body is different, so pay attention to what yours responds to.\n\nAt @smarthealthfix we dig into nutrition, common health issues, the organs behind them, and the small daily habits that tie it all together. Our mission is to make taking care of your body feel simple instead of overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#iodine",
+      "#organhealth",
       "#thyroidhealth",
-      "#zincdeficiency",
-      "#seleniumbenefits",
-      "#mineralpower",
-      "#healthtips",
-      "#guthealth",
-      "#nutritionfacts",
+      "#liverdetox",
+      "#gallbladder",
+      "#bladderhealth",
+      "#boneandjoint",
+      "#nutritiontips",
       "#wellnessjourney",
-      "#eatrealfood"
+      "#healthyfood",
+      "#guthealth"
     ],
     "extra_keywords": [
-      "mineraldeficiency",
-      "thyroidsupport",
-      "nutritiontips",
-      "wellnesshabits",
-      "healthyeating"
+      "organhealing",
+      "nutrientdense",
+      "healthyhabits",
+      "wholefoods",
+      "bodyawareness"
     ]
   },
-  "shape": "mineral_sources",
-  "caption": "Your thyroid can't make its hormones without iodine — without it, metabolism slows down and energy crashes, which is why seafood and dairy matter more than people think. Copper works quietly behind the scenes too: it helps your body actually use the iron you eat to form red blood cells, so a copper gap can mimic an iron problem. And selenium acts almost like armor for your cells, helping neutralize everyday oxidative stress before it builds up. Everyone's needs are a little different, so listen to what your body's telling you.\n\n@smarthealthfix is all about the basics that actually move the needle — nutrition, common health issues, how your organs function, and small daily habits that add up. Our mission is to help you understand your body instead of guessing your way through wellness.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#iodine #thyroidhealth #zincdeficiency #seleniumbenefits #mineralpower #healthtips #guthealth #nutritionfacts #wellnessjourney #eatrealfood mineraldeficiency thyroidsupport nutritiontips wellnesshabits healthyeating"
+  "shape": "organ_food_list",
+  "caption": "Your gallbladder works harder than most people realize, and beets are one of its best allies - the betaine inside them keeps bile thin and flowing instead of letting it crystallize over time. Your thyroid, tucked quietly in your neck, runs almost entirely on selenium, and just 2 Brazil nuts a day can cover what it needs to convert hormones properly. And don't sleep on your bladder - cranberries aren't just a UTI home remedy myth, the compounds in them physically stop bacteria from gripping onto the bladder lining in the first place. Everyone's body is different, so pay attention to what yours responds to.\n\nAt @smarthealthfix we dig into nutrition, common health issues, the organs behind them, and the small daily habits that tie it all together. Our mission is to make taking care of your body feel simple instead of overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #thyroidhealth #liverdetox #gallbladder #bladderhealth #boneandjoint #nutritiontips #wellnessjourney #healthyfood #guthealth organhealing nutrientdense healthyhabits wholefoods bodyawareness"
 }
