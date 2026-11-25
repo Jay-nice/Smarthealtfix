@@ -1,42 +1,42 @@
 {
-  "png": "output/reel_20261125_194918.png",
-  "mp4": "output/reel_20261125_194918.mp4",
-  "cover": "output/cover_20261125_194918.png",
+  "png": "output/reel_20261125_233357.png",
+  "mp4": "output/reel_20261125_233357.mp4",
+  "cover": "output/cover_20261125_233357.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE ORGANS ON YOUR BODY'S {{PRIORITY LIST}} AND WHAT THEY'RE ASKING FOR",
+    "title": "WHY YOUR {{EYES}} KEEP TELLING ON YOU",
     "facts": [
-      "**Gallbladder** - Beets, Olive oil, Lemon. Beets contain betaine, which helps thin and move bile so it flows smoothly instead of thickening into stones.",
-      "**Pancreas** - Spinach, Broccoli, Turmeric. Spinach is loaded with B vitamins and antioxidants that protect pancreatic cells from oxidative stress.",
-      "**Bladder** - Cranberries, Watermelon, Celery. Cranberries contain compounds that stop bacteria from sticking to the bladder wall.",
-      "**Thyroid** - Brazil nuts, Eggs, Seaweed. Just 2 Brazil nuts a day supply enough selenium to support healthy thyroid hormone conversion.",
-      "**Liver** - Garlic, Grapefruit, Leafy greens. Garlic activates liver enzymes that flush out toxins before they build up.",
-      "**Joints** - Salmon, Walnuts, Cherries. Tart cherries are one of the few foods that naturally lower uric acid, easing joint stiffness.",
-      "**Bone marrow** - Red meat, Lentils, Pumpkin seeds. These iron-rich foods give marrow the raw material it needs to keep producing fresh blood cells.",
-      "**Follow along** - for more daily health tips like this."
+      "**Night blindness** – Struggling to see in dim light or when headlights hit you while driving often points to low vitamin A.",
+      "**White spots on skin** – Patchy, pale areas that don't tan can signal low vitamin E or an underlying nutrient absorption issue.",
+      "**Cracked corners of the mouth** – Painful splits at the edges of your lips are a classic sign of low riboflavin (B2) or iron.",
+      "**Muscle cramps that won't quit** – Calf cramps at night or random muscle spasms often trace back to low magnesium or calcium.",
+      "**Tingling or numbness in hands** – A pins-and-needles feeling, especially paired with brain fog, points to low vitamin B12.",
+      "**Heart palpitations** – A fluttering or pounding heartbeat with no clear cause can be linked to low potassium or magnesium.",
+      "**Dry, scaly patches on the scalp** – Flaky skin that won't go away with regular shampoo can mean low omega-3 or zinc.",
+      "**Slow thinking and brain fog** – Feeling mentally slower than usual, even after sleep, is tied to low iron or folate affecting oxygen flow to the brain.",
+      "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Your gallbladder works harder than most people realize, and beets are one of its best allies - the betaine inside them keeps bile thin and flowing instead of letting it crystallize over time. Your thyroid, tucked quietly in your neck, runs almost entirely on selenium, and just 2 Brazil nuts a day can cover what it needs to convert hormones properly. And don't sleep on your bladder - cranberries aren't just a UTI home remedy myth, the compounds in them physically stop bacteria from gripping onto the bladder lining in the first place. Everyone's body is different, so pay attention to what yours responds to.\n\nAt @smarthealthfix we dig into nutrition, common health issues, the organs behind them, and the small daily habits that tie it all together. Our mission is to make taking care of your body feel simple instead of overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "If you've been dealing with night blindness, it might not just be 'bad eyes' — vitamin A is essential for the light-sensitive cells in your retina, and without enough of it those cells can't adapt fast enough when lighting changes. Tingling in your hands is another one worth paying attention to: vitamin B12 is required to maintain the protective coating around your nerves, so when levels drop, nerve signals literally start misfiring. And those heart palpitations that seem to come out of nowhere? Potassium helps regulate the electrical signals that keep your heartbeat steady, so even a mild dip can make your heart feel like it's skipping or racing. Everyone's body is different, so listen to yours and don't ignore patterns that keep repeating.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits that actually make a difference. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#organhealth",
-      "#thyroidhealth",
-      "#liverdetox",
-      "#gallbladder",
-      "#bladderhealth",
-      "#boneandjoint",
-      "#nutritiontips",
+      "#healthtips",
+      "#vitamindeficiency",
+      "#vitaminb12",
+      "#vitamina",
+      "#magnesium",
+      "#potassium",
+      "#nutritionfacts",
       "#wellnessjourney",
-      "#healthyfood",
-      "#guthealth"
+      "#guthealth",
+      "#selfcare"
     ],
     "extra_keywords": [
-      "organhealing",
-      "nutrientdense",
+      "nutrientdeficiency",
       "healthyhabits",
-      "wholefoods",
-      "bodyawareness"
+      "wellnesstips",
+      "nutritionmatters"
     ]
   },
-  "shape": "organ_food_list",
-  "caption": "Your gallbladder works harder than most people realize, and beets are one of its best allies - the betaine inside them keeps bile thin and flowing instead of letting it crystallize over time. Your thyroid, tucked quietly in your neck, runs almost entirely on selenium, and just 2 Brazil nuts a day can cover what it needs to convert hormones properly. And don't sleep on your bladder - cranberries aren't just a UTI home remedy myth, the compounds in them physically stop bacteria from gripping onto the bladder lining in the first place. Everyone's body is different, so pay attention to what yours responds to.\n\nAt @smarthealthfix we dig into nutrition, common health issues, the organs behind them, and the small daily habits that tie it all together. Our mission is to make taking care of your body feel simple instead of overwhelming.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#organhealth #thyroidhealth #liverdetox #gallbladder #bladderhealth #boneandjoint #nutritiontips #wellnessjourney #healthyfood #guthealth organhealing nutrientdense healthyhabits wholefoods bodyawareness"
+  "shape": "symptom_list",
+  "caption": "If you've been dealing with night blindness, it might not just be 'bad eyes' — vitamin A is essential for the light-sensitive cells in your retina, and without enough of it those cells can't adapt fast enough when lighting changes. Tingling in your hands is another one worth paying attention to: vitamin B12 is required to maintain the protective coating around your nerves, so when levels drop, nerve signals literally start misfiring. And those heart palpitations that seem to come out of nowhere? Potassium helps regulate the electrical signals that keep your heartbeat steady, so even a mild dip can make your heart feel like it's skipping or racing. Everyone's body is different, so listen to yours and don't ignore patterns that keep repeating.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits that actually make a difference. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #vitamindeficiency #vitaminb12 #vitamina #magnesium #potassium #nutritionfacts #wellnessjourney #guthealth #selfcare nutrientdeficiency healthyhabits wellnesstips nutritionmatters"
 }
