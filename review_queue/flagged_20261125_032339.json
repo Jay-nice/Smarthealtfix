@@ -1,0 +1,270 @@
+{
+  "shape": "nutrient_comparison",
+  "content": {
+    "title": "THE PRODUCE AISLE CHEAT SHEET {{NOBODY}} GIVES YOU AT THE STORE",
+    "facts": [
+      "A cup of cooked spinach has more **iron** than a 3oz beef patty, just without the easy absorption — pair it with lemon juice to help your body actually use it.",
+      "One cup of cooked **edamame** has nearly 10g of fiber, more than a whole bowl of oatmeal.",
+      "A single **kiwi** has more vitamin C than an orange, skin included if you can stomach it.",
+      "Half a cup of cooked **butternut squash** gives you more vitamin A than a medium carrot.",
+      "A cup of **pomegranate seeds** delivers more potassium than a medium banana.",
+      "Two tablespoons of **ground flaxseed** have more omega-3 ALA than a serving of walnuts.",
+      "A cup of cooked **collard greens** has more calcium than a cup of milk, bone-building without the dairy.",
+      "One cup of **dried figs** (about 8 figs) has more calcium than most people expect from a fruit, closer to a glass of milk than an apple.",
+      "A serving of **mushrooms** left in sunlight for 10 minutes can produce real vitamin D, more than most people get from a multivitamin.",
+      "A cup of raw **broccoli** has more vitamin K than a cup of lettuce, important for how your blood clots and your bones hold calcium.",
+      "**Follow along** – for more daily health tips like this."
+    ],
+    "claims": [
+      {
+        "food_a": "cooked spinach",
+        "food_b": "beef patty",
+        "nutrient_key": "iron"
+      },
+      {
+        "food_a": "edamame",
+        "food_b": "oatmeal",
+        "nutrient_key": "fiber"
+      },
+      {
+        "food_a": "kiwi",
+        "food_b": "orange",
+        "nutrient_key": "vitamin_c"
+      },
+      {
+        "food_a": "butternut squash",
+        "food_b": "carrot",
+        "nutrient_key": "vitamin_k"
+      },
+      {
+        "food_a": "pomegranate seeds",
+        "food_b": "banana",
+        "nutrient_key": "potassium"
+      },
+      {
+        "food_a": "ground flaxseed",
+        "food_b": "walnuts",
+        "nutrient_key": "omega3_ala"
+      },
+      {
+        "food_a": "collard greens",
+        "food_b": "milk",
+        "nutrient_key": "calcium"
+      },
+      {
+        "food_a": "dried figs",
+        "food_b": "milk",
+        "nutrient_key": "calcium"
+      },
+      {
+        "food_a": "broccoli",
+        "food_b": "lettuce",
+        "nutrient_key": "vitamin_k"
+      }
+    ],
+    "caption": "A few of these are worth slowing down on. Spinach is loaded with iron, but it's the non-heme kind your body struggles to absorb — that's why pairing it with vitamin C, like a squeeze of lemon, can make a real difference in how much you actually keep. Edamame's fiber doesn't just fill you up, it feeds the bacteria in your gut that help regulate inflammation and digestion over time. And mushrooms are the only produce aisle item that can actually make vitamin D when exposed to UV light, the same way your skin does — leaving them gill-side-up in the sun before cooking can meaningfully boost that number. Everyone's body absorbs nutrients differently, so none of this replaces bloodwork if something feels off.\n\nAt @smarthealthfix we cover nutrition, common health issues, your organs, and the small daily habits that tie it all together. Our mission is to help you build small, realistic changes instead of chasing the next quick fix.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "hashtags": [
+      "#nutritionfacts",
+      "#healthtips",
+      "#wellness",
+      "#vitamind",
+      "#ironrich",
+      "#fiberfoods",
+      "#plantbased",
+      "#guthealth",
+      "#micronutrients",
+      "#eatrealfood"
+    ],
+    "extra_keywords": [
+      "nutrientdensefoods",
+      "wellnessjourney",
+      "foodismedicine",
+      "healthyeatinghabits"
+    ]
+  },
+  "approved": false,
+  "fact_check_report": {
+    "checked": 9,
+    "issues": [
+      {
+        "claim": {
+          "food_a": "cooked spinach",
+          "food_b": "beef patty",
+          "nutrient_key": "iron"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "cooked spinach",
+          "food_b": "beef patty",
+          "nutrient": "iron",
+          "amount_a": {
+            "amount": 1.48,
+            "unit": "MG",
+            "food_description": "Malabar spinach, cooked",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 2.41,
+            "unit": "MG",
+            "food_description": "Beef, ground, patty",
+            "per": "100g"
+          },
+          "ratio": 0.61
+        }
+      },
+      {
+        "claim": {
+          "food_a": "edamame",
+          "food_b": "oatmeal",
+          "nutrient_key": "fiber"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "edamame",
+          "food_b": "oatmeal",
+          "nutrient": "fiber",
+          "amount_a": {
+            "amount": 4.7,
+            "unit": "G",
+            "food_description": "EDAMAME",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 8.9,
+            "unit": "G",
+            "food_description": "OATMEAL",
+            "per": "100g"
+          },
+          "ratio": 0.53
+        }
+      },
+      {
+        "claim": {
+          "food_a": "kiwi",
+          "food_b": "orange",
+          "nutrient_key": "vitamin_c"
+        },
+        "verdict": "known_shaky",
+        "note": "Een kiwi heeft veel vitamine C per calorie, maar een hele sinaasappel (groter, meer gewicht) bevat vaak een vergelijkbare of hogere absolute hoeveelheid. 'Kiwi heeft meer vitamine C dan een sinaasappel' is dus geen harde winst — nuanceren of vermijden."
+      },
+      {
+        "claim": {
+          "food_a": "butternut squash",
+          "food_b": "carrot",
+          "nutrient_key": "vitamin_k"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "pomegranate seeds",
+          "food_b": "banana",
+          "nutrient_key": "potassium"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "pomegranate seeds",
+          "food_b": "banana",
+          "nutrient": "potassium",
+          "amount_a": {
+            "amount": 236,
+            "unit": "MG",
+            "food_description": "POMEGRANATE SEEDS",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 422,
+            "unit": "mg",
+            "per": "1 medium (118g)"
+          },
+          "ratio": 0.56
+        }
+      },
+      {
+        "claim": {
+          "food_a": "ground flaxseed",
+          "food_b": "walnuts",
+          "nutrient_key": "omega3_ala"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      },
+      {
+        "claim": {
+          "food_a": "collard greens",
+          "food_b": "milk",
+          "nutrient_key": "calcium"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "collard greens",
+          "food_b": "milk",
+          "nutrient": "calcium",
+          "amount_a": {
+            "amount": 118,
+            "unit": "MG",
+            "food_description": "COLLARD GREENS",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 125,
+            "unit": "MG",
+            "food_description": "MILK",
+            "per": "100g"
+          },
+          "ratio": 0.94
+        }
+      },
+      {
+        "claim": {
+          "food_a": "dried figs",
+          "food_b": "milk",
+          "nutrient_key": "calcium"
+        },
+        "verdict": "contradicted",
+        "detail": {
+          "verdict": "contradicted",
+          "food_a": "dried figs",
+          "food_b": "milk",
+          "nutrient": "calcium",
+          "amount_a": {
+            "amount": 93.0,
+            "unit": "MG",
+            "food_description": "DRIED FIGS",
+            "per": "100g"
+          },
+          "amount_b": {
+            "amount": 125,
+            "unit": "MG",
+            "food_description": "MILK",
+            "per": "100g"
+          },
+          "ratio": 0.74
+        }
+      },
+      {
+        "claim": {
+          "food_a": "broccoli",
+          "food_b": "lettuce",
+          "nutrient_key": "vitamin_k"
+        },
+        "verdict": "unverifiable",
+        "detail": {
+          "verdict": "unverifiable",
+          "reason": "Geen data gevonden voor een van beide, stuur naar handmatige review."
+        }
+      }
+    ]
+  }
+}
