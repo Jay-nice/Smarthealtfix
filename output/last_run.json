@@ -1,43 +1,48 @@
 {
-  "png": "output/reel_20261126_024056.png",
-  "mp4": "output/reel_20261126_024056.mp4",
-  "cover": "output/cover_20261126_024056.png",
+  "png": "output/reel_20261126_192730.png",
+  "mp4": "output/reel_20261126_192730.mp4",
+  "cover": "output/cover_20261126_192730.png",
   "cover_bg": "white",
   "content": {
-    "title": "THE FOOD-TO-ORGAN MATCHUPS NUTRITIONISTS ACTUALLY USE",
+    "title": "16 FOOD FACTS THAT SOUND MADE UP BUT {{AREN'T}}",
     "facts": [
-      "**BEETS are good for LIVER** – their natural pigments help your liver flush out toxins and keep bile flowing smoothly.",
-      "**WALNUTS are good for BRAIN** – 7 walnuts/day deliver plant-based omega-3s that support memory and focus.",
-      "**ASPARAGUS is good for KIDNEYS** – it acts as a gentle natural diuretic, helping kidneys flush excess fluid.",
-      "**OATS are good for ARTERIES** – 1 bowl/day traps cholesterol in the gut before it reaches your bloodstream.",
-      "**PUMPKIN SEEDS are good for PROSTATE** – a handful a day supplies plant compounds linked to healthy prostate function.",
-      "**BLUEBERRIES are good for HIPPOCAMPUS** – 1 cup/day feeds the exact brain region responsible for memory formation.",
-      "**FERMENTED FOODS are good for GUT LINING** – a daily spoon of sauerkraut or kimchi feeds the bacteria that guard your gut wall.",
-      "**DARK LEAFY GREENS are good for LUNGS** – 1 cup/day delivers nitrates that relax airways and ease breathing.",
-      "**TOMATOES are good for SKIN BARRIER** – cooked tomatoes release lycopene, which shields skin cells from sun damage.",
-      "**Follow along** – for more daily health tips like this."
+      "**Nutmeg** – just 2 whole grated nutmegs can cause hallucinations and dangerous poisoning. It's technically a mild hallucinogen in large doses.",
+      "**Carrots** – eating extreme amounts can literally turn your skin orange. It's a real condition called carotenemia, and it's harmless, just cosmetic.",
+      "**Cashews** – the ones you buy are never sold in-shell, because the shell contains a toxic oil related to poison ivy that must be carefully removed first.",
+      "**Apple seeds** – they contain a compound that turns into cyanide in your gut, but you'd need to chew and swallow hundreds of seeds for it to matter.",
+      "**Strawberries** – they're not technically a berry, but bananas and avocados botanically are. Fruit classification rarely matches the grocery aisle.",
+      "**Black pepper** – it was once so valuable in medieval Europe that it was used as currency to pay rent, taxes, and even dowries.",
+      "**Rhubarb** – the stalks are a popular dessert ingredient, but the leaves contain enough oxalic acid to be genuinely toxic if eaten in quantity.",
+      "**Chewing gum** – if swallowed, it does not stay in your stomach for 7 years. It passes through your digestive system mostly intact within days.",
+      "**Pineapple** – it contains an enzyme called bromelain that actively breaks down proteins, which is why your tongue can feel raw after eating a lot of it.",
+      "**Cold water** – drinking it does not burn extra calories in any meaningful way, despite the popular claim that your body works hard to warm it up.",
+      "**Lychee** – unripe lychee fruit has caused real, documented outbreaks of sudden illness in children in parts of India due to a toxin that drops blood sugar.",
+      "**Nutritional yeast** – it's a deactivated fungus, not a vegetable, yet it's one of the few plant foods that naturally contains vitamin B12 when fortified.",
+      "**Almonds** – wild bitter almonds contain enough natural cyanide compounds that eating a handful raw could theoretically be dangerous; cultivated sweet almonds are bred to be safe.",
+      "**Follow along** – for more surprising, verified food facts like this, every week."
     ],
     "claims": [],
-    "caption": "Let's break down a few of these pairings a bit more. Beets contain compounds called betalains that specifically support phase 2 liver detoxification, the stage where your liver neutralizes toxins before they leave the body. Walnuts aren't just \"good fats\" in general — their omega-3 content (ALA) gets converted in small amounts to DHA, a fat your brain actually uses to build cell membranes in memory-related areas. And asparagus works almost like a gentle reset button for your kidneys: its natural diuretic effect helps move excess sodium and water out through urine, which is why some people notice less puffiness after eating it regularly. Everyone's body responds a little differently, so pay attention to what your own body is telling you.\n\nAt @smarthealthfix, we focus on the everyday connections between nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our goal isn't a quick fix — it's helping you build simple habits you can actually stick with long-term.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "The nutmeg fact genuinely surprises most people: your body converts a compound called myristicin into something chemically similar to amphetamines when you eat large amounts, which is why historic cases of 'nutmeg poisoning' involved real hallucinations and racing hearts. Pineapple is another one worth understanding — bromelain isn't just folklore, it's an actual protein-digesting enzyme strong enough that it's used commercially to tenderize meat, which is literally why your mouth tingles after a big bowl of it. And rhubarb's danger isn't a myth either: the leaves concentrate oxalic acid at levels high enough to affect your kidneys and nervous system, which is exactly why only the stalks ever made it into pie. Everyone's tolerance and body chemistry differs, so when in doubt, moderation is the safer bet.\n\nAt @smarthealthfix, we dig into nutrition, everyday health issues, how your organs actually work, and small daily habits that add up over time. Our mission is simple: help you understand your body a little better, one surprising fact at a time, instead of chasing fads.\n\nSave this post so you don't lose it, and share it with someone who loves weird, true facts.",
     "hashtags": [
-      "#healthtips",
-      "#organhealth",
-      "#guthealth",
-      "#brainhealth",
-      "#liverhealth",
-      "#kidneyhealth",
+      "#foodfacts",
       "#nutritionfacts",
-      "#foodismedicine",
-      "#wellnessjourney",
-      "#eatclean"
+      "#healthtips",
+      "#didyouknow",
+      "#wellness",
+      "#foodscience",
+      "#healthyeating",
+      "#surprisingfacts",
+      "#nutritioneducation",
+      "#healthfacts"
     ],
     "extra_keywords": [
-      "naturalhealing",
+      "foodtrivia",
+      "nutritionmyths",
+      "wellnessjourney",
       "healthyhabits",
-      "organsupport",
-      "cleaneating"
+      "naturalhealing"
     ]
   },
-  "shape": "allcaps_benefit",
-  "caption": "Let's break down a few of these pairings a bit more. Beets contain compounds called betalains that specifically support phase 2 liver detoxification, the stage where your liver neutralizes toxins before they leave the body. Walnuts aren't just \"good fats\" in general — their omega-3 content (ALA) gets converted in small amounts to DHA, a fat your brain actually uses to build cell membranes in memory-related areas. And asparagus works almost like a gentle reset button for your kidneys: its natural diuretic effect helps move excess sodium and water out through urine, which is why some people notice less puffiness after eating it regularly. Everyone's body responds a little differently, so pay attention to what your own body is telling you.\n\nAt @smarthealthfix, we focus on the everyday connections between nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our goal isn't a quick fix — it's helping you build simple habits you can actually stick with long-term.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #organhealth #guthealth #brainhealth #liverhealth #kidneyhealth #nutritionfacts #foodismedicine #wellnessjourney #eatclean naturalhealing healthyhabits organsupport cleaneating"
+  "shape": "surprising_true_fact",
+  "caption": "The nutmeg fact genuinely surprises most people: your body converts a compound called myristicin into something chemically similar to amphetamines when you eat large amounts, which is why historic cases of 'nutmeg poisoning' involved real hallucinations and racing hearts. Pineapple is another one worth understanding — bromelain isn't just folklore, it's an actual protein-digesting enzyme strong enough that it's used commercially to tenderize meat, which is literally why your mouth tingles after a big bowl of it. And rhubarb's danger isn't a myth either: the leaves concentrate oxalic acid at levels high enough to affect your kidneys and nervous system, which is exactly why only the stalks ever made it into pie. Everyone's tolerance and body chemistry differs, so when in doubt, moderation is the safer bet.\n\nAt @smarthealthfix, we dig into nutrition, everyday health issues, how your organs actually work, and small daily habits that add up over time. Our mission is simple: help you understand your body a little better, one surprising fact at a time, instead of chasing fads.\n\nSave this post so you don't lose it, and share it with someone who loves weird, true facts.\n\n#foodfacts #nutritionfacts #healthtips #didyouknow #wellness #foodscience #healthyeating #surprisingfacts #nutritioneducation #healthfacts foodtrivia nutritionmyths wellnessjourney healthyhabits naturalhealing"
 }
