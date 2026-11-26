@@ -1,42 +1,43 @@
 {
-  "png": "output/reel_20261125_233357.png",
-  "mp4": "output/reel_20261125_233357.mp4",
-  "cover": "output/cover_20261125_233357.png",
+  "png": "output/reel_20261126_024056.png",
+  "mp4": "output/reel_20261126_024056.mp4",
+  "cover": "output/cover_20261126_024056.png",
   "cover_bg": "white",
   "content": {
-    "title": "WHY YOUR {{EYES}} KEEP TELLING ON YOU",
+    "title": "THE FOOD-TO-ORGAN MATCHUPS NUTRITIONISTS ACTUALLY USE",
     "facts": [
-      "**Night blindness** – Struggling to see in dim light or when headlights hit you while driving often points to low vitamin A.",
-      "**White spots on skin** – Patchy, pale areas that don't tan can signal low vitamin E or an underlying nutrient absorption issue.",
-      "**Cracked corners of the mouth** – Painful splits at the edges of your lips are a classic sign of low riboflavin (B2) or iron.",
-      "**Muscle cramps that won't quit** – Calf cramps at night or random muscle spasms often trace back to low magnesium or calcium.",
-      "**Tingling or numbness in hands** – A pins-and-needles feeling, especially paired with brain fog, points to low vitamin B12.",
-      "**Heart palpitations** – A fluttering or pounding heartbeat with no clear cause can be linked to low potassium or magnesium.",
-      "**Dry, scaly patches on the scalp** – Flaky skin that won't go away with regular shampoo can mean low omega-3 or zinc.",
-      "**Slow thinking and brain fog** – Feeling mentally slower than usual, even after sleep, is tied to low iron or folate affecting oxygen flow to the brain.",
+      "**BEETS are good for LIVER** – their natural pigments help your liver flush out toxins and keep bile flowing smoothly.",
+      "**WALNUTS are good for BRAIN** – 7 walnuts/day deliver plant-based omega-3s that support memory and focus.",
+      "**ASPARAGUS is good for KIDNEYS** – it acts as a gentle natural diuretic, helping kidneys flush excess fluid.",
+      "**OATS are good for ARTERIES** – 1 bowl/day traps cholesterol in the gut before it reaches your bloodstream.",
+      "**PUMPKIN SEEDS are good for PROSTATE** – a handful a day supplies plant compounds linked to healthy prostate function.",
+      "**BLUEBERRIES are good for HIPPOCAMPUS** – 1 cup/day feeds the exact brain region responsible for memory formation.",
+      "**FERMENTED FOODS are good for GUT LINING** – a daily spoon of sauerkraut or kimchi feeds the bacteria that guard your gut wall.",
+      "**DARK LEAFY GREENS are good for LUNGS** – 1 cup/day delivers nitrates that relax airways and ease breathing.",
+      "**TOMATOES are good for SKIN BARRIER** – cooked tomatoes release lycopene, which shields skin cells from sun damage.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "If you've been dealing with night blindness, it might not just be 'bad eyes' — vitamin A is essential for the light-sensitive cells in your retina, and without enough of it those cells can't adapt fast enough when lighting changes. Tingling in your hands is another one worth paying attention to: vitamin B12 is required to maintain the protective coating around your nerves, so when levels drop, nerve signals literally start misfiring. And those heart palpitations that seem to come out of nowhere? Potassium helps regulate the electrical signals that keep your heartbeat steady, so even a mild dip can make your heart feel like it's skipping or racing. Everyone's body is different, so listen to yours and don't ignore patterns that keep repeating.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits that actually make a difference. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Let's break down a few of these pairings a bit more. Beets contain compounds called betalains that specifically support phase 2 liver detoxification, the stage where your liver neutralizes toxins before they leave the body. Walnuts aren't just \"good fats\" in general — their omega-3 content (ALA) gets converted in small amounts to DHA, a fat your brain actually uses to build cell membranes in memory-related areas. And asparagus works almost like a gentle reset button for your kidneys: its natural diuretic effect helps move excess sodium and water out through urine, which is why some people notice less puffiness after eating it regularly. Everyone's body responds a little differently, so pay attention to what your own body is telling you.\n\nAt @smarthealthfix, we focus on the everyday connections between nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our goal isn't a quick fix — it's helping you build simple habits you can actually stick with long-term.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
       "#healthtips",
-      "#vitamindeficiency",
-      "#vitaminb12",
-      "#vitamina",
-      "#magnesium",
-      "#potassium",
-      "#nutritionfacts",
-      "#wellnessjourney",
+      "#organhealth",
       "#guthealth",
-      "#selfcare"
+      "#brainhealth",
+      "#liverhealth",
+      "#kidneyhealth",
+      "#nutritionfacts",
+      "#foodismedicine",
+      "#wellnessjourney",
+      "#eatclean"
     ],
     "extra_keywords": [
-      "nutrientdeficiency",
+      "naturalhealing",
       "healthyhabits",
-      "wellnesstips",
-      "nutritionmatters"
+      "organsupport",
+      "cleaneating"
     ]
   },
-  "shape": "symptom_list",
-  "caption": "If you've been dealing with night blindness, it might not just be 'bad eyes' — vitamin A is essential for the light-sensitive cells in your retina, and without enough of it those cells can't adapt fast enough when lighting changes. Tingling in your hands is another one worth paying attention to: vitamin B12 is required to maintain the protective coating around your nerves, so when levels drop, nerve signals literally start misfiring. And those heart palpitations that seem to come out of nowhere? Potassium helps regulate the electrical signals that keep your heartbeat steady, so even a mild dip can make your heart feel like it's skipping or racing. Everyone's body is different, so listen to yours and don't ignore patterns that keep repeating.\n\nAt @smarthealthfix, we break down nutrition, common health issues, organ function, and small daily habits that actually make a difference. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #vitamindeficiency #vitaminb12 #vitamina #magnesium #potassium #nutritionfacts #wellnessjourney #guthealth #selfcare nutrientdeficiency healthyhabits wellnesstips nutritionmatters"
+  "shape": "allcaps_benefit",
+  "caption": "Let's break down a few of these pairings a bit more. Beets contain compounds called betalains that specifically support phase 2 liver detoxification, the stage where your liver neutralizes toxins before they leave the body. Walnuts aren't just \"good fats\" in general — their omega-3 content (ALA) gets converted in small amounts to DHA, a fat your brain actually uses to build cell membranes in memory-related areas. And asparagus works almost like a gentle reset button for your kidneys: its natural diuretic effect helps move excess sodium and water out through urine, which is why some people notice less puffiness after eating it regularly. Everyone's body responds a little differently, so pay attention to what your own body is telling you.\n\nAt @smarthealthfix, we focus on the everyday connections between nutrition, common symptoms, your organs, and the small daily habits that tie it all together. Our goal isn't a quick fix — it's helping you build simple habits you can actually stick with long-term.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #organhealth #guthealth #brainhealth #liverhealth #kidneyhealth #nutritionfacts #foodismedicine #wellnessjourney #eatclean naturalhealing healthyhabits organsupport cleaneating"
 }
