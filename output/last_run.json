@@ -1,42 +1,42 @@
 {
-  "png": "output/reel_20261127_192347.png",
-  "mp4": "output/reel_20261127_192347.mp4",
-  "cover": "output/cover_20261127_192347.png",
+  "png": "output/reel_20261127_232238.png",
+  "mp4": "output/reel_20261127_232238.mp4",
+  "cover": "output/cover_20261127_232238.png",
   "cover_bg": "white",
   "content": {
-    "title": "IF YOU ATE {{THIS}} EVERY DAY... HERE'S WHAT YOUR BODY DOES",
+    "title": "KITCHEN MISTAKES THAT ACTUALLY LAND PEOPLE IN BED SICK",
     "facts": [
-      "If you ate **sardines** every day for 3 weeks, your joints would feel less stiff in the morning as the omega-3s calm inflammation around them.",
-      "If you ate **beef liver** every day for 10 days, your energy would stabilize and that 3pm crash would fade, thanks to a flood of B12 and easily absorbed iron.",
-      "If you ate **kimchi** every day for 2 weeks, your bloating would ease up as its live bacteria crowd out the gas-producing microbes in your gut.",
-      "If you ate **sunflower seeds** every day for 30 days, your skin would look slightly smoother from the vitamin E protecting it against daily oxidative stress.",
-      "If you ate **lentils** every day for 1 week, your hunger would stop spiking between meals as their fiber and protein slow digestion way down.",
-      "If you ate **oysters** every day for 2 weeks (if you can stomach it), your wound healing and immune response would sharpen up from the massive zinc dose.",
-      "If you ate **dark chocolate (85%+)** every day for 2 weeks, your blood pressure could nudge down slightly as flavanols help your blood vessels relax.",
-      "If you ate **figs** every day for 10 days, you'd likely notice more regular digestion as their fiber and natural sugars get things moving gently.",
+      "**Melon** – Leaving cut melon out on the counter past 2 hours (bacteria like listeria multiply fast on its moist, sugary surface).",
+      "**Eggs** – Storing them in the fridge door instead of the main shelf (temperature swings every time the door opens speed up bacterial growth).",
+      "**Chicken** – Rinsing raw chicken under the tap before cooking (splashes spread salmonella around your sink and counters instead of removing it).",
+      "**Potato salad / mayo dishes** – Leaving them out at a picnic for hours (warm, moist conditions let bacteria multiply quickly once past the 2-hour mark).",
+      "**Leftover rice** – Cooling it slowly on the counter before fridging (Bacillus cereus spores can survive cooking and multiply as rice cools too slowly).",
+      "**Garlic in oil** – Making homemade garlic-infused oil and storing it at room temperature (low-oxygen environment can let botulinum toxin develop).",
+      "**Frozen meat** – Thawing it on the counter instead of in the fridge or cold water (the outer layer reaches unsafe temperatures long before the center defrosts).",
+      "**Canned food** – Using a can that's bulging or dented at the seam (a sign gas-producing bacteria, including botulism risk, may be present inside).",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Small daily swaps add up faster than people think. Take **sardines** — the omega-3s in them don't just sit there, they actually get built into your joint tissue and dial down the inflammatory chemicals your body releases when things get irritated. **Kimchi** works differently: it's a live culture, so every bite is dropping beneficial bacteria into your gut that compete with the species linked to excess gas and bloating, which is why people often notice a calmer stomach within days. And **oysters**, despite the ick factor for some, are one of the densest natural sources of zinc, a mineral your immune cells and skin cells both depend on to repair themselves quickly. Everyone's body is different, so give it time and listen to yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "Let's talk about a few of these a little deeper. Leftover rice is one people underestimate constantly — Bacillus cereus spores actually survive the cooking process, and if rice sits out cooling slowly, those spores wake up and multiply, producing toxins that reheating won't destroy. Garlic in oil sounds harmless and even fancy, but garlic is a low-acid food, and when it sits in oil at room temperature it creates exactly the oxygen-free environment that botulinum bacteria love — this is why store-bought versions are acidified and yours at home usually isn't. And that bulging can? It's not just \"probably fine\" — gas buildup from bacterial activity inside a sealed can is one of the classic warning signs food safety experts tell people never to ignore. Everyone's kitchen habits are a little different, but these are worth taking seriously.\n\nAt @smarthealthfix, we cover everything from nutrition and common health complaints to organ function and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
+      "#foodsafety",
       "#healthtips",
-      "#nutritionfacts",
-      "#guthealth",
-      "#antiinflammatory",
-      "#wholefoods",
-      "#eatclean",
-      "#immunesupport",
-      "#wellnessjourney",
-      "#foodismedicine",
+      "#kitchenmistakes",
+      "#foodpoisoning",
+      "#mealprep",
+      "#wellness",
+      "#healthyhabits",
+      "#leftovers",
+      "#foodstorage",
       "#smarthealthfix"
     ],
     "extra_keywords": [
-      "naturalhealing",
-      "dailyhabits",
-      "nutrientdense",
-      "healthyeating"
+      "foodsafetytips",
+      "kitchenhacks",
+      "wellnessjourney",
+      "preventfoodpoisoning"
     ]
   },
-  "shape": "conditional_transformation",
-  "caption": "Small daily swaps add up faster than people think. Take **sardines** — the omega-3s in them don't just sit there, they actually get built into your joint tissue and dial down the inflammatory chemicals your body releases when things get irritated. **Kimchi** works differently: it's a live culture, so every bite is dropping beneficial bacteria into your gut that compete with the species linked to excess gas and bloating, which is why people often notice a calmer stomach within days. And **oysters**, despite the ick factor for some, are one of the densest natural sources of zinc, a mineral your immune cells and skin cells both depend on to repair themselves quickly. Everyone's body is different, so give it time and listen to yours.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and small daily habits that actually move the needle. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #nutritionfacts #guthealth #antiinflammatory #wholefoods #eatclean #immunesupport #wellnessjourney #foodismedicine #smarthealthfix naturalhealing dailyhabits nutrientdense healthyeating"
+  "shape": "food_safety_mistake",
+  "caption": "Let's talk about a few of these a little deeper. Leftover rice is one people underestimate constantly — Bacillus cereus spores actually survive the cooking process, and if rice sits out cooling slowly, those spores wake up and multiply, producing toxins that reheating won't destroy. Garlic in oil sounds harmless and even fancy, but garlic is a low-acid food, and when it sits in oil at room temperature it creates exactly the oxygen-free environment that botulinum bacteria love — this is why store-bought versions are acidified and yours at home usually isn't. And that bulging can? It's not just \"probably fine\" — gas buildup from bacterial activity inside a sealed can is one of the classic warning signs food safety experts tell people never to ignore. Everyone's kitchen habits are a little different, but these are worth taking seriously.\n\nAt @smarthealthfix, we cover everything from nutrition and common health complaints to organ function and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodsafety #healthtips #kitchenmistakes #foodpoisoning #mealprep #wellness #healthyhabits #leftovers #foodstorage #smarthealthfix foodsafetytips kitchenhacks wellnessjourney preventfoodpoisoning"
 }
