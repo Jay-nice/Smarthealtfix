@@ -1,41 +1,43 @@
 {
-  "png": "output/reel_20261126_234426.png",
-  "mp4": "output/reel_20261126_234426.mp4",
-  "cover": "output/cover_20261126_234426.png",
+  "png": "output/reel_20261127_024127.png",
+  "mp4": "output/reel_20261127_024127.mp4",
+  "cover": "output/cover_20261127_024127.png",
   "cover_bg": "white",
   "content": {
-    "title": "NEW PARENTS: DO THESE 7 THINGS BEFORE YOU EVEN THINK ABOUT SLEEP TRAINING",
+    "title": "THE KITCHEN HABITS QUIETLY DESTROYING YOUR {{HEALTHY}} MEALS",
     "facts": [
-      "**Eat standing up if you have to** – but get 20g of protein in before noon, it keeps your blood sugar from crashing into a 3pm meltdown.",
-      "**Drink 1 glass of water** before every feed/pump session, not after - dehydration sneaks up fast when you're running on broken sleep.",
-      "**Step outside for 5 minutes** within an hour of waking, morning light resets your body clock even if your schedule is total chaos.",
-      "**Batch snacks you don't have to think about** - string cheese, boiled eggs, trail mix - decision fatigue is real and it's not about willpower.",
-      "**Set a 2-minute timer for deep breathing** when the crying hits a wall, it won't fix the moment but it lowers your cortisol enough to think clearly.",
-      "**Ask one person for one specific task** this week, not 'let me know if you need anything' - specific requests actually get answered.",
-      "**Lie down even if you can't sleep** during one nap a day, rest without sleep still lowers physical stress on your body.",
+      "**Overcrowding the pan** – Too many vegetables at once steam instead of sear, which means they leach out water-soluble nutrients into the liquid pooling at the bottom instead of caramelizing.",
+      "**Boiling vegetables** – Broccoli and spinach can lose a large share of their vitamin C and B vitamins into the cooking water; steaming or microwaving keeps far more intact.",
+      "**Draining and tossing pasta/rice water** – That starchy water holds minerals and can be saved to thicken sauces, but most people pour it straight down the drain.",
+      "**Adding salt too early** – Salting watery vegetables like zucchini or eggplant too soon pulls out moisture before they even hit the heat, leaving you with soggy, steamed results instead of browned.",
+      "**Skipping the resting step** – Cutting into meat or fish right off the heat lets all the juices run out onto the plate instead of redistributing back into the fibers.",
+      "**Using the wrong oil for high heat** – Cooking extra virgin olive oil or flaxseed oil at high temperatures breaks it down and creates compounds you don't want; save those for finishing, not searing.",
+      "**Washing produce after cutting** – Slicing fruit before rinsing it can push surface bacteria into the flesh; always wash whole, then cut.",
+      "**Microwaving in the wrong container** – Reheating in certain plastic containers at high heat can leach compounds into food; glass or ceramic is the safer default.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "The protein push matters more than people admit - when you're sleep-deprived, your blood sugar swings harder and faster, and low protein in the morning makes that 3pm crash brutal. Water timing is another sneaky one: new parents chronically under-drink because thirst cues get buried under everything else happening, and mild dehydration alone can mimic fatigue and irritability. And that 5-minute morning light habit isn't just a nice idea - natural light exposure early in the day helps anchor your circadian rhythm even when your actual sleep schedule is fragmented and unpredictable. Everyone's body and situation is different, so take what fits your week.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and small daily habits that actually hold up in real life. Our mission is to help you build small, realistic routines instead of chasing a perfect system that falls apart by day two.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.",
+    "caption": "A few of these kitchen habits are worth slowing down on. Take boiling vegetables: when broccoli or spinach hit rolling water, their water-soluble vitamins (like vitamin C and folate) actually dissolve out into the liquid, so you're pouring nutrients down the drain along with the water. Overcrowding the pan is another sneaky one — when there's too much food packed in, the temperature drops and everything releases steam instead of browning, which not only kills flavor but means less of those beneficial plant compounds get activated through proper searing. And skipping the resting step after cooking meat matters more than people think: cutting too soon lets the juices (and the nutrients carried in them) spill onto the cutting board instead of soaking back into the fibers. Everyone's kitchen setup is different, so adjust what makes sense for how you actually cook.\n\nAt @smarthealthfix we focus on the small, practical side of health — nutrition, common symptoms, how your organs actually function, and the tiny daily habits that quietly add up. Our mission is to help you build realistic habits you'll actually stick with, instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#newparents",
-      "#postpartumhealth",
-      "#parentingtips",
-      "#sleepdeprived",
-      "#motherhoodunfiltered",
-      "#selfcareformoms",
       "#healthtips",
-      "#wellness",
-      "#dadlife",
-      "#newbornlife"
+      "#cookingtips",
+      "#nutritionfacts",
+      "#mealprep",
+      "#healthyeating",
+      "#kitchenhacks",
+      "#wellnessjourney",
+      "#foodscience",
+      "#eatclean",
+      "#nutritiontips"
     ],
     "extra_keywords": [
-      "postpartumrecovery",
-      "parentburnout",
-      "newmomtips",
-      "wellnessjourney"
+      "healthyhabits",
+      "foodprep",
+      "nutritiontips",
+      "cookingmistakes",
+      "wellnesslife"
     ]
   },
-  "shape": "imperative_advice_list",
-  "caption": "The protein push matters more than people admit - when you're sleep-deprived, your blood sugar swings harder and faster, and low protein in the morning makes that 3pm crash brutal. Water timing is another sneaky one: new parents chronically under-drink because thirst cues get buried under everything else happening, and mild dehydration alone can mimic fatigue and irritability. And that 5-minute morning light habit isn't just a nice idea - natural light exposure early in the day helps anchor your circadian rhythm even when your actual sleep schedule is fragmented and unpredictable. Everyone's body and situation is different, so take what fits your week.\n\nAt @smarthealthfix we cover nutrition, common health issues, organ function, and small daily habits that actually hold up in real life. Our mission is to help you build small, realistic routines instead of chasing a perfect system that falls apart by day two.\n\nSave this post so you don't lose it, and share it with a new parent who needs to see this today.\n\n#newparents #postpartumhealth #parentingtips #sleepdeprived #motherhoodunfiltered #selfcareformoms #healthtips #wellness #dadlife #newbornlife postpartumrecovery parentburnout newmomtips wellnessjourney"
+  "shape": "myth_bust",
+  "caption": "A few of these kitchen habits are worth slowing down on. Take boiling vegetables: when broccoli or spinach hit rolling water, their water-soluble vitamins (like vitamin C and folate) actually dissolve out into the liquid, so you're pouring nutrients down the drain along with the water. Overcrowding the pan is another sneaky one — when there's too much food packed in, the temperature drops and everything releases steam instead of browning, which not only kills flavor but means less of those beneficial plant compounds get activated through proper searing. And skipping the resting step after cooking meat matters more than people think: cutting too soon lets the juices (and the nutrients carried in them) spill onto the cutting board instead of soaking back into the fibers. Everyone's kitchen setup is different, so adjust what makes sense for how you actually cook.\n\nAt @smarthealthfix we focus on the small, practical side of health — nutrition, common symptoms, how your organs actually function, and the tiny daily habits that quietly add up. Our mission is to help you build realistic habits you'll actually stick with, instead of chasing quick fixes that don't last.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #cookingtips #nutritionfacts #mealprep #healthyeating #kitchenhacks #wellnessjourney #foodscience #eatclean #nutritiontips healthyhabits foodprep nutritiontips cookingmistakes wellnesslife"
 }
