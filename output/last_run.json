@@ -1,42 +1,42 @@
 {
-  "png": "output/reel_20261127_232238.png",
-  "mp4": "output/reel_20261127_232238.mp4",
-  "cover": "output/cover_20261127_232238.png",
+  "png": "output/reel_20261128_023046.png",
+  "mp4": "output/reel_20261128_023046.mp4",
+  "cover": "output/cover_20261128_023046.png",
   "cover_bg": "white",
   "content": {
-    "title": "KITCHEN MISTAKES THAT ACTUALLY LAND PEOPLE IN BED SICK",
+    "title": "HEALTHY HABITS THAT ARE QUIETLY {{BACKFIRING}}",
     "facts": [
-      "**Melon** – Leaving cut melon out on the counter past 2 hours (bacteria like listeria multiply fast on its moist, sugary surface).",
-      "**Eggs** – Storing them in the fridge door instead of the main shelf (temperature swings every time the door opens speed up bacterial growth).",
-      "**Chicken** – Rinsing raw chicken under the tap before cooking (splashes spread salmonella around your sink and counters instead of removing it).",
-      "**Potato salad / mayo dishes** – Leaving them out at a picnic for hours (warm, moist conditions let bacteria multiply quickly once past the 2-hour mark).",
-      "**Leftover rice** – Cooling it slowly on the counter before fridging (Bacillus cereus spores can survive cooking and multiply as rice cools too slowly).",
-      "**Garlic in oil** – Making homemade garlic-infused oil and storing it at room temperature (low-oxygen environment can let botulinum toxin develop).",
-      "**Frozen meat** – Thawing it on the counter instead of in the fridge or cold water (the outer layer reaches unsafe temperatures long before the center defrosts).",
-      "**Canned food** – Using a can that's bulging or dented at the seam (a sign gas-producing bacteria, including botulism risk, may be present inside).",
+      "**Journaling before bed** -> keeping a notepad light on while you write can delay melatonin release, pushing your sleep window back by 20-30 minutes.",
+      "**Power walking right after meals** -> moving too fast too soon diverts blood flow away from digestion, leaving you bloated instead of relieved.",
+      "**Drinking green tea with breakfast** -> the tannins bind to iron from eggs or oats, cutting how much your body actually absorbs.",
+      "**Stretching cold muscles first thing** -> without a warm-up, static stretching on stiff joints can micro-strain tendons instead of loosening them.",
+      "**Rinsing your mouth right after brushing** -> washing away the fluoride residue with water cuts its cavity-fighting effect almost in half.",
+      "**Napping for over 45 minutes** -> you slip into deep sleep and wake up groggier than before, a state that can linger for an hour.",
+      "**Eating a big bowl of oatmeal daily** -> the beta-glucan fiber is great for cholesterol, but too much at once can block absorption of zinc and magnesium over time.",
+      "**Standing desks all day** -> swapping sitting for standing without moving your feet actually pools blood in your legs, straining veins more than walking would.",
       "**Follow along** – for more daily health tips like this."
     ],
     "claims": [],
-    "caption": "Let's talk about a few of these a little deeper. Leftover rice is one people underestimate constantly — Bacillus cereus spores actually survive the cooking process, and if rice sits out cooling slowly, those spores wake up and multiply, producing toxins that reheating won't destroy. Garlic in oil sounds harmless and even fancy, but garlic is a low-acid food, and when it sits in oil at room temperature it creates exactly the oxygen-free environment that botulinum bacteria love — this is why store-bought versions are acidified and yours at home usually isn't. And that bulging can? It's not just \"probably fine\" — gas buildup from bacterial activity inside a sealed can is one of the classic warning signs food safety experts tell people never to ignore. Everyone's kitchen habits are a little different, but these are worth taking seriously.\n\nAt @smarthealthfix, we cover everything from nutrition and common health complaints to organ function and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
+    "caption": "A few of today's habits deserve a second look. Green tea feels like the cleanest breakfast drink, but its tannins grab onto iron before your gut can use it, so pairing it with an iron-rich meal quietly works against you. Journaling before bed is praised everywhere for mental clarity, but if you're doing it under a bright lamp or phone screen, your brain reads that light as daytime and melatonin production slows down right when you want it rising. And that satisfying post-meal walk? If you pick up the pace, your body redirects blood toward your leg muscles instead of your stomach, which is exactly why some people feel more bloated, not less, after a brisk walk. Everyone's body responds a little differently, so pay attention to what yours is telling you.\n\nThis is what @smarthealthfix is here for: breaking down the everyday overlap between nutrition, common symptoms, your organs, and the small habits that shape how you feel day to day. Our mission is to help you build small, realistic changes instead of chasing the next quick fix.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.",
     "hashtags": [
-      "#foodsafety",
       "#healthtips",
-      "#kitchenmistakes",
-      "#foodpoisoning",
-      "#mealprep",
       "#wellness",
+      "#guthealth",
+      "#sleeptips",
+      "#digestivehealth",
+      "#nutritionfacts",
       "#healthyhabits",
-      "#leftovers",
-      "#foodstorage",
-      "#smarthealthfix"
+      "#bodyhacks",
+      "#mindfuleating",
+      "#selfcare"
     ],
     "extra_keywords": [
-      "foodsafetytips",
-      "kitchenhacks",
       "wellnessjourney",
-      "preventfoodpoisoning"
+      "naturalhealing",
+      "healthyliving",
+      "dailyhabits"
     ]
   },
-  "shape": "food_safety_mistake",
-  "caption": "Let's talk about a few of these a little deeper. Leftover rice is one people underestimate constantly — Bacillus cereus spores actually survive the cooking process, and if rice sits out cooling slowly, those spores wake up and multiply, producing toxins that reheating won't destroy. Garlic in oil sounds harmless and even fancy, but garlic is a low-acid food, and when it sits in oil at room temperature it creates exactly the oxygen-free environment that botulinum bacteria love — this is why store-bought versions are acidified and yours at home usually isn't. And that bulging can? It's not just \"probably fine\" — gas buildup from bacterial activity inside a sealed can is one of the classic warning signs food safety experts tell people never to ignore. Everyone's kitchen habits are a little different, but these are worth taking seriously.\n\nAt @smarthealthfix, we cover everything from nutrition and common health complaints to organ function and the small daily habits that quietly shape how you feel. Our mission is to help you build small, realistic habits instead of chasing quick fixes.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#foodsafety #healthtips #kitchenmistakes #foodpoisoning #mealprep #wellness #healthyhabits #leftovers #foodstorage #smarthealthfix foodsafetytips kitchenhacks wellnessjourney preventfoodpoisoning"
+  "shape": "habit_harm_reveal",
+  "caption": "A few of today's habits deserve a second look. Green tea feels like the cleanest breakfast drink, but its tannins grab onto iron before your gut can use it, so pairing it with an iron-rich meal quietly works against you. Journaling before bed is praised everywhere for mental clarity, but if you're doing it under a bright lamp or phone screen, your brain reads that light as daytime and melatonin production slows down right when you want it rising. And that satisfying post-meal walk? If you pick up the pace, your body redirects blood toward your leg muscles instead of your stomach, which is exactly why some people feel more bloated, not less, after a brisk walk. Everyone's body responds a little differently, so pay attention to what yours is telling you.\n\nThis is what @smarthealthfix is here for: breaking down the everyday overlap between nutrition, common symptoms, your organs, and the small habits that shape how you feel day to day. Our mission is to help you build small, realistic changes instead of chasing the next quick fix.\n\nSave this post so you don't lose it, and share it with someone who needs to see this today.\n\n#healthtips #wellness #guthealth #sleeptips #digestivehealth #nutritionfacts #healthyhabits #bodyhacks #mindfuleating #selfcare wellnessjourney naturalhealing healthyliving dailyhabits"
 }
